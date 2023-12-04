@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Dec 2023 22:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 20:10:51 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Jo Kristian Bergum: Playing with @LangChainAI and Vespa streaming mode with multi-vector representations. LangChain has evolved for the better over...]]></title>
-            <description><![CDATA[RT Jo Kristian Bergum<br>Playing with @LangChainAI and Vespa streaming mode with multi-vector representations.   <br><br>LangChain has evolved for the better over the last few months, with fewer "magic" hidden prompts, and the LangChain Expression Language (LCEL) reminds me of Vespa indexing language.<br><img style="" src="https://pbs.twimg.com/media/GAiEIHBXYAAHFAf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 04 Dec 2023 21:01:20 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/jobergum/status/1731780750435856573</guid>
-            <link>https://twitter.com/jobergum/status/1731780750435856573</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[⭐️Building RAG Pipelines that Use Multiple LLMs: Query Transformation ⭐️ Many advanced RAG pipelines make multiple calls to LLMs at various stages...]]></title>
@@ -289,6 +273,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 02 Dec 2023 11:29:32 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/itsafiz/status/1730912075353116841</guid>
             <link>https://twitter.com/itsafiz/status/1730912075353116841</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🛖Building a Retrieval Augmented Generation Chatbot If you are looking to learn how to build an end-to-end app to allows users to talk with their PD...]]></title>
+            <description><![CDATA[🛖Building a Retrieval Augmented Generation Chatbot<br><br>If you are looking to learn how to build an end-to-end app to allows users to talk with their PDFs, check out this from @sophiamyang <br><br>It covers:<br><br>📃Ingestion<br>🧠Prompting<br>🖼️Frontend<br><br>Blog: https://sophiamyang.medium.com/building-a-retrieval-augmented-generation-chatbot-d567a24fcd14<br><img style="" src="https://pbs.twimg.com/media/GAT7_7_WMAACUcJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 02 Dec 2023 05:07:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1730815807733604800</guid>
+            <link>https://twitter.com/LangChainAI/status/1730815807733604800</link>
             
             
             
