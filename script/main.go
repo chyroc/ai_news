@@ -31,7 +31,7 @@ func twitter(username string) error {
 	}
 	text := requests.Get(url).Text()
 	if text.IsErr() {
-		return text.Err()
+		return fmt.Errorf("twitter get failed: %s", text.Err())
 	}
 	return ioutil.WriteFile(output, []byte(text.Value()), 0644)
 }
@@ -44,7 +44,7 @@ func reddit(username string) error {
 	}
 	text := requests.Get(url).Text()
 	if text.IsErr() {
-		return text.Err()
+		return fmt.Errorf("reddit get failed: %s", text.Err())
 	}
 	return ioutil.WriteFile(output, []byte(text.Value()), 0644)
 }
