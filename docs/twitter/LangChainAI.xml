@@ -24,8 +24,88 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 04 Dec 2023 15:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 18:00:57 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[⭐️Building RAG Pipelines that Use Multiple LLMs: Query Transformation ⭐️ Many advanced RAG pipelines make multiple calls to LLMs at various stages...]]></title>
+            <description><![CDATA[⭐️Building RAG Pipelines that Use Multiple LLMs: Query Transformation ⭐️<br><br>Many advanced RAG pipelines make multiple calls to LLMs at various stages. Most existing templates currently use the same LLM for all stages, but there's no reason that has to be the case.<br><br>Over the coming… https://twitter.com/i/web/status/1731724086072779109<br><img style="" src="https://pbs.twimg.com/media/GAhRbn2aYAAW9d8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 04 Dec 2023 17:16:10 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1731724086072779109</guid>
+            <link>https://twitter.com/LangChainAI/status/1731724086072779109</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 📐 Gradient LLMs + Embeddings 📐 You can swap in @Gradient_AI_ private, custom-trained LLMs and embeddings into your @LangChainAI �...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>📐&nbsp;Gradient LLMs + Embeddings 📐<br><br>You can swap in @Gradient_AI_ private, custom-trained LLMs and embeddings into your @LangChainAI 🦜🔗 JS/TS projects!<br><br>This also includes support for model adapters.<br><br>Thank you to @ChaseMcDou!<br><br>https://js.langchain.com/docs/integrations/llms/gradient_ai<br><img style="" src="https://pbs.twimg.com/media/GAhMi5jaUAAzZxL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 04 Dec 2023 16:55:10 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1731718798540169333</guid>
+            <link>https://twitter.com/Hacubu/status/1731718798540169333</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🛠️ LangSmith Tutorials We've added a lot of functionality to LangSmith! If you want to get caught up on it, we've added a 7 part YouTube serie...]]></title>
+            <description><![CDATA[🦜🛠️ LangSmith Tutorials<br><br>We've added a lot of functionality to LangSmith! If you want to get caught up on it, we've added a 7 part YouTube series covering:<br><br>✒️Tracing<br>📊Evaluation<br>🌐Hub<br>🏷️Data Annotation<br>... and more!<br><br>Check it out here: https://www.youtube.com/watch?v=bOaDQUCgKjw&amp;list=PLfaIDFEXuae2CjNiTeqXG5r8n9rld9qQu]]></description>
+            <pubDate>Mon, 04 Dec 2023 16:25:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1731711207608836383</guid>
+            <link>https://twitter.com/LangChainAI/status/1731711207608836383</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🌌 🛝 Multimodal support in LangSmith Playground With the announcement of GPT-4-vision models, it has never been easier to convert rough sketches ...]]></title>
+            <description><![CDATA[🌌 🛝 Multimodal support in LangSmith Playground<br><br>With the announcement of GPT-4-vision models, it has never been easier to convert rough sketches into runnable prototypes.<br><br>Nevertheless, a simple prompt may not suffice, and prompt engineering can guide the LLM to yield better… https://twitter.com/i/web/status/1731707919530406121<br><video src="https://video.twimg.com/ext_tw_video/1731707770615758848/pu/vid/avc1/1152x720/cRj5Bnc0JRbi9pP0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1731707770615758848/pu/img/XM9Wbrq7eOiukA9D.jpg"></video>]]></description>
+            <pubDate>Mon, 04 Dec 2023 16:11:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1731707919530406121</guid>
+            <link>https://twitter.com/LangChainAI/status/1731707919530406121</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Stan Girard: 15 seconds to chat with a 200-page long document ?! 🔥 If you don’t trust me, trust the video of @quivr_brain 😏 Powered by @Lang...]]></title>
+            <description><![CDATA[RT Stan Girard<br>15 seconds to chat with a 200-page long document ?! 🔥<br><br>If you don’t trust me, trust the video of @quivr_brain 😏<br><br>Powered by @LangChainAI &amp; @supabase (PGVector). <br><br>It even works with @Ollama_ai! So fully private! <br><br>Code: https://github.com/stangirard/quivr<br><video src="https://video.twimg.com/ext_tw_video/1731661596999483392/pu/vid/avc1/1134x720/e8Ot4YusF2B8xC60.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1731661596999483392/pu/img/2m2mEUav7URDMfPR.jpg"></video>]]></description>
+            <pubDate>Mon, 04 Dec 2023 13:08:16 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/_StanGirard/status/1731661700431044775</guid>
+            <link>https://twitter.com/_StanGirard/status/1731661700431044775</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🦜Retrieval-Augmented Generation: From Theory to LangChain Implementation 👏We've really been enjoying @helloiamleonie's articles lately Check out...]]></title>
@@ -257,86 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 02 Dec 2023 02:35:51 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/KarnikShreyas/status/1730777771025354764</guid>
             <link>https://twitter.com/KarnikShreyas/status/1730777771025354764</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Miguel Otero Pedrido: So after finishing @hwchase17 video about GPTResearcher I decided to apply these concepts into my HN Bot. Result? Now it can ...]]></title>
-            <description><![CDATA[RT Miguel Otero Pedrido<br>So after finishing @hwchase17 video about GPTResearcher I decided to apply these concepts into my HN Bot. Result?<br><br>Now it can access the URLs of blogs, news articles etc (linked to HN stories).  👇👇<br><br>Code: https://github.com/neural-maze/talking_with_hn<br>App:  https://newsnerdhackerbot.streamlit.app/<br><br>@streamlit<br><video src="https://video.twimg.com/ext_tw_video/1730726469402304512/pu/vid/avc1/894x720/_WRfs77vTrLhxSth.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1730726469402304512/pu/img/r1wnto0ptmhKHMbC.jpg"></video>]]></description>
-            <pubDate>Fri, 01 Dec 2023 23:14:22 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/MTrofficus/status/1730727067753267662</guid>
-            <link>https://twitter.com/MTrofficus/status/1730727067753267662</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Hard Kothari: 📰🗞️Latest newsletter from @LangChainAI is out and here are my 🔑take away in short: Langchain Templates: Fastest & easiest w...]]></title>
-            <description><![CDATA[RT Hard Kothari<br>📰🗞️Latest newsletter from @LangChainAI  is out and here are my 🔑take away in short:<br><br>Langchain Templates: Fastest &amp; easiest way to get started building AI incorporated apps.<br><br>They can be your boilerplates to start building app with base code already available to you.<br><br>Hosted… https://twitter.com/i/web/status/1730696050573242456<br><img style="" src="https://pbs.twimg.com/media/GASqm2FXMAACykX?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GASqq7zXUAAbii1?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 01 Dec 2023 21:11:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/HardKothari/status/1730696050573242456</guid>
-            <link>https://twitter.com/HardKothari/status/1730696050573242456</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Miguel Otero Pedrido: You have ruined my Friday night @hwchase17. I should be getting drunk and hanging out with my mates. Instead, I'm watching th...]]></title>
-            <description><![CDATA[RT Miguel Otero Pedrido<br>You have ruined my Friday night @hwchase17. I should be getting drunk and hanging out with my mates. Instead, I'm watching this gem 😅😅😅<br><br>https://www.youtube.com/watch?v=DjuXACWYkkU&amp;ab_channel=LangChain]]></description>
-            <pubDate>Fri, 01 Dec 2023 19:58:30 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/MTrofficus/status/1730677775101477099</guid>
-            <link>https://twitter.com/MTrofficus/status/1730677775101477099</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Didier Lopes: How can you not be excited about AI in Finance? @openbb_finance + @LangChainAI]]></title>
-            <description><![CDATA[RT Didier Lopes<br>How can you not be excited about AI in Finance?<br><br>@openbb_finance + @LangChainAI<br><img style="" src="https://pbs.twimg.com/media/GASXBIDaYAAbQJH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GASXD2-bAAAqlMy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GASXGSXbsAArA-a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 01 Dec 2023 19:45:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/didier_lopes/status/1730674405901262895</guid>
-            <link>https://twitter.com/didier_lopes/status/1730674405901262895</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Aymeric: Information Retrieval: Who wins, GPT-4-Turbo or a RAG based on GPT4? I extended the "Needle in a Haystack" test created by @GregKamradt & ...]]></title>
-            <description><![CDATA[RT Aymeric<br>Information Retrieval:  Who wins, GPT-4-Turbo or a RAG based on GPT4?<br><br>I extended the "Needle in a Haystack" test created by @GregKamradt &amp; the result is clear:<br>🏆 𝗥𝗔𝗚 𝘄𝗶𝗻𝘀 🏆 &gt; its edge becomes clear for the longest document sizes.<br>@huggingface <br><br>Links below ⬇<br><img style="" src="https://pbs.twimg.com/media/GARypEIXwAA-Z4Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 01 Dec 2023 17:13:46 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/AymericRoucher/status/1730636318592414152</guid>
-            <link>https://twitter.com/AymericRoucher/status/1730636318592414152</link>
             
             
             
