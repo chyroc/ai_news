@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"time"
 
 	"github.com/chyroc/requests"
 )
@@ -15,36 +16,41 @@ const output = "./docs"
 func main() {
 	fmt.Println("start")
 	assert(
-		twitter("OpenAI"),
-		twitter("GoogleAI"),
-		twitter("LangChainAI"),
+		rssHubTwitter("OpenAI"),
+		rssHubTwitter("GoogleAI"),
+		rssHubTwitter("LangChainAI"),
+
+		rssHubHuggingfacePaper(),
 
 		reddit("LangChain"),
 	)
 }
 
-func twitter(username string) error {
+func rssHubTwitter(username string) error {
 	output := output + "/twitter/" + username + ".xml"
 	url := fmt.Sprintf("https://rsshub.app/twitter/user/%s", username)
-	if err := os.MkdirAll(filepath.Dir(output), os.ModePerm); err != nil {
-		return fmt.Errorf("twitter mkdir failed: %s", err)
-	}
-	text := requests.Get(url).Text()
-	if text.IsErr() {
-		return fmt.Errorf("twitter get failed: %s", text.Err())
-	}
-	return ioutil.WriteFile(output, []byte(text.Value()), 0644)
+	return pureWebPage("twitter", url, output)
+}
+
+func rssHubHuggingfacePaper() error {
+	output := output + "/huggingface/daily-papers.xml"
+	url := fmt.Sprintf("https://rsshub.app/huggingface/daily-papers")
+	return pureWebPage("twitter", url, output)
 }
 
 func reddit(username string) error {
 	output := output + "/reddit/" + username + ".xml"
 	url := fmt.Sprintf("https://www.reddit.com/r/%s.rss", username)
+	return pureWebPage("reddit", url, output)
+}
+
+func pureWebPage(title, url, output string) error {
 	if err := os.MkdirAll(filepath.Dir(output), os.ModePerm); err != nil {
-		return fmt.Errorf("reddit mkdir failed: %s", err)
+		return fmt.Errorf("%s mkdir failed: %s", title, err)
 	}
-	text := requests.Get(url).Text()
+	text := requests.Get(url).WithTimeout(time.Second * 10).Text()
 	if text.IsErr() {
-		return fmt.Errorf("reddit get failed: %s", text.Err())
+		return fmt.Errorf("%s get failed: %s", title, text.Err())
 	}
 	return ioutil.WriteFile(output, []byte(text.Value()), 0644)
 }
