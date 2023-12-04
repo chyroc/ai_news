@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Twitter @Google AI]]></title>
+        <link>https://twitter.com/GoogleAI</link>
+        <atom:link href="https://rsshub.app/twitter/user/GoogleAI" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Google AI is focused on bringing the benefits of AI to everyone. In conducting and applying our research, we advance the state-of-the-art in many domains. - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2.jpg</url>
+            <title><![CDATA[Twitter @Google AI]]></title>
+            <link>https://twitter.com/GoogleAI</link>
+        </image>
+        
+        <lastBuildDate>Mon, 04 Dec 2023 05:55:37 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Introducing Translatotron 3, an unsupervised approach to speech-to-speech translation that can learn from monolingual data, mitigating the challenges ...]]></title>
+            <description><![CDATA[Introducing Translatotron 3, an unsupervised approach to speech-to-speech translation that can learn from monolingual data, mitigating the challenges of requiring parallel speech data &amp; opening the door to translation of the non-textual speech attributes →https://goo.gle/3T8G1S8<br><img style="" src="https://pbs.twimg.com/media/GASEwiQbcAMcepa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 01 Dec 2023 18:25:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1730654297350959413</guid>
+            <link>https://twitter.com/GoogleAI/status/1730654297350959413</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[In case you missed it, check out Google Research’s contributions to WeatherBench 2 — #MachineLearning has made big inroads on weather forecasting in...]]></title>
+            <description><![CDATA[In case you missed it, check out Google Research’s contributions to WeatherBench 2 — #MachineLearning has made big inroads on weather forecasting in 2023, and we hope WeatherBench 2 can aid researchers and end-users as weather forecasting continues to evolve ↓<div class="rsshub-quote"><br><br>Google AI: The weather forecast is improving… literally! Introducing WeatherBench 2, a benchmark for the next generation of data-driven, global weather forecast models, providing data, tools, &amp; an evaluation platform. Learn how to use it and check out the website →https://goo.gle/3YVUGAU<br><br><video src="https://video.twimg.com/tweet_video/F44MafraMAAQhSg.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/F44MafraMAAQhSg.jpg"></video></div>]]></description>
+            <pubDate>Thu, 30 Nov 2023 17:57:04 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1730284825863659935</guid>
+            <link>https://twitter.com/GoogleAI/status/1730284825863659935</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Get to know @partha_p_t, a Research Scientist leading the languages group at Google Research, India! His team contributes to the development of inclus...]]></title>
+            <description><![CDATA[Get to know @partha_p_t, a Research Scientist leading the languages group at Google Research, India! His team contributes to the development of inclusive language technologies to make access to information more universal. Learn about his team’s work ↓<br><video src="https://video.twimg.com/ext_tw_video/1729932020233728000/pu/vid/avc1/1280x720/C3DEdZjiqy5LuMWK.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1729932020233728000/pu/img/URUv2nOOGGG-SZw-.jpg"></video>]]></description>
+            <pubDate>Wed, 29 Nov 2023 18:35:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1729932201138253870</guid>
+            <link>https://twitter.com/GoogleAI/status/1729932201138253870</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Sundar Pichai: Deepening our commitment to cybersecurity in Europe with our latest safety hub in Malaga, advancing research + tools to fight threat...]]></title>
+            <description><![CDATA[RT Sundar Pichai<br>Deepening our commitment to cybersecurity in Europe with our latest safety hub in Malaga, advancing research + tools to fight threats, and a new program from @Googleorg to provide skills training and protect community organizations.<br>https://blog.google/technology/safety-security/new-cybersecurity-center-in-malaga/]]></description>
+            <pubDate>Wed, 29 Nov 2023 15:15:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/sundarpichai/status/1729881887131500670</guid>
+            <link>https://twitter.com/sundarpichai/status/1729881887131500670</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[To highlight the importance of #ML training & algorithmic efficiency, we’re excited to provide compute resources to help evaluate the best submission...]]></title>
+            <description><![CDATA[To highlight the importance of #ML training &amp; algorithmic efficiency, we’re excited to provide compute resources to help evaluate the best submissions to the @MLCommons AlgoPerf training algorithms competition, w/ a chance to win a prize from MLCommons! https://goo.gle/3N3sHdD]]></description>
+            <pubDate>Tue, 28 Nov 2023 19:15:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1729579692359831731</guid>
+            <link>https://twitter.com/GoogleAI/status/1729579692359831731</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We’re excited to share Google Research’s contributions to Call Screen on Pixel phones, a feature that helps users find out who is calling and why pr...]]></title>
+            <description><![CDATA[We’re excited to share Google Research’s contributions to Call Screen on Pixel phones, a feature that helps users find out who is calling and why prior to answering by leveraging on-device ASR to provide real-time transcription of callers' requests. More →https://goo.gle/3sM1166<br><video src="https://video.twimg.com/tweet_video/GACkiE7akAA5dSZ.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GACkiE7akAA5dSZ.jpg"></video>]]></description>
+            <pubDate>Tue, 28 Nov 2023 18:10:53 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1729563526673412400</guid>
+            <link>https://twitter.com/GoogleAI/status/1729563526673412400</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Project Relate is a beta Android application that offers personalized speech recognition for non-standard speakers. Meet Alan, travel enthusiast and r...]]></title>
+            <description><![CDATA[Project Relate is a beta Android application that offers personalized speech recognition for non-standard speakers. Meet Alan, travel enthusiast and retired railway worker, who uses Project Relate to break communication barriers and make his voice heard. https://goo.gle/47mbPHb<br><video src="https://video.twimg.com/tweet_video/F_kk-kpagAAcIFx.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/F_kk-kpagAAcIFx.jpg"></video>]]></description>
+            <pubDate>Wed, 22 Nov 2023 22:23:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1727452787431379441</guid>
+            <link>https://twitter.com/GoogleAI/status/1727452787431379441</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Today’s climate predictions vary widely, partly because it’s hard to simulate clouds accurately. Learn how we leverage #TPUs designed for ML to simu...]]></title>
+            <description><![CDATA[Today’s climate predictions vary widely, partly because it’s hard to simulate clouds accurately. Learn how we leverage #TPUs designed for ML to simulate clouds with unprecedented scalability to help climate scientists understand future cloud patterns. ↓ https://goo.gle/49KSPnt]]></description>
+            <pubDate>Wed, 22 Nov 2023 16:13:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1727359698717077697</guid>
+            <link>https://twitter.com/GoogleAI/status/1727359698717077697</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Project Guideline, a technology that enables people with visual impairments (e.g., blindness and low-vision) to exercise independently, is now open so...]]></title>
+            <description><![CDATA[Project Guideline, a technology that enables people with visual impairments (e.g., blindness and low-vision) to exercise independently, is now open sourced and available for anyone to use to improve upon and build new accessibility solutions. Learn more ↓ https://goo.gle/3QNQfo3]]></description>
+            <pubDate>Tue, 21 Nov 2023 21:53:42 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1727082885340168195</guid>
+            <link>https://twitter.com/GoogleAI/status/1727082885340168195</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Society-Centered AI is a framework for methodical, multi-disciplinary research to tackle societal challenges. Our collective research efforts focus on...]]></title>
+            <description><![CDATA[Society-Centered AI is a framework for methodical, multi-disciplinary research to tackle societal challenges. Our collective research efforts focus on society’s needs &amp; measurement of societal impact to develop long-lasting, beneficial solutions. More ↓ https://goo.gle/47jM2j5]]></description>
+            <pubDate>Mon, 20 Nov 2023 18:46:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1726673271658258889</guid>
+            <link>https://twitter.com/GoogleAI/status/1726673271658258889</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Check out Best Take, a new AI-powered feature in @googlephotos that lets users make a seamless composite of multiple source images, with both an autom...]]></title>
+            <description><![CDATA[Check out Best Take, a new AI-powered feature in @googlephotos that lets users make a seamless composite of multiple source images, with both an automated result &amp; options for users to choose their favorite look — built with the help of AI algorithms developed by our researchers.<br><video src="https://video.twimg.com/tweet_video/F_KBvZFbMAAqHPV.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/F_KBvZFbMAAqHPV.jpg"></video>]]></description>
+            <pubDate>Fri, 17 Nov 2023 18:43:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1725585485274456301</guid>
+            <link>https://twitter.com/GoogleAI/status/1725585485274456301</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Building Responsible AI Data & Solutions (BRAIDS) team within #GoogleResearch aims to simplify adoption of RAI practices through the utilization o...]]></title>
+            <description><![CDATA[The Building Responsible AI Data &amp; Solutions (BRAIDS) team within #GoogleResearch aims to simplify adoption of RAI practices through the utilization of scalable tools, high-quality data, streamlined processes and novel research. Learn about their work ↓ https://goo.gle/40HgSzs]]></description>
+            <pubDate>Thu, 16 Nov 2023 21:43:06 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1725268277801238976</guid>
+            <link>https://twitter.com/GoogleAI/status/1725268277801238976</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The demos from Research@Korea also showcased Google Researchers’ work across important topics like ML fairness, Genomics, Materials Science, Generati...]]></title>
+            <description><![CDATA[The demos from Research@Korea also showcased Google Researchers’ work across important topics like ML fairness, Genomics, Materials Science, Generative AI in Search, and Quantum. Dive deeper into the work of our researchers here →  https://goo.gle/48Wi2e9<br><img style="" src="https://pbs.twimg.com/media/F_EkAEKbQAE_j2G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 16 Nov 2023 17:11:31 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1725199933744222564</guid>
+            <link>https://twitter.com/GoogleAI/status/1725199933744222564</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Yesterday’s Research@ Seoul event was a success — Google Researchers led lightning talks on ML fairness, Genomics, Materials Science, Generative AI ...]]></title>
+            <description><![CDATA[Yesterday’s Research@ Seoul event was a success — Google Researchers led lightning talks on ML fairness, Genomics, Materials Science, Generative AI in Search, &amp; Quantum. We're grateful to them for presenting their work &amp; fueling progress in the field!<br><img style="" src="https://pbs.twimg.com/media/F-__2lubgAAKRi6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/F-__2lva4AAWkRz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/F-__2lwb0AAOlp8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/F-__2lubQAAMEwk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 15 Nov 2023 19:55:41 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1724878860754604356</guid>
+            <link>https://twitter.com/GoogleAI/status/1724878860754604356</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Introducing Mirasol, a multimodal model for learning across audio, video, & text that decouples the modeling into separate autoregressive models to pr...]]></title>
+            <description><![CDATA[Introducing Mirasol, a multimodal model for learning across audio, video, &amp; text that decouples the modeling into separate autoregressive models to process the inputs according to the characteristics of their modalities, for state-of-the-art performance →https://goo.gle/40AFKJf<br><video src="https://video.twimg.com/tweet_video/F-7XngpbkAA7nS-.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/F-7XngpbkAA7nS-.jpg"></video>]]></description>
+            <pubDate>Tue, 14 Nov 2023 22:20:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1724553024088191211</guid>
+            <link>https://twitter.com/GoogleAI/status/1724553024088191211</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Thousands of languages are spoken in Africa, but the vast majority are not well documented online. Learn more about how the Google Research team in Gh...]]></title>
+            <description><![CDATA[Thousands of languages are spoken in Africa, but the vast majority are not well documented online. Learn more about how the Google Research team in Ghana has been collecting data to train #automaticspeechrecognition (ASR) models for local languages ↓ https://goo.gle/3QFa5lb]]></description>
+            <pubDate>Tue, 14 Nov 2023 18:42:38 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1724498086750466218</guid>
+            <link>https://twitter.com/GoogleAI/status/1724498086750466218</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Today we describe our exploratory work to build MS Signals, a symptom tracking app for multiple sclerosis that's based on the FDA MyStudies platform, ...]]></title>
+            <description><![CDATA[Today we describe our exploratory work to build MS Signals, a symptom tracking app for multiple sclerosis that's based on the FDA MyStudies platform, which we expanded and enhanced to create a more streamlined and accessible experience. Check it out at https://goo.gle/3FWNOdT<br><img style="" src="https://pbs.twimg.com/media/F-l4SLvWgAAxZ2X?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 10 Nov 2023 18:13:42 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1723041256069058920</guid>
+            <link>https://twitter.com/GoogleAI/status/1723041256069058920</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Applications are open for the Research Scholar Program, an effort that aims to strengthen long-term collaboration w/ the academic community by support...]]></title>
+            <description><![CDATA[Applications are open for the Research Scholar Program, an effort that aims to strengthen long-term collaboration w/ the academic community by supporting early-career professors pursuing research in fields relevant to Google. Learn more &amp; apply by Nov 30 ↓http://goo.gle/research-scholar]]></description>
+            <pubDate>Fri, 10 Nov 2023 17:06:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1723024369813762367</guid>
+            <link>https://twitter.com/GoogleAI/status/1723024369813762367</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
