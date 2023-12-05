@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 05 Dec 2023 03:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 01:04:17 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models]]></title>
-            <description><![CDATA[Text-to-video diffusion models have advanced video generation significantly. However, customizing these models to generate videos with tailored motions presents a substantial challenge. In specific, they encounter hurdles in (a) accurately reproducing motion from a target video, and (b) creating diverse visual variations. For example, straightforward extensions of static image customization methods to video often lead to intricate entanglements of appearance and motion data. To tackle this, here we present the Video Motion Customization (VMC) framework, a novel one-shot tuning approach crafted to adapt temporal attention layers within video diffusion models. Our approach introduces a novel motion distillation objective using residual vectors between consecutive frames as a motion reference. The diffusion process then preserves low-frequency motion trajectories while mitigating high-frequency motion-unrelated noise in image space. We validate our method against state-of-the-art video generative models across diverse real-world motions and contexts. Our codes, data and the project demo can be found at https://video-motion-customization.github.io]]></description>
-            <pubDate>Tue, 05 Dec 2023 02:54:14 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.00845</guid>
-            <link>https://arxiv.org/abs/2312.00845</link>
+            <title><![CDATA[FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting]]></title>
+            <description><![CDATA[Novel view synthesis from limited observations remains an important and persistent task. However, high efficiency in existing NeRF-based few-shot view synthesis is often compromised to obtain an accurate 3D representation. To address this challenge, we propose a few-shot view synthesis framework based on 3D Gaussian Splatting that enables real-time and photo-realistic view synthesis with as few as three training views. The proposed method, dubbed FSGS, handles the extremely sparse initialized SfM points with a thoughtfully designed Gaussian Unpooling process. Our method iteratively distributes new Gaussians around the most representative locations, subsequently infilling local details in vacant areas. We also integrate a large-scale pre-trained monocular depth estimator within the Gaussians optimization process, leveraging online augmented views to guide the geometric optimization towards an optimal solution. Starting from sparse points observed from limited input viewpoints, our FSGS can accurately grow into unseen regions, comprehensively covering the scene and boosting the rendering quality of novel views. Overall, FSGS achieves state-of-the-art performance in both accuracy and rendering efficiency across diverse datasets, including LLFF, Mip-NeRF360, and Blender. Project website: https://zehaozhu.github.io/FSGS/.]]></description>
+            <pubDate>Mon, 04 Dec 2023 11:32:51 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00451</guid>
+            <link>https://arxiv.org/abs/2312.00451</link>
             
             
             
-            <author><![CDATA[Hyeonho Jeong, Geon Yeong Park, Jong Chul Ye]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DiffiT: Diffusion Vision Transformers for Image Generation]]></title>
-            <description><![CDATA[Diffusion models with their powerful expressivity and high sample quality have enabled many new applications and use-cases in various domains. For sample generation, these models rely on a denoising neural network that generates images by iterative denoising. Yet, the role of denoising network architecture is not well-studied with most efforts relying on convolutional residual U-Nets. In this paper, we study the effectiveness of vision transformers in diffusion-based generative learning. Specifically, we propose a new model, denoted as Diffusion Vision Transformers (DiffiT), which consists of a hybrid hierarchical architecture with a U-shaped encoder and decoder. We introduce a novel time-dependent self-attention module that allows attention layers to adapt their behavior at different stages of the denoising process in an efficient manner. We also introduce latent DiffiT which consists of transformer model with the proposed self-attention layers, for high-resolution image generation. Our results show that DiffiT is surprisingly effective in generating high-fidelity images, and it achieves state-of-the-art (SOTA) benchmarks on a variety of class-conditional and unconditional synthesis tasks. In the latent space, DiffiT achieves a new SOTA FID score of 1.73 on ImageNet-256 dataset. Repository: https://github.com/NVlabs/DiffiT]]></description>
-            <pubDate>Tue, 05 Dec 2023 02:47:33 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.02139</guid>
-            <link>https://arxiv.org/abs/2312.02139</link>
-            
-            
-            
-            <author><![CDATA[Ali Hatamizadeh, Jiaming Song, Guilin Liu, Jan Kautz, Arash Vahdat]]></author>
+            <author><![CDATA[Zehao Zhu, Zhiwen Fan, Yifan Jiang, Zhangyang Wang]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Style Aligned Image Generation via Shared Attention]]></title>
-            <description><![CDATA[Large-scale Text-to-Image (T2I) models have rapidly gained prominence across creative fields, generating visually compelling outputs from textual prompts. However, controlling these models to ensure consistent style remains challenging, with existing methods necessitating fine-tuning and manual intervention to disentangle content and style. In this paper, we introduce StyleAligned, a novel technique designed to establish style alignment among a series of generated images. By employing minimal `attention sharing' during the diffusion process, our method maintains style consistency across images within T2I models. This approach allows for the creation of style-consistent images using a reference style through a straightforward inversion operation. Our method's evaluation across diverse styles and text prompts demonstrates high-quality synthesis and fidelity, underscoring its efficacy in achieving consistent style across various inputs.]]></description>
-            <pubDate>Tue, 05 Dec 2023 02:45:08 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.02133</guid>
-            <link>https://arxiv.org/abs/2312.02133</link>
+            <title><![CDATA[Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering]]></title>
+            <description><![CDATA[Neural rendering methods have significantly advanced photo-realistic 3D scene rendering in various academic and industrial applications. The recent 3D Gaussian Splatting method has achieved the state-of-the-art rendering quality and speed combining the benefits of both primitive-based representations and volumetric representations. However, it often leads to heavily redundant Gaussians that try to fit every training view, neglecting the underlying scene geometry. Consequently, the resulting model becomes less robust to significant view changes, texture-less area and lighting effects. We introduce Scaffold-GS, which uses anchor points to distribute local 3D Gaussians, and predicts their attributes on-the-fly based on viewing direction and distance within the view frustum. Anchor growing and pruning strategies are developed based on the importance of neural Gaussians to reliably improve the scene coverage. We show that our method effectively reduces redundant Gaussians while delivering high-quality rendering. We also demonstrates an enhanced capability to accommodate scenes with varying levels-of-detail and view-dependent observations, without sacrificing the rendering speed.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:59:47 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00109</guid>
+            <link>https://arxiv.org/abs/2312.00109</link>
             
             
             
-            <author><![CDATA[Amir Hertz, Andrey Voynov, Shlomi Fruchter, Daniel Cohen-Or]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GIVT: Generative Infinite-Vocabulary Transformers]]></title>
-            <description><![CDATA[We introduce generative infinite-vocabulary transformers (GIVT) which generate vector sequences with real-valued entries, instead of discrete tokens from a finite vocabulary. To this end, we propose two surprisingly simple modifications to decoder-only transformers: 1) at the input, we replace the finite-vocabulary lookup table with a linear projection of the input vectors; and 2) at the output, we replace the logits prediction (usually mapped to a categorical distribution) with the parameters of a multivariate Gaussian mixture model. Inspired by the image-generation paradigm of VQ-GAN and MaskGIT, where transformers are used to model the discrete latent sequences of a VQ-VAE, we use GIVT to model the unquantized real-valued latent sequences of a VAE. When applying GIVT to class-conditional image generation with iterative masked modeling, we show competitive results with MaskGIT, while our approach outperforms both VQ-GAN and MaskGIT when using it for causal modeling. Finally, we obtain competitive results outside of image generation when applying our approach to panoptic segmentation and depth estimation with a VAE-based variant of the UViM framework.]]></description>
-            <pubDate>Tue, 05 Dec 2023 02:42:50 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.02116</guid>
-            <link>https://arxiv.org/abs/2312.02116</link>
-            
-            
-            
-            <author><![CDATA[Michael Tschannen, Cian Eastwood, Fabian Mentzer]]></author>
+            <author><![CDATA[Tao Lu, Mulin Yu, Linning Xu, Yuanbo Xiangli, Limin Wang, Dahua Lin, Bo Dai]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models]]></title>
-            <description><![CDATA[Traditional 3D content creation tools empower users to bring their imagination to life by giving them direct control over a scene's geometry, appearance, motion, and camera path. Creating computer-generated videos, however, is a tedious manual process, which can be automated by emerging text-to-video diffusion models. Despite great promise, video diffusion models are difficult to control, hindering a user to apply their own creativity rather than amplifying it. To address this challenge, we present a novel approach that combines the controllability of dynamic 3D meshes with the expressivity and editability of emerging diffusion models. For this purpose, our approach takes an animated, low-fidelity rendered mesh as input and injects the ground truth correspondence information obtained from the dynamic mesh into various stages of a pre-trained text-to-image generation model to output high-quality and temporally consistent frames. We demonstrate our approach on various examples where motion can be obtained by animating rigged assets or changing the camera path.]]></description>
-            <pubDate>Tue, 05 Dec 2023 02:40:03 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.01409</guid>
-            <link>https://arxiv.org/abs/2312.01409</link>
+            <title><![CDATA[PyNeRF: Pyramidal Neural Radiance Fields]]></title>
+            <description><![CDATA[Neural Radiance Fields (NeRFs) can be dramatically accelerated by spatial grid representations. However, they do not explicitly reason about scale and so introduce aliasing artifacts when reconstructing scenes captured at different camera distances. Mip-NeRF and its extensions propose scale-aware renderers that project volumetric frustums rather than point samples but such approaches rely on positional encodings that are not readily compatible with grid methods. We propose a simple modification to grid-based models by training model heads at different spatial grid resolutions. At render time, we simply use coarser grids to render samples that cover larger volumes. Our method can be easily applied to existing accelerated NeRF methods and significantly improves rendering quality (reducing error rates by 20-90% across synthetic and unbounded real-world scenes) while incurring minimal performance overhead (as each model head is quick to evaluate). Compared to Mip-NeRF, we reduce error rates by 20% while training over 60x faster.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:56:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00252</guid>
+            <link>https://arxiv.org/abs/2312.00252</link>
             
             
             
-            <author><![CDATA[Shengqu Cai, Duygu Ceylan, Matheus Gadelha, Chun-Hao Paul Huang, Tuanfeng Yang Wang, Gordon Wetzstein]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Magicoder: Source Code Is All You Need]]></title>
-            <description><![CDATA[We introduce Magicoder, a series of fully open-source (code, weights, and data) Large Language Models (LLMs) for code that significantly closes the gap with top code models while having no more than 7B parameters. Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code. Our main motivation is to mitigate the inherent bias of the synthetic data generated by LLMs by empowering them with a wealth of open-source references for the production of more diverse, realistic, and controllable data. The orthogonality of OSS-Instruct and other data generation methods like Evol-Instruct further enables us to build an enhanced MagicoderS. Both Magicoder and MagicoderS substantially outperform state-of-the-art code models with similar or even larger sizes on a wide range of coding benchmarks, including Python text-to-code generation, multilingual coding, and data-science program completion. Notably, MagicoderS-CL-7B based on CodeLlama even surpasses the prominent ChatGPT on HumanEval+ (66.5 vs. 65.9 in pass@1). Overall, OSS-Instruct opens a new direction for low-bias and high-quality instruction tuning using abundant open-source references.]]></description>
-            <pubDate>Tue, 05 Dec 2023 02:37:08 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.02120</guid>
-            <link>https://arxiv.org/abs/2312.02120</link>
-            
-            
-            
-            <author><![CDATA[Yuxiang Wei, Zhe Wang, Jiawei Liu, Yifeng Ding, Lingming Zhang]]></author>
+            <author><![CDATA[Haithem Turki, Michael Zollhöfer, Christian Richardt, Deva Ramanan]]></author>
             
                 
             
@@ -115,15 +67,239 @@
         </item>
         
         <item>
-            <title><![CDATA[RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback]]></title>
-            <description><![CDATA[Multimodal Large Language Models (MLLMs) have recently demonstrated impressive capabilities in multimodal understanding, reasoning, and interaction. However, existing MLLMs prevalently suffer from serious hallucination problems, generating text that is not factually grounded in associated images. The problem makes existing MLLMs untrustworthy and thus impractical in real-world (especially high-stakes) applications. To address the challenge, we present RLHF-V, which enhances MLLM trustworthiness via behavior alignment from fine-grained correctional human feedback. Specifically, RLHF-V collects human preference in the form of segment-level corrections on hallucinations, and performs dense direct preference optimization over the human feedback. Comprehensive experiments on five benchmarks in both automatic and human evaluation show that, RLHF-V can enable substantially more trustworthy MLLM behaviors with promising data and computation efficiency. Remarkably, using 1.4k annotated data samples, RLHF-V significantly reduces the hallucination rate of the base MLLM by 34.8%, outperforming the concurrent LLaVA-RLHF trained on 10k annotated data. The final model achieves state-of-the-art performance in trustworthiness among open-source MLLMs, and shows better robustness than GPT-4V in preventing hallucinations aroused from over-generalization. We open-source our code, model, and data at https://github.com/RLHF-V/RLHF-V.]]></description>
-            <pubDate>Tue, 05 Dec 2023 02:27:25 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.00849</guid>
-            <link>https://arxiv.org/abs/2312.00849</link>
+            <title><![CDATA[Mamba: Linear-Time Sequence Modeling with Selective State Spaces]]></title>
+            <description><![CDATA[Foundation models, now powering most of the exciting applications in deep learning, are almost universally based on the Transformer architecture and its core attention module. Many subquadratic-time architectures such as linear attention, gated convolution and recurrent models, and structured state space models (SSMs) have been developed to address Transformers' computational inefficiency on long sequences, but they have not performed as well as attention on important modalities such as language. We identify that a key weakness of such models is their inability to perform content-based reasoning, and make several improvements. First, simply letting the SSM parameters be functions of the input addresses their weakness with discrete modalities, allowing the model to selectively propagate or forget information along the sequence length dimension depending on the current token. Second, even though this change prevents the use of efficient convolutions, we design a hardware-aware parallel algorithm in recurrent mode. We integrate these selective SSMs into a simplified end-to-end neural network architecture without attention or even MLP blocks (Mamba). Mamba enjoys fast inference (5times higher throughput than Transformers) and linear scaling in sequence length, and its performance improves on real data up to million-length sequences. As a general sequence model backbone, Mamba achieves state-of-the-art performance across several modalities such as language, audio, and genomics. On language modeling, our Mamba-3B model outperforms Transformers of the same size and matches Transformers twice its size, both in pretraining and downstream evaluation.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:53:11 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00752</guid>
+            <link>https://arxiv.org/abs/2312.00752</link>
             
             
             
-            <author><![CDATA[Tianyu Yu, Yuan Yao, Haoye Zhang, Taiwen He, Yifeng Han, Ganqu Cui, Jinyi Hu, Zhiyuan Liu, Hai-Tao Zheng, Maosong Sun, Tat-Seng Chua]]></author>
+            <author><![CDATA[Albert Gu, Tri Dao]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MoMask: Generative Masked Modeling of 3D Human Motions]]></title>
+            <description><![CDATA[We introduce MoMask, a novel masked modeling framework for text-driven 3D human motion generation. In MoMask, a hierarchical quantization scheme is employed to represent human motion as multi-layer discrete motion tokens with high-fidelity details. Starting at the base layer, with a sequence of motion tokens obtained by vector quantization, the residual tokens of increasing orders are derived and stored at the subsequent layers of the hierarchy. This is consequently followed by two distinct bidirectional transformers. For the base-layer motion tokens, a Masked Transformer is designated to predict randomly masked motion tokens conditioned on text input at training stage. During generation (i.e. inference) stage, starting from an empty sequence, our Masked Transformer iteratively fills up the missing tokens; Subsequently, a Residual Transformer learns to progressively predict the next-layer tokens based on the results from current layer. Extensive experiments demonstrate that MoMask outperforms the state-of-art methods on the text-to-motion generation task, with an FID of 0.045 (vs e.g. 0.141 of T2M-GPT) on the HumanML3D dataset, and 0.228 (vs 0.514) on KIT-ML, respectively. MoMask can also be seamlessly applied in related tasks without further model fine-tuning, such as text-guided temporal inpainting.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:48:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00063</guid>
+            <link>https://arxiv.org/abs/2312.00063</link>
+            
+            
+            
+            <author><![CDATA[Chuan Guo, Yuxuan Mu, Muhammad Gohar Javed, Sen Wang, Li Cheng]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Text-Guided 3D Face Synthesis -- From Generation to Editing]]></title>
+            <description><![CDATA[Text-guided 3D face synthesis has achieved remarkable results by leveraging text-to-image (T2I) diffusion models. However, most existing works focus solely on the direct generation, ignoring the editing, restricting them from synthesizing customized 3D faces through iterative adjustments. In this paper, we propose a unified text-guided framework from face generation to editing. In the generation stage, we propose a geometry-texture decoupled generation to mitigate the loss of geometric details caused by coupling. Besides, decoupling enables us to utilize the generated geometry as a condition for texture generation, yielding highly geometry-texture aligned results. We further employ a fine-tuned texture diffusion model to enhance texture quality in both RGB and YUV space. In the editing stage, we first employ a pre-trained diffusion model to update facial geometry or texture based on the texts. To enable sequential editing, we introduce a UV domain consistency preservation regularization, preventing unintentional changes to irrelevant facial attributes. Besides, we propose a self-guided consistency weight strategy to improve editing efficacy while preserving consistency. Through comprehensive experiments, we showcase our method's superiority in face synthesis. Project page: https://faceg2e.github.io/.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:43:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00375</guid>
+            <link>https://arxiv.org/abs/2312.00375</link>
+            
+            
+            
+            <author><![CDATA[Yunjie Wu, Yapeng Meng, Zhipeng Hu, Lincheng Li, Haoqian Wu, Kun Zhou, Weiwei Xu, Xin Yu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DREAM: Diffusion Rectification and Estimation-Adaptive Models]]></title>
+            <description><![CDATA[We present DREAM, a novel training framework representing Diffusion Rectification and Estimation-Adaptive Models, requiring minimal code changes (just three lines) yet significantly enhancing the alignment of training with sampling in diffusion models. DREAM features two components: diffusion rectification, which adjusts training to reflect the sampling process, and estimation adaptation, which balances perception against distortion. When applied to image super-resolution (SR), DREAM adeptly navigates the tradeoff between minimizing distortion and preserving high image quality. Experiments demonstrate DREAM's superiority over standard diffusion-based SR methods, showing a 2 to 3times  faster training convergence and a 10 to 20times reduction in necessary sampling steps to achieve comparable or superior results. We hope DREAM will inspire a rethinking of diffusion model training paradigms.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:37:57 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00210</guid>
+            <link>https://arxiv.org/abs/2312.00210</link>
+            
+            
+            
+            <author><![CDATA[Jinxin Zhou, Tianyu Ding, Tianyi Chen, Jiachen Jiang, Ilya Zharkov, Zhihui Zhu, Luming Liang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation]]></title>
+            <description><![CDATA[In recent times, automatic text-to-3D content creation has made significant progress, driven by the development of pretrained 2D diffusion models. Existing text-to-3D methods typically optimize the 3D representation to ensure that the rendered image aligns well with the given text, as evaluated by the pretrained 2D diffusion model. Nevertheless, a substantial domain gap exists between 2D images and 3D assets, primarily attributed to variations in camera-related attributes and the exclusive presence of foreground objects. Consequently, employing 2D diffusion models directly for optimizing 3D representations may lead to suboptimal outcomes. To address this issue, we present X-Dreamer, a novel approach for high-quality text-to-3D content creation that effectively bridges the gap between text-to-2D and text-to-3D synthesis. The key components of X-Dreamer are two innovative designs: Camera-Guided Low-Rank Adaptation (CG-LoRA) and Attention-Mask Alignment (AMA) Loss. CG-LoRA dynamically incorporates camera information into the pretrained diffusion models by employing camera-dependent generation for trainable parameters. This integration enhances the alignment between the generated 3D assets and the camera's perspective. AMA loss guides the attention map of the pretrained diffusion model using the binary mask of the 3D object, prioritizing the creation of the foreground object. This module ensures that the model focuses on generating accurate and detailed foreground objects. Extensive evaluations demonstrate the effectiveness of our proposed method compared to existing text-to-3D approaches. Our project webpage: https://xmuxiaoma666.github.io/Projects/X-Dreamer .]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:32:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00085</guid>
+            <link>https://arxiv.org/abs/2312.00085</link>
+            
+            
+            
+            <author><![CDATA[Yiwei Ma, Yijun Fan, Jiayi Ji, Haowei Wang, Xiaoshuai Sun, Guannan Jiang, Annan Shu, Rongrong Ji]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[VideoBooth: Diffusion-based Video Generation with Image Prompts]]></title>
+            <description><![CDATA[Text-driven video generation witnesses rapid progress. However, merely using text prompts is not enough to depict the desired subject appearance that accurately aligns with users' intents, especially for customized content creation. In this paper, we study the task of video generation with image prompts, which provide more accurate and direct content control beyond the text prompts. Specifically, we propose a feed-forward framework VideoBooth, with two dedicated designs: 1) We propose to embed image prompts in a coarse-to-fine manner. Coarse visual embeddings from image encoder provide high-level encodings of image prompts, while fine visual embeddings from the proposed attention injection module provide multi-scale and detailed encoding of image prompts. These two complementary embeddings can faithfully capture the desired appearance. 2) In the attention injection module at fine level, multi-scale image prompts are fed into different cross-frame attention layers as additional keys and values. This extra spatial information refines the details in the first frame and then it is propagated to the remaining frames, which maintains temporal consistency. Extensive experiments demonstrate that VideoBooth achieves state-of-the-art performance in generating customized high-quality videos with subjects specified in image prompts. Notably, VideoBooth is a generalizable framework where a single model works for a wide range of image prompts with feed-forward pass.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:28:18 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00777</guid>
+            <link>https://arxiv.org/abs/2312.00777</link>
+            
+            
+            
+            <author><![CDATA[Yuming Jiang, Tianxing Wu, Shuai Yang, Chenyang Si, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter]]></title>
+            <description><![CDATA[Text-to-video (T2V) models have shown remarkable capabilities in generating diverse videos. However, they struggle to produce user-desired stylized videos due to (i) text's inherent clumsiness in expressing specific styles and (ii) the generally degraded style fidelity. To address these challenges, we introduce StyleCrafter, a generic method that enhances pre-trained T2V models with a style control adapter, enabling video generation in any style by providing a reference image. Considering the scarcity of stylized video datasets, we propose to first train a style control adapter using style-rich image datasets, then transfer the learned stylization ability to video generation through a tailor-made finetuning paradigm. To promote content-style disentanglement, we remove style descriptions from the text prompt and extract style information solely from the reference image using a decoupling learning strategy. Additionally, we design a scale-adaptive fusion module to balance the influences of text-based content features and image-based style features, which helps generalization across various text and style combinations. StyleCrafter efficiently generates high-quality stylized videos that align with the content of the texts and resemble the style of the reference images. Experiments demonstrate that our approach is more flexible and efficient than existing competitors.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:22:46 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00330</guid>
+            <link>https://arxiv.org/abs/2312.00330</link>
+            
+            
+            
+            <author><![CDATA[Gongye Liu, Menghan Xia, Yong Zhang, Haoxin Chen, Jinbo Xing, Xintao Wang, Yujiu Yang, Ying Shan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models]]></title>
+            <description><![CDATA[This paper explores advancements in high-fidelity personalized image generation through the utilization of pre-trained text-to-image diffusion models. While previous approaches have made significant strides in generating versatile scenes based on text descriptions and a few input images, challenges persist in maintaining the subject fidelity within the generated images. In this work, we introduce an innovative algorithm named HiFi Tuner to enhance the appearance preservation of objects during personalized image generation. Our proposed method employs a parameter-efficient fine-tuning framework, comprising a denoising process and a pivotal inversion process. Key enhancements include the utilization of mask guidance, a novel parameter regularization technique, and the incorporation of step-wise subject representations to elevate the sample fidelity. Additionally, we propose a reference-guided generation approach that leverages the pivotal inversion of a reference image to mitigate unwanted subject variations and artifacts. We further extend our method to a novel image editing task: substituting the subject in an image through textual manipulations. Experimental evaluations conducted on the DreamBooth dataset using the Stable Diffusion model showcase promising results. Fine-tuning solely on textual embeddings improves CLIP-T score by 3.6 points and improves DINO score by 9.6 points over Textual Inversion. When fine-tuning all parameters, HiFi Tuner improves CLIP-T score by 1.2 points and improves DINO score by 1.2 points over DreamBooth, establishing a new state of the art.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:14:22 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00079</guid>
+            <link>https://arxiv.org/abs/2312.00079</link>
+            
+            
+            
+            <author><![CDATA[Zhonghao Wang, Wei Wei, Yang Zhao, Zhisheng Xiao, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses]]></title>
+            <description><![CDATA[Large language model (LLM) powered chatbots are primarily text-based today, and impose a large interactional cognitive load, especially for exploratory or sensemaking tasks such as planning a trip or learning about a new city. Because the interaction is textual, users have little scaffolding in the way of structure, informational "scent", or ability to specify high-level preferences or goals. We introduce ExploreLLM that allows users to structure thoughts, help explore different options, navigate through the choices and recommendations, and to more easily steer models to generate more personalized responses. We conduct a user study and show that users find it helpful to use ExploreLLM for exploratory or planning tasks, because it provides a useful schema-like structure to the task, and guides users in planning. The study also suggests that users can more easily personalize responses with high-level preferences with ExploreLLM. Together, ExploreLLM points to a future where users interact with LLMs beyond the form of chatbots, and instead designed to support complex user tasks with a tighter integration between natural language and graphical user interfaces.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:10:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00763</guid>
+            <link>https://arxiv.org/abs/2312.00763</link>
+            
+            
+            
+            <author><![CDATA[Xiao Ma, Swaroop Mishra, Ariel Liu, Sophie Su, Jilin Chen, Chinmay Kulkarni, Heng-Tze Cheng, Quoc Le, Ed Chi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Merlin:Empowering Multimodal LLMs with Foresight Minds]]></title>
+            <description><![CDATA[Humans possess the remarkable ability to foresee the future to a certain extent based on present observations, a skill we term as foresight minds. However, this capability remains largely under explored within existing Multimodal Large Language Models (MLLMs), hindering their capacity to learn the fundamental principles of how things operate and the intentions behind the observed subjects. To address this issue, we introduce the integration of future modeling into the existing learning frameworks of MLLMs. By utilizing the subject trajectory, a highly structured representation of a consecutive frame sequence, as a learning objective, we aim to bridge the gap between the past and the future. We propose two innovative methods to empower MLLMs with foresight minds, Foresight Pre-Training (FPT) and Foresight Instruction-Tuning (FIT), which are inspired by the modern learning paradigm of LLMs. Specifically, FPT jointly training various tasks centered on trajectories, enabling MLLMs to learn how to attend and predict entire trajectories from a given initial observation. Then, FIT requires MLLMs to first predict trajectories of related objects and then reason about potential future events based on them. Aided by FPT and FIT, we build a novel and unified MLLM named Merlin that supports multi-images input and analysis about potential actions of multiple objects for the future reasoning. Experimental results show Merlin powerful foresight minds with impressive performance on both future reasoning and visual comprehension tasks.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:07:31 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00589</guid>
+            <link>https://arxiv.org/abs/2312.00589</link>
+            
+            
+            
+            <author><![CDATA[En Yu, Liang Zhao, Yana Wei, Jinrong Yang, Dongming Wu, Lingyu Kong, Haoran Wei, Tiancai Wang, Zheng Ge, Xiangyu Zhang, Wenbing Tao]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Instruction-tuning Aligns LLMs to the Human Brain]]></title>
+            <description><![CDATA[Instruction-tuning is a widely adopted method of finetuning that enables large language models (LLMs) to generate output that more closely resembles human responses to natural language queries, in many cases leading to human-level performance on diverse testbeds. However, it remains unclear whether instruction-tuning truly makes LLMs more similar to how humans process language. We investigate the effect of instruction-tuning on LLM-human similarity in two ways: (1) brain alignment, the similarity of LLM internal representations to neural activity in the human language system, and (2) behavioral alignment, the similarity of LLM and human behavior on a reading task. We assess 25 vanilla and instruction-tuned LLMs across three datasets involving humans reading naturalistic stories and sentences. We discover that instruction-tuning generally enhances brain alignment by an average of 6%, but does not have a similar effect on behavioral alignment. To identify the factors underlying LLM-brain alignment, we compute correlations between the brain alignment of LLMs and various model properties, such as model size, various problem-solving abilities, and performance on tasks requiring world knowledge spanning various domains. Notably, we find a strong positive correlation between brain alignment and model size (r = 0.95), as well as performance on tasks requiring world knowledge (r = 0.81). Our results demonstrate that instruction-tuning LLMs improves both world knowledge representations and brain alignment, suggesting that mechanisms that encode world knowledge in LLMs also improve representational alignment to the human brain.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:04:39 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00575</guid>
+            <link>https://arxiv.org/abs/2312.00575</link>
+            
+            
+            
+            <author><![CDATA[Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, Antoine Bosselut]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Dolphins: Multimodal Language Model for Driving]]></title>
+            <description><![CDATA[The quest for fully autonomous vehicles (AVs) capable of navigating complex real-world scenarios with human-like understanding and responsiveness. In this paper, we introduce Dolphins, a novel vision-language model architected to imbibe human-like abilities as a conversational driving assistant. Dolphins is adept at processing multimodal inputs comprising video (or image) data, text instructions, and historical control signals to generate informed outputs corresponding to the provided instructions. Building upon the open-sourced pretrained Vision-Language Model, OpenFlamingo, we first enhance Dolphins's reasoning capabilities through an innovative Grounded Chain of Thought (GCoT) process. Then we tailored Dolphins to the driving domain by constructing driving-specific instruction data and conducting instruction tuning. Through the utilization of the BDD-X dataset, we designed and consolidated four distinct AV tasks into Dolphins to foster a holistic understanding of intricate driving scenarios. As a result, the distinctive features of Dolphins are characterized into two dimensions: (1) the ability to provide a comprehensive understanding of complex and long-tailed open-world driving scenarios and solve a spectrum of AV tasks, and (2) the emergence of human-like capabilities including gradient-free instant adaptation via in-context learning and error recovery via reflection.]]></description>
+            <pubDate>Mon, 04 Dec 2023 02:02:40 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00438</guid>
+            <link>https://arxiv.org/abs/2312.00438</link>
+            
+            
+            
+            <author><![CDATA[Yingzi Ma, Yulong Cao, Jiachen Sun, Marco Pavone, Chaowei Xiao]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Towards Accurate Differential Diagnosis with Large Language Models]]></title>
+            <description><![CDATA[An accurate differential diagnosis (DDx) is a cornerstone of medical care, often reached through an iterative process of interpretation that combines clinical history, physical examination, investigations and procedures. Interactive interfaces powered by Large Language Models (LLMs) present new opportunities to both assist and automate aspects of this process. In this study, we introduce an LLM optimized for diagnostic reasoning, and evaluate its ability to generate a DDx alone or as an aid to clinicians. 20 clinicians evaluated 302 challenging, real-world medical cases sourced from the New England Journal of Medicine (NEJM) case reports. Each case report was read by two clinicians, who were randomized to one of two assistive conditions: either assistance from search engines and standard medical resources, or LLM assistance in addition to these tools. All clinicians provided a baseline, unassisted DDx prior to using the respective assistive tools. Our LLM for DDx exhibited standalone performance that exceeded that of unassisted clinicians (top-10 accuracy 59.1% vs 33.6%, [p = 0.04]). Comparing the two assisted study arms, the DDx quality score was higher for clinicians assisted by our LLM (top-10 accuracy 51.7%) compared to clinicians without its assistance (36.1%) (McNemar's Test: 45.7, p &lt; 0.01) and clinicians with search (44.4%) (4.75, p = 0.03). Further, clinicians assisted by our LLM arrived at more comprehensive differential lists than those without its assistance. Our study suggests that our LLM for DDx has potential to improve clinicians' diagnostic reasoning and accuracy in challenging cases, meriting further real-world evaluation for its ability to empower physicians and widen patients' access to specialist-level expertise.]]></description>
+            <pubDate>Mon, 04 Dec 2023 01:58:19 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00164</guid>
+            <link>https://arxiv.org/abs/2312.00164</link>
+            
+            
+            
+            <author><![CDATA[Daniel McDuff, Mike Schaekermann, Tao Tu, Anil Palepu, Amy Wang, Jake Garrison, Karan Singhal, Yash Sharma, Shekoofeh Azizi, Kavita Kulkarni, Le Hou, Yong Cheng, Yun Liu, S Sara Mahdavi, Sushant Prakash, Anupam Pathak, Christopher Semturs, Shwetak Patel, Dale R Webster, Ewa Dominowska, Juraj Gottweis, Joelle Barral, Katherine Chou, Greg S Corrado, Yossi Matias, Jake Sunshine, Alan Karthikesalingam, Vivek Natarajan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SeaLLMs -- Large Language Models for Southeast Asia]]></title>
+            <description><![CDATA[Despite the remarkable achievements of large language models (LLMs) in various tasks, there remains a linguistic bias that favors high-resource languages, such as English, often at the expense of low-resource and regional languages. To address this imbalance, we introduce SeaLLMs, an innovative series of language models that specifically focuses on Southeast Asian (SEA) languages. SeaLLMs are built upon the Llama-2 model and further advanced through continued pre-training with an extended vocabulary, specialized instruction and alignment tuning to better capture the intricacies of regional languages. This allows them to respect and reflect local cultural norms, customs, stylistic preferences, and legal considerations. Our comprehensive evaluation demonstrates that SeaLLM-13b models exhibit superior performance across a wide spectrum of linguistic tasks and assistant-style instruction-following capabilities relative to comparable open-source models. Moreover, they outperform ChatGPT-3.5 in non-Latin languages, such as Thai, Khmer, Lao, and Burmese, by large margins while remaining lightweight and cost-effective to operate.]]></description>
+            <pubDate>Mon, 04 Dec 2023 01:55:07 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00738</guid>
+            <link>https://arxiv.org/abs/2312.00738</link>
+            
+            
+            
+            <author><![CDATA[Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs]]></title>
+            <description><![CDATA[As pretrained text-to-image diffusion models become increasingly powerful, recent efforts have been made to distill knowledge from these text-to-image pretrained models for optimizing a text-guided 3D model. Most of the existing methods generate a holistic 3D model from a plain text input. This can be problematic when the text describes a complex scene with multiple objects, because the vectorized text embeddings are inherently unable to capture a complex description with multiple entities and relationships. Holistic 3D modeling of the entire scene further prevents accurate grounding of text entities and concepts. To address this limitation, we propose GraphDreamer, a novel framework to generate compositional 3D scenes from scene graphs, where objects are represented as nodes and their interactions as edges. By exploiting node and edge information in scene graphs, our method makes better use of the pretrained text-to-image diffusion model and is able to fully disentangle different objects without image-level supervision. To facilitate modeling of object-wise relationships, we use signed distance fields as representation and impose a constraint to avoid inter-penetration of objects. To avoid manual scene graph creation, we design a text prompt for ChatGPT to generate scene graphs based on text inputs. We conduct both qualitative and quantitative experiments to validate the effectiveness of GraphDreamer in generating high-fidelity compositional 3D scenes with disentangled object entities.]]></description>
+            <pubDate>Mon, 04 Dec 2023 01:52:51 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.00093</guid>
+            <link>https://arxiv.org/abs/2312.00093</link>
+            
+            
+            
+            <author><![CDATA[Gege Gao, Weiyang Liu, Anpei Chen, Andreas Geiger, Bernhard Schölkopf]]></author>
             
                 
             
