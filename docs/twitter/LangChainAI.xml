@@ -24,152 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Dec 2023 19:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 17:25:05 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT WFH: 🧐AGI is cool and all but have you tried generating JSON? Anyone building something useful with LLMs knows it has to integrate well both wit...]]></title>
-            <description><![CDATA[RT WFH<br>🧐AGI is cool and all but have you tried generating JSON?<br><br>Anyone building something useful with LLMs knows it has to integrate well both with humans and other machines.  Our extraction benchmark tests LLMs for both valid and correct outputs. Check it out!<br><img style="" src="https://pbs.twimg.com/media/GAmsp1eaAAAcMEB?format=png&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>LangChain: ⛏️Anyone building with LLMs knows structured extraction is key.<br><br>Today we are releasing a new extraction benchmark testing LLM ability to infer structured data from chat logs. We've also shared some initial results below:<br><br>🔗https://blog.langchain.dev/extraction-benchmarking/<br><br><img style="" src="https://pbs.twimg.com/media/GAmoRHAaAAAVcDZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:32:45 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/WHinthorn/status/1732105744709976257</guid>
-            <link>https://twitter.com/WHinthorn/status/1732105744709976257</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re For all these results and more, check out the post and let us know your feedback! 🔗https://blog.langchain.dev/extraction-benchmarking/]]></title>
-            <description><![CDATA[Re For all these results and more, check out the post and let us know your feedback!<br><br>🔗https://blog.langchain.dev/extraction-benchmarking/]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:19 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re 🔬Or pick up where we left off testing the open source strategies at this repo. How would it perform if you combine strategies? https://github.co...]]></title>
-            <description><![CDATA[Re 🔬Or pick up where we left off testing the open source strategies at this repo. <br><br>How would it perform if you combine strategies?<br><br>https://github.com/hinthornw/llama-extraction]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re 🛠️You can try it yourself on your own setup by following the doc! https://langchain-ai.github.io/langchain-benchmarks/notebooks/extraction/chat...]]></title>
-            <description><![CDATA[Re 🛠️You can try it yourself on your own setup by following the doc!<br><br>https://langchain-ai.github.io/langchain-benchmarks/notebooks/extraction/chat_extraction.html]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re 💬Grammar-based decoding (like logit biasing) helps, but isn't a panacea - model quality is also important for generating correct values, even af...]]></title>
-            <description><![CDATA[Re 💬Grammar-based decoding  (like logit biasing) helps, but isn't a panacea - model quality is also important for generating correct values, even after you have the structure locked down.<br><img style="" src="https://pbs.twimg.com/media/GAmo8MUaAAQ5rNu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re 🦜We also explored different prompting strategies using a 32B Llama model to see how they impact output performance. For this task (and model), s...]]></title>
-            <description><![CDATA[Re 🦜We also explored different prompting strategies using a 32B Llama model to see how they impact output performance.<br><br>For this task (and model), simple, static strategies didn’t work that well in isolation😬!<br><img style="" src="https://pbs.twimg.com/media/GAmovkvaAAE7QSh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re ⚖️Unsurprisingly, GPT-4 with tool-calling ability performed the best on this benchmark, but Llama, even when not fine-tuned, performed well . See...]]></title>
-            <description><![CDATA[Re ⚖️Unsurprisingly, GPT-4 with tool-calling ability performed the best on this benchmark, but Llama, even when not fine-tuned, performed well . See the comparison at this link:<br><br>https://smith.langchain.com/public/00f4444c-9460-4a82-b87a-f50096f1cfef/d/compare?selectedSessions=0c022691-a7ac-4545-b2bc-58aab2d476e8%2Cd522dbfc-c09b-45a9-b11e-26aa95a3555a<br><img style="" src="https://pbs.twimg.com/media/GAmoftgaAAAlg0G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re 🧪We tested popular models like GPT-4, Claude, Llama, and Yi using different prompting and decoding techniques to see how much they impact perfor...]]></title>
-            <description><![CDATA[Re 🧪We tested popular models like GPT-4, Claude, Llama, and Yi using different prompting and decoding techniques to see how much they impact performance for things like:<br><br>- Question classification<br>- Sentiment analysis<br>- Nested JSON schema correctness<br><img style="" src="https://pbs.twimg.com/media/GAmolD3bEAAO5aa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[⛏️Anyone building with LLMs knows structured extraction is key. Today we are releasing a new extraction benchmark testing LLM ability to infer struc...]]></title>
-            <description><![CDATA[⛏️Anyone building with LLMs knows structured extraction is key.<br><br>Today we are releasing a new extraction benchmark testing LLM ability to infer structured data from chat logs. We've also shared some initial results below:<br><br>🔗https://blog.langchain.dev/extraction-benchmarking/<br><img style="" src="https://pbs.twimg.com/media/GAmoRHAaAAAVcDZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:22:16 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732103107528753313</guid>
-            <link>https://twitter.com/LangChainAI/status/1732103107528753313</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: 📬 Gmail Tools for Agents 📬 Your @LangChainAI 🦜🔗 JS/TS 0.0.201 agents can now retrieve + send emails via Gmail! You can also ...]]></title>
@@ -300,11 +156,155 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[🦜Retrieval-Augmented Generation: From Theory to LangChain Implementation 👏We've really been enjoying @helloiamleonie's articles lately Check out...]]></title>
+            <description><![CDATA[🦜Retrieval-Augmented Generation: From Theory to LangChain Implementation<br><br>👏We've really been enjoying @helloiamleonie's articles lately<br><br>Check out this fantastic blog covering the basics of RAG, the theory behind it, and how to use it in practice<br><br>Blog: https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2<br><img style="" src="https://pbs.twimg.com/media/GAT9hbRXQAANKke?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GAT9iWJXcAEBgmU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 03 Dec 2023 16:26:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1731349071783428141</guid>
+            <link>https://twitter.com/LangChainAI/status/1731349071783428141</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Apify: 🔍 Need to extract vital information locked away in PDF documents for your AI projects? Here's a solution! 🤖 Apify's PDF Text Extractor...]]></title>
+            <description><![CDATA[RT Apify<br>🔍 Need to extract vital information locked away in PDF documents for your AI projects? Here's a solution! 🤖 Apify's PDF Text Extractor + 🦜🔗 @LangChainAI! Read the tutorial below to find out how to combine them for QA from PDF docs👇<br>https://apify.it/3uDk3MF]]></description>
+            <pubDate>Sun, 03 Dec 2023 13:03:59 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/apify/status/1731298235187122385</guid>
+            <link>https://twitter.com/apify/status/1731298235187122385</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Miguel Otero Pedrido: Another fun project I made using @LangChainAI ! In this case, it's a library I created that checks for undocumented functions...]]></title>
+            <description><![CDATA[RT Miguel Otero Pedrido<br>Another fun project I made using @LangChainAI !<br><br>In this case, it's a library I created that checks for undocumented functions / classes in your python project and generates docstrings for each one.<br><br>Code: https://github.com/MichaelisTrofficus/gpt4docstrings<br><video src="https://video.twimg.com/ext_tw_video/1731093981608423424/pu/vid/avc1/1306x720/_JZ40S1Y59p-Og8K.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1731093981608423424/pu/img/26Y5cvN-CC6ThOWa.jpg"></video>]]></description>
+            <pubDate>Sat, 02 Dec 2023 23:33:24 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/MTrofficus/status/1731094244964606158</guid>
+            <link>https://twitter.com/MTrofficus/status/1731094244964606158</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT João Moura: AI Agents building a landing page from 1 line idea. CrewAI uses @LangChainAI I’m using langchain tools and the LangSmith for logging ...]]></title>
+            <description><![CDATA[RT João Moura<br>AI Agents building a landing page from 1 line idea.<br>CrewAI uses @LangChainAI I’m using langchain tools and the LangSmith for logging it ✨<br><br>🧠 GPT4 &amp; OpenHermes2.5 (with @Ollama_ai)<br> <br>Will opensource this weekend🤞 reply to let me know if you wanna a more in depth tutorial/video<br><video src="https://video.twimg.com/amplify_video/1731063569402241024/vid/avc1/1170x720/RoKLDWeA8vNe1rIJ.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1731063569402241024/img/bId51lIohEMuYsA5.jpg"></video>]]></description>
+            <pubDate>Sat, 02 Dec 2023 21:34:53 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/joaomdmoura/status/1731064418136400139</guid>
+            <link>https://twitter.com/joaomdmoura/status/1731064418136400139</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Mo Gharabat 🦇: OpenCopilot is at 3.1K GitHub stars! ⭐⭐ https://github.com/openchatai/OpenCopilot And I have 3 good news: - Our new dashboard i...]]></title>
             <description><![CDATA[RT Mo Gharabat 🦇<br>OpenCopilot is at 3.1K GitHub stars! ⭐⭐<br><br>https://github.com/openchatai/OpenCopilot<br><br>And I have 3 good news:<br><br>- Our new dashboard is available on the cloud (yes you can test it out!)<br>- The planning engine is better than before<br>- You can trace and see all chat conversations on your copilots<br><br>You… https://twitter.com/i/web/status/1731048690658226393]]></description>
             <pubDate>Sat, 02 Dec 2023 20:32:23 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/ikbenbasha/status/1731048690658226393</guid>
             <link>https://twitter.com/ikbenbasha/status/1731048690658226393</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Ksenia Se: 3 free courses to learn more about large language models: 1. @cohere LLM University 2. @huggingface NLP course 3. @LangChainAI and @Deep...]]></title>
+            <description><![CDATA[RT Ksenia Se<br>3 free courses to learn more about large language models:<br><br>1. @cohere LLM University<br>2. @huggingface NLP course<br>3. @LangChainAI and @DeepLearningAI_ LangChain for LLM Application Development<br><br>Links 👇🏼<br><img style="" src="https://pbs.twimg.com/media/GAXjkOGaUAASift?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GAXjlq7bcAAQKLB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GAXjl33aMAAdfsh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 02 Dec 2023 19:57:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Kseniase_/status/1731039877578600862</guid>
+            <link>https://twitter.com/Kseniase_/status/1731039877578600862</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🎓Mistral 7b User Showcase + LangServe & LangSmith This great Austin LangChain 102 meetup produced a fantastic educational video covering OSS mo...]]></title>
+            <description><![CDATA[🦜🎓Mistral 7b User Showcase + LangServe &amp; LangSmith<br><br>This great Austin LangChain 102 meetup produced a fantastic educational video covering OSS models, LangServe, and LangSmith<br><br>https://www.youtube.com/watch?v=haad3i9VROs<br><br>👏 @colinmcnamara for hosting, and @Roger_M_Taylor for bringing to our attn<br><img style="" src="https://pbs.twimg.com/media/GAT-UN_XkAAjgVV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 02 Dec 2023 19:15:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1731029214202413347</guid>
+            <link>https://twitter.com/LangChainAI/status/1731029214202413347</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🗺️ Google Places Tool 🗺️ Your LangChain.js agents and chains can now pull in local information with the @Google Places API! Use ...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🗺️&nbsp;Google Places Tool 🗺️<br><br>Your LangChain.js agents and chains can now pull in local information with the @Google Places API!<br><br>Use it to find addresses, websites, and more from text about a location in @LangChainAI 🦜🔗 JS/TS 0.0.200.<br><br>Thank you SananR!<br><br>https://js.langchain.com/docs/integrations/tools/google_places<br><img style="" src="https://pbs.twimg.com/media/GAWzhXxa8AA1RhE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 02 Dec 2023 16:27:49 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1730987141675811223</guid>
+            <link>https://twitter.com/Hacubu/status/1730987141675811223</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Afiz ⚡️: Text Summarization using LLMs and LangChain 🚀 Do you know you create your own text summarization app using @huggingface models and @L...]]></title>
+            <description><![CDATA[RT Afiz ⚡️<br>Text Summarization using LLMs and LangChain 🚀<br><br>Do you know you create your own text summarization app using @huggingface models and @LangChainAI in less than 20 lines of code? <br><br>Complete source code 🧵👇<br><img style="" src="https://pbs.twimg.com/media/GAVtS9oaUAAp96y?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 02 Dec 2023 11:29:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/itsafiz/status/1730912075353116841</guid>
+            <link>https://twitter.com/itsafiz/status/1730912075353116841</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT James Briggs: Free course from @DataCamp! Covering essentials of LLMs through to building full AI pipelines with @LangChainAI @pinecone and more :)]]></title>
+            <description><![CDATA[RT James Briggs<br>Free course from @DataCamp! Covering essentials of LLMs through to building full AI pipelines with @LangChainAI @pinecone and more :)<div class="rsshub-quote"><br><br>DataCamp: Whether you're completely new to AI or are looking to add generative AI skills to your tool belt, we've designed these codealongs for coders by coders. <br><br>Anyone with intermediate Python knowledge can jump in and start learning.<br><br><img style="" src="https://pbs.twimg.com/media/GASE-3TXoAAEiyu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GASE-3TWEAA6sMB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GASE-3RWAAE3cvx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GASE-3TXIAEOgBC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Sat, 02 Dec 2023 02:41:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/jamescalam/status/1730779139563729340</guid>
+            <link>https://twitter.com/jamescalam/status/1730779139563729340</link>
             
             
             
