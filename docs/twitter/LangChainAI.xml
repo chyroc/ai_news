@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Dec 2023 19:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 21:25:54 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT UnstructuredIO: RAG with unstructured and semi-structured data presents unique challenges (and opportunities). In this blog we worked on a real-wor...]]></title>
+            <description><![CDATA[RT UnstructuredIO<br>RAG with unstructured and semi-structured data presents unique challenges (and opportunities). In this blog we worked on a real-world healthcare use case with @LangChainAI to test emerging approaches related to Multi-Vector Retrieval. The challenge here was how to empower… https://twitter.com/i/web/status/1732130938748870934<br><img style="" src="https://pbs.twimg.com/media/GAnD325W4AAUDTT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Dec 2023 20:12:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/UnstructuredIO/status/1732130938748870934</guid>
+            <link>https://twitter.com/UnstructuredIO/status/1732130938748870934</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT WFH: 🧐AGI is cool and all but have you tried generating JSON? Anyone building something useful with LLMs knows it has to integrate well both wit...]]></title>
@@ -305,22 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 02 Dec 2023 20:32:23 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/ikbenbasha/status/1731048690658226393</guid>
             <link>https://twitter.com/ikbenbasha/status/1731048690658226393</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Shreyas Karnik: 🚀 Wrote about "Local LLMs as Browser Sidekicks" 👉 https://kshreyas.dev/post/local-llms/ Introducing 'DistiLlama': A browser e...]]></title>
-            <description><![CDATA[RT Shreyas Karnik<br>🚀 Wrote about "Local LLMs as Browser Sidekicks" 👉  https://kshreyas.dev/post/local-llms/<br>Introducing 'DistiLlama': A browser extension bringing AI power to your fingertips. Built with @Ollama_ai @LangChainAI and @huggingface Check out https://github.com/shreyaskarnik/DistiLlama #privacy #LLMs #GenAI]]></description>
-            <pubDate>Sat, 02 Dec 2023 02:35:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/KarnikShreyas/status/1730777771025354764</guid>
-            <link>https://twitter.com/KarnikShreyas/status/1730777771025354764</link>
             
             
             
