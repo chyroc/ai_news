@@ -15,24 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 05 Dec 2023 07:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 05:05:59 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence]]></title>
-            <description><![CDATA[Current diffusion-based video editing primarily focuses on structure-preserved editing by utilizing various dense correspondences to ensure temporal consistency and motion alignment. However, these approaches are often ineffective when the target edit involves a shape change. To embark on video editing with shape change, we explore customized video subject swapping in this work, where we aim to replace the main subject in a source video with a target subject having a distinct identity and potentially different shape. In contrast to previous methods that rely on dense correspondences, we introduce the VideoSwap framework that exploits semantic point correspondences, inspired by our observation that only a small number of semantic points are necessary to align the subject's motion trajectory and modify its shape. We also introduce various user-point interactions (\eg, removing points and dragging points) to address various semantic point correspondence. Extensive experiments demonstrate state-of-the-art video subject swapping results across a variety of real-world videos.]]></description>
-            <pubDate>Tue, 05 Dec 2023 05:18:47 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.02087</guid>
-            <link>https://arxiv.org/abs/2312.02087</link>
-            
-            
-            
-            <author><![CDATA[Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, Jay Zhangjie Wu, David Junhao Zhang, Mike Zheng Shou, Kevin Tang]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[DeepCache: Accelerating Diffusion Models for Free]]></title>
