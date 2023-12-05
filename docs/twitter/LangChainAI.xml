@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 05 Dec 2023 17:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 15:06:55 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 📬 Gmail Tools for Agents 📬 Your @LangChainAI 🦜🔗 JS/TS 0.0.201 agents can now retrieve + send emails via Gmail! You can also ...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>📬&nbsp;Gmail Tools for Agents 📬<br><br>Your @LangChainAI 🦜🔗 JS/TS 0.0.201 agents can now retrieve + send emails via Gmail!<br><br>You can also create drafts for manual review if you’re not ready to go fully autonomous.<br><br>Thanks 1239uth, and @UofT for encouraging OSS!<br><br>https://js.langchain.com/docs/integrations/tools/gmail<br><img style="" src="https://pbs.twimg.com/media/GAmYYzKaAAIaXCc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 17:02:45 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1732083098911899884</guid>
-            <link>https://twitter.com/Hacubu/status/1732083098911899884</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Prince Canuma: 🚀 Big news from @Kulissiwa! Our new RAG pipeline now hits 99% accuracy with <5 sec latency. Thanks to user feedback and access to...]]></title>
@@ -273,6 +257,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 02 Dec 2023 16:27:49 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Hacubu/status/1730987141675811223</guid>
             <link>https://twitter.com/Hacubu/status/1730987141675811223</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A great overview of how we added long term memory to OpenGPTs!!]]></title>
+            <description><![CDATA[A great overview of how we added long term memory to OpenGPTs!!<div class="rsshub-quote"><br><br>Shubham Saboo: OpenGPT meets Generative Agents to get Long term Memory 🤯<br><br>Opensource community is once again ahead of the curve, breaking new ground in building custom GPTs. This time, it's about adding long-term memory to OpenGPT.<br><br>Here's everything you need to know:<br><br>1. Specialized Long-Term… https://twitter.com/i/web/status/1730810920207622610<br><br><video src="https://video.twimg.com/ext_tw_video/1730809697903534084/pu/vid/avc1/1320x720/xegvmJyXORIXPDR5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1730809697903534084/pu/img/QK1FRgKid5StyhfB.jpg"></video></div>]]></description>
+            <pubDate>Sat, 02 Dec 2023 14:38:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1730959658544714172</guid>
+            <link>https://twitter.com/LangChainAI/status/1730959658544714172</link>
             
             
             
