@@ -24,7 +24,7 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 06 Dec 2023 02:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 05:00:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -188,11 +188,43 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Vinit Agrawal: Made a quick video to show how I made a Slack (@SlackHQ) AI Agent, using Langchain's (@LangChainAI) Agent module. Take a look https:...]]></title>
+            <description><![CDATA[RT Vinit Agrawal<br>Made a quick video to show how I made a Slack (@SlackHQ) AI Agent, using Langchain's (@LangChainAI) Agent module. Take a look<br><br>https://www.youtube.com/watch?v=HdbH7LRIQg8<br><br>#GenAI #aiagents]]></description>
+            <pubDate>Tue, 05 Dec 2023 18:20:21 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/volume88/status/1732102626052014499</guid>
+            <link>https://twitter.com/volume88/status/1732102626052014499</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Jacob Lee: 📬 Gmail Tools for Agents 📬 Your @LangChainAI 🦜🔗 JS/TS 0.0.201 agents can now retrieve + send emails via Gmail! You can also ...]]></title>
             <description><![CDATA[RT Jacob Lee<br>📬&nbsp;Gmail Tools for Agents 📬<br><br>Your @LangChainAI 🦜🔗 JS/TS 0.0.201 agents can now retrieve + send emails via Gmail!<br><br>You can also create drafts for manual review if you’re not ready to go fully autonomous.<br><br>Thanks 1239uth, and @UofT for encouraging OSS!<br><br>https://js.langchain.com/docs/integrations/tools/gmail<br><img style="" src="https://pbs.twimg.com/media/GAmYYzKaAAIaXCc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 05 Dec 2023 17:02:45 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Hacubu/status/1732083098911899884</guid>
             <link>https://twitter.com/Hacubu/status/1732083098911899884</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Anil Chandra Naidu Matcha: Now create an AI chatbot connected to 6000+ tools and embed on your site 🔥🔥 Some incredible use-cases - Gmail assi...]]></title>
+            <description><![CDATA[RT Anil Chandra Naidu Matcha<br>Now create an AI chatbot connected to 6000+ tools and embed on your site 🔥🔥 <br><br>Some incredible use-cases    <br><br>- Gmail assistant to read/reply to emails  <br>- Calendar assistant to share your calendar via chat  <br>- Slack assistant to manage your community    <br><br>and many more… https://twitter.com/i/web/status/1732056019696771166<br><img style="" src="https://pbs.twimg.com/media/GAl_wvebQAAlRrh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Dec 2023 15:15:09 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/matchaman11/status/1732056019696771166</guid>
+            <link>https://twitter.com/matchaman11/status/1732056019696771166</link>
             
             
             
@@ -284,43 +316,11 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[🌌 🛝 Multimodal support in LangSmith Playground With the announcement of GPT-4-vision models, it has never been easier to convert rough sketches ...]]></title>
-            <description><![CDATA[🌌 🛝 Multimodal support in LangSmith Playground<br><br>With the announcement of GPT-4-vision models, it has never been easier to convert rough sketches into runnable prototypes.<br><br>Nevertheless, a simple prompt may not suffice, and prompt engineering can guide the LLM to yield better… https://twitter.com/i/web/status/1731707919530406121<br><video src="https://video.twimg.com/ext_tw_video/1731707770615758848/pu/vid/avc1/1152x720/cRj5Bnc0JRbi9pP0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1731707770615758848/pu/img/XM9Wbrq7eOiukA9D.jpg"></video>]]></description>
-            <pubDate>Mon, 04 Dec 2023 16:11:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1731707919530406121</guid>
-            <link>https://twitter.com/LangChainAI/status/1731707919530406121</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Stan Girard: 15 seconds to chat with a 200-page long document ?! 🔥 If you don’t trust me, trust the video of @quivr_brain 😏 Powered by @Lang...]]></title>
             <description><![CDATA[RT Stan Girard<br>15 seconds to chat with a 200-page long document ?! 🔥<br><br>If you don’t trust me, trust the video of @quivr_brain 😏<br><br>Powered by @LangChainAI &amp; @supabase (PGVector). <br><br>It even works with @Ollama_ai! So fully private! <br><br>Code: https://github.com/stangirard/quivr<br><video src="https://video.twimg.com/ext_tw_video/1731661596999483392/pu/vid/avc1/1134x720/e8Ot4YusF2B8xC60.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1731661596999483392/pu/img/2m2mEUav7URDMfPR.jpg"></video>]]></description>
             <pubDate>Mon, 04 Dec 2023 13:08:16 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/_StanGirard/status/1731661700431044775</guid>
             <link>https://twitter.com/_StanGirard/status/1731661700431044775</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Mo Gharabat 🦇: OpenCopilot is at 3.1K GitHub stars! ⭐⭐ https://github.com/openchatai/OpenCopilot And I have 3 good news: - Our new dashboard i...]]></title>
-            <description><![CDATA[RT Mo Gharabat 🦇<br>OpenCopilot is at 3.1K GitHub stars! ⭐⭐<br><br>https://github.com/openchatai/OpenCopilot<br><br>And I have 3 good news:<br><br>- Our new dashboard is available on the cloud (yes you can test it out!)<br>- The planning engine is better than before<br>- You can trace and see all chat conversations on your copilots<br><br>You… https://twitter.com/i/web/status/1731048690658226393]]></description>
-            <pubDate>Sat, 02 Dec 2023 20:32:23 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/ikbenbasha/status/1731048690658226393</guid>
-            <link>https://twitter.com/ikbenbasha/status/1731048690658226393</link>
             
             
             
