@@ -24,7 +24,7 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 06 Dec 2023 18:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 20:05:41 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -65,6 +65,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 06 Dec 2023 16:58:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732444288305479945</guid>
             <link>https://twitter.com/LangChainAI/status/1732444288305479945</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Nuclia · AI Search: Get RAG from unstructured data in seconds with https://nuclia.com + @LangChainAI]]></title>
+            <description><![CDATA[RT Nuclia · AI Search<br>Get RAG from unstructured data in seconds with https://nuclia.com + @LangChainAI<br><video src="https://video.twimg.com/tweet_video/GArcfxoXQAAoCkL.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GArcfxoXQAAoCkL.jpg"></video>]]></description>
+            <pubDate>Wed, 06 Dec 2023 16:39:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/NucliaAI/status/1732439507016827314</guid>
+            <link>https://twitter.com/NucliaAI/status/1732439507016827314</link>
             
             
             
@@ -305,22 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 04 Dec 2023 21:01:20 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/jobergum/status/1731780750435856573</guid>
             <link>https://twitter.com/jobergum/status/1731780750435856573</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[⭐️Building RAG Pipelines that Use Multiple LLMs: Query Transformation ⭐️ Many advanced RAG pipelines make multiple calls to LLMs at various stages...]]></title>
-            <description><![CDATA[⭐️Building RAG Pipelines that Use Multiple LLMs: Query Transformation ⭐️<br><br>Many advanced RAG pipelines make multiple calls to LLMs at various stages. Most existing templates currently use the same LLM for all stages, but there's no reason that has to be the case.<br><br>Over the coming… https://twitter.com/i/web/status/1731724086072779109<br><img style="" src="https://pbs.twimg.com/media/GAhRbn2aYAAW9d8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 04 Dec 2023 17:16:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1731724086072779109</guid>
-            <link>https://twitter.com/LangChainAI/status/1731724086072779109</link>
             
             
             
