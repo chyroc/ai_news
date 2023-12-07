@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 07 Dec 2023 03:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 03:24:57 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces]]></title>
+            <description><![CDATA[Neural radiance fields provide state-of-the-art view synthesis quality but tend to be slow to render. One reason is that they make use of volume rendering, thus requiring many samples (and model queries) per ray at render time. Although this representation is flexible and easy to optimize, most real-world objects can be modeled more efficiently with surfaces instead of volumes, requiring far fewer samples per ray. This observation has spurred considerable progress in surface representations such as signed distance functions, but these may struggle to model semi-opaque and thin structures. We propose a method, HybridNeRF, that leverages the strengths of both representations by rendering most objects as surfaces while modeling the (typically) small fraction of challenging regions volumetrically. We evaluate HybridNeRF against the challenging Eyeful Tower dataset along with other commonly used view synthesis datasets. When comparing to state-of-the-art baselines, including recent rasterization-based approaches, we improve error rates by 15-30% while achieving real-time framerates (at least 36 FPS) for virtual-reality resolutions (2Kx2K).]]></description>
+            <pubDate>Thu, 07 Dec 2023 03:15:14 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.03160</guid>
+            <link>https://arxiv.org/abs/2312.03160</link>
+            
+            
+            
+            <author><![CDATA[Haithem Turki, Vasu Agrawal, Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder, Deva Ramanan, Michael Zollhöfer, Christian Richardt]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[MotionCtrl: A Unified and Flexible Motion Controller for Video Generation]]></title>
