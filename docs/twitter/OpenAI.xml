@@ -1,9 +1,332 @@
-<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}img{filter:grayscale(1)}</style></head><body><div class="content"><p><img src="/logo.png" alt="RSSHub" width="120" loading="lazy"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /twitter/user/OpenAI</pre><pre class="message">Error message: this route is empty, please check the original site or <a href="https://github.com/DIYgod/RSSHub/issues/new/choose">create an issue</a></pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /twitter/user/OpenAI
-Node version: v20.10.0
-Git Hash: 5ed4cda
-        </pre><pre class="message">
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-如果您认为 RSSHub 导致了该错误，请在 GitHub 按照模版，复制本页面信息进行 <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">汇报</a>
-        </pre><div style="margin:50px 0"><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p><p>在线文档与支持，请访问 <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p></div></div></body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Twitter @OpenAI]]></title>
+        <link>https://twitter.com/OpenAI</link>
+        <atom:link href="https://rsshub.app/twitter/user/OpenAI" rel="self" type="application/rss+xml" />
+        <description><![CDATA[OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ.jpg</url>
+            <title><![CDATA[Twitter @OpenAI]]></title>
+            <link>https://twitter.com/OpenAI</link>
+        </image>
+        
+        <lastBuildDate>Thu, 07 Dec 2023 17:32:32 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Our Safety Systems team is on the frontlines of ensuring the safety and reliability of our AI models in the real world today. Learn about the team’s ...]]></title>
+            <description><![CDATA[Our Safety Systems team is on the frontlines of ensuring the safety and reliability of our AI models in the real world today.<br><br>Learn about the team’s vision, challenges, and structure and see how you can be part of making AI safer and more beneficial for society.… https://twitter.com/i/web/status/1732103075144532197]]></description>
+            <pubDate>Tue, 05 Dec 2023 18:22:08 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1732103075144532197</guid>
+            <link>https://twitter.com/OpenAI/status/1732103075144532197</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ChatGPT is turning 1! 🥳🎂 Today we’re celebrating our users around the world who are doing amazing things.]]></title>
+            <description><![CDATA[ChatGPT is turning 1! 🥳🎂<br><br>Today we’re celebrating our users around the world who are doing amazing things.<br><video src="https://video.twimg.com/amplify_video/1730268873671503873/vid/avc1/1260x720/4dwGSpHdMStgn-0t.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GAMoexfa8AIOo38?format=jpg&amp;name=orig"></video>]]></description>
+            <pubDate>Thu, 30 Nov 2023 17:08:31 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1730272610586599845</guid>
+            <link>https://twitter.com/OpenAI/status/1730272610586599845</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sam Altman is back as CEO, Mira Murati as CTO and Greg Brockman as President. OpenAI has a new initial board. Messages from @sama and board chair @bta...]]></title>
+            <description><![CDATA[Sam Altman is back as CEO, Mira Murati as CTO and Greg Brockman as President. OpenAI has a new initial board. Messages from @sama and board chair @btaylor https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board]]></description>
+            <pubDate>Thu, 30 Nov 2023 01:08:21 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1730030975931846939</guid>
+            <link>https://twitter.com/OpenAI/status/1730030975931846939</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenAI is nothing without its people]]></title>
+            <description><![CDATA[OpenAI is nothing without its people<div class="rsshub-quote"><br><br>Greg Brockman: we are so back<br><br><img style="" src="https://pbs.twimg.com/media/F_hbRZEaYAA85GU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 22 Nov 2023 08:05:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1727236805182026159</guid>
+            <link>https://twitter.com/OpenAI/status/1727236805182026159</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[❤️]]></title>
+            <description><![CDATA[❤️<div class="rsshub-quote"><br><br>Sam Altman: i love openai, and everything i’ve done over the past few days has been in service of keeping this team and its mission together. when i decided to join msft on sun evening, it was clear that was the best path for me and the team. with the new board and w satya’s support, i’m… https://twitter.com/i/web/status/1727207458324848883<br></div>]]></description>
+            <pubDate>Wed, 22 Nov 2023 06:22:08 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1727210837868437901</guid>
+            <link>https://twitter.com/OpenAI/status/1727210837868437901</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[❤️]]></title>
+            <description><![CDATA[❤️<div class="rsshub-quote"><br><br>Greg Brockman: Returning to OpenAI &amp; getting back to coding tonight.<br></div>]]></description>
+            <pubDate>Wed, 22 Nov 2023 06:21:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1727210687502651417</guid>
+            <link>https://twitter.com/OpenAI/status/1727210687502651417</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We have reached an agreement in principle for Sam Altman to return to OpenAI as CEO with a new initial board of Bret Taylor (Chair), Larry Summers, an...]]></title>
+            <description><![CDATA[We have reached an agreement in principle for Sam Altman to return to OpenAI as CEO with a new initial board of Bret Taylor (Chair), Larry Summers, and Adam D'Angelo.<br><br>We are collaborating to figure out the details. Thank you so much for your patience through this.]]></description>
+            <pubDate>Wed, 22 Nov 2023 06:03:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1727206187077370115</guid>
+            <link>https://twitter.com/OpenAI/status/1727206187077370115</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ChatGPT with voice is now available to all free users. Download the app on your phone and tap the headphones icon to start a conversation. Sound on �...]]></title>
+            <description><![CDATA[ChatGPT with voice is now available to all free users. Download the app on your phone and tap the headphones icon to start a conversation.<br><br>Sound on 🔊<br><video src="https://video.twimg.com/ext_tw_video/1727061618360827904/pu/vid/avc1/720x1556/gYg0ZNvuO2EqN5Zj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1727061618360827904/pu/img/JPoDKcU7KmDLlmKJ.jpg"></video>]]></description>
+            <pubDate>Tue, 21 Nov 2023 20:43:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1727065166188274145</guid>
+            <link>https://twitter.com/OpenAI/status/1727065166188274145</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenAI announces leadership transition https://openai.com/blog/openai-announces-leadership-transition]]></title>
+            <description><![CDATA[OpenAI announces leadership transition https://openai.com/blog/openai-announces-leadership-transition]]></description>
+            <pubDate>Fri, 17 Nov 2023 20:28:31 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1725611900262588813</guid>
+            <link>https://twitter.com/OpenAI/status/1725611900262588813</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Our OpenAI DevDay Breakout Sessions are now live on YouTube. Check out deeper dives of our new features for developers, techniques for maximizing LLM ...]]></title>
+            <description><![CDATA[Our OpenAI DevDay Breakout Sessions are now live on YouTube. Check out deeper dives of our new features for developers, techniques for maximizing LLM performance, and more. https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz]]></description>
+            <pubDate>Wed, 15 Nov 2023 22:00:20 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1724910227517215228</guid>
+            <link>https://twitter.com/OpenAI/status/1724910227517215228</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Announcing OpenAI Data Partnerships — help steer the future of AI by collaborating on public and private datasets with us. https://openai.com/blog/da...]]></title>
+            <description><![CDATA[Announcing OpenAI Data Partnerships — help steer the future of AI by collaborating on public and private datasets with us. https://openai.com/blog/data-partnerships]]></description>
+            <pubDate>Thu, 09 Nov 2023 18:12:15 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1722678501181149331</guid>
+            <link>https://twitter.com/OpenAI/status/1722678501181149331</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We're rolling out new features and improvements that developers have been asking for: 1. Our new model GPT-4 Turbo supports 128K context and has fresh...]]></title>
+            <description><![CDATA[We're rolling out new features and improvements that developers have been asking for:<br><br>1. Our new model GPT-4 Turbo supports 128K context and has fresher knowledge than GPT-4. Its input and output tokens are respectively 3× and 2× less expensive than GPT-4. It’s available now to… https://twitter.com/i/web/status/1721596740024078340]]></description>
+            <pubDate>Mon, 06 Nov 2023 18:33:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721596740024078340</guid>
+            <link>https://twitter.com/OpenAI/status/1721596740024078340</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re Plus and Enterprise users can start creating GPTs this week at http://chatgpt.com/create. Later this month, we’ll launch the GPT Store, so people ...]]></title>
+            <description><![CDATA[Re Plus and Enterprise users can start creating GPTs this week at http://chatgpt.com/create. <br><br>Later this month, we’ll launch the GPT Store, so people can feature and make money from their GPTs. We plan to offer GPTs to more users soon.]]></description>
+            <pubDate>Mon, 06 Nov 2023 18:24:21 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721594380669342171</guid>
+            <link>https://twitter.com/OpenAI/status/1721594380669342171</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GPTs are a new way for anyone to create a tailored version of ChatGPT to be more helpful in their daily life, at specific tasks, at work, or at home ...]]></title>
+            <description><![CDATA[GPTs are a new way for anyone to create a tailored version of ChatGPT to be more helpful in their daily life, at specific tasks, at work, or at home — and then share that creation with others. No code required. https://openai.com/blog/introducing-gpts<br><video src="https://video.twimg.com/ext_tw_video/1721582316521431040/pu/vid/avc1/1260x720/YvqqKVTZpZ9IK5yF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1721582316521431040/pu/img/nvBpbcqOPK8qno39.jpg"></video>]]></description>
+            <pubDate>Mon, 06 Nov 2023 18:24:20 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721594380669342171</guid>
+            <link>https://twitter.com/OpenAI/status/1721594380669342171</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We’re all ready to kick off our first ever OpenAI DevDay! See you soon! Tune into the keynote at 10 AM PST: https://www.youtube.com/live/U9mJuUkhUzk?...]]></title>
+            <description><![CDATA[We’re all ready to kick off our first ever OpenAI DevDay! See you soon! <br><br>Tune into the keynote at 10 AM PST: https://www.youtube.com/live/U9mJuUkhUzk?si=NHSelJlhTkTGXS5X<br><img style="" src="https://pbs.twimg.com/media/F-RDix_aYAAR-Mi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 06 Nov 2023 17:20:16 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721578256217076000</guid>
+            <link>https://twitter.com/OpenAI/status/1721578256217076000</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We’re live streaming the OpenAI DevDay keynote on Monday at 10AM PST. Tune in! https://www.youtube.com/live/U9mJuUkhUzk?si=cyxdWxbdKC0Z-gaf]]></title>
+            <description><![CDATA[We’re live streaming the OpenAI DevDay keynote on Monday at 10AM PST.<br><br>Tune in! https://www.youtube.com/live/U9mJuUkhUzk?si=cyxdWxbdKC0Z-gaf]]></description>
+            <pubDate>Sat, 04 Nov 2023 16:00:37 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1720833435541946468</guid>
+            <link>https://twitter.com/OpenAI/status/1720833435541946468</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We are building a new Preparedness team to evaluate, forecast, and protect against the risks of highly-capable AI—from today's models to AGI. Goal: a...]]></title>
+            <description><![CDATA[We are building a new Preparedness team to evaluate, forecast, and protect against the risks of highly-capable AI—from today's models to AGI.<br><br>Goal: a quantitative, evidence-based methodology, beyond what is accepted as possible: https://openai.com/blog/frontier-risk-and-preparedness]]></description>
+            <pubDate>Thu, 26 Oct 2023 17:10:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1717589499533042034</guid>
+            <link>https://twitter.com/OpenAI/status/1717589499533042034</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re The Frontier Model Forum is an industry body co-founded with @AnthropicAI, @Google and @Microsoft. We will focus on three key areas within AI safet...]]></title>
+            <description><![CDATA[Re The Frontier Model Forum is an industry body co-founded with @AnthropicAI, @Google and @Microsoft. We will focus on three key areas within AI safety over the next year:<br><br>- Identifying best practices<br>- Advancing AI safety research<br>- Facilitating information sharing among companies… https://twitter.com/i/web/status/1717176701384577447]]></description>
+            <pubDate>Wed, 25 Oct 2023 13:50:03 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1717176375013228736</guid>
+            <link>https://twitter.com/OpenAI/status/1717176375013228736</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Today, we are announcing Chris Meserole as the Executive Director of the Frontier Model Forum, and the creation of a new AI Safety Fund, a $10 million...]]></title>
+            <description><![CDATA[Today, we are announcing Chris Meserole as the Executive Director of the Frontier Model Forum, and the creation of a new AI Safety Fund, a $10 million initiative to promote research in the field of AI safety. https://openai.com/blog/frontier-model-forum-updates]]></description>
+            <pubDate>Wed, 25 Oct 2023 13:48:46 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1717176375013228736</guid>
+            <link>https://twitter.com/OpenAI/status/1717176375013228736</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
