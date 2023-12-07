@@ -15,88 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 07 Dec 2023 03:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 02:31:17 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[MotionCtrl: A Unified and Flexible Motion Controller for Video Generation]]></title>
-            <description><![CDATA[Motions in a video primarily consist of camera motion, induced by camera movement, and object motion, resulting from object movement. Accurate control of both camera and object motion is essential for video generation. However, existing works either mainly focus on one type of motion or do not clearly distinguish between the two, limiting their control capabilities and diversity. Therefore, this paper presents MotionCtrl, a unified and flexible motion controller for video generation designed to effectively and independently control camera and object motion. The architecture and training strategy of MotionCtrl are carefully devised, taking into account the inherent properties of camera motion, object motion, and imperfect training data. Compared to previous methods, MotionCtrl offers three main advantages: 1) It effectively and independently controls camera motion and object motion, enabling more fine-grained motion control and facilitating flexible and diverse combinations of both types of motion. 2) Its motion conditions are determined by camera poses and trajectories, which are appearance-free and minimally impact the appearance or shape of objects in generated videos. 3) It is a relatively generalizable model that can adapt to a wide array of camera poses and trajectories once trained. Extensive qualitative and quantitative experiments have been conducted to demonstrate the superiority of MotionCtrl over existing methods.]]></description>
-            <pubDate>Thu, 07 Dec 2023 03:06:23 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.03641</guid>
-            <link>https://arxiv.org/abs/2312.03641</link>
-            
-            
-            
-            <author><![CDATA[Zhouxia Wang, Ziyang Yuan, Xintao Wang, Tianshui Chen, Menghan Xia, Ping Luo, Ying Shan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[MagicStick: Controllable Video Editing via Control Handle Transformations]]></title>
-            <description><![CDATA[Text-based video editing has recently attracted considerable interest in changing the style or replacing the objects with a similar structure. Beyond this, we demonstrate that properties such as shape, size, location, motion, etc., can also be edited in videos. Our key insight is that the keyframe transformations of the specific internal feature (e.g., edge maps of objects or human pose), can easily propagate to other frames to provide generation guidance. We thus propose MagicStick, a controllable video editing method that edits the video properties by utilizing the transformation on the extracted internal control signals. In detail, to keep the appearance, we inflate both the pretrained image diffusion model and ControlNet to the temporal dimension and train low-rank adaptions (LORA) layers to fit the specific scenes. Then, in editing, we perform an inversion and editing framework. Differently, finetuned ControlNet is introduced in both inversion and generation for attention guidance with the proposed attention remix between the spatial attention maps of inversion and editing. Yet succinct, our method is the first method to show the ability of video property editing from the pre-trained text-to-image model. We present experiments on numerous examples within our unified framework. We also compare with shape-aware text-based editing and handcrafted motion video generation, demonstrating our superior temporal consistency and editing capability than previous works. The code and models will be made publicly available.]]></description>
-            <pubDate>Thu, 07 Dec 2023 02:57:15 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.03047</guid>
-            <link>https://arxiv.org/abs/2312.03047</link>
-            
-            
-            
-            <author><![CDATA[Yue Ma, Xiaodong Cun, Yingqing He, Chenyang Qi, Xintao Wang, Ying Shan, Xiu Li, Qifeng Chen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Self-conditioned Image Generation via Generating Representations]]></title>
-            <description><![CDATA[This paper presents Representation-Conditioned image Generation (RCG), a simple yet effective image generation framework which sets a new benchmark in class-unconditional image generation. RCG does not condition on any human annotations. Instead, it conditions on a self-supervised representation distribution which is mapped from the image distribution using a pre-trained encoder. During generation, RCG samples from such representation distribution using a representation diffusion model (RDM), and employs a pixel generator to craft image pixels conditioned on the sampled representation. Such a design provides substantial guidance during the generative process, resulting in high-quality image generation. Tested on ImageNet 256times256, RCG achieves a Frechet Inception Distance (FID) of 3.31 and an Inception Score (IS) of 253.4. These results not only significantly improve the state-of-the-art of class-unconditional image generation but also rival the current leading methods in class-conditional image generation, bridging the long-standing performance gap between these two tasks. Code is available at https://github.com/LTH14/rcg.]]></description>
-            <pubDate>Thu, 07 Dec 2023 02:48:06 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.03701</guid>
-            <link>https://arxiv.org/abs/2312.03701</link>
-            
-            
-            
-            <author><![CDATA[Tianhong Li, Dina Katabi, Kaiming He]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Context Diffusion: In-Context Aware Image Generation]]></title>
-            <description><![CDATA[We propose Context Diffusion, a diffusion-based framework that enables image generation models to learn from visual examples presented in context. Recent work tackles such in-context learning for image generation, where a query image is provided alongside context examples and text prompts. However, the quality and fidelity of the generated images deteriorate when the prompt is not present, demonstrating that these models are unable to truly learn from the visual context. To address this, we propose a novel framework that separates the encoding of the visual context and preserving the structure of the query images. This results in the ability to learn from the visual context and text prompts, but also from either one of them. Furthermore, we enable our model to handle few-shot settings, to effectively address diverse in-context learning scenarios. Our experiments and user study demonstrate that Context Diffusion excels in both in-domain and out-of-domain tasks, resulting in an overall enhancement in image quality and fidelity compared to counterpart models.]]></description>
-            <pubDate>Thu, 07 Dec 2023 02:45:23 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.03584</guid>
-            <link>https://arxiv.org/abs/2312.03584</link>
-            
-            
-            
-            <author><![CDATA[Ivona Najdenkoska, Animesh Sinha, Abhimanyu Dubey, Dhruv Mahajan, Vignesh Ramanathan, Filip Radenovic]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Kandinsky 3.0 Technical Report]]></title>
-            <description><![CDATA[We present Kandinsky 3.0, a large-scale text-to-image generation model based on latent diffusion, continuing the series of text-to-image Kandinsky models and reflecting our progress to achieve higher quality and realism of image generation. Compared to previous versions of Kandinsky 2.x, Kandinsky 3.0 leverages a two times larger U-Net backbone, a ten times larger text encoder and removes diffusion mapping. We describe the architecture of the model, the data collection procedure, the training technique, and the production system of user interaction. We focus on the key components that, as we have identified as a result of a large number of experiments, had the most significant impact on improving the quality of our model compared to the others. By our side-by-side comparisons, Kandinsky becomes better in text understanding and works better on specific domains. Project page: https://ai-forever.github.io/Kandinsky-3]]></description>
-            <pubDate>Thu, 07 Dec 2023 02:39:01 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.03511</guid>
-            <link>https://arxiv.org/abs/2312.03511</link>
-            
-            
-            
-            <author><![CDATA[Vladimir Arkhipkin, Andrei Filatov, Viacheslav Vasilev, Anastasia Maltseva, Said Azizov, Igor Pavlov, Julia Agafonova, Andrey Kuznetsov, Denis Dimitrov]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Cache Me if You Can: Accelerating Diffusion Models through Block Caching]]></title>
