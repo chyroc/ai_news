@@ -15,8 +15,72 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 07 Dec 2023 03:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 05:26:12 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[DreamComposer: Controllable 3D Object Generation via Multi-View Conditions]]></title>
+            <description><![CDATA[Utilizing pre-trained 2D large-scale generative models, recent works are capable of generating high-quality novel views from a single in-the-wild image. However, due to the lack of information from multiple views, these works encounter difficulties in generating controllable novel views. In this paper, we present DreamComposer, a flexible and scalable framework that can enhance existing view-aware diffusion models by injecting multi-view conditions. Specifically, DreamComposer first uses a view-aware 3D lifting module to obtain 3D representations of an object from multiple views. Then, it renders the latent features of the target view from 3D representations with the multi-view feature fusion module. Finally the target view features extracted from multi-view inputs are injected into a pre-trained diffusion model. Experiments show that DreamComposer is compatible with state-of-the-art diffusion models for zero-shot novel view synthesis, further enhancing them to generate high-fidelity novel view images with multi-view conditions, ready for controllable 3D object reconstruction and various other applications.]]></description>
+            <pubDate>Thu, 07 Dec 2023 03:49:34 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.03611</guid>
+            <link>https://arxiv.org/abs/2312.03611</link>
+            
+            
+            
+            <author><![CDATA[Yunhan Yang, Yukun Huang, Xiaoyang Wu, Yuan-Chen Guo, Song-Hai Zhang, Hengshuang Zhao, Tong He, Xihui Liu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Schrodinger Bridges Beat Diffusion Models on Text-to-Speech Synthesis]]></title>
+            <description><![CDATA[In text-to-speech (TTS) synthesis, diffusion models have achieved promising generation quality. However, because of the pre-defined data-to-noise diffusion process, their prior distribution is restricted to a noisy representation, which provides little information of the generation target. In this work, we present a novel TTS system, Bridge-TTS, making the first attempt to substitute the noisy Gaussian prior in established diffusion-based TTS methods with a clean and deterministic one, which provides strong structural information of the target. Specifically, we leverage the latent representation obtained from text input as our prior, and build a fully tractable Schrodinger bridge between it and the ground-truth mel-spectrogram, leading to a data-to-data process. Moreover, the tractability and flexibility of our formulation allow us to empirically study the design spaces such as noise schedules, as well as to develop stochastic and deterministic samplers. Experimental results on the LJ-Speech dataset illustrate the effectiveness of our method in terms of both synthesis quality and sampling efficiency, significantly outperforming our diffusion counterpart Grad-TTS in 50-step/1000-step synthesis and strong fast TTS models in few-step scenarios. Project page: https://bridge-tts.github.io/]]></description>
+            <pubDate>Thu, 07 Dec 2023 03:43:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.03491</guid>
+            <link>https://arxiv.org/abs/2312.03491</link>
+            
+            
+            
+            <author><![CDATA[Zehua Chen, Guande He, Kaiwen Zheng, Xu Tan, Jun Zhu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians]]></title>
+            <description><![CDATA[Creating high-fidelity 3D head avatars has always been a research hotspot, but there remains a great challenge under lightweight sparse view setups. In this paper, we propose Gaussian Head Avatar represented by controllable 3D Gaussians for high-fidelity head avatar modeling. We optimize the neutral 3D Gaussians and a fully learned MLP-based deformation field to capture complex expressions. The two parts benefit each other, thereby our method can model fine-grained dynamic details while ensuring expression accuracy. Furthermore, we devise a well-designed geometry-guided initialization strategy based on implicit SDF and Deep Marching Tetrahedra for the stability and convergence of the training procedure. Experiments show our approach outperforms other state-of-the-art sparse-view methods, achieving ultra high-fidelity rendering quality at 2K resolution even under exaggerated expressions.]]></description>
+            <pubDate>Thu, 07 Dec 2023 03:35:44 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.03029</guid>
+            <link>https://arxiv.org/abs/2312.03029</link>
+            
+            
+            
+            <author><![CDATA[Yuelang Xu, Benwang Chen, Zhe Li, Hongwen Zhang, Lizhen Wang, Zerong Zheng, Yebin Liu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting]]></title>
+            <description><![CDATA[We have recently seen tremendous progress in photo-real human modeling and rendering. Yet, efficiently rendering realistic human performance and integrating it into the rasterization pipeline remains challenging. In this paper, we present HiFi4G, an explicit and compact Gaussian-based approach for high-fidelity human performance rendering from dense footage. Our core intuition is to marry the 3D Gaussian representation with non-rigid tracking, achieving a compact and compression-friendly representation. We first propose a dual-graph mechanism to obtain motion priors, with a coarse deformation graph for effective initialization and a fine-grained Gaussian graph to enforce subsequent constraints. Then, we utilize a 4D Gaussian optimization scheme with adaptive spatial-temporal regularizers to effectively balance the non-rigid prior and Gaussian updating. We also present a companion compression scheme with residual compensation for immersive experiences on various platforms. It achieves a substantial compression rate of approximately 25 times, with less than 2MB of storage per frame. Extensive experiments demonstrate the effectiveness of our approach, which significantly outperforms existing approaches in terms of optimization speed, rendering quality, and storage overhead.]]></description>
+            <pubDate>Thu, 07 Dec 2023 03:28:35 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.03461</guid>
+            <link>https://arxiv.org/abs/2312.03461</link>
+            
+            
+            
+            <author><![CDATA[Yuheng Jiang, Zhehao Shen, Penghao Wang, Zhuo Su, Yu Hong, Yingliang Zhang, Jingyi Yu, Lan Xu]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces]]></title>
