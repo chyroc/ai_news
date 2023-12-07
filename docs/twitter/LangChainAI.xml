@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 07 Dec 2023 20:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 18:27:50 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[⭐️ Multi-modal RAG public benchmark ⭐️ Multi-modal LLMs are one of the most important emerging trends for the coming year. They promise to unlock ...]]></title>
-            <description><![CDATA[⭐️ Multi-modal RAG public benchmark ⭐️<br><br>Multi-modal LLMs are one of the most important emerging trends for the coming year. <br><br>They promise to unlock new types of Q+A assistants over visual content, but multi-modal RAG architectures remain uncertain.<br><br>We are releasing a small… https://twitter.com/i/web/status/1732839745112449142<br><img style="" src="https://pbs.twimg.com/media/GAxGO3ybIAAjtqz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 07 Dec 2023 19:09:24 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732839745112449142</guid>
-            <link>https://twitter.com/LangChainAI/status/1732839745112449142</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: 🤖 Connery Actions Tool for Agents 🤖 @connery_io is an OSS plugin infrastructure you can use with @LangChainAI JS/TS agents in 0.0....]]></title>
@@ -305,6 +289,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 05 Dec 2023 20:12:51 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/UnstructuredIO/status/1732130938748870934</guid>
             <link>https://twitter.com/UnstructuredIO/status/1732130938748870934</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT WFH: 🧐AGI is cool and all but have you tried generating JSON? Anyone building something useful with LLMs knows it has to integrate well both wit...]]></title>
+            <description><![CDATA[RT WFH<br>🧐AGI is cool and all but have you tried generating JSON?<br><br>Anyone building something useful with LLMs knows it has to integrate well both with humans and other machines.  Our extraction benchmark tests LLMs for both valid and correct outputs. Check it out!<br><img style="" src="https://pbs.twimg.com/media/GAmsp1eaAAAcMEB?format=png&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>LangChain: ⛏️Anyone building with LLMs knows structured extraction is key.<br><br>Today we are releasing a new extraction benchmark testing LLM ability to infer structured data from chat logs. We've also shared some initial results below:<br><br>🔗https://blog.langchain.dev/extraction-benchmarking/<br><br><img style="" src="https://pbs.twimg.com/media/GAmoRHAaAAAVcDZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Tue, 05 Dec 2023 18:32:45 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/WHinthorn/status/1732105744709976257</guid>
+            <link>https://twitter.com/WHinthorn/status/1732105744709976257</link>
             
             
             
