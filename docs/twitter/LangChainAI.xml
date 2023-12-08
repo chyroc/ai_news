@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 08 Dec 2023 01:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 03:43:44 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Lance Martin: I've been testing a few different approaches for multi-modal RAG / QA over visual content w/ GPT-4V. I built an eval set on an invest...]]></title>
+            <description><![CDATA[RT Lance Martin<br>I've been testing a few different approaches for multi-modal RAG / QA over visual content w/ GPT-4V. I built an eval set on an investor presentation (Q3 earnings from @datadoghq) as a test case. Results / learnings: <br><br>(1) Text loading: As a base-case, I loaded the slide deck w/ a… https://twitter.com/i/web/status/1732862263026135197<br><img style="" src="https://pbs.twimg.com/media/GAxYeQqbAAAddFg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 07 Dec 2023 20:38:53 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/RLanceMartin/status/1732862263026135197</guid>
+            <link>https://twitter.com/RLanceMartin/status/1732862263026135197</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[⭐️ Multi-modal RAG public benchmark ⭐️ Multi-modal LLMs are one of the most important emerging trends for the coming year. They promise to unlock ...]]></title>
@@ -289,22 +305,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 06 Dec 2023 15:31:49 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1732422601182478531</guid>
             <link>https://twitter.com/Roger_M_Taylor/status/1732422601182478531</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT UnstructuredIO: RAG with unstructured and semi-structured data presents unique challenges (and opportunities). In this blog we worked on a real-wor...]]></title>
-            <description><![CDATA[RT UnstructuredIO<br>RAG with unstructured and semi-structured data presents unique challenges (and opportunities). In this blog we worked on a real-world healthcare use case with @LangChainAI to test emerging approaches related to Multi-Vector Retrieval. The challenge here was how to empower… https://twitter.com/i/web/status/1732130938748870934<br><img style="" src="https://pbs.twimg.com/media/GAnD325W4AAUDTT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 20:12:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/UnstructuredIO/status/1732130938748870934</guid>
-            <link>https://twitter.com/UnstructuredIO/status/1732130938748870934</link>
             
             
             
