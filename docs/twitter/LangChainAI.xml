@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 08 Dec 2023 16:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 17:41:20 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: With Gemini's release, it's clear multimodality is here Thanks to @Saboo_Shubham_ for highlighting the great work @RLanceMartin did...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>With Gemini's release, it's clear multimodality is here<br><br>Thanks to @Saboo_Shubham_ for highlighting the great work @RLanceMartin did around creating a multimodal template!<div class="rsshub-quote"><br><br>Shubham Saboo: Multimodal RAG templates by LangChain <br><br>Slide decks are powerhouse of knowledge, yet their visual elements are out of the reach for most of the RAG applications. <br><br>Enter Multi-modal LLMs like GPT-4V that can enable Q+A assistants to interact seamlessly with the visual content of… https://twitter.com/i/web/status/1733002954720895228<br><br><video src="https://video.twimg.com/ext_tw_video/1733002817420357632/pu/vid/avc1/1364x720/f4XS3uv-Y5IqsjYQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733002817420357632/pu/img/yDiePeaXUM3rDGei.jpg"></video></div>]]></description>
+            <pubDate>Fri, 08 Dec 2023 16:53:14 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1733167866042843420</guid>
+            <link>https://twitter.com/hwchase17/status/1733167866042843420</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Shubham Saboo: Multimodal RAG templates by LangChain Slide decks are powerhouse of knowledge, yet their visual elements are out of the reach for mo...]]></title>
+            <description><![CDATA[RT Shubham Saboo<br>Multimodal RAG templates by LangChain <br><br>Slide decks are powerhouse of knowledge, yet their visual elements are out of the reach for most of the RAG applications. <br><br>Enter Multi-modal LLMs like GPT-4V that can enable Q+A assistants to interact seamlessly with the visual content of… https://twitter.com/i/web/status/1733002954720895228<br><video src="https://video.twimg.com/ext_tw_video/1733002817420357632/pu/vid/avc1/1364x720/f4XS3uv-Y5IqsjYQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733002817420357632/pu/img/yDiePeaXUM3rDGei.jpg"></video>]]></description>
+            <pubDate>Fri, 08 Dec 2023 05:57:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Saboo_Shubham_/status/1733002954720895228</guid>
+            <link>https://twitter.com/Saboo_Shubham_/status/1733002954720895228</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Lance Martin: I've been testing a few different approaches for multi-modal RAG / QA over visual content w/ GPT-4V. I built an eval set on an invest...]]></title>
@@ -305,38 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 06 Dec 2023 15:31:49 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1732422601182478531</guid>
             <link>https://twitter.com/Roger_M_Taylor/status/1732422601182478531</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Vinit Agrawal: Made a quick video to show how I made a Slack (@SlackHQ) AI Agent, using Langchain's (@LangChainAI) Agent module. Take a look https:...]]></title>
-            <description><![CDATA[RT Vinit Agrawal<br>Made a quick video to show how I made a Slack (@SlackHQ) AI Agent, using Langchain's (@LangChainAI) Agent module. Take a look<br><br>https://www.youtube.com/watch?v=HdbH7LRIQg8<br><br>#GenAI #aiagents]]></description>
-            <pubDate>Tue, 05 Dec 2023 18:20:21 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/volume88/status/1732102626052014499</guid>
-            <link>https://twitter.com/volume88/status/1732102626052014499</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Anil Chandra Naidu Matcha: Now create an AI chatbot connected to 6000+ tools and embed on your site 🔥🔥 Some incredible use-cases - Gmail assi...]]></title>
-            <description><![CDATA[RT Anil Chandra Naidu Matcha<br>Now create an AI chatbot connected to 6000+ tools and embed on your site 🔥🔥 <br><br>Some incredible use-cases    <br><br>- Gmail assistant to read/reply to emails  <br>- Calendar assistant to share your calendar via chat  <br>- Slack assistant to manage your community    <br><br>and many more… https://twitter.com/i/web/status/1732056019696771166<br><img style="" src="https://pbs.twimg.com/media/GAl_wvebQAAlRrh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 05 Dec 2023 15:15:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/matchaman11/status/1732056019696771166</guid>
-            <link>https://twitter.com/matchaman11/status/1732056019696771166</link>
             
             
             
