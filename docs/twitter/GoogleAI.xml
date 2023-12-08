@@ -21,24 +21,8 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Fri, 08 Dec 2023 20:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 18:01:54 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Today on the blog learn about a new algorithm for sparsity-preserving differentially private training, called adaptive filtering-enabled sparse traini...]]></title>
-            <description><![CDATA[Today on the blog learn about a new algorithm for sparsity-preserving differentially private training, called adaptive filtering-enabled sparse training (DP-AdaFEST), which is particularly relevant for applications in recommendation systems and #NLP. → https://goo.gle/46V5Bx0<br><img style="" src="https://pbs.twimg.com/media/GA2MRoObQAAfgMg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 08 Dec 2023 18:44:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733195877479825626</guid>
-            <link>https://twitter.com/GoogleAI/status/1733195877479825626</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Stop by the #EMNLP2023 Google booth today at 3:30 PM for a Q&A session on Differentiable Search Indices (DSIs), DSI++, and scaling generative retrieva...]]></title>
@@ -334,6 +318,22 @@
             <pubDate>Tue, 28 Nov 2023 19:15:07 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1729579692359831731</guid>
             <link>https://twitter.com/GoogleAI/status/1729579692359831731</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We’re excited to share Google Research’s contributions to Call Screen on Pixel phones, a feature that helps users find out who is calling and why pr...]]></title>
+            <description><![CDATA[We’re excited to share Google Research’s contributions to Call Screen on Pixel phones, a feature that helps users find out who is calling and why prior to answering by leveraging on-device ASR to provide real-time transcription of callers' requests. More →https://goo.gle/3sM1166<br><video src="https://video.twimg.com/tweet_video/GACkiE7akAA5dSZ.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GACkiE7akAA5dSZ.jpg"></video>]]></description>
+            <pubDate>Tue, 28 Nov 2023 18:10:53 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1729563526673412400</guid>
+            <link>https://twitter.com/GoogleAI/status/1729563526673412400</link>
             
             
             
