@@ -24,8 +24,72 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 08 Dec 2023 22:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 00:35:39 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Peter Boshard Olson: Clear explanation from @LangChainAI's @hwchase17: There are 4 main ways to give an AI app background info: 1. Instruction prom...]]></title>
+            <description><![CDATA[RT Peter Boshard Olson<br>Clear explanation from @LangChainAI's @hwchase17:<br><br>There are 4 main ways to give an AI app background info:<br>1. Instruction prompting<br>2. Few-shot examples<br>3. RAG<br>4. Fine-tuning <br><br>It hadn't occurred to me that these are all ways of accomplishing the same broad goal. 🧵(1/2)<br><img style="" src="https://pbs.twimg.com/media/GA21vTfbwAAeVH8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 08 Dec 2023 21:59:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/peterbolson/status/1733244917412159764</guid>
+            <link>https://twitter.com/peterbolson/status/1733244917412159764</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Colin McNamara: Come join the Austin LangChain Users group In-person @LangChainAI meetup on 12/14!]]></title>
+            <description><![CDATA[RT Colin McNamara<br>Come join the Austin LangChain Users group In-person @LangChainAI meetup on 12/14!<div class="rsshub-quote"><br><br>Austin LangChain: Don't miss out on networking and expert insights in Austin's AI community. See you there! 🔗 https://www.meetup.com/austin-langchain-ai-group/events/297837958/ #Networking #AICommunity<br></div>]]></description>
+            <pubDate>Fri, 08 Dec 2023 20:19:52 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/colinmcnamara/status/1733219866360865212</guid>
+            <link>https://twitter.com/colinmcnamara/status/1733219866360865212</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Austin LangChain: Re Don't miss out on networking and expert insights in Austin's AI community. See you there! 🔗 https://www.meetup.com/austin-l...]]></title>
+            <description><![CDATA[RT Austin LangChain<br>Re Don't miss out on networking and expert insights in Austin's AI community. See you there! 🔗 https://www.meetup.com/austin-langchain-ai-group/events/297837958/ #Networking #AICommunity]]></description>
+            <pubDate>Fri, 08 Dec 2023 20:18:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/AustinLangChain/status/1733219434410500348</guid>
+            <link>https://twitter.com/AustinLangChain/status/1733219434410500348</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Yoko: [NEW LAUNCH] 0/ ✨AI-tamago🐣: A local-ready LLM-generated and LLM-driven tamagotchi with thoughts and feelings. 100% Javascript and costs ...]]></title>
+            <description><![CDATA[RT Yoko<br>[NEW LAUNCH] 0/ ✨AI-tamago🐣: A local-ready LLM-generated and LLM-driven tamagotchi with thoughts and feelings. 100% Javascript and costs $0 to run. 🧵https://github.com/ykhli/AI-tamago<br><br>Stack:<br>- 🎮 Game state &amp; reliable AI calls: @inngest<br>- 🦙 Inference: @Ollama_ai (local), @OpenAI,… https://twitter.com/i/web/status/1733216372765950260<br><video src="https://video.twimg.com/ext_tw_video/1733211506962309120/pu/vid/avc1/1060x720/ne3TIpItV-NXEpjL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733211506962309120/pu/img/h37jrnFzuyNpu9a1.jpg"></video>]]></description>
+            <pubDate>Fri, 08 Dec 2023 20:05:59 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/stuffyokodraws/status/1733216372765950260</guid>
+            <link>https://twitter.com/stuffyokodraws/status/1733216372765950260</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[See how InstaMorgage is using LangChain 🦜🔗 and LangSmith🦜🛠️ to build a premium product for their customers. MortgageAI, ContentAI, and Po...]]></title>
@@ -204,22 +268,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[RT James Briggs: 🔥 Exploring @LangChainAI's expression language (LCEL) — explaining the syntax, how the interesting | operators work under the hoo...]]></title>
-            <description><![CDATA[RT James Briggs<br>🔥 Exploring @LangChainAI's expression language (LCEL) — explaining the syntax, how the interesting | operators work under the hood, and how to build parallel chains w/ custom functions + @cohere embeds<br><br>https://youtu.be/O0dUOtOIrfs<br><br>#GenAI #ArtificialInteligence]]></description>
-            <pubDate>Thu, 07 Dec 2023 11:30:15 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/jamescalam/status/1732724195631722543</guid>
-            <link>https://twitter.com/jamescalam/status/1732724195631722543</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Sunghyun Cho: I ₩ the Backdrop Build hackathon! 👑👑👑 Thank you so much for the grant @withBackdrop @AWSstartups! Built with @nextjs server...]]></title>
             <description><![CDATA[RT Sunghyun Cho<br>I ₩ the Backdrop Build hackathon! 👑👑👑<br><br>Thank you so much for the grant @withBackdrop @AWSstartups!<br><br>Built with @nextjs server actions and @vercel postgres, @LangChainAI, @OpenAI, @Azure cognitive services, and @resendlabs, @docusaurus and many more!<br><img style="" src="https://pbs.twimg.com/media/GAvKf0LbUAAXGMu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 07 Dec 2023 09:58:36 GMT</pubDate>
@@ -252,22 +300,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[💻LangChain x Pinecone SF Hacking Hours Join us and @jamescalam from @pinecone for some fun hacking hours next Thursday in SF! Meet other builders i...]]></title>
-            <description><![CDATA[💻LangChain x Pinecone SF Hacking Hours<br><br>Join us and @jamescalam from @pinecone for some fun hacking hours next Thursday in SF!<br><br>Meet other builders in the space, jam on end-of-year projects, and maybe demo something by the end!<br><br>Register here: https://www.pinecone.io/community/events/pinecone-x-langchain-meetup-sf-community-hacking-hours/]]></description>
-            <pubDate>Wed, 06 Dec 2023 21:18:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732509727182012894</guid>
-            <link>https://twitter.com/LangChainAI/status/1732509727182012894</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Miguel Otero Pedrido: Too much to read about #Gemini ? Too many articles and blog posts accumulated? Powered by @LangChainAI and @streamlit , my Ha...]]></title>
             <description><![CDATA[RT Miguel Otero Pedrido<br>Too much to read about  #Gemini ? <br>Too many articles and blog posts accumulated? <br><br>Powered by @LangChainAI  and @streamlit , my HackerNews bot allows me to push my laziness to unsuspected limits.<br><br>Code: https://github.com/neural-maze/talking_with_hn<br><video src="https://video.twimg.com/ext_tw_video/1732462793339650048/pu/vid/avc1/822x720/WYNDAQZw0y2ZGhkr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1732462793339650048/pu/img/hTxAAHZzzpE2JAwo.jpg"></video>]]></description>
             <pubDate>Wed, 06 Dec 2023 18:12:45 GMT</pubDate>
@@ -289,38 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 06 Dec 2023 18:10:43 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/raoufdevrel/status/1732462587172814896</guid>
             <link>https://twitter.com/raoufdevrel/status/1732462587172814896</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜🥼Streamlining Healthcare Compliance with AI This collaborative effort by Independent Health, LangChain, and @UnstructuredIO dives deep into how...]]></title>
-            <description><![CDATA[🦜🥼Streamlining Healthcare Compliance with AI<br><br>This collaborative effort by Independent Health, LangChain, and @UnstructuredIO dives deep into how to use AI to get high quality, reliable answers in a domain that requires them (healthcare)<br><br>Read it here: https://unstructured.io/blog/streamlining-healthcare-compliance-with-ai<br><img style="" src="https://pbs.twimg.com/media/GAnThgJasAIwW9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 06 Dec 2023 17:21:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732450076260528153</guid>
-            <link>https://twitter.com/LangChainAI/status/1732450076260528153</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Nuclia · AI Search: Get RAG from unstructured data in seconds with https://nuclia.com + @LangChainAI]]></title>
-            <description><![CDATA[RT Nuclia · AI Search<br>Get RAG from unstructured data in seconds with https://nuclia.com + @LangChainAI<br><video src="https://video.twimg.com/tweet_video/GArcfxoXQAAoCkL.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GArcfxoXQAAoCkL.jpg"></video>]]></description>
-            <pubDate>Wed, 06 Dec 2023 16:39:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/NucliaAI/status/1732439507016827314</guid>
-            <link>https://twitter.com/NucliaAI/status/1732439507016827314</link>
             
             
             
