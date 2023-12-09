@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 09 Dec 2023 07:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 04:55:37 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT sehoonkim: How can we make LLM agents work together efficiently on complex tasks at a large scale? 🚨Introducing LLMCompiler🦙🛠️, a tool th...]]></title>
-            <description><![CDATA[RT sehoonkim<br>How can we make LLM agents work together efficiently on complex tasks at a large scale?<br><br>🚨Introducing LLMCompiler🦙🛠️, a tool that compiles an effective plan for executing multiple tasks in parallel.<br><br>It helps create scalable LLM applications, identifies tasks for parallel… https://twitter.com/i/web/status/1733341108875473309<br><img style="" src="https://pbs.twimg.com/media/GA4QCHiaoAABLHA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 09 Dec 2023 04:21:38 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/sehoonkim418/status/1733341108875473309</guid>
-            <link>https://twitter.com/sehoonkim418/status/1733341108875473309</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Peter Boshard Olson: Clear explanation from @LangChainAI's @hwchase17: There are 4 main ways to give an AI app background info: 1. Instruction prom...]]></title>
@@ -113,22 +97,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Fri, 08 Dec 2023 19:36:44 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1733209012458651767</guid>
             <link>https://twitter.com/LangChainAI/status/1733209012458651767</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Greg Kamradt: visualizing text splitting & chunking strategies ChunkViz .com I thought I remembered a tool to visualize text chunking, but I couldn...]]></title>
-            <description><![CDATA[RT Greg Kamradt<br>visualizing text splitting &amp; chunking strategies<br><br>ChunkViz .com <br><br>I thought I remembered a tool to visualize text chunking, but I couldn't find it, so I built one<br><br>I didn't realize it would be so visually pleasing to tinker with<br><br>4 different @LangChainAI splitters featured<br><video src="https://video.twimg.com/ext_tw_video/1733205561733496833/pu/vid/avc1/1280x720/J5M7F8pzrB78Hd2m.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733205561733496833/pu/img/IYokESMda8bUGlrX.jpg"></video><div class="rsshub-quote"><br><br>Greg Kamradt: I remember seeing a chunk visualizer a while back<br><br>It would highlight the chunks found in your text according to an algorithm, chunk size, overlap you specified<br><br>Can't find the link - anyone have it?<br><br>(not token visualizer, chunks)<br><br>The end result would look like this picture<br><br><img style="" src="https://pbs.twimg.com/media/GAwFKSobMAAOnUN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Fri, 08 Dec 2023 19:32:55 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GregKamradt/status/1733208049513611339</guid>
-            <link>https://twitter.com/GregKamradt/status/1733208049513611339</link>
             
             
             
@@ -257,6 +225,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 07 Dec 2023 14:42:54 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732772677566513447</guid>
             <link>https://twitter.com/LangChainAI/status/1732772677566513447</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A deep dive on LangChain Expression Language from one of the best educators out there]]></title>
+            <description><![CDATA[A deep dive on LangChain Expression Language from one of the best educators out there<div class="rsshub-quote"><br><br>James Briggs: 🔥 Exploring @LangChainAI's expression language (LCEL) — explaining the syntax, how the interesting | operators work under the hood, and how to build parallel chains w/ custom functions + @cohere embeds<br><br>https://youtu.be/O0dUOtOIrfs<br><br>#GenAI #ArtificialInteligence<br></div>]]></description>
+            <pubDate>Thu, 07 Dec 2023 14:32:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732770081485062544</guid>
+            <link>https://twitter.com/LangChainAI/status/1732770081485062544</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Patrick Loeber: Want to run LLMs locally on your Laptop?🤖💻 Here's a quick overview of the 5 best frameworks to run LLMs locally: 1. Ollama Ol...]]></title>
+            <description><![CDATA[RT Patrick Loeber<br>Want to run LLMs locally on your Laptop?🤖💻<br><br>Here's a quick overview of the 5 best frameworks to run LLMs locally:<br><br>1. Ollama<br>Ollama allows you to run LLMs locally through your command line and is probably the easiest framework to get started with.<br><br>Just use the installer or the… https://twitter.com/i/web/status/1732769003565678915]]></description>
+            <pubDate>Thu, 07 Dec 2023 14:28:18 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/patloeber/status/1732769003565678915</guid>
+            <link>https://twitter.com/patloeber/status/1732769003565678915</link>
             
             
             
