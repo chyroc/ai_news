@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 10 Dec 2023 17:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 19:27:32 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: Time for some @LangChainAI JS/TS contributor thank yous! BTW: We've been cooking up some ambitious changes, so apologies for slower than...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>Time for some @LangChainAI JS/TS contributor thank yous!<br><br>BTW: We've been cooking up some ambitious changes, so apologies for slower than usual reviews the past few weeks. Huge thanks to:<br><br>@tsukasa_oishi for a vital fix for prompts created from large numbers of messages<br><br>(1/15)<br><video src="https://video.twimg.com/tweet_video/GBARpg0awAADac4.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GBARpg0awAADac4.jpg"></video>]]></description>
+            <pubDate>Sun, 10 Dec 2023 17:43:24 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1733905266981339485</guid>
+            <link>https://twitter.com/Hacubu/status/1733905266981339485</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[💬AnythingLLM: a private ChatGPT to chat with anything An efficient🚤, customizable🧩, and open-source enterprise-ready document chatbot solutio...]]></title>
@@ -321,22 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 07 Dec 2023 19:09:24 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732839745112449142</guid>
             <link>https://twitter.com/LangChainAI/status/1732839745112449142</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 🤖 Connery Actions Tool for Agents 🤖 @connery_io is an OSS plugin infrastructure you can use with @LangChainAI JS/TS agents in 0.0....]]></title>
-            <description><![CDATA[RT Jacob Lee<br>🤖 Connery Actions Tool for Agents 🤖<br><br>@connery_io is an OSS plugin infrastructure you can use with @LangChainAI JS/TS agents in 0.0.203!<br><br>Define a set of actions using integrations like Gmail, and let them handle auth + secret management.<br><br>s/o machulav!<br><br>https://js.langchain.com/docs/integrations/toolkits/connery<br><img style="" src="https://pbs.twimg.com/media/GAwzy64bIAEMHCY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 07 Dec 2023 17:38:47 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1732816938815136005</guid>
-            <link>https://twitter.com/Hacubu/status/1732816938815136005</link>
             
             
             
