@@ -24,88 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 11 Dec 2023 17:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 15:15:44 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Jo Kristian Bergum: The retriever abstraction in @LangChainAI is 🔥 Super easy to define custom retrievers, like in this example where we demonst...]]></title>
-            <description><![CDATA[RT Jo Kristian Bergum<br>The retriever abstraction in @LangChainAI is 🔥 <br><br>Super easy to define custom retrievers, like in this example where we demonstrate user level sharding with Vespa streaming mode!<div class="rsshub-quote"><br><br>Harrison Chase: A great article by @jobergum <br><br>@vespaengine is super powerful and has a lot of knobs that don't fit neatly into LangChain's idea of a vectorstore<br><br>This is exactly why we introduced the Retriever abstraction earlier this year - great to see how easy it is to implement a custom one<br></div>]]></description>
-            <pubDate>Mon, 11 Dec 2023 16:58:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/jobergum/status/1734256269484011793</guid>
-            <link>https://twitter.com/jobergum/status/1734256269484011793</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Harrison Chase: A great article by @jobergum @vespaengine is super powerful and has a lot of knobs that don't fit neatly into LangChain's idea of a...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>A great article by @jobergum <br><br>@vespaengine is super powerful and has a lot of knobs that don't fit neatly into LangChain's idea of a vectorstore<br><br>This is exactly why we introduced the Retriever abstraction earlier this year - great to see how easy it is to implement a custom one<div class="rsshub-quote"><br><br>LangChain: ⚡️Turbocharge RAG with LangChain and Vespa Streaming Mode for Sharded Data<br><br>@vespaengine's streaming search solution enables you to efficiently search over sharded data - perfect for when you want to store data grouped by user id<br><br>@jobergum wrote a great article (complete with… https://twitter.com/i/web/status/1734252293233791195<br><br><img style="" src="https://pbs.twimg.com/media/GBFNOw4aEAAGxuz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Mon, 11 Dec 2023 16:44:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1734252728451473754</guid>
-            <link>https://twitter.com/hwchase17/status/1734252728451473754</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[⚡️Turbocharge RAG with LangChain and Vespa Streaming Mode for Sharded Data @vespaengine's streaming search solution enables you to efficiently searc...]]></title>
-            <description><![CDATA[⚡️Turbocharge RAG with LangChain and Vespa Streaming Mode for Sharded Data<br><br>@vespaengine's streaming search solution enables you to efficiently search over sharded data - perfect for when you want to store data grouped by user id<br><br>@jobergum wrote a great article (complete with… https://twitter.com/i/web/status/1734252293233791195<br><img style="" src="https://pbs.twimg.com/media/GBFNOw4aEAAGxuz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 16:42:22 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734252293233791195</guid>
-            <link>https://twitter.com/LangChainAI/status/1734252293233791195</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Mayo Oshin: It was a pleasure to sponsor and deliver a multimodal AI presentation at the first ever African @LangChainAI meetup in collaboration wi...]]></title>
-            <description><![CDATA[RT Mayo Oshin<br>It was a pleasure to sponsor and deliver a multimodal AI presentation at the first ever African @LangChainAI meetup in collaboration with @mlopscommunity Lagos.<br><br>Topic:  'Building production ready LLM apps with LangChain.'<br><br>There's a ton of engineering + ML talent in Africa who… https://twitter.com/i/web/status/1734177844039655704<br><img style="" src="https://pbs.twimg.com/media/GBEHj0pXsAAokwK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 11:46:32 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/mayowaoshin/status/1734177844039655704</guid>
-            <link>https://twitter.com/mayowaoshin/status/1734177844039655704</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Git Maxd: Had a great day getting to know @lancedb - sick little OSS DB that stores vectors, metadata and multi-modal data (text, images, videos, e...]]></title>
-            <description><![CDATA[RT Git Maxd<br>Had a great day getting to know @lancedb - sick little OSS DB that stores vectors, metadata and multi-modal data (text, images, videos, etc).<br><br>Super simple integration with 🦜 @LangChainAI and support for Python and Javascript/Typescript. <br><br>Ingest anything.  Rust at its core.… https://twitter.com/i/web/status/1734106468717371791<br><img style="" src="https://pbs.twimg.com/media/GBDIpB0bwAAq6-E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 07:02:54 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GitMaxd/status/1734106468717371791</guid>
-            <link>https://twitter.com/GitMaxd/status/1734106468717371791</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: Time for some @LangChainAI JS/TS contributor thank yous! BTW: We've been cooking up some ambitious changes, so apologies for slower than...]]></title>
@@ -300,6 +220,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[See how InstaMorgage is using LangChain 🦜🔗 and LangSmith🦜🛠️ to build a premium product for their customers. MortgageAI, ContentAI, and Po...]]></title>
+            <description><![CDATA[See how InstaMorgage is using LangChain 🦜🔗 and LangSmith🦜🛠️ to build a premium product for their customers. MortgageAI, ContentAI, and PolicyAI take the tedium out the mortgage loan process.<br><br>💫 Speed to resolution has increased by an average of 67%, and error rates have… https://twitter.com/i/web/status/1733209012458651767]]></description>
+            <pubDate>Fri, 08 Dec 2023 19:36:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1733209012458651767</guid>
+            <link>https://twitter.com/LangChainAI/status/1733209012458651767</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Greg Kamradt: visualizing text splitting & chunking strategies ChunkViz .com I thought I remembered a tool to visualize text chunking, but I couldn...]]></title>
             <description><![CDATA[RT Greg Kamradt<br>visualizing text splitting &amp; chunking strategies<br><br>ChunkViz .com <br><br>I thought I remembered a tool to visualize text chunking, but I couldn't find it, so I built one<br><br>I didn't realize it would be so visually pleasing to tinker with<br><br>4 different @LangChainAI splitters featured<br><video src="https://video.twimg.com/ext_tw_video/1733205561733496833/pu/vid/avc1/1280x720/J5M7F8pzrB78Hd2m.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733205561733496833/pu/img/IYokESMda8bUGlrX.jpg"></video><div class="rsshub-quote"><br><br>Greg Kamradt: I remember seeing a chunk visualizer a while back<br><br>It would highlight the chunks found in your text according to an algorithm, chunk size, overlap you specified<br><br>Can't find the link - anyone have it?<br><br>(not token visualizer, chunks)<br><br>The end result would look like this picture<br><br><img style="" src="https://pbs.twimg.com/media/GAwFKSobMAAOnUN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
             <pubDate>Fri, 08 Dec 2023 19:32:55 GMT</pubDate>
@@ -337,6 +273,70 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Fri, 08 Dec 2023 17:08:57 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/FlowiseAI/status/1733171821606834403</guid>
             <link>https://twitter.com/FlowiseAI/status/1733171821606834403</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: With Gemini's release, it's clear multimodality is here Thanks to @Saboo_Shubham_ for highlighting the great work @RLanceMartin did...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>With Gemini's release, it's clear multimodality is here<br><br>Thanks to @Saboo_Shubham_ for highlighting the great work @RLanceMartin did around creating a multimodal template!<div class="rsshub-quote"><br><br>Shubham Saboo: Multimodal RAG templates by LangChain <br><br>Slide decks are powerhouse of knowledge, yet their visual elements are out of the reach for most of the RAG applications. <br><br>Enter Multi-modal LLMs like GPT-4V that can enable Q+A assistants to interact seamlessly with the visual content of… https://twitter.com/i/web/status/1733002954720895228<br><br><video src="https://video.twimg.com/ext_tw_video/1733002817420357632/pu/vid/avc1/1364x720/f4XS3uv-Y5IqsjYQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733002817420357632/pu/img/yDiePeaXUM3rDGei.jpg"></video></div>]]></description>
+            <pubDate>Fri, 08 Dec 2023 16:53:14 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1733167866042843420</guid>
+            <link>https://twitter.com/hwchase17/status/1733167866042843420</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Shubham Saboo: Multimodal RAG templates by LangChain Slide decks are powerhouse of knowledge, yet their visual elements are out of the reach for mo...]]></title>
+            <description><![CDATA[RT Shubham Saboo<br>Multimodal RAG templates by LangChain <br><br>Slide decks are powerhouse of knowledge, yet their visual elements are out of the reach for most of the RAG applications. <br><br>Enter Multi-modal LLMs like GPT-4V that can enable Q+A assistants to interact seamlessly with the visual content of… https://twitter.com/i/web/status/1733002954720895228<br><video src="https://video.twimg.com/ext_tw_video/1733002817420357632/pu/vid/avc1/1364x720/f4XS3uv-Y5IqsjYQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733002817420357632/pu/img/yDiePeaXUM3rDGei.jpg"></video>]]></description>
+            <pubDate>Fri, 08 Dec 2023 05:57:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Saboo_Shubham_/status/1733002954720895228</guid>
+            <link>https://twitter.com/Saboo_Shubham_/status/1733002954720895228</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Lance Martin: I've been testing a few different approaches for multi-modal RAG / QA over visual content w/ GPT-4V. I built an eval set on an invest...]]></title>
+            <description><![CDATA[RT Lance Martin<br>I've been testing a few different approaches for multi-modal RAG / QA over visual content w/ GPT-4V. I built an eval set on an investor presentation (Q3 earnings from @datadoghq) as a test case. Results / learnings: <br><br>(1) Text loading: As a base-case, I loaded the slide deck w/ a… https://twitter.com/i/web/status/1732862263026135197<br><img style="" src="https://pbs.twimg.com/media/GAxYeQqbAAAddFg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 07 Dec 2023 20:38:53 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/RLanceMartin/status/1732862263026135197</guid>
+            <link>https://twitter.com/RLanceMartin/status/1732862263026135197</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[⭐️ Multi-modal RAG public benchmark ⭐️ Multi-modal LLMs are one of the most important emerging trends for the coming year. They promise to unlock ...]]></title>
+            <description><![CDATA[⭐️ Multi-modal RAG public benchmark ⭐️<br><br>Multi-modal LLMs are one of the most important emerging trends for the coming year. <br><br>They promise to unlock new types of Q+A assistants over visual content, but multi-modal RAG architectures remain uncertain.<br><br>We are releasing a small… https://twitter.com/i/web/status/1732839745112449142<br><img style="" src="https://pbs.twimg.com/media/GAxGO3ybIAAjtqz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 07 Dec 2023 19:09:24 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1732839745112449142</guid>
+            <link>https://twitter.com/LangChainAI/status/1732839745112449142</link>
             
             
             
