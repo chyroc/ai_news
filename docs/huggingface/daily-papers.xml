@@ -15,8 +15,88 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 11 Dec 2023 03:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 05:05:24 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors]]></title>
+            <description><![CDATA[Most 3D generation research focuses on up-projecting 2D foundation models into the 3D space, either by minimizing 2D Score Distillation Sampling (SDS) loss or fine-tuning on multi-view datasets. Without explicit 3D priors, these methods often lead to geometric anomalies and multi-view inconsistency. Recently, researchers have attempted to improve the genuineness of 3D objects by directly training on 3D datasets, albeit at the cost of low-quality texture generation due to the limited texture diversity in 3D datasets. To harness the advantages of both approaches, we propose Bidirectional Diffusion(BiDiff), a unified framework that incorporates both a 3D and a 2D diffusion process, to preserve both 3D fidelity and 2D texture richness, respectively. Moreover, as a simple combination may yield inconsistent generation results, we further bridge them with novel bidirectional guidance. In addition, our method can be used as an initialization of optimization-based models to further improve the quality of 3D model and efficiency of optimization, reducing the generation process from 3.4 hours to 20 minutes. Experimental results have shown that our model achieves high-quality, diverse, and scalable 3D generation. Project website: https://bidiff.github.io/.]]></description>
+            <pubDate>Mon, 11 Dec 2023 03:28:31 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.04963</guid>
+            <link>https://arxiv.org/abs/2312.04963</link>
+            
+            
+            
+            <author><![CDATA[Lihe Ding, Shaocong Dong, Zhanpeng Huang, Zibin Wang, Yiyuan Zhang, Kaixiong Gong, Dan Xu, Tianfan Xue]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MVDD: Multi-View Depth Diffusion Models]]></title>
+            <description><![CDATA[Denoising diffusion models have demonstrated outstanding results in 2D image generation, yet it remains a challenge to replicate its success in 3D shape generation. In this paper, we propose leveraging multi-view depth, which represents complex 3D shapes in a 2D data format that is easy to denoise. We pair this representation with a diffusion model, MVDD, that is capable of generating high-quality dense point clouds with 20K+ points with fine-grained details. To enforce 3D consistency in multi-view depth, we introduce an epipolar line segment attention that conditions the denoising step for a view on its neighboring views. Additionally, a depth fusion module is incorporated into diffusion steps to further ensure the alignment of depth maps. When augmented with surface reconstruction, MVDD can also produce high-quality 3D meshes. Furthermore, MVDD stands out in other tasks such as depth completion, and can serve as a 3D prior, significantly boosting many downstream tasks, such as GAN inversion. State-of-the-art results from extensive experiments demonstrate MVDD's excellent ability in 3D shape generation, depth completion, and its potential as a 3D prior for downstream tasks.]]></description>
+            <pubDate>Mon, 11 Dec 2023 03:21:59 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.04875</guid>
+            <link>https://arxiv.org/abs/2312.04875</link>
+            
+            
+            
+            <author><![CDATA[Zhen Wang, Qiangeng Xu, Feitong Tan, Menglei Chai, Shichen Liu, Rohit Pandey, Sean Fanello, Achuta Kadambi, Yinda Zhang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models]]></title>
+            <description><![CDATA[In this paper, we present DreaMoving, a diffusion-based controllable video generation framework to produce high-quality customized human dance videos. Specifically, given target identity and posture sequences, DreaMoving can generate a video of the target identity dancing anywhere driven by the posture sequences. To this end, we propose a Video ControlNet for motion-controlling and a Content Guider for identity preserving. The proposed model is easy to use and can be adapted to most stylized diffusion models to generate diverse results. The project page is available at https://dreamoving.github.io/dreamoving.]]></description>
+            <pubDate>Mon, 11 Dec 2023 03:17:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.05107</guid>
+            <link>https://arxiv.org/abs/2312.05107</link>
+            
+            
+            
+            <author><![CDATA[Mengyang Feng, Jinlin Liu, Kai Yu, Yuan Yao, Zheng Hui, Xiefan Guo, Xianhui Lin, Haolan Xue, Chen Shi, Xiaowen Li, Aojie Li, Miaomiao Cui, Peiran Ren, Xuansong Xie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Customizing Motion in Text-to-Video Diffusion Models]]></title>
+            <description><![CDATA[We introduce an approach for augmenting text-to-video generation models with customized motions, extending their capabilities beyond the motions depicted in the original training data. By leveraging a few video samples demonstrating specific movements as input, our method learns and generalizes the input motion patterns for diverse, text-specified scenarios. Our contributions are threefold. First, to achieve our results, we finetune an existing text-to-video model to learn a novel mapping between the depicted motion in the input examples to a new unique token. To avoid overfitting to the new custom motion, we introduce an approach for regularization over videos. Second, by leveraging the motion priors in a pretrained model, our method can produce novel videos featuring multiple people doing the custom motion, and can invoke the motion in combination with other motions. Furthermore, our approach extends to the multimodal customization of motion and appearance of individualized subjects, enabling the generation of videos featuring unique characters and distinct motions. Third, to validate our method, we introduce an approach for quantitatively evaluating the learned custom motion and perform a systematic ablation study. We show that our method significantly outperforms prior appearance-based customization approaches when extended to the motion customization task.]]></description>
+            <pubDate>Mon, 11 Dec 2023 03:14:11 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.04966</guid>
+            <link>https://arxiv.org/abs/2312.04966</link>
+            
+            
+            
+            <author><![CDATA[Joanna Materzynska, Josef Sivic, Eli Shechtman, Antonio Torralba, Richard Zhang, Bryan Russell]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PathFinder: Guided Search over Multi-Step Reasoning Paths]]></title>
+            <description><![CDATA[With recent advancements in large language models, methods like chain-of-thought prompting to elicit reasoning chains have been shown to improve results on reasoning tasks. However, tasks that require multiple steps of reasoning still pose significant challenges to state-of-the-art models. Drawing inspiration from the beam search algorithm, we propose PathFinder, a tree-search-based reasoning path generation approach. It enhances diverse branching and multi-hop reasoning through the integration of dynamic decoding, enabled by varying sampling methods and parameters. Using constrained reasoning, PathFinder integrates novel quality constraints, pruning, and exploration methods to enhance the efficiency and the quality of generation. Moreover, it includes scoring and ranking features to improve candidate selection. Our approach outperforms competitive baselines on three complex arithmetic and commonsense reasoning tasks by 6% on average. Our model generalizes well to longer, unseen reasoning chains, reflecting similar complexities to beam search with large branching factors.]]></description>
+            <pubDate>Mon, 11 Dec 2023 03:08:05 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.05180</guid>
+            <link>https://arxiv.org/abs/2312.05180</link>
+            
+            
+            
+            <author><![CDATA[Olga Golovneva, Sean O&#39;Brien, Ramakanth Pasunuru, Tianlu Wang, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[SparQ Attention: Bandwidth-Efficient LLM Inference]]></title>
