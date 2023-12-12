@@ -21,8 +21,40 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Tue, 12 Dec 2023 21:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 23:45:35 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[At 4:45pm today, stop by the #NeurIPS2023 Google booth where researchers Kihyuk Sohn, Lu Jiang & Irfan Essa will present StyleDrop, a text-to-image sy...]]></title>
+            <description><![CDATA[At 4:45pm today, stop by the #NeurIPS2023 Google booth where researchers Kihyuk Sohn, Lu Jiang &amp; Irfan Essa will present StyleDrop, a text-to-image synthesis tool that can leverage reference images to ensure style-consistent generation.<br><video src="https://video.twimg.com/tweet_video/GBLfguDWIAAMkYl.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GBLfguDWIAAMkYl.jpg"></video>]]></description>
+            <pubDate>Tue, 12 Dec 2023 22:04:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734695833742766188</guid>
+            <link>https://twitter.com/GoogleAI/status/1734695833742766188</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Med-PaLM is an #LLM designed to provide high quality answers to medical questions. Learn all about it today at 4:45pm, when Tao Tu will be at the #Neu...]]></title>
+            <description><![CDATA[Med-PaLM is an #LLM designed to provide high quality answers to medical questions. Learn all about it today at 4:45pm, when Tao Tu will be at the #NeurIPS2023 Google to discuss Med-PaLM's capabilities.<br><video src="https://video.twimg.com/tweet_video/GBLe8K4W0AEL4td.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GBLe8K4W0AEL4td.jpg"></video>]]></description>
+            <pubDate>Tue, 12 Dec 2023 21:57:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734694078204314034</guid>
+            <link>https://twitter.com/GoogleAI/status/1734694078204314034</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Congratulations to Jeff Dean, Greg Corrado, & co-authors of the paper “Distributed Representations of Words and Phrases and their Compositionality”,...]]></title>
@@ -286,38 +318,6 @@
             <pubDate>Sun, 10 Dec 2023 14:18:33 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733853713016508453</guid>
             <link>https://twitter.com/GoogleAI/status/1733853713016508453</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Congratulations to @_danieldeutsch, George Foster, and @markuseful, co-authors of the paper “Ties Matter: Meta-Evaluating Modern Metrics with Pairwis...]]></title>
-            <description><![CDATA[Congratulations to @_danieldeutsch, George Foster, and @markuseful, co-authors of the paper “Ties Matter: Meta-Evaluating Modern Metrics with Pairwise Accuracy and Tie Calibration”, for winning the #EMNLP2023 Outstanding Paper Award in Machine Translation!<br><img style="" src="https://pbs.twimg.com/media/GA-dnoibwAAVTmQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GA-dnojbEAAzqiP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GA-dnoma4AAppOG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 10 Dec 2023 09:17:30 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733777951072879002</guid>
-            <link>https://twitter.com/GoogleAI/status/1733777951072879002</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Visit the #EMNLP2023 Google booth today at 3:30 PM to learn about Universal Self-Adaptive Prompting, an automatic method tailored for zero-shot learni...]]></title>
-            <description><![CDATA[Visit the #EMNLP2023 Google booth today at 3:30 PM to learn about Universal Self-Adaptive Prompting, an automatic method tailored for zero-shot learning (while compatible with few-shot) that uses a small amount of unlabelled data &amp; an inference-only LLM.<br><video src="https://video.twimg.com/tweet_video/GA4jN3eaoAAoLrU.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GA4jN3eaoAAoLrU.jpg"></video>]]></description>
-            <pubDate>Sat, 09 Dec 2023 05:43:21 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733361672851747093</guid>
-            <link>https://twitter.com/GoogleAI/status/1733361672851747093</link>
             
             
             
