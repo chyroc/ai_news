@@ -21,24 +21,8 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Tue, 12 Dec 2023 19:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 17:31:28 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Want to learn more about the new Google Gemini model? Join Jeff Dean and members of the Gemini team at the #NeurIPS2023 Google booths today at 1:30pm ...]]></title>
-            <description><![CDATA[Want to learn more about the new Google Gemini model? Join Jeff Dean and members of the Gemini team at the #NeurIPS2023 Google booths today at 1:30pm to hear all about it!<div class="rsshub-quote"><br><br>Jeff Dean (@🏡): I'm excited to head to @NeurIPSConf #NeurIPS2023 this week.<br><br>We'll be having a couple of "Chat with the Gemini Team" events in the @GoogleDeepMind / @GoogleResearch booth areas on Tuesday and Wednesday from 1:30 to 3:00 PM (New Orleans time).  Quite a few Gemini team members will… https://twitter.com/i/web/status/1733936083266924979<br></div>]]></description>
-            <pubDate>Tue, 12 Dec 2023 18:22:40 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734639925222326351</guid>
-            <link>https://twitter.com/GoogleAI/status/1734639925222326351</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Attending #NeurIPS2023? At 12:45pm, visit the Google booth where Xiuye Gu will describe DaTaSeg, a universal multi-dataset, multi-task segmentation mo...]]></title>
@@ -302,6 +286,22 @@
             <pubDate>Fri, 08 Dec 2023 22:47:05 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733256913310069192</guid>
             <link>https://twitter.com/GoogleAI/status/1733256913310069192</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Today on the blog learn about a new algorithm for sparsity-preserving differentially private training, called adaptive filtering-enabled sparse traini...]]></title>
+            <description><![CDATA[Today on the blog learn about a new algorithm for sparsity-preserving differentially private training, called adaptive filtering-enabled sparse training (DP-AdaFEST), which is particularly relevant for applications in recommendation systems and #NLP. → https://goo.gle/46V5Bx0<br><img style="" src="https://pbs.twimg.com/media/GA2MRoObQAAfgMg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 08 Dec 2023 18:44:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733195877479825626</guid>
+            <link>https://twitter.com/GoogleAI/status/1733195877479825626</link>
             
             
             
