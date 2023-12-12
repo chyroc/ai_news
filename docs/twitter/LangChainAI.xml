@@ -24,8 +24,88 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 12 Dec 2023 17:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 20:15:43 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🦜🚀Towards LangChain 0.1: LangChain-Core and LangChain-Community TL;DR: We've split the old langchain package into three separate packages to imp...]]></title>
+            <description><![CDATA[🦜🚀Towards LangChain 0.1: LangChain-Core and LangChain-Community<br><br>TL;DR:<br><br>We've split the old langchain package into three separate packages to improve developer experience<br><br>🎯`langchain-core` contains simple, core abstractions that have emerged as a standard, as well as… https://twitter.com/i/web/status/1734641665556857148<br><img style="" src="https://pbs.twimg.com/media/GBKtZR3aYAAgt1P?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 18:29:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734641665556857148</guid>
+            <link>https://twitter.com/LangChainAI/status/1734641665556857148</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Didier Lopes: OpenBB Copilot (built with @LangChainAI) with access to the @openbb_finance platform It still amazes me that just 1 year after ChatGP...]]></title>
+            <description><![CDATA[RT Didier Lopes<br>OpenBB Copilot (built with @LangChainAI) with access to the @openbb_finance platform<br><br>It still amazes me that just 1 year after ChatGPT, we can build an agent that can perform such a complex workflow flawlessly.<br><br>OpenBB Terminal Pro is the future.<br><video src="https://video.twimg.com/ext_tw_video/1734634529829326848/pu/vid/avc1/1116x720/tUj-ZSa07b28CPx0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1734634529829326848/pu/img/FKFiuLem_t9ZhHpb.jpg"></video>]]></description>
+            <pubDate>Tue, 12 Dec 2023 18:04:08 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/didier_lopes/status/1734635260938203224</guid>
+            <link>https://twitter.com/didier_lopes/status/1734635260938203224</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Docker 🐳: Re @rajatsandeepsen Have you checked out our GenAI stack with @Ollama_ai and @LangChainAI? https://github.com/docker/genai-stack]]></title>
+            <description><![CDATA[RT Docker 🐳<br>Re @rajatsandeepsen Have you checked out our GenAI stack with @Ollama_ai and @LangChainAI? https://github.com/docker/genai-stack]]></description>
+            <pubDate>Tue, 12 Dec 2023 17:13:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Docker/status/1734589426762645619</guid>
+            <link>https://twitter.com/Docker/status/1734589426762645619</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Eric Ciarla: Many enterprises want a single interface to access multiple http://Mendable.ai projects (Unique Model + data combinations). We just re...]]></title>
+            <description><![CDATA[RT Eric Ciarla<br>Many enterprises want a single interface to access multiple http://Mendable.ai projects (Unique Model + data combinations).<br><br>We just released our Router Alpha which uses @LangChainAI function calling to dynamically route queries.<br><br>Here is what we learned so far. (1/5)<br><img style="" src="https://pbs.twimg.com/media/GBKbB7mbUAA9sM7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 17:00:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/ericciarla/status/1734619268749439036</guid>
+            <link>https://twitter.com/ericciarla/status/1734619268749439036</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Logan Anderson: Using @LangChainAI agents and @vercel 's AI package, I built a chat bot that queries a knowledge base and streams results with tool...]]></title>
+            <description><![CDATA[RT Logan Anderson<br>Using @LangChainAI agents and @vercel 's AI package, I built a chat bot that queries a knowledge base and streams results with tool outputs. The tools respond with MDX components that are then streamed to a frontend MDX renderer. <br><br>Check out the video!<br><br>#AI #Chatbot<br><video src="https://video.twimg.com/ext_tw_video/1734612121508544514/pu/vid/avc1/1152x720/hxpfcVifI162WPkv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1734612121508544514/pu/img/cruJ3Iv_Pke68rwM.jpg"></video>]]></description>
+            <pubDate>Tue, 12 Dec 2023 16:34:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/logan_anders0n/status/1734612683226521761</guid>
+            <link>https://twitter.com/logan_anders0n/status/1734612683226521761</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Austin LangChain: 1/ Today's a big day at #AIinAction23 for the Austin LangChain Users Group! We're excited to present "LangChain 101" with our tal...]]></title>
@@ -161,102 +241,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 11 Dec 2023 17:33:55 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LukawskiKacper/status/1734265261287489841</guid>
             <link>https://twitter.com/LukawskiKacper/status/1734265261287489841</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Momento: Always love these shoutout threads from @Hacubu spotlighting @LangChainAI contributors. Especially love seeing @mlonml (& the whole team!)...]]></title>
-            <description><![CDATA[RT Momento<br>Always love these shoutout threads from @Hacubu spotlighting @LangChainAI contributors. Especially love seeing @mlonml (&amp; the whole team!) getting recognized for continued enhancements to Momento Vector Index. 💚<div class="rsshub-quote"><br><br>Jacob Lee: @mlonml for adding maximal marginal relevance search to the @momentohq vectorstore<br><br>Njuelle for adding streaming support to our @Github loader<br><br>luiz-k-alencar for fixing a typo in our docs<br><br>(5/15)<br></div>]]></description>
-            <pubDate>Mon, 11 Dec 2023 17:13:48 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/momentohq/status/1734260205788021228</guid>
-            <link>https://twitter.com/momentohq/status/1734260205788021228</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jo Kristian Bergum: The retriever abstraction in @LangChainAI is 🔥 Super easy to define custom retrievers, like in this example where we demonst...]]></title>
-            <description><![CDATA[RT Jo Kristian Bergum<br>The retriever abstraction in @LangChainAI is 🔥 <br><br>Super easy to define custom retrievers, like in this example where we demonstrate user level sharding with Vespa streaming mode!<div class="rsshub-quote"><br><br>Harrison Chase: A great article by @jobergum <br><br>@vespaengine is super powerful and has a lot of knobs that don't fit neatly into LangChain's idea of a vectorstore<br><br>This is exactly why we introduced the Retriever abstraction earlier this year - great to see how easy it is to implement a custom one<br></div>]]></description>
-            <pubDate>Mon, 11 Dec 2023 16:58:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/jobergum/status/1734256269484011793</guid>
-            <link>https://twitter.com/jobergum/status/1734256269484011793</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Harrison Chase: A great article by @jobergum @vespaengine is super powerful and has a lot of knobs that don't fit neatly into LangChain's idea of a...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>A great article by @jobergum <br><br>@vespaengine is super powerful and has a lot of knobs that don't fit neatly into LangChain's idea of a vectorstore<br><br>This is exactly why we introduced the Retriever abstraction earlier this year - great to see how easy it is to implement a custom one<div class="rsshub-quote"><br><br>LangChain: ⚡️Turbocharge RAG with LangChain and Vespa Streaming Mode for Sharded Data<br><br>@vespaengine's streaming search solution enables you to efficiently search over sharded data - perfect for when you want to store data grouped by user id<br><br>@jobergum wrote a great article (complete with… https://twitter.com/i/web/status/1734252293233791195<br><br><img style="" src="https://pbs.twimg.com/media/GBFNOw4aEAAGxuz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Mon, 11 Dec 2023 16:44:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1734252728451473754</guid>
-            <link>https://twitter.com/hwchase17/status/1734252728451473754</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT DataStax: How can you build Gen AI apps with your own customer data? Join DataStax & @GoogleCloud and learn how to build a customer service chatbot...]]></title>
-            <description><![CDATA[RT DataStax<br>How can you build Gen AI apps with your own customer data?<br><br>Join DataStax &amp; @GoogleCloud and learn how to build a customer service chatbot 🤖 that uses Vertex AI and RAG with @LangChainAI ➕ Astra DB vector search.<br><br>Register to join on Dec 20:https://dtsx.io/48rLB6z<br><img style="" src="https://pbs.twimg.com/media/GBFD6SbbAAA7Eim?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 16:01:28 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/DataStax/status/1734242001959158257</guid>
-            <link>https://twitter.com/DataStax/status/1734242001959158257</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Tair Asim: built smth new this wknd -- personal finance co-pilot 🤖🤑 @pilotfiai is a secure, ai-driven personal finance assistant that turns y...]]></title>
-            <description><![CDATA[RT Tair Asim<br>built smth new this wknd -- personal finance co-pilot 🤖🤑<br><br>@pilotfiai is a secure, ai-driven personal finance assistant that turns your financial questions into actionable insights.<br><br>diving into this space and excited to share my progress with y'all:<br><br>/cc @_nightsweekends<br><video src="https://video.twimg.com/ext_tw_video/1734216142745473024/pu/vid/avc1/840x720/kkDZR42M9qpGn88F.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1734216142745473024/pu/img/sQr7pVN5EmFv-bQ6.jpg"></video>]]></description>
-            <pubDate>Mon, 11 Dec 2023 15:09:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/tair/status/1734229031715766520</guid>
-            <link>https://twitter.com/tair/status/1734229031715766520</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT jeff: The @LangChainAI framework allows you to build a RAG app easily. See how you can integrate @trychroma to store and retrieve your vector embed...]]></title>
-            <description><![CDATA[RT jeff<br>The @LangChainAI framework allows you to build a RAG app easily. See how you can integrate @trychroma to store and retrieve your vector embeddings.<br><br>https://buff.ly/48cW9Ga]]></description>
-            <pubDate>Mon, 11 Dec 2023 14:15:14 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/gswithai/status/1734215266869862770</guid>
-            <link>https://twitter.com/gswithai/status/1734215266869862770</link>
             
             
             
