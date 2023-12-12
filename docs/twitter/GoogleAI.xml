@@ -21,8 +21,72 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Tue, 12 Dec 2023 19:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 21:39:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Congratulations to Jeff Dean, Greg Corrado, & co-authors of the paper “Distributed Representations of Words and Phrases and their Compositionality”,...]]></title>
+            <description><![CDATA[Congratulations to Jeff Dean, Greg Corrado, &amp; co-authors of the paper “Distributed Representations of Words and Phrases and their Compositionality”, for winning the #NeurIPS2023 Test of Time Award! This prize recognizes a highly impactful paper published at NeurIPS 10 years ago.<br><img style="" src="https://pbs.twimg.com/media/GBLVQp2bUAABp-u?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 21:15:10 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734683335665082487</guid>
+            <link>https://twitter.com/GoogleAI/status/1734683335665082487</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Learning with #DifferentialPrivacy often involves adding noise into the learning process. At 3:20pm today, Krishna Pillutla will be at the #NeurIPS202...]]></title>
+            <description><![CDATA[Learning with #DifferentialPrivacy often involves adding noise into the learning process. At 3:20pm today, Krishna Pillutla will be at the #NeurIPS2023 Google booth to explain why it is beneficial in DP algorithms to add noise that is correlated across time. Drop by to hear more!<br><img style="" src="https://pbs.twimg.com/media/GBLLotnXIAAXQ5M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 20:33:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734672846729670825</guid>
+            <link>https://twitter.com/GoogleAI/status/1734672846729670825</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We are excited to present our latest advances in extreme-scale graph embedding, powered by #TPU AI chips. Join @phanein and @tsitsulin_ at #NeurIPS202...]]></title>
+            <description><![CDATA[We are excited to present our latest advances in extreme-scale graph embedding, powered by #TPU AI chips. Join @phanein and @tsitsulin_ at #NeurIPS2023 at 3:20PM at the Google Booth to learn more.<br><img style="" src="https://pbs.twimg.com/media/GBLGXy3XQAA7Sqn?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 20:10:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734667079612084348</guid>
+            <link>https://twitter.com/GoogleAI/status/1734667079612084348</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Congratulations to Googlers Santiago Balseiro, Haihao Lu, & Vahab Mirrokni for winning the 2023 INFORMS Revenue Management and Pricing Section Prize (...]]></title>
+            <description><![CDATA[Congratulations to Googlers Santiago Balseiro, Haihao Lu, &amp; Vahab Mirrokni for winning the 2023 INFORMS Revenue Management and Pricing Section Prize (https://goo.gle/4851TC3) for "The Best of Many Worlds: Dual Mirror Descent for Online Allocation Problems". Read all about it ↓<div class="rsshub-quote"><br><br>Google AI: Organizations increasingly need to make real-time decisions in uncertain, dynamic conditions with limited resources. Learn how dual mirror descent helps solve these online allocation problems in a way that is simple, robust, and flexible ↓ https://goo.gle/3BlaeTu<br></div>]]></description>
+            <pubDate>Tue, 12 Dec 2023 19:49:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734661862279823464</guid>
+            <link>https://twitter.com/GoogleAI/status/1734661862279823464</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Want to learn more about the new Google Gemini model? Join Jeff Dean and members of the Gemini team at the #NeurIPS2023 Google booths today at 1:30pm ...]]></title>
@@ -254,54 +318,6 @@
             <pubDate>Sat, 09 Dec 2023 05:43:21 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733361672851747093</guid>
             <link>https://twitter.com/GoogleAI/status/1733361672851747093</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Drop by the #EMNLP2023 Google booth today at 12:30 PM to learn about an adversarial training framework that uses limited human adversarial examples to...]]></title>
-            <description><![CDATA[Drop by the #EMNLP2023 Google booth today at 12:30 PM to learn about an adversarial training framework that uses limited human adversarial examples to generate and scale more useful synthetic examples that improve LLM robustness to unseen attacks.<br><img style="" src="https://pbs.twimg.com/media/GA4EUvYaUAADFJN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 09 Dec 2023 03:28:14 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733327666848358645</guid>
-            <link>https://twitter.com/GoogleAI/status/1733327666848358645</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Current retrieval paradigms are complex, pipelined systems. Visit the #EMNLP2023 Google booth today at 10:30 AM to learn about 1-Pager, a system that ...]]></title>
-            <description><![CDATA[Current retrieval paradigms are complex, pipelined systems. Visit the #EMNLP2023 Google booth today at 10:30 AM to learn about 1-Pager, a system that aligns retrieval and reasoning as a unified task with a single Transformer-based model and decoding pass.]]></description>
-            <pubDate>Sat, 09 Dec 2023 00:58:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733290105237078386</guid>
-            <link>https://twitter.com/GoogleAI/status/1733290105237078386</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Join Mira Lane, Senior Director of Technology & Society at Google, and renowned media artist @RefikAnadol as they explore the power of #AI in art in t...]]></title>
-            <description><![CDATA[Join Mira Lane, Senior Director of Technology &amp; Society at Google, and renowned media artist @RefikAnadol as they explore the power of #AI in art in this new Dialogues episode. Full video →https://goo.gle/3GnS3iO<br><br>More from the Dialogues series →https://goo.gle/3t5iGpH<br><video src="https://video.twimg.com/ext_tw_video/1733255369131229184/pu/vid/avc1/1280x720/t0y3pEW8rYZqMiqw.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733255369131229184/pu/img/E9lxIiFqUT5OMyX4.jpg"></video>]]></description>
-            <pubDate>Fri, 08 Dec 2023 22:47:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1733256913310069192</guid>
-            <link>https://twitter.com/GoogleAI/status/1733256913310069192</link>
             
             
             
