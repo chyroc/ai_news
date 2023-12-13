@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Dec 2023 15:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 18:30:18 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[⭐️ Benchmarking semi-structured RAG ⭐️ We've seen many question about RAG on documents that contain a mixture of text and tables. To test various ...]]></title>
+            <description><![CDATA[⭐️ Benchmarking semi-structured RAG ⭐️<br><br>We've seen many question about RAG on documents that contain a mixture of text and tables.<br><br>To test various semi-structured RAG approaches, we built a LangChain public benchmark on a set of whitepapers and financial reports that contain… https://twitter.com/i/web/status/1734984414906699984<br><img style="" src="https://pbs.twimg.com/media/GBPkWVMaUAANE2Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 17:11:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734984414906699984</guid>
+            <link>https://twitter.com/LangChainAI/status/1734984414906699984</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜LangChain 🤝Gemini♊️ Gemini API access is out! Access it through LangChain with our first standalone integration package: `pip install langcha...]]></title>
+            <description><![CDATA[🦜LangChain 🤝Gemini♊️<br><br>Gemini API access is out! Access it through LangChain with our first standalone integration package:<br><br>`pip install langchain-google-genai`<br><br>We're also launching an integration guide showing how to:<br><br>🎏Stream results<br>🖼️Use it's multimodal capabilities… https://twitter.com/i/web/status/1734982565352845428<br><img style="" src="https://pbs.twimg.com/media/GBPlaVjaAAA_yvW?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBPlaV2aUAAW9Yj?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 17:04:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734982565352845428</guid>
+            <link>https://twitter.com/LangChainAI/status/1734982565352845428</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🦜🚀Towards LangChain 0.1: LangChain-Core and LangChain-Community TL;DR: We've split the old langchain package into three separate packages to imp...]]></title>
@@ -241,38 +273,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 11 Dec 2023 17:33:55 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LukawskiKacper/status/1734265261287489841</guid>
             <link>https://twitter.com/LukawskiKacper/status/1734265261287489841</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: Analyzing RAG Methods: Semantic Similarity vs. Full Document Prompting. Ingrid Stevens uses @LangchainAI to compare traditional #RAG ...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>Analyzing RAG Methods: Semantic Similarity vs. Full Document Prompting.<br>Ingrid Stevens uses @LangchainAI to compare traditional #RAG using embeddings/vector stores to alternative "prompt stuffing" directly inputting full transcription, code link inside👉 https://buff.ly/3RAyIBc<br><img style="" src="https://pbs.twimg.com/media/GA_5HhqWYAAVp0C?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 10 Dec 2023 15:56:13 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1733878292426420304</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1733878292426420304</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Nazeem: Just a fun weekend project: try Shotty to create TikTok/Instagram-like shorts from a given URL or text. Powered by @LangChainAI Demo: https...]]></title>
-            <description><![CDATA[RT Nazeem<br>Just a fun weekend project: try Shotty to create TikTok/Instagram-like shorts from a given URL or text.  <br><br>Powered by @LangChainAI<br><br>Demo: https://shotty.fun<br><br>Repo: https://github.com/n4ze3m/shotty-fun<br><video src="https://video.twimg.com/ext_tw_video/1733877834534326273/pu/vid/avc1/1280x720/WU5eIj4EcSh676xi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1733877834534326273/pu/img/eG8y_4ykdmbPvpdj.jpg"></video>]]></description>
-            <pubDate>Sun, 10 Dec 2023 15:55:36 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/n4ze3m/status/1733878138436796900</guid>
-            <link>https://twitter.com/n4ze3m/status/1733878138436796900</link>
             
             
             
