@@ -21,8 +21,56 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Dec 2023 20:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 22:06:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Stop by the #NeurIPS2023 Google booth today at 4:15pm when Ryan Knuffman & Milica Cvetkovic will demostrate Multimodal RAG, a question answering syste...]]></title>
+            <description><![CDATA[Stop by the #NeurIPS2023 Google booth today at 4:15pm when Ryan Knuffman &amp; Milica Cvetkovic will demostrate Multimodal RAG, a question answering system powered by Med-PaLM M and grounded in multimodal retrieval-augmented generation that is geared towards patient inquiries.]]></description>
+            <pubDate>Wed, 13 Dec 2023 21:23:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735047873367032049</guid>
+            <link>https://twitter.com/GoogleAI/status/1735047873367032049</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[At 4:15pm today @TheGradient will be at the #NeurIPS2023 Google booth to talk about the differences between Sharpness-Aware Minimization (that improve...]]></title>
+            <description><![CDATA[At 4:15pm today @TheGradient will be at the #NeurIPS2023 Google booth to talk about the differences between Sharpness-Aware Minimization (that improves generalization) and similar methods (that don't), which can be explained by the structure of the Hessian of the loss function.<br><img style="" src="https://pbs.twimg.com/media/GBQffQnWoAI2B93?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 21:18:45 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735046624135553351</guid>
+            <link>https://twitter.com/GoogleAI/status/1735046624135553351</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Interested in learning more about Med-PaLM M, our generalist biomedical AI system? Drop by the #NeurIPS2023 Google booth at 3:15pm today where Tao Tu ...]]></title>
+            <description><![CDATA[Interested in learning more about Med-PaLM M, our generalist biomedical AI system? Drop by the #NeurIPS2023 Google booth at 3:15pm today where Tao Tu will give discuss Med-PaLM M and MultiMedBench, a new multimodal biomedical benchmark.<br><video src="https://video.twimg.com/tweet_video/GBQPROCW4AAtkvP.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GBQPROCW4AAtkvP.jpg"></video>]]></description>
+            <pubDate>Wed, 13 Dec 2023 20:07:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735028616453406901</guid>
+            <link>https://twitter.com/GoogleAI/status/1735028616453406901</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Adaptation methods (e.g., Adapter and LoRA) can finetune LMs with minimal parameter updates, but their inference remains expensive. At 3:15pm today dr...]]></title>
@@ -73,11 +121,43 @@
         </item>
         
         <item>
+            <title><![CDATA[RT Google Cloud: Introducing new capabilities across our #AI stack in support of Gemini, our most capable and general model yet! Take a look and let G...]]></title>
+            <description><![CDATA[RT Google Cloud<br>Introducing new capabilities across our #AI stack in support of Gemini, our most capable and general model yet!<br><br>Take a look and let Gemini guide your next transformation ↓ https://cloud.google.com/blog/products/ai-machine-learning/bringing-gemini-to-organizations-everywhere?utm_source=twitter&amp;utm_medium=unpaidsoc&amp;utm_campaign=fy23q4-googlecloud-ai_feed-no-brand-global&amp;utm_content=-&amp;utm_term=-ariel]]></description>
+            <pubDate>Wed, 13 Dec 2023 15:25:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/googlecloud/status/1734957735475564786</guid>
+            <link>https://twitter.com/googlecloud/status/1734957735475564786</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[📣 Building on our innovation in Med-PaLM, we’re excited to announce MedLM, our latest medically tuned model that is now available to allowlisted @...]]></title>
             <description><![CDATA[📣 Building on our innovation in Med-PaLM, we’re excited to announce MedLM, our latest medically tuned model that is now available to allowlisted @GoogleCloud customers in Vertex AI.<br><br>Learn more about how partners are using MedLM already: https://goo.gle/46TLu2f]]></description>
             <pubDate>Wed, 13 Dec 2023 15:21:56 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734956830009491813</guid>
             <link>https://twitter.com/GoogleAI/status/1734956830009491813</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Google for Developers: 📣🛠️ Calling all devs, Gemini Pro is now available for you to build with. Get started with Google AI Studio, the faste...]]></title>
+            <description><![CDATA[RT Google for Developers<br>📣🛠️ Calling all devs, Gemini Pro is now available for you to build with.<br><br>Get started with Google AI Studio, the fastest way to build with Gemini. ➡️ http://goo.gle/gemini-x<br><br>#BuildWithGemini<br><img style="" src="https://pbs.twimg.com/media/GBPKK2zXIAAapLe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 15:05:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/googledevs/status/1734952573973471630</guid>
+            <link>https://twitter.com/googledevs/status/1734952573973471630</link>
             
             
             
@@ -238,86 +318,6 @@
             <pubDate>Tue, 12 Dec 2023 17:07:14 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734620940535783455</guid>
             <link>https://twitter.com/GoogleAI/status/1734620940535783455</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Drop by the Google booth at 9:15am today where @laroyo, Meg Risdal & Omar Benjelloun will introduce Croissant 🥐—in collaboration with @MLCommons &...]]></title>
-            <description><![CDATA[Drop by the Google booth at 9:15am today where @laroyo, Meg Risdal &amp; Omar Benjelloun will introduce Croissant 🥐—in collaboration with @MLCommons &amp; others—a format for ML datasets with the goal of making datasets interoperable across repos &amp; platforms. https://github.com/mlcommons/croissant]]></description>
-            <pubDate>Tue, 12 Dec 2023 15:07:50 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734590893611520183</guid>
-            <link>https://twitter.com/GoogleAI/status/1734590893611520183</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Working on generative AI models? At 9:15am today, Diana Mincu & Kevin Robinson will be at the @NeurIPSConf Google booth to talk about best practices f...]]></title>
-            <description><![CDATA[Working on generative AI models? At 9:15am today, Diana Mincu &amp; Kevin Robinson will be at the @NeurIPSConf Google booth to talk about best practices for generative AI safety.]]></description>
-            <pubDate>Tue, 12 Dec 2023 15:01:39 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734589335679221805</guid>
-            <link>https://twitter.com/GoogleAI/status/1734589335679221805</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Don't miss @laroyo give the #NeurIPS2023 opening Keynote talk, “The Many Faces of Responsible AI”, in which she'll discuss the need for culturally-a...]]></title>
-            <description><![CDATA[Don't miss @laroyo give the #NeurIPS2023 opening Keynote talk, “The Many Faces of Responsible AI”, in which she'll discuss the need for culturally-aware, society-centered research on the impact of data quality and diversity for training and evaluation of ML models. Happening now!<br><img style="" src="https://pbs.twimg.com/media/GBJ5d6CWIAANLwJ?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 12 Dec 2023 14:34:16 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734582446530711683</guid>
-            <link>https://twitter.com/GoogleAI/status/1734582446530711683</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Yonatan Bitton is back at the #NeurIPS2023 Google booth at 4pm today to present VisIT-Bench, which consists of a tool to test how well models follow v...]]></title>
-            <description><![CDATA[Yonatan Bitton is back at the #NeurIPS2023 Google booth at 4pm today to present VisIT-Bench, which consists of a tool to test how well models follow visual instructions + a benchmark that spans a wide range of tasks, from simple recognition to playing games.<br><img style="" src="https://pbs.twimg.com/media/GBGDER9WwAAdI1r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 20:38:35 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734311741406765128</guid>
-            <link>https://twitter.com/GoogleAI/status/1734311741406765128</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Graphs are invaluable for representing & analyzing complex relationships. Drop by the #NeurIPS2023 Google booth at 4pm today to hear @phanein, @Bahare...]]></title>
-            <description><![CDATA[Graphs are invaluable for representing &amp; analyzing complex relationships. Drop by the #NeurIPS2023 Google booth at 4pm today to hear @phanein, @BahareFatemi, &amp; Jonathan Halcrow talk about the correct choice of encoders to boost performance on graph reasoning tasks using LLMs.<br><img style="" src="https://pbs.twimg.com/media/GBF92vqW8AAAn-i?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 20:15:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734305844408266839</guid>
-            <link>https://twitter.com/GoogleAI/status/1734305844408266839</link>
             
             
             
