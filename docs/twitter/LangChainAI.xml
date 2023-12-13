@@ -24,8 +24,72 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Dec 2023 18:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 20:33:58 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 👾 Discord Tool for Agents 👾 It’s been quite a few weeks for @LangChainAI 🦜🔗 JS/TS, and how fitting that our community-only ...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>👾&nbsp;Discord Tool for Agents 👾<br><br>It’s been quite a few weeks for @LangChainAI 🦜🔗 JS/TS, and how fitting that our community-only import is a @discord tool in 0.0.206!<br><br>Your agents can use it to send messages and pull server info!<br><br>Ty Maanethdesilva!<br><br>https://js.langchain.com/docs/integrations/tools/discord<br><img style="" src="https://pbs.twimg.com/media/GBQSVEpa4AAn9Hq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 20:21:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1735032241221423279</guid>
+            <link>https://twitter.com/Hacubu/status/1735032241221423279</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Want to use Gemini models via GCP? 🚀The LangChain x VertexAI integration is now updated to support the recent models! `pip install langchain-commun...]]></title>
+            <description><![CDATA[Want to use Gemini models via GCP? <br><br>🚀The LangChain x VertexAI integration is now updated to support the recent models!<br><br>`pip install langchain-community==0.0.3`<br><br>🏦VertexAI works natively with GCP - great for enterprise use cases!<br><img style="" src="https://pbs.twimg.com/media/GBQIvu1aUAMv_aG?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 19:39:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1735021642416525538</guid>
+            <link>https://twitter.com/LangChainAI/status/1735021642416525538</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT WFH: pip install langchain-google-genai]]></title>
+            <description><![CDATA[RT WFH<br>pip install langchain-google-genai<div class="rsshub-quote"><br><br>LangChain: 🦜LangChain 🤝Gemini♊️<br><br>Gemini API access is out! Access it through LangChain with our first standalone integration package:<br><br>`pip install langchain-google-genai`<br><br>We're also launching an integration guide showing how to:<br><br>🎏Stream results<br>🖼️Use it's multimodal capabilities… https://twitter.com/i/web/status/1734982565352845428<br><br><img style="" src="https://pbs.twimg.com/media/GBPlaVjaAAA_yvW?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBPlaV2aUAAW9Yj?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 13 Dec 2023 19:13:42 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/WHinthorn/status/1735015156365808011</guid>
+            <link>https://twitter.com/WHinthorn/status/1735015156365808011</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re Short video discussing these results is here: https://www.youtube.com/watch?v=KMZZh7Z5mno Slides here: https://docs.google.com/presentation/d/1qlef...]]></title>
+            <description><![CDATA[Re Short video discussing these results is here:<br>https://www.youtube.com/watch?v=KMZZh7Z5mno<br><br>Slides here:<br>https://docs.google.com/presentation/d/1qlefldNZR3BgW4gt0uOF9UztrV39ovWrQAisN_A1AEQ/edit?usp=sharing]]></description>
+            <pubDate>Wed, 13 Dec 2023 18:52:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734984414906699984</guid>
+            <link>https://twitter.com/LangChainAI/status/1734984414906699984</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[⭐️ Benchmarking semi-structured RAG ⭐️ We've seen many question about RAG on documents that contain a mixture of text and tables. To test various ...]]></title>
@@ -225,70 +289,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 11 Dec 2023 19:22:45 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GregOnLock/status/1734292657524859116</guid>
             <link>https://twitter.com/GregOnLock/status/1734292657524859116</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[If you want to learn how to use @qdrant_engine with LangChain, check out this session with @LukawskiKacper!]]></title>
-            <description><![CDATA[If you want to learn how to use @qdrant_engine with LangChain, check out this session with @LukawskiKacper!<div class="rsshub-quote"><br><br>Kacper Łukawski: This time we are going to use @qdrant_engine and @LangChainAI 😉<br></div>]]></description>
-            <pubDate>Mon, 11 Dec 2023 19:13:31 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734290332970557752</guid>
-            <link>https://twitter.com/LangChainAI/status/1734290332970557752</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Yoko: NEW RELEASE!! ✨A SaaS AI Tamagotchi everyone can host✨🐣 Demo ➡️ http://ai-tamago.fly.dev 🧵 https://github.com/ykhli/AI-tamago Stack...]]></title>
-            <description><![CDATA[RT Yoko<br>NEW RELEASE!! ✨A SaaS AI Tamagotchi everyone can host✨🐣 Demo ➡️ http://ai-tamago.fly.dev 🧵<br>https://github.com/ykhli/AI-tamago<br><br>Stack: <br>*SaaS Mode*:<br>- 🔐 Auth &amp; User Management: @ClerkDev <br>- ☁️ Hosting &amp; Inference platform: @flydotio <br>- 🥇 Rate Limiting: @upstash <br>(+all of below)<br><br>*Local… https://twitter.com/i/web/status/1734284108073967923<br><img style="" src="https://pbs.twimg.com/media/GBFlEBdaoAMAF5e?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 11 Dec 2023 18:48:47 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/stuffyokodraws/status/1734284108073967923</guid>
-            <link>https://twitter.com/stuffyokodraws/status/1734284108073967923</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Kacper Łukawski: Re This time we are going to use @qdrant_engine and @LangChainAI 😉]]></title>
-            <description><![CDATA[RT Kacper Łukawski<br>Re This time we are going to use @qdrant_engine and @LangChainAI 😉]]></description>
-            <pubDate>Mon, 11 Dec 2023 17:33:55 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LukawskiKacper/status/1734265261287489841</guid>
-            <link>https://twitter.com/LukawskiKacper/status/1734265261287489841</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Peter Jausovec: Exploring LangChain 🦜🔗 https://twitter.com/i/broadcasts/1vAxRvjMyvzxl]]></title>
-            <description><![CDATA[RT Peter Jausovec<br>Exploring LangChain 🦜🔗 https://twitter.com/i/broadcasts/1vAxRvjMyvzxl]]></description>
-            <pubDate>Sat, 09 Dec 2023 23:00:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/pjausovec/status/1733622601719963821</guid>
-            <link>https://twitter.com/pjausovec/status/1733622601719963821</link>
             
             
             
