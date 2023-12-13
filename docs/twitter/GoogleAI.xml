@@ -21,24 +21,8 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Wed, 13 Dec 2023 20:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 18:05:49 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Adaptation methods (e.g., Adapter and LoRA) can finetune LMs with minimal parameter updates, but their inference remains expensive. At 3:15pm today dr...]]></title>
-            <description><![CDATA[Adaptation methods (e.g., Adapter and LoRA) can finetune LMs with minimal parameter updates, but their inference remains expensive. At 3:15pm today drop by our #NeurIPS2023 booth to learn about Conditional Adapters, which make LMs faster to use and apply across modalities!<br><img style="" src="https://pbs.twimg.com/media/GBP-34gWcAEJ9VU?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 13 Dec 2023 18:57:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735011003123880212</guid>
-            <link>https://twitter.com/GoogleAI/status/1735011003123880212</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[The Adversarial Nibbler Challenge is a prompt hacking competition for implicit adversarial prompts with the goal of improving generative text-to-image...]]></title>
@@ -318,6 +302,22 @@
             <pubDate>Mon, 11 Dec 2023 20:15:09 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734305844408266839</guid>
             <link>https://twitter.com/GoogleAI/status/1734305844408266839</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Starting now!]]></title>
+            <description><![CDATA[Starting now!<div class="rsshub-quote"><br><br>Google AI: At 12:15am today, the #NeurIPS2023 Google booth will host Yonatan Bitton for a demo of SeeTRUE, a tool for testing the alignment between text and images that can pinpoint areas of mismatch and can help adjust ranking in text-to-image generation tasks.<br><br><img style="" src="https://pbs.twimg.com/media/GBFHH7qX0AA8_71?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 11 Dec 2023 18:19:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734276778087068155</guid>
+            <link>https://twitter.com/GoogleAI/status/1734276778087068155</link>
             
             
             
