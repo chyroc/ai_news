@@ -15,8 +15,72 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 13 Dec 2023 04:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 06:36:15 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Interfacing Foundation Models' Embeddings]]></title>
+            <description><![CDATA[We present FIND, a generalized interface for aligning foundation models' embeddings. As shown in teaser figure, a lightweight transformer interface without tuning any foundation model weights is enough for a unified image (segmentation) and dataset-level (retrieval) understanding. The proposed interface has the following favorable attributes: (1) Generalizable. It applies to various tasks spanning retrieval, segmentation, etc., under the same architecture and weights. (2) Prototypable. Different tasks are able to be implemented through prototyping attention masks and embedding types. (3) Extendable. The proposed interface is adaptive to new tasks, and new models. (4) Interleavable. With the benefit of multi-task multi-modal training, the proposed interface creates an interleaved shared embedding space. In light of the interleaved embedding space, we introduce the FIND-Bench, which introduces new training and evaluation annotations to the COCO dataset for interleave segmentation and retrieval. Our approach achieves state-of-the-art performance on FIND-Bench and competitive performance on standard retrieval and segmentation settings. The training, evaluation, and demo code as well as the dataset have been released at https://github.com/UX-Decoder/FIND.]]></description>
+            <pubDate>Wed, 13 Dec 2023 05:34:58 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07532</guid>
+            <link>https://arxiv.org/abs/2312.07532</link>
+            
+            
+            
+            <author><![CDATA[Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Zhengyuan Yang, Feng Li, Hao Zhang, Shilong Liu, Arul Aravinthan, Yong Jae Lee, Lijuan Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition]]></title>
+            <description><![CDATA[Recent approaches such as ControlNet offer users fine-grained spatial control over text-to-image (T2I) diffusion models. However, auxiliary modules have to be trained for each type of spatial condition, model architecture, and checkpoint, putting them at odds with the diverse intents and preferences a human designer would like to convey to the AI models during the content creation process. In this work, we present FreeControl, a training-free approach for controllable T2I generation that supports multiple conditions, architectures, and checkpoints simultaneously. FreeControl designs structure guidance to facilitate the structure alignment with a guidance image, and appearance guidance to enable the appearance sharing between images generated using the same seed. Extensive qualitative and quantitative experiments demonstrate the superior performance of FreeControl across a variety of pre-trained T2I models. In particular, FreeControl facilitates convenient training-free control over many different architectures and checkpoints, allows the challenging input conditions on which most of the existing training-free methods fail, and achieves competitive synthesis quality with training-based approaches.]]></description>
+            <pubDate>Wed, 13 Dec 2023 05:31:04 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07536</guid>
+            <link>https://arxiv.org/abs/2312.07536</link>
+            
+            
+            
+            <author><![CDATA[Sicheng Mo, Fangzhou Mu, Kuan Heng Lin, Yanli Liu, Bochen Guan, Yin Li, Bolei Zhou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CCM: Adding Conditional Controls to Text-to-Image Consistency Models]]></title>
+            <description><![CDATA[Consistency Models (CMs) have showed a promise in creating visual content efficiently and with high quality. However, the way to add new conditional controls to the pretrained CMs has not been explored. In this technical report, we consider alternative strategies for adding ControlNet-like conditional control to CMs and present three significant findings. 1) ControlNet trained for diffusion models (DMs) can be directly applied to CMs for high-level semantic controls but struggles with low-level detail and realism control. 2) CMs serve as an independent class of generative models, based on which ControlNet can be trained from scratch using Consistency Training proposed by Song et al. 3) A lightweight adapter can be jointly optimized under multiple conditions through Consistency Training, allowing for the swift transfer of DMs-based ControlNet to CMs. We study these three solutions across various conditional controls, including edge, depth, human pose, low-resolution image and masked image with text-to-image latent consistency models.]]></description>
+            <pubDate>Wed, 13 Dec 2023 05:17:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.06971</guid>
+            <link>https://arxiv.org/abs/2312.06971</link>
+            
+            
+            
+            <author><![CDATA[Jie Xiao, Kai Zhu, Han Zhang, Zhiheng Liu, Yujun Shen, Yu Liu, Xueyang Fu, Zheng-Jun Zha]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[COLMAP-Free 3D Gaussian Splatting]]></title>
+            <description><![CDATA[While neural rendering has led to impressive advances in scene reconstruction and novel view synthesis, it relies heavily on accurately pre-computed camera poses. To relax this constraint, multiple efforts have been made to train Neural Radiance Fields (NeRFs) without pre-processed camera poses. However, the implicit representations of NeRFs provide extra challenges to optimize the 3D structure and camera poses at the same time. On the other hand, the recently proposed 3D Gaussian Splatting provides new opportunities given its explicit point cloud representations. This paper leverages both the explicit geometric representation and the continuity of the input video stream to perform novel view synthesis without any SfM preprocessing. We process the input frames in a sequential manner and progressively grow the 3D Gaussians set by taking one input frame at a time, without the need to pre-compute the camera poses. Our method significantly improves over previous approaches in view synthesis and camera pose estimation under large motion changes. Our project page is https://oasisyang.github.io/colmap-free-3dgs]]></description>
+            <pubDate>Wed, 13 Dec 2023 05:11:22 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07504</guid>
+            <link>https://arxiv.org/abs/2312.07504</link>
+            
+            
+            
+            <author><![CDATA[Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation]]></title>
