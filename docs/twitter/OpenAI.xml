@@ -21,24 +21,8 @@
             <link>https://twitter.com/OpenAI</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Dec 2023 20:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 18:21:49 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Our new research white paper identifies seven practices for keeping increasingly agentic AI systems safe and accountable as they become more common an...]]></title>
-            <description><![CDATA[Our new research white paper identifies seven practices for keeping increasingly agentic AI systems safe and accountable as they become more common and more capable.<br><br>We are providing research grants for work on a range of open questions. https://openai.com/research/practices-for-governing-agentic-ai-systems]]></description>
-            <pubDate>Thu, 14 Dec 2023 20:03:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735390088929202673</guid>
-            <link>https://twitter.com/OpenAI/status/1735390088929202673</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Re There is lots of low-hanging fruit and many promising directions for future work. We think this is an exciting opportunity for the ML research comm...]]></title>
@@ -318,6 +302,22 @@
             <pubDate>Thu, 09 Nov 2023 18:12:15 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/OpenAI/status/1722678501181149331</guid>
             <link>https://twitter.com/OpenAI/status/1722678501181149331</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We're rolling out new features and improvements that developers have been asking for: 1. Our new model GPT-4 Turbo supports 128K context and has fresh...]]></title>
+            <description><![CDATA[We're rolling out new features and improvements that developers have been asking for:<br><br>1. Our new model GPT-4 Turbo supports 128K context and has fresher knowledge than GPT-4. Its input and output tokens are respectively 3× and 2× less expensive than GPT-4. It’s available now to… https://twitter.com/i/web/status/1721596740024078340]]></description>
+            <pubDate>Mon, 06 Nov 2023 18:33:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721596740024078340</guid>
+            <link>https://twitter.com/OpenAI/status/1721596740024078340</link>
             
             
             

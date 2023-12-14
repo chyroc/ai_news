@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Dec 2023 20:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 18:49:59 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Brace: 🧙 Mistral AI API Integration 🧙 @LangChainAI 🔗🦜 just added a package for interacting with the @MistralAI chat, streaming and embe...]]></title>
-            <description><![CDATA[RT Brace<br>🧙 Mistral AI API Integration 🧙<br><br>@LangChainAI 🔗🦜 just added a package for interacting with the @MistralAI chat, streaming and embedding endpoints, all seamlessly integrated with LangChain's ecosystem.<br><br>Download the package here:<br><br>https://www.npmjs.com/package/@langchain/mistralai<br><br>Read the docs here:… https://twitter.com/i/web/status/1735376742108545433]]></description>
-            <pubDate>Thu, 14 Dec 2023 19:10:31 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1735376742108545433</guid>
-            <link>https://twitter.com/BraceSproul/status/1735376742108545433</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Lizzie Siegle: my latest tutorial on the @twilio blog + last of the yr: Create an AI Commentator (a la Stephen A Smith) w/ @twiliodevs SendGrid, GP...]]></title>
-            <description><![CDATA[RT Lizzie Siegle<br>my latest tutorial on the @twilio blog + last of the yr: <br>Create an AI Commentator (a la Stephen A Smith) w/ @twiliodevs SendGrid, GPT-4V, @openai TTS, @Replit,  and @LangChainAI! <br><br>feat. my @accelerate_sf teammate Chris who let me break his ankles<br><br>https://www.twilio.com/blog/generate-ai-commentary-from-gpt4-sendgrid<br><video src="https://video.twimg.com/ext_tw_video/1735358187229069314/pu/vid/avc1/920x720/ztWdy7TlVGQXaUWB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735358187229069314/pu/img/SUZI5qJkQTLYPAdG.jpg"></video>]]></description>
-            <pubDate>Thu, 14 Dec 2023 19:04:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/lizziepika/status/1735375100357296580</guid>
-            <link>https://twitter.com/lizziepika/status/1735375100357296580</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[⭐️Video overview: Strategies for RAG on semi-structured data⭐️ We've seen great interest in RAG apps on docs w/ a mixture of tables and text (fina...]]></title>
@@ -321,6 +289,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 13 Dec 2023 17:04:12 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734982565352845428</guid>
             <link>https://twitter.com/LangChainAI/status/1734982565352845428</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Docker 🐳: Re @rajatsandeepsen Have you checked out our GenAI stack with @Ollama_ai and @LangChainAI? https://github.com/docker/genai-stack]]></title>
+            <description><![CDATA[RT Docker 🐳<br>Re @rajatsandeepsen Have you checked out our GenAI stack with @Ollama_ai and @LangChainAI? https://github.com/docker/genai-stack]]></description>
+            <pubDate>Tue, 12 Dec 2023 17:13:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Docker/status/1734589426762645619</guid>
+            <link>https://twitter.com/Docker/status/1734589426762645619</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Eric Ciarla: Many enterprises want a single interface to access multiple http://Mendable.ai projects (Unique Model + data combinations). We just re...]]></title>
+            <description><![CDATA[RT Eric Ciarla<br>Many enterprises want a single interface to access multiple http://Mendable.ai projects (Unique Model + data combinations).<br><br>We just released our Router Alpha which uses @LangChainAI function calling to dynamically route queries.<br><br>Here is what we learned so far. (1/5)<br><img style="" src="https://pbs.twimg.com/media/GBKbB7mbUAA9sM7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 17:00:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/ericciarla/status/1734619268749439036</guid>
+            <link>https://twitter.com/ericciarla/status/1734619268749439036</link>
             
             
             
