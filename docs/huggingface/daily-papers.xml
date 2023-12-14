@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 14 Dec 2023 01:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 03:05:29 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Interfacing Foundation Models' Embeddings]]></title>
-            <description><![CDATA[We present FIND, a generalized interface for aligning foundation models' embeddings. As shown in teaser figure, a lightweight transformer interface without tuning any foundation model weights is enough for a unified image (segmentation) and dataset-level (retrieval) understanding. The proposed interface has the following favorable attributes: (1) Generalizable. It applies to various tasks spanning retrieval, segmentation, etc., under the same architecture and weights. (2) Prototypable. Different tasks are able to be implemented through prototyping attention masks and embedding types. (3) Extendable. The proposed interface is adaptive to new tasks, and new models. (4) Interleavable. With the benefit of multi-task multi-modal training, the proposed interface creates an interleaved shared embedding space. In light of the interleaved embedding space, we introduce the FIND-Bench, which introduces new training and evaluation annotations to the COCO dataset for interleave segmentation and retrieval. Our approach achieves state-of-the-art performance on FIND-Bench and competitive performance on standard retrieval and segmentation settings. The training, evaluation, and demo code as well as the dataset have been released at https://github.com/UX-Decoder/FIND.]]></description>
-            <pubDate>Wed, 13 Dec 2023 05:34:58 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07532</guid>
-            <link>https://arxiv.org/abs/2312.07532</link>
+            <title><![CDATA[Clockwork Diffusion: Efficient Generation With Model-Step Distillation]]></title>
+            <description><![CDATA[This work aims to improve the efficiency of text-to-image diffusion models. While diffusion models use computationally expensive UNet-based denoising operations in every generation step, we identify that not all operations are equally relevant for the final output quality. In particular, we observe that UNet layers operating on high-res feature maps are relatively sensitive to small perturbations. In contrast, low-res feature maps influence the semantic layout of the final image and can often be perturbed with no noticeable change in the output. Based on this observation, we propose Clockwork Diffusion, a method that periodically reuses computation from preceding denoising steps to approximate low-res feature maps at one or more subsequent steps. For multiple baselines, and for both text-to-image generation and image editing, we demonstrate that Clockwork leads to comparable or improved perceptual scores with drastically reduced computational complexity. As an example, for Stable Diffusion v1.5 with 8 DPM++ steps we save 32% of FLOPs with negligible FID and CLIP change.]]></description>
+            <pubDate>Thu, 14 Dec 2023 03:03:02 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.08128</guid>
+            <link>https://arxiv.org/abs/2312.08128</link>
             
             
             
-            <author><![CDATA[Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Zhengyuan Yang, Feng Li, Hao Zhang, Shilong Liu, Arul Aravinthan, Yong Jae Lee, Lijuan Wang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition]]></title>
-            <description><![CDATA[Recent approaches such as ControlNet offer users fine-grained spatial control over text-to-image (T2I) diffusion models. However, auxiliary modules have to be trained for each type of spatial condition, model architecture, and checkpoint, putting them at odds with the diverse intents and preferences a human designer would like to convey to the AI models during the content creation process. In this work, we present FreeControl, a training-free approach for controllable T2I generation that supports multiple conditions, architectures, and checkpoints simultaneously. FreeControl designs structure guidance to facilitate the structure alignment with a guidance image, and appearance guidance to enable the appearance sharing between images generated using the same seed. Extensive qualitative and quantitative experiments demonstrate the superior performance of FreeControl across a variety of pre-trained T2I models. In particular, FreeControl facilitates convenient training-free control over many different architectures and checkpoints, allows the challenging input conditions on which most of the existing training-free methods fail, and achieves competitive synthesis quality with training-based approaches.]]></description>
-            <pubDate>Wed, 13 Dec 2023 05:31:04 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07536</guid>
-            <link>https://arxiv.org/abs/2312.07536</link>
-            
-            
-            
-            <author><![CDATA[Sicheng Mo, Fangzhou Mu, Kuan Heng Lin, Yanli Liu, Bochen Guan, Yin Li, Bolei Zhou]]></author>
+            <author><![CDATA[Amirhossein Habibian, Amir Ghodrati, Noor Fathima, Guillaume Sautiere, Risheek Garrepalli, Fatih Porikli, Jens Petersen]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[CCM: Adding Conditional Controls to Text-to-Image Consistency Models]]></title>
-            <description><![CDATA[Consistency Models (CMs) have showed a promise in creating visual content efficiently and with high quality. However, the way to add new conditional controls to the pretrained CMs has not been explored. In this technical report, we consider alternative strategies for adding ControlNet-like conditional control to CMs and present three significant findings. 1) ControlNet trained for diffusion models (DMs) can be directly applied to CMs for high-level semantic controls but struggles with low-level detail and realism control. 2) CMs serve as an independent class of generative models, based on which ControlNet can be trained from scratch using Consistency Training proposed by Song et al. 3) A lightweight adapter can be jointly optimized under multiple conditions through Consistency Training, allowing for the swift transfer of DMs-based ControlNet to CMs. We study these three solutions across various conditional controls, including edge, depth, human pose, low-resolution image and masked image with text-to-image latent consistency models.]]></description>
-            <pubDate>Wed, 13 Dec 2023 05:17:48 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.06971</guid>
-            <link>https://arxiv.org/abs/2312.06971</link>
+            <title><![CDATA[Distributed Inference and Fine-tuning of Large Language Models Over The Internet]]></title>
+            <description><![CDATA[Large language models (LLMs) are useful in many NLP tasks and become more capable with size, with the best open-source models having over 50 billion parameters. However, using these 50B+ models requires high-end hardware, making them inaccessible to most researchers. In this work, we investigate methods for cost-efficient inference and fine-tuning of LLMs, comparing local and distributed strategies. We observe that a large enough model (50B+) can run efficiently even on geodistributed devices in a consumer-grade network. This could allow running LLM efficiently by pooling together idle compute resources of multiple research groups and volunteers. We address two open problems: (1) how to perform inference and fine-tuning reliably if any device can disconnect abruptly and (2) how to partition LLMs between devices with uneven hardware, joining and leaving at will. In order to do that, we develop special fault-tolerant inference algorithms and load-balancing protocols that automatically assign devices to maximize the total system throughput. We showcase these algorithms in Petals - a decentralized system that runs Llama 2 (70B) and BLOOM (176B) over the Internet up to 10x faster than offloading for interactive generation. We evaluate the performance of our system in simulated conditions and a real-world setup spanning two continents.]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:44:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.08361</guid>
+            <link>https://arxiv.org/abs/2312.08361</link>
             
             
             
-            <author><![CDATA[Jie Xiao, Kai Zhu, Han Zhang, Zhiheng Liu, Yujun Shen, Yu Liu, Xueyang Fu, Zheng-Jun Zha]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[COLMAP-Free 3D Gaussian Splatting]]></title>
-            <description><![CDATA[While neural rendering has led to impressive advances in scene reconstruction and novel view synthesis, it relies heavily on accurately pre-computed camera poses. To relax this constraint, multiple efforts have been made to train Neural Radiance Fields (NeRFs) without pre-processed camera poses. However, the implicit representations of NeRFs provide extra challenges to optimize the 3D structure and camera poses at the same time. On the other hand, the recently proposed 3D Gaussian Splatting provides new opportunities given its explicit point cloud representations. This paper leverages both the explicit geometric representation and the continuity of the input video stream to perform novel view synthesis without any SfM preprocessing. We process the input frames in a sequential manner and progressively grow the 3D Gaussians set by taking one input frame at a time, without the need to pre-compute the camera poses. Our method significantly improves over previous approaches in view synthesis and camera pose estimation under large motion changes. Our project page is https://oasisyang.github.io/colmap-free-3dgs]]></description>
-            <pubDate>Wed, 13 Dec 2023 05:11:22 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07504</guid>
-            <link>https://arxiv.org/abs/2312.07504</link>
-            
-            
-            
-            <author><![CDATA[Yang Fu, Sifei Liu, Amey Kulkarni, Jan Kautz, Alexei A. Efros, Xiaolong Wang]]></author>
+            <author><![CDATA[Alexander Borzunov, Max Ryabinin, Artem Chumachenko, Dmitry Baranchuk, Tim Dettmers, Younes Belkada, Pavel Samygin, Colin Raffel]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation]]></title>
-            <description><![CDATA[Diffusion Transformers have recently shown remarkable effectiveness in generating high-quality 3D point clouds. However, training voxel-based diffusion models for high-resolution 3D voxels remains prohibitively expensive due to the cubic complexity of attention operators, which arises from the additional dimension of voxels. Motivated by the inherent redundancy of 3D compared to 2D, we propose FastDiT-3D, a novel masked diffusion transformer tailored for efficient 3D point cloud generation, which greatly reduces training costs. Specifically, we draw inspiration from masked autoencoders to dynamically operate the denoising process on masked voxelized point clouds. We also propose a novel voxel-aware masking strategy to adaptively aggregate background/foreground information from voxelized point clouds. Our method achieves state-of-the-art performance with an extreme masking ratio of nearly 99%. Moreover, to improve multi-category 3D generation, we introduce Mixture-of-Expert (MoE) in 3D diffusion model. Each category can learn a distinct diffusion path with different experts, relieving gradient conflict. Experimental results on the ShapeNet dataset demonstrate that our method achieves state-of-the-art high-fidelity and diverse 3D point cloud generation performance. Our FastDiT-3D improves 1-Nearest Neighbor Accuracy and Coverage metrics when generating 128-resolution voxel point clouds, using only 6.5% of the original training cost.]]></description>
-            <pubDate>Wed, 13 Dec 2023 03:38:05 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07231</guid>
-            <link>https://arxiv.org/abs/2312.07231</link>
+            <title><![CDATA[FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects]]></title>
+            <description><![CDATA[We present FoundationPose, a unified foundation model for 6D object pose estimation and tracking, supporting both model-based and model-free setups. Our approach can be instantly applied at test-time to a novel object without fine-tuning, as long as its CAD model is given, or a small number of reference images are captured. We bridge the gap between these two setups with a neural implicit representation that allows for effective novel view synthesis, keeping the downstream pose estimation modules invariant under the same unified framework. Strong generalizability is achieved via large-scale synthetic training, aided by a large language model (LLM), a novel transformer-based architecture, and contrastive learning formulation. Extensive evaluation on multiple public datasets involving challenging scenarios and objects indicate our unified approach outperforms existing methods specialized for each task by a large margin. In addition, it even achieves comparable results to instance-level methods despite the reduced assumptions. Project page: https://nvlabs.github.io/FoundationPose/]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:37:03 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.08344</guid>
+            <link>https://arxiv.org/abs/2312.08344</link>
             
             
             
-            <author><![CDATA[Shentong Mo, Enze Xie, Yue Wu, Junsong Chen, Matthias Nießner, Zhenguo Li]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation]]></title>
-            <description><![CDATA[In machine learning, generalization against distribution shifts -- where deployment conditions diverge from the training scenarios -- is crucial, particularly in fields like climate modeling, biomedicine, and autonomous driving. The emergence of foundation models, distinguished by their extensive pretraining and task versatility, has led to an increased interest in their adaptability to distribution shifts. GPT-4V(ision) acts as the most advanced publicly accessible multimodal foundation model, with extensive applications across various domains, including anomaly detection, video understanding, image generation, and medical diagnosis. However, its robustness against data distributions remains largely underexplored. Addressing this gap, this study rigorously evaluates GPT-4V's adaptability and generalization capabilities in dynamic environments, benchmarking against prominent models like CLIP and LLaVA. We delve into GPT-4V's zero-shot generalization across 13 diverse datasets spanning natural, medical, and molecular domains. We further investigate its adaptability to controlled data perturbations and examine the efficacy of in-context learning as a tool to enhance its adaptation. Our findings delineate GPT-4V's capability boundaries in distribution shifts, shedding light on its strengths and limitations across various scenarios. Importantly, this investigation contributes to our understanding of how AI foundation models generalize to distribution shifts, offering pivotal insights into their adaptability and robustness. Code is publicly available at https://github.com/jameszhou-gl/gpt-4v-distribution-shift.]]></description>
-            <pubDate>Wed, 13 Dec 2023 03:35:33 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07424</guid>
-            <link>https://arxiv.org/abs/2312.07424</link>
-            
-            
-            
-            <author><![CDATA[Zhongyi Han, Guanglin Zhou, Rundong He, Jindong Wang, Xing Xie, Tailin Wu, Yilong Yin, Salman Khan, Lina Yao, Tongliang Liu, Kun Zhang]]></author>
+            <author><![CDATA[Bowen Wen, Wei Yang, Jan Kautz, Stan Birchfield]]></author>
             
                 
             
@@ -115,31 +67,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing]]></title>
-            <description><![CDATA[Diffusion models have achieved remarkable image generation quality surpassing previous generative models. However, a notable limitation of diffusion models, in comparison to GANs, is their difficulty in smoothly interpolating between two image samples, due to their highly unstructured latent space. Such a smooth interpolation is intriguing as it naturally serves as a solution for the image morphing task with many applications. In this work, we present DiffMorpher, the first approach enabling smooth and natural image interpolation using diffusion models. Our key idea is to capture the semantics of the two images by fitting two LoRAs to them respectively, and interpolate between both the LoRA parameters and the latent noises to ensure a smooth semantic transition, where correspondence automatically emerges without the need for annotation. In addition, we propose an attention interpolation and injection technique and a new sampling schedule to further enhance the smoothness between consecutive images. Extensive experiments demonstrate that DiffMorpher achieves starkly better image morphing effects than previous methods across a variety of object categories, bridging a critical functional gap that distinguished diffusion models from GANs.]]></description>
-            <pubDate>Wed, 13 Dec 2023 03:31:47 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07409</guid>
-            <link>https://arxiv.org/abs/2312.07409</link>
+            <title><![CDATA[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention]]></title>
+            <description><![CDATA[The costly self-attention layers in modern Transformers require memory and compute quadratic in sequence length. Existing approximation methods usually underperform and fail to obtain significant speedups in practice. Here we present SwitchHead - a novel method that reduces both compute and memory requirements and achieves wall-clock speedup, while matching the language modeling performance of baseline Transformers with the same parameter budget. SwitchHead uses Mixture-of-Experts (MoE) layers for the value and output projections and requires 4 to 8 times fewer attention matrices than standard Transformers. Our novel attention can also be combined with MoE MLP layers, resulting in an efficient fully-MoE "SwitchHead" Transformer model. Our code is public.]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:29:22 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07987</guid>
+            <link>https://arxiv.org/abs/2312.07987</link>
             
             
             
-            <author><![CDATA[Kaiwen Zhang, Yifan Zhou, Xudong Xu, Xingang Pan, Bo Dai]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FreeInit: Bridging Initialization Gap in Video Diffusion Models]]></title>
-            <description><![CDATA[Though diffusion-based video generation has witnessed rapid progress, the inference results of existing models still exhibit unsatisfactory temporal consistency and unnatural dynamics. In this paper, we delve deep into the noise initialization of video diffusion models, and discover an implicit training-inference gap that attributes to the unsatisfactory inference quality. Our key findings are: 1) the spatial-temporal frequency distribution of the initial latent at inference is intrinsically different from that for training, and 2) the denoising process is significantly influenced by the low-frequency components of the initial noise. Motivated by these observations, we propose a concise yet effective inference sampling strategy, FreeInit, which significantly improves temporal consistency of videos generated by diffusion models. Through iteratively refining the spatial-temporal low-frequency components of the initial latent during inference, FreeInit is able to compensate the initialization gap between training and inference, thus effectively improving the subject appearance and temporal consistency of generation results. Extensive experiments demonstrate that FreeInit consistently enhances the generation results of various text-to-video generation models without additional training.]]></description>
-            <pubDate>Wed, 13 Dec 2023 03:25:00 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07537</guid>
-            <link>https://arxiv.org/abs/2312.07537</link>
-            
-            
-            
-            <author><![CDATA[Tianxing Wu, Chenyang Si, Yuming Jiang, Ziqi Huang, Ziwei Liu]]></author>
+            <author><![CDATA[Róbert Csordás, Piotr Piękos, Kazuki Irie]]></author>
             
                 
             
@@ -147,31 +83,15 @@
         </item>
         
         <item>
-            <title><![CDATA[PEEKABOO: Interactive Video Generation via Masked-Diffusion]]></title>
-            <description><![CDATA[Recently there has been a lot of progress in text-to-video generation, with state-of-the-art models being capable of generating high quality, realistic videos. However, these models lack the capability for users to interactively control and generate videos, which can potentially unlock new areas of application. As a first step towards this goal, we tackle the problem of endowing diffusion-based video generation models with interactive spatio-temporal control over their output. To this end, we take inspiration from the recent advances in segmentation literature to propose a novel spatio-temporal masked attention module - Peekaboo. This module is a training-free, no-inference-overhead addition to off-the-shelf video generation models which enables spatio-temporal control. We also propose an evaluation benchmark for the interactive video generation task. Through extensive qualitative and quantitative evaluation, we establish that Peekaboo enables control video generation and even obtains a gain of upto 3.8x in mIoU over baseline models.]]></description>
-            <pubDate>Wed, 13 Dec 2023 03:17:54 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07509</guid>
-            <link>https://arxiv.org/abs/2312.07509</link>
+            <title><![CDATA[PromptBench: A Unified Library for Evaluation of Large Language Models]]></title>
+            <description><![CDATA[The evaluation of large language models (LLMs) is crucial to assess their performance and mitigate potential security risks. In this paper, we introduce PromptBench, a unified library to evaluate LLMs. It consists of several key components that are easily used and extended by researchers: prompt construction, prompt engineering, dataset and model loading, adversarial prompt attack, dynamic evaluation protocols, and analysis tools. PromptBench is designed to be an open, general, and flexible codebase for research purposes that can facilitate original study in creating new benchmarks, deploying downstream applications, and designing new evaluation protocols. The code is available at: https://github.com/microsoft/promptbench and will be continuously supported.]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:22:31 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07910</guid>
+            <link>https://arxiv.org/abs/2312.07910</link>
             
             
             
-            <author><![CDATA[Yash Jain, Anshul Nasery, Vibhav Vineet, Harkirat Behl]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[VILA: On Pre-training for Visual Language Models]]></title>
-            <description><![CDATA[Visual language models (VLMs) rapidly progressed with the recent success of large language models. There have been growing efforts on visual instruction tuning to extend the LLM with visual inputs, but lacks an in-depth study of the visual language pre-training process, where the model learns to perform joint modeling on both modalities. In this work, we examine the design options for VLM pre-training by augmenting LLM towards VLM through step-by-step controllable comparisons. We introduce three main findings: (1) freezing LLMs during pre-training can achieve decent zero-shot performance, but lack in-context learning capability, which requires unfreezing the LLM; (2) interleaved pre-training data is beneficial whereas image-text pairs alone are not optimal; (3) re-blending text-only instruction data to image-text data during instruction fine-tuning not only remedies the degradation of text-only tasks, but also boosts VLM task accuracy. With an enhanced pre-training recipe we build VILA, a Visual Language model family that consistently outperforms the state-of-the-art models, e.g., LLaVA-1.5, across main benchmarks without bells and whistles. Multi-modal pre-training also helps unveil appealing properties of VILA, including multi-image reasoning, enhanced in-context learning, and better world knowledge.]]></description>
-            <pubDate>Wed, 13 Dec 2023 03:11:49 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07533</guid>
-            <link>https://arxiv.org/abs/2312.07533</link>
-            
-            
-            
-            <author><![CDATA[Ji Lin, Hongxu Yin, Wei Ping, Yao Lu, Pavlo Molchanov, Andrew Tao, Huizi Mao, Jan Kautz, Mohammad Shoeybi, Song Han]]></author>
+            <author><![CDATA[Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie]]></author>
             
                 
             
@@ -179,95 +99,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models]]></title>
-            <description><![CDATA[Due to the substantial scale of Large Language Models (LLMs), the direct application of conventional compression methodologies proves impractical. The computational demands associated with even minimal gradient updates present challenges, particularly on consumer-grade hardware. This paper introduces an innovative approach for the parametric and practical compression of LLMs based on reduced order modelling, which entails low-rank decomposition within the feature space and re-parameterization in the weight space. Notably, this compression technique operates in a layer-wise manner, obviating the need for a GPU device and enabling the compression of billion-scale models within stringent constraints of both memory and time. Our method represents a significant advancement in model compression by leveraging matrix decomposition, demonstrating superior efficacy compared to the prevailing state-of-the-art structured pruning method.]]></description>
-            <pubDate>Wed, 13 Dec 2023 02:58:50 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07046</guid>
-            <link>https://arxiv.org/abs/2312.07046</link>
+            <title><![CDATA[Foundation Models in Robotics: Applications, Challenges, and the Future]]></title>
+            <description><![CDATA[We survey applications of pretrained foundation models in robotics. Traditional deep learning models in robotics are trained on small datasets tailored for specific tasks, which limits their adaptability across diverse applications. In contrast, foundation models pretrained on internet-scale data appear to have superior generalization capabilities, and in some instances display an emergent ability to find zero-shot solutions to problems that are not present in the training data. Foundation models may hold the potential to enhance various components of the robot autonomy stack, from perception to decision-making and control. For example, large language models can generate code or provide common sense reasoning, while vision-language models enable open-vocabulary visual recognition. However, significant open research challenges remain, particularly around the scarcity of robot-relevant training data, safety guarantees and uncertainty quantification, and real-time execution. In this survey, we study recent papers that have used or built foundation models to solve robotics problems. We explore how foundation models contribute to improving robot capabilities in the domains of perception, decision-making, and control. We discuss the challenges hindering the adoption of foundation models in robot autonomy and provide opportunities and potential pathways for future advancements. The GitHub project corresponding to this paper (Preliminary release. We are committed to further enhancing and updating this work to ensure its quality and relevance) can be found here: https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:14:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07843</guid>
+            <link>https://arxiv.org/abs/2312.07843</link>
             
             
             
-            <author><![CDATA[Arnav Chavan, Nahush Lele, Deepak Gupta]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Alignment for Honesty]]></title>
-            <description><![CDATA[Recent research has made significant strides in applying alignment techniques to enhance the helpfulness and harmlessness of large language models (LLMs) in accordance with human intentions. In this paper, we argue for the importance of alignment for honesty, ensuring that LLMs proactively refuse to answer questions when they lack knowledge, while still not being overly conservative. However, a pivotal aspect of alignment for honesty involves discerning the limits of an LLM's knowledge, which is far from straightforward. This challenge demands comprehensive solutions in terms of metric development, benchmark creation, and training methodologies. In this paper, we address these challenges by first establishing a precise problem definition and defining ``honesty'' inspired by the Analects of Confucius. This serves as a cornerstone for developing metrics that effectively measure an LLM's honesty by quantifying its progress post-alignment. Furthermore, we introduce a flexible training framework which is further instantiated by several efficient fine-tuning techniques that emphasize honesty without sacrificing performance on other tasks. Our extensive experiments reveal that these aligned models show a marked increase in honesty, as indicated by our proposed metrics. We open-source a wealth of resources to facilitate future research at https://github.com/GAIR-NLP/alignment-for-honesty, including honesty-aligned models, training and evaluation datasets for honesty alignment, concept glossary, as well as all relevant source code.]]></description>
-            <pubDate>Wed, 13 Dec 2023 02:54:03 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07000</guid>
-            <link>https://arxiv.org/abs/2312.07000</link>
-            
-            
-            
-            <author><![CDATA[Yuqing Yang, Ethan Chern, Xipeng Qiu, Graham Neubig, Pengfei Liu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA["I Want It That Way": Enabling Interactive Decision Support Using Large Language Models and Constraint Programming]]></title>
-            <description><![CDATA[A critical factor in the success of decision support systems is the accurate modeling of user preferences. Psychology research has demonstrated that users often develop their preferences during the elicitation process, highlighting the pivotal role of system-user interaction in developing personalized systems. This paper introduces a novel approach, combining Large Language Models (LLMs) with Constraint Programming to facilitate interactive decision support. We study this hybrid framework through the lens of meeting scheduling, a time-consuming daily activity faced by a multitude of information workers. We conduct three studies to evaluate the novel framework, including a diary study (n=64) to characterize contextual scheduling preferences, a quantitative evaluation of the system's performance, and a user study (n=10) with a prototype system. Our work highlights the potential for a hybrid LLM and optimization approach for iterative preference elicitation and design considerations for building systems that support human-system collaborative decision-making processes.]]></description>
-            <pubDate>Wed, 13 Dec 2023 02:51:44 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.06908</guid>
-            <link>https://arxiv.org/abs/2312.06908</link>
-            
-            
-            
-            <author><![CDATA[Connor Lawless, Jakob Schoeffer, Lindy Le, Kael Rowan, Shilad Sen, Cristina St. Hill, Jina Suh, Bahar Sarrafzadeh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Honeybee: Locality-enhanced Projector for Multimodal LLM]]></title>
-            <description><![CDATA[In Multimodal Large Language Models (MLLMs), a visual projector plays a crucial role in bridging pre-trained vision encoders with LLMs, enabling profound visual understanding while harnessing the LLMs' robust capabilities. Despite the importance of the visual projector, it has been relatively less explored. In this study, we first identify two essential projector properties: (i) flexibility in managing the number of visual tokens, crucial for MLLMs' overall efficiency, and (ii) preservation of local context from visual features, vital for spatial understanding. Based on these findings, we propose a novel projector design that is both flexible and locality-enhanced, effectively satisfying the two desirable properties. Additionally, we present comprehensive strategies to effectively utilize multiple and multifaceted instruction datasets. Through extensive experiments, we examine the impact of individual design choices. Finally, our proposed MLLM, Honeybee, remarkably outperforms previous state-of-the-art methods across various benchmarks, including MME, MMBench, SEED-Bench, and LLaVA-Bench, achieving significantly higher efficiency. Code and models are available at https://github.com/kakaobrain/honeybee.]]></description>
-            <pubDate>Wed, 13 Dec 2023 02:42:32 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.06742</guid>
-            <link>https://arxiv.org/abs/2312.06742</link>
-            
-            
-            
-            <author><![CDATA[Junbum Cha, Wooyoung Kang, Jonghwan Mun, Byungseok Roh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Steering Llama 2 via Contrastive Activation Addition]]></title>
-            <description><![CDATA[We introduce Contrastive Activation Addition (CAA), an innovative method for steering language models by modifying activations during their forward passes. CAA computes ``steering vectors'' by averaging the difference in residual stream activations between pairs of positive and negative examples of a particular behavior such as factual versus hallucinatory responses. During inference, these steering vectors are added at all token positions after the user's prompt with either a positive or negative coefficient, allowing precise control over the degree of the targeted behavior. We evaluate CAA's effectiveness on Llama 2 Chat using both multiple-choice behavioral question datasets and open-ended generation tasks. We demonstrate that CAA significantly alters model behavior, outperforms traditional methods like finetuning and few-shot prompting, and minimally reduces capabilities. Moreover, by employing various activation space interpretation methods, we gain deeper insights into CAA's mechanisms. CAA both accurately steers model outputs and also sheds light on how high-level concepts are represented in Large Language Models (LLMs).]]></description>
-            <pubDate>Wed, 13 Dec 2023 02:37:00 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.06681</guid>
-            <link>https://arxiv.org/abs/2312.06681</link>
-            
-            
-            
-            <author><![CDATA[Nina Rimsky, Nick Gabrieli, Julian Schulz, Meg Tong, Evan Hubinger, Alexander Matt Turner]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations]]></title>
-            <description><![CDATA[We introduce Llama Guard, an LLM-based input-output safeguard model geared towards Human-AI conversation use cases. Our model incorporates a safety risk taxonomy, a valuable tool for categorizing a specific set of safety risks found in LLM prompts (i.e., prompt classification). This taxonomy is also instrumental in classifying the responses generated by LLMs to these prompts, a process we refer to as response classification. For the purpose of both prompt and response classification, we have meticulously gathered a dataset of high quality. Llama Guard, a Llama2-7b model that is instruction-tuned on our collected dataset, albeit low in volume, demonstrates strong performance on existing benchmarks such as the OpenAI Moderation Evaluation dataset and ToxicChat, where its performance matches or exceeds that of currently available content moderation tools. Llama Guard functions as a language model, carrying out multi-class classification and generating binary decision scores. Furthermore, the instruction fine-tuning of Llama Guard allows for the customization of tasks and the adaptation of output formats. This feature enhances the model's capabilities, such as enabling the adjustment of taxonomy categories to align with specific use cases, and facilitating zero-shot or few-shot prompting with diverse taxonomies at the input. We are making Llama Guard model weights available and we encourage researchers to further develop and adapt them to meet the evolving needs of the community for AI safety.]]></description>
-            <pubDate>Wed, 13 Dec 2023 02:25:15 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.06674</guid>
-            <link>https://arxiv.org/abs/2312.06674</link>
-            
-            
-            
-            <author><![CDATA[Hakan Inan, Kartikeya Upasani, Jianfeng Chi, Rashi Rungta, Krithika Iyer, Yuning Mao, Michael Tontchev, Qing Hu, Brian Fuller, Davide Testuggine, Madian Khabsa]]></author>
+            <author><![CDATA[Roya Firoozi, Johnathan Tucker, Stephen Tian, Anirudha Majumdar, Jiankai Sun, Weiyu Liu, Yuke Zhu, Shuran Song, Ashish Kapoor, Karol Hausman, Brian Ichter, Danny Driess, Jiajun Wu, Cewu Lu, Mac Schwager]]></author>
             
                 
             
