@@ -18,20 +18,19 @@
   <body>
     <h1>whoa there, pardner!</h1>
 
-<p>reddit's awesome and all, but you may have a bit of a
-problem.</p>
+<p>Your request has been blocked due to a network policy.</p>
 
-<p>Make sure your User-Agent is not empty, is something unique and descriptive and try again. if you're supplying an alternate User-Agent string,
+<p>Try logging in or creating an account <a href=https://www.reddit.com/login/>here</a> to get back to browsing.</p>
+
+<p>If you're running a script or application, please register or sign in with your developer credentials <a href=https://www.reddit.com/wiki/api/>here</a>. Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string,
 try changing back to default as that can sometimes result in a block.</p>
-
-<p>If you're attemping to access Reddit via a hosting provider or private VPN, please either login at <a href=https://www.reddit.com/login/>reddit.com/login/</a> or register/sign in with your developer credentials <a href=https://www.reddit.com/wiki/api/>here</a>.</p>
 
 <p>You can read Reddit's Terms of Service <a href=https://www.reddit.com/wiki/api/>here</a>.</p>
 
 <p>if you think that we've incorrectly blocked you or you would like to discuss
-easier ways to get the data you want, please contact us at <a href=mailto:ratelimit@reddit.com?Subject=Blocked%2020.109.38.159 (Request ID: 3739861405-IAD)>this email address</a>.</p>
+easier ways to get the data you want, please file a ticket <a href=https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=2187929269314020.172.29.180 (Request ID: 2014550553-BUR)>here</a>.</p>
 
-<p>when contacting us, please include your ip address which is: <strong>20.109.38.159</strong> and reddit account</p>
+<p>when contacting us, please include your ip address which is: <strong>20.172.29.180</strong> and reddit account</p>
   </body>
 </html>
     
