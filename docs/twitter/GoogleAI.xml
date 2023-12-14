@@ -21,8 +21,24 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Dec 2023 16:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 18:49:58 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[We’re proud to highlight Google Research’s contributions to improving Clear Calling, the background noise reduction feature on Pixel, which can now ...]]></title>
+            <description><![CDATA[We’re proud to highlight Google Research’s contributions to improving Clear Calling, the background noise reduction feature on Pixel, which can now handle full-band audio &amp; is powered by an audio-to-audio ML model that was optimized to run at low latency on Google Tensor.<br><video src="https://video.twimg.com/ext_tw_video/1735364002186969089/pu/vid/avc1/1280x720/b61LjmydBh5jnFSv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735364002186969089/pu/img/V701OEO-oGLrfVhL.jpg"></video>]]></description>
+            <pubDate>Thu, 14 Dec 2023 18:21:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735364422187794724</guid>
+            <link>https://twitter.com/GoogleAI/status/1735364422187794724</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Stop by the #NeurIPS2023 Google booth today at 4:15pm when Ryan Knuffman & Milica Cvetkovic will demostrate Multimodal RAG, a question answering syste...]]></title>
@@ -302,22 +318,6 @@
             <pubDate>Tue, 12 Dec 2023 18:22:40 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734639925222326351</guid>
             <link>https://twitter.com/GoogleAI/status/1734639925222326351</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Attending #NeurIPS2023? At 12:45pm, visit the Google booth where Xiuye Gu will describe DaTaSeg, a universal multi-dataset, multi-task segmentation mo...]]></title>
-            <description><![CDATA[Attending #NeurIPS2023? At 12:45pm, visit the Google booth where Xiuye Gu will describe DaTaSeg, a universal multi-dataset, multi-task segmentation model well-suited for memory-limited applications, e.g., for multiple segmentation tasks on mobile devices.<br><img style="" src="https://pbs.twimg.com/media/GBKcN5nXgAAHIy0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 12 Dec 2023 17:07:14 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734620940535783455</guid>
-            <link>https://twitter.com/GoogleAI/status/1734620940535783455</link>
             
             
             
