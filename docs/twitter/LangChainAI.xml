@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Dec 2023 00:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 02:35:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: ♊️ Google Gemini models in JS ♊️ Gemini multimodal models now integrate with @LangChainAI 🦜🔗 JS/TS through @GoogleAI Studio! G...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>♊️ Google Gemini models in JS ♊️<br><br>Gemini multimodal models now integrate with @LangChainAI 🦜🔗 JS/TS through @GoogleAI Studio!<br><br>Grab an API key and try them out with your favorite LangChain.js components.<br><br>Thank you to @alexalx13 for the 🏎️ quick PR!<br><br>https://js.langchain.com/docs/integrations/chat/google_generativeai<br><img style="" src="https://pbs.twimg.com/media/GBRN7ltbwAA_L6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 14 Dec 2023 00:47:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1735099113459667286</guid>
+            <link>https://twitter.com/Hacubu/status/1735099113459667286</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Gemini ✨is natively multimodal, but how does it stack up against GPT-4V? We put gemini-pro-vision head-to-head with the reigning champ to see how wel...]]></title>
@@ -289,22 +305,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 12 Dec 2023 05:24:22 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734315172213162382</guid>
             <link>https://twitter.com/LangChainAI/status/1734315172213162382</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🚀Deploying Mistral-7B RAG to Production Join our friends at @AIMakerspace to learn how to go from prototype to production with LangServe and Mistra...]]></title>
-            <description><![CDATA[🚀Deploying Mistral-7B RAG to Production<br><br>Join our friends at @AIMakerspace to learn how to go from prototype to production with LangServe and Mistral 7B!<br><br>Will cover LCEL, HuggingFace, LangServe, LangSmith<br><br>This Thursday, 10am PST<br><br>Link: https://lu.ma/Mistral7BRAG]]></description>
-            <pubDate>Mon, 11 Dec 2023 19:28:30 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734294105130442755</guid>
-            <link>https://twitter.com/LangChainAI/status/1734294105130442755</link>
             
             
             
