@@ -21,104 +21,8 @@
             <link>https://twitter.com/OpenAI</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Dec 2023 18:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 16:20:31 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Re There is lots of low-hanging fruit and many promising directions for future work. We think this is an exciting opportunity for the ML research comm...]]></title>
-            <description><![CDATA[Re There is lots of low-hanging fruit and many promising directions for future work. We think this is an exciting opportunity for the ML research community.<br><br>To kickstart more research, we're launching $10M in grants: https://x.com/OpenAI/status/1735347884718211562?s=20<div class="rsshub-quote"><br><br>OpenAI: We're announcing, together with @ericschmidt: Superalignment Fast Grants.<br><br>$10M in grants for technical research on aligning superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more.<br><br>Apply by Feb 18! https://openai.com/blog/superalignment-fast-grants<br></div>]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349718765715913</guid>
-            <link>https://twitter.com/OpenAI/status/1735349718765715913</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Naive weak supervision isn't enough—current techniques, like RLHF, won't be sufficient for future superhuman models. But we also show that it's fe...]]></title>
-            <description><![CDATA[Re Naive weak supervision isn't enough—current techniques, like RLHF, won't be sufficient for future superhuman models.<br><br>But we also show that it's feasible to drastically improve weak-to-strong generalization—making iterative empirical progress on a core challenge of superalignment]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349718765715913</guid>
-            <link>https://twitter.com/OpenAI/status/1735349718765715913</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Large pretrained models have excellent raw capabilities—but can we elicit these fully with only weak supervision? GPT-4 supervised by ~GPT-2 recov...]]></title>
-            <description><![CDATA[Re Large pretrained models have excellent raw capabilities—but can we elicit these fully with only weak supervision?<br><br>GPT-4 supervised by ~GPT-2 recovers performance close to GPT-3.5 supervised by humans—generalizing to solve even hard problems where the weak supervisor failed!<br><img style="" src="https://pbs.twimg.com/media/GBUyUsOawAMRdx6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349718765715913</guid>
-            <link>https://twitter.com/OpenAI/status/1735349718765715913</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[In the future, humans will need to supervise AI systems much smarter than them. We study an analogy: small models supervising large models. Read the S...]]></title>
-            <description><![CDATA[In the future, humans will need to supervise AI systems much smarter than them.<br><br>We study an analogy: small models supervising large models.<br><br>Read the Superalignment team's first paper showing progress on a new approach, weak-to-strong generalization: https://openai.com/research/weak-to-strong-generalization<br><img style="" src="https://pbs.twimg.com/media/GBUyJ9BawAEa5if?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:23:08 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349718765715913</guid>
-            <link>https://twitter.com/OpenAI/status/1735349718765715913</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Figuring out how to ensure future superhuman AI systems are aligned and safe is one of the most important unsolved technical problems in the world....]]></title>
-            <description><![CDATA[Re Figuring out how to ensure future superhuman AI systems are aligned and safe is one of the most important unsolved technical problems in the world. But we think it is a solvable problem.<br><br>There is lots of low-hanging fruit, and new researchers can make enormous contributions!]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:15:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735347884718211562</guid>
-            <link>https://twitter.com/OpenAI/status/1735347884718211562</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[We're announcing, together with @ericschmidt: Superalignment Fast Grants. $10M in grants for technical research on aligning superhuman AI systems, inc...]]></title>
-            <description><![CDATA[We're announcing, together with @ericschmidt: Superalignment Fast Grants.<br><br>$10M in grants for technical research on aligning superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more.<br><br>Apply by Feb 18! https://openai.com/blog/superalignment-fast-grants]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:15:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735347884718211562</guid>
-            <link>https://twitter.com/OpenAI/status/1735347884718211562</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[We have formed a new global partnership with @AxelSpringer and its news products. Real-time information from @politico, @BusinessInsider, European pro...]]></title>
@@ -318,6 +222,102 @@
             <pubDate>Mon, 06 Nov 2023 18:33:43 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721596740024078340</guid>
             <link>https://twitter.com/OpenAI/status/1721596740024078340</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re Plus and Enterprise users can start creating GPTs this week at http://chatgpt.com/create. Later this month, we’ll launch the GPT Store, so people ...]]></title>
+            <description><![CDATA[Re Plus and Enterprise users can start creating GPTs this week at http://chatgpt.com/create. <br><br>Later this month, we’ll launch the GPT Store, so people can feature and make money from their GPTs. We plan to offer GPTs to more users soon.]]></description>
+            <pubDate>Mon, 06 Nov 2023 18:24:21 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721594380669342171</guid>
+            <link>https://twitter.com/OpenAI/status/1721594380669342171</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GPTs are a new way for anyone to create a tailored version of ChatGPT to be more helpful in their daily life, at specific tasks, at work, or at home ...]]></title>
+            <description><![CDATA[GPTs are a new way for anyone to create a tailored version of ChatGPT to be more helpful in their daily life, at specific tasks, at work, or at home — and then share that creation with others. No code required. https://openai.com/blog/introducing-gpts<br><video src="https://video.twimg.com/ext_tw_video/1721582316521431040/pu/vid/avc1/1260x720/YvqqKVTZpZ9IK5yF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1721582316521431040/pu/img/nvBpbcqOPK8qno39.jpg"></video>]]></description>
+            <pubDate>Mon, 06 Nov 2023 18:24:20 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721594380669342171</guid>
+            <link>https://twitter.com/OpenAI/status/1721594380669342171</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We’re all ready to kick off our first ever OpenAI DevDay! See you soon! Tune into the keynote at 10 AM PST: https://www.youtube.com/live/U9mJuUkhUzk?...]]></title>
+            <description><![CDATA[We’re all ready to kick off our first ever OpenAI DevDay! See you soon! <br><br>Tune into the keynote at 10 AM PST: https://www.youtube.com/live/U9mJuUkhUzk?si=NHSelJlhTkTGXS5X<br><img style="" src="https://pbs.twimg.com/media/F-RDix_aYAAR-Mi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 06 Nov 2023 17:20:16 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1721578256217076000</guid>
+            <link>https://twitter.com/OpenAI/status/1721578256217076000</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We’re live streaming the OpenAI DevDay keynote on Monday at 10AM PST. Tune in! https://www.youtube.com/live/U9mJuUkhUzk?si=cyxdWxbdKC0Z-gaf]]></title>
+            <description><![CDATA[We’re live streaming the OpenAI DevDay keynote on Monday at 10AM PST.<br><br>Tune in! https://www.youtube.com/live/U9mJuUkhUzk?si=cyxdWxbdKC0Z-gaf]]></description>
+            <pubDate>Sat, 04 Nov 2023 16:00:37 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1720833435541946468</guid>
+            <link>https://twitter.com/OpenAI/status/1720833435541946468</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We are building a new Preparedness team to evaluate, forecast, and protect against the risks of highly-capable AI—from today's models to AGI. Goal: a...]]></title>
+            <description><![CDATA[We are building a new Preparedness team to evaluate, forecast, and protect against the risks of highly-capable AI—from today's models to AGI.<br><br>Goal: a quantitative, evidence-based methodology, beyond what is accepted as possible: https://openai.com/blog/frontier-risk-and-preparedness]]></description>
+            <pubDate>Thu, 26 Oct 2023 17:10:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1717589499533042034</guid>
+            <link>https://twitter.com/OpenAI/status/1717589499533042034</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re The Frontier Model Forum is an industry body co-founded with @AnthropicAI, @Google and @Microsoft. We will focus on three key areas within AI safet...]]></title>
+            <description><![CDATA[Re The Frontier Model Forum is an industry body co-founded with @AnthropicAI, @Google and @Microsoft. We will focus on three key areas within AI safety over the next year:<br><br>- Identifying best practices<br>- Advancing AI safety research<br>- Facilitating information sharing among companies… https://twitter.com/i/web/status/1717176701384577447]]></description>
+            <pubDate>Wed, 25 Oct 2023 13:50:03 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1717176375013228736</guid>
+            <link>https://twitter.com/OpenAI/status/1717176375013228736</link>
             
             
             
