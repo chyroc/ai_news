@@ -15,56 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 14 Dec 2023 05:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 03:05:29 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Invariant Graph Transformer]]></title>
-            <description><![CDATA[Rationale discovery is defined as finding a subset of the input data that maximally supports the prediction of downstream tasks. In graph machine learning context, graph rationale is defined to locate the critical subgraph in the given graph topology, which fundamentally determines the prediction results. In contrast to the rationale subgraph, the remaining subgraph is named the environment subgraph. Graph rationalization can enhance the model performance as the mapping between the graph rationale and prediction label is viewed as invariant, by assumption. To ensure the discriminative power of the extracted rationale subgraphs, a key technique named "intervention" is applied. The core idea of intervention is that given any changing environment subgraphs, the semantics from the rationale subgraph is invariant, which guarantees the correct prediction result. However, most, if not all, of the existing rationalization works on graph data develop their intervention strategies on the graph level, which is coarse-grained. In this paper, we propose well-tailored intervention strategies on graph data. Our idea is driven by the development of Transformer models, whose self-attention module provides rich interactions between input nodes. Based on the self-attention module, our proposed invariant graph Transformer (IGT) can achieve fine-grained, more specifically, node-level and virtual node-level intervention. Our comprehensive experiments involve 7 real-world datasets, and the proposed IGT shows significant performance advantages compared to 13 baseline methods.]]></description>
-            <pubDate>Thu, 14 Dec 2023 04:27:26 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07859</guid>
-            <link>https://arxiv.org/abs/2312.07859</link>
-            
-            
-            
-            <author><![CDATA[Zhe Xu, Menghai Pan, Yuzhong Chen, Huiyuan Chen, Yuchen Yan, Mahashweta Das, Hanghang Tong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields]]></title>
-            <description><![CDATA[Recent advances in neural rendering have shown that, albeit slow, implicit compact models can learn a scene's geometries and view-dependent appearances from multiple views. To maintain such a small memory footprint but achieve faster inference times, recent works have adopted `sampler' networks that adaptively sample a small subset of points along each ray in the implicit neural radiance fields. Although these methods achieve up to a 10times reduction in rendering time, they still suffer from considerable quality degradation compared to the vanilla NeRF. In contrast, we propose ProNeRF, which provides an optimal trade-off between memory footprint (similar to NeRF), speed (faster than HyperReel), and quality (better than K-Planes). ProNeRF is equipped with a novel projection-aware sampling (PAS) network together with a new training strategy for ray exploration and exploitation, allowing for efficient fine-grained particle sampling. Our ProNeRF yields state-of-the-art metrics, being 15-23x faster with 0.65dB higher PSNR than NeRF and yielding 0.95dB higher PSNR than the best published sampler-based method, HyperReel. Our exploration and exploitation training strategy allows ProNeRF to learn the full scenes' color and density distributions while also learning efficient ray sampling focused on the highest-density regions. We provide extensive experimental results that support the effectiveness of our method on the widely adopted forward-facing and 360 datasets, LLFF and Blender, respectively.]]></description>
-            <pubDate>Thu, 14 Dec 2023 03:25:55 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.08136</guid>
-            <link>https://arxiv.org/abs/2312.08136</link>
-            
-            
-            
-            <author><![CDATA[Juan Luis Gonzalez Bello, Minh-Quan Viet Bui, Munchurl Kim]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor]]></title>
-            <description><![CDATA[Existing open-vocabulary image segmentation methods require a fine-tuning step on mask annotations and/or image-text datasets. Mask labels are labor-intensive, which limits the number of categories in segmentation datasets. As a result, the open-vocabulary capacity of pre-trained VLMs is severely reduced after fine-tuning. However, without fine-tuning, VLMs trained under weak image-text supervision tend to make suboptimal mask predictions when there are text queries referring to non-existing concepts in the image. To alleviate these issues, we introduce a novel recurrent framework that progressively filters out irrelevant texts and enhances mask quality without training efforts. The recurrent unit is a two-stage segmenter built upon a VLM with frozen weights. Thus, our model retains the VLM's broad vocabulary space and strengthens its segmentation capability. Experimental results show that our method outperforms not only the training-free counterparts, but also those fine-tuned with millions of additional data samples, and sets new state-of-the-art records for both zero-shot semantic and referring image segmentation tasks. Specifically, we improve the current record by 28.8, 16.0, and 6.9 mIoU on Pascal VOC, COCO Object, and Pascal Context.]]></description>
-            <pubDate>Thu, 14 Dec 2023 03:10:24 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.07661</guid>
-            <link>https://arxiv.org/abs/2312.07661</link>
-            
-            
-            
-            <author><![CDATA[Shuyang Sun, Runjia Li, Philip Torr, Xiuye Gu, Siyang Li]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Clockwork Diffusion: Efficient Generation With Model-Step Distillation]]></title>
