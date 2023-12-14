@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 14 Dec 2023 18:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 16:49:18 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[⭐️Video overview: Strategies for RAG on semi-structured data⭐️ We've seen great interest in RAG apps on docs w/ a mixture of tables and text (fina...]]></title>
-            <description><![CDATA[⭐️Video overview: Strategies for RAG on semi-structured data⭐️&nbsp; <br><br>We've seen great interest in RAG apps on docs w/ a mixture of tables and text (financial docs, whitepapers, technical manuals).<br><br>But, this brings up a few tricky questions:<br>1/ Can I just stuff semi-structured docs… https://twitter.com/i/web/status/1735350379901272289<br><img style="" src="https://pbs.twimg.com/media/GBUzU5PawAA8GLh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:25:46 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1735350379901272289</guid>
-            <link>https://twitter.com/LangChainAI/status/1735350379901272289</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Nazeem: Dialoqbase v1.5.0 has arrived with Dark Mode! 🎉 Added Mistral MoE 8x7B model via .@thefireworksai and the new Google gemini-pro model Po...]]></title>
-            <description><![CDATA[RT Nazeem<br>Dialoqbase v1.5.0 has arrived with Dark Mode! 🎉 <br><br>Added Mistral MoE 8x7B model via  .@thefireworksai and the new Google gemini-pro model<br><br>Powered by .@LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1735344058942537728/pu/vid/avc1/1476x720/90HXeiVf3ecy8ruL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735344058942537728/pu/img/Vu56G2Ww7QhvNQgg.jpg"></video>]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:02:11 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/n4ze3m/status/1735344445568991586</guid>
-            <link>https://twitter.com/n4ze3m/status/1735344445568991586</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[🦜📃Docugami KG-RAG Template We worked with @docugami to publish a RAG template that uses their technology to create XML knowledge graphs They als...]]></title>
@@ -65,54 +33,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 14 Dec 2023 16:31:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1735336596516335748</guid>
             <link>https://twitter.com/LangChainAI/status/1735336596516335748</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Neo4j: Re @tb_tomaz "By splitting longer documents into smaller vectors and indexing these for similarity, we can increase the retrieval accuracy w...]]></title>
-            <description><![CDATA[RT Neo4j<br>Re @tb_tomaz "By splitting longer documents into smaller vectors and indexing these for similarity, we can increase the retrieval accuracy while retaining the contextual information of parent documents to generate the answers with #LLMs." <br>How?<br>https://bit.ly/3NsfImd<br>#Neo4j]]></description>
-            <pubDate>Thu, 14 Dec 2023 16:25:03 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/neo4j/status/1735335098180866377</guid>
-            <link>https://twitter.com/neo4j/status/1735335098180866377</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Muratcan Koylan: We can automate everything with AI Agents, we can analyze everything with LLMs. Human expert predictions/reviews with LLMs + predi...]]></title>
-            <description><![CDATA[RT Muratcan Koylan<br>We can automate everything with AI Agents, we can analyze everything with LLMs. <br><br>Human expert predictions/reviews with LLMs + predictive analysis with ML = 🛸🚀👽<br><br>In @LangChainAI, @togethercompute, @MistralAI We Trust<br><br>Accelerate by delegating...<br><video src="https://video.twimg.com/ext_tw_video/1735279250784088064/pu/vid/avc1/1280x720/PXCBcrU0hADAVZhs.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735279250784088064/pu/img/f5-opSbyMk6GJXSm.jpg"></video>]]></description>
-            <pubDate>Thu, 14 Dec 2023 12:50:28 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/youraimarketer/status/1735281098031046761</guid>
-            <link>https://twitter.com/youraimarketer/status/1735281098031046761</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Shubham Saboo: LangChain meets Google Gemini 🔥 Google just launched Gemini Pro as an API for developers to use in their applications. LangChain ...]]></title>
-            <description><![CDATA[RT Shubham Saboo<br>LangChain meets Google Gemini 🔥<br><br>Google just launched Gemini Pro as an API for developers to use in their applications. <br><br>LangChain without any wait quickly released a new Python package to access Google's multimodal LLM -Gemini!<br><br>All you need to do to get started: `pip install… https://twitter.com/i/web/status/1735182170715537663<br><img style="" src="https://pbs.twimg.com/media/GBSa9pCXEAAPB3U?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 06:17:22 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Saboo_Shubham_/status/1735182170715537663</guid>
-            <link>https://twitter.com/Saboo_Shubham_/status/1735182170715537663</link>
             
             
             
@@ -300,6 +220,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[🦜🚀Towards LangChain 0.1: LangChain-Core and LangChain-Community TL;DR: We've split the old langchain package into three separate packages to imp...]]></title>
+            <description><![CDATA[🦜🚀Towards LangChain 0.1: LangChain-Core and LangChain-Community<br><br>TL;DR:<br><br>We've split the old langchain package into three separate packages to improve developer experience<br><br>🎯`langchain-core` contains simple, core abstractions that have emerged as a standard, as well as… https://twitter.com/i/web/status/1734641665556857148<br><img style="" src="https://pbs.twimg.com/media/GBKtZR3aYAAgt1P?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 18:29:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734641665556857148</guid>
+            <link>https://twitter.com/LangChainAI/status/1734641665556857148</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Didier Lopes: OpenBB Copilot (built with @LangChainAI) with access to the @openbb_finance platform It still amazes me that just 1 year after ChatGP...]]></title>
+            <description><![CDATA[RT Didier Lopes<br>OpenBB Copilot (built with @LangChainAI) with access to the @openbb_finance platform<br><br>It still amazes me that just 1 year after ChatGPT, we can build an agent that can perform such a complex workflow flawlessly.<br><br>OpenBB Terminal Pro is the future.<br><video src="https://video.twimg.com/ext_tw_video/1734634529829326848/pu/vid/avc1/1116x720/tUj-ZSa07b28CPx0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1734634529829326848/pu/img/FKFiuLem_t9ZhHpb.jpg"></video>]]></description>
+            <pubDate>Tue, 12 Dec 2023 18:04:08 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/didier_lopes/status/1734635260938203224</guid>
+            <link>https://twitter.com/didier_lopes/status/1734635260938203224</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Docker 🐳: Re @rajatsandeepsen Have you checked out our GenAI stack with @Ollama_ai and @LangChainAI? https://github.com/docker/genai-stack]]></title>
             <description><![CDATA[RT Docker 🐳<br>Re @rajatsandeepsen Have you checked out our GenAI stack with @Ollama_ai and @LangChainAI? https://github.com/docker/genai-stack]]></description>
             <pubDate>Tue, 12 Dec 2023 17:13:54 GMT</pubDate>
@@ -337,6 +289,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 12 Dec 2023 16:34:25 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/logan_anders0n/status/1734612683226521761</guid>
             <link>https://twitter.com/logan_anders0n/status/1734612683226521761</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: RAG App Slow & Costly? Smarter LLM Chunking With @LangChainAI by Clément ROBIN fixes that! He uses LangChain for an innovative new s...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>RAG App Slow &amp; Costly? Smarter LLM Chunking With @LangChainAI by Clément ROBIN fixes that!<br><br>He uses LangChain for an innovative new strategy that intelligently summarizes docs with LLM first, then chunks into coherent bits for better context. Read more! 🚀 https://buff.ly/4858exu<br><img style="" src="https://pbs.twimg.com/media/GBJPcECW0AA9LMJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 12 Dec 2023 11:30:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1734536153116655663</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1734536153116655663</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Waseem: Your choice of embedding model significantly impacts the quality of retrieval for your RAG app @LangChainAI http://chat.langchain.com - is ...]]></title>
+            <description><![CDATA[RT Waseem<br>Your choice of embedding model significantly impacts the quality of retrieval for your RAG app<br><br>@LangChainAI http://chat.langchain.com - is one of the most helpful RAG apps I've used<br><br>Going through the source code you see they are using @Voyage_AI_ by @tengyuma to embed their docs<br><img style="" src="https://pbs.twimg.com/media/GAmMPmxaIAAOXBF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 05 Dec 2023 16:09:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/waseemhnyc/status/1732069735016345927</guid>
+            <link>https://twitter.com/waseemhnyc/status/1732069735016345927</link>
             
             
             
