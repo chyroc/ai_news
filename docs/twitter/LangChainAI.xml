@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Dec 2023 20:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 22:54:47 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Brace: Don't have access to the Mistral API yet? No need to worry. @LangChainAI 🦜🔗 TS v0.0.208 supports the @togethercompute API, with Mistra...]]></title>
+            <description><![CDATA[RT Brace<br>Don't have access to the Mistral API yet? No need to worry. @LangChainAI 🦜🔗 TS v0.0.208 supports the @togethercompute API, with Mistral 8x7b in general availability!<br><br>See the docs for how to start using the API now:<br><br>https://js.langchain.com/docs/integrations/llms/togetherai<br><img style="" src="https://pbs.twimg.com/media/GBaxmW8aEAEoHWR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Brace: 🧙 Mistral AI API Integration 🧙<br><br>@LangChainAI 🔗🦜 just added a package for interacting with the @MistralAI chat, streaming and embedding endpoints, all seamlessly integrated with LangChain's ecosystem.<br><br>Download the package here:<br><br>https://www.npmjs.com/package/@langchain/mistralai<br><br>Read the docs here:… https://twitter.com/i/web/status/1735376742108545433<br></div>]]></description>
+            <pubDate>Fri, 15 Dec 2023 21:13:08 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1735769988382986405</guid>
+            <link>https://twitter.com/BraceSproul/status/1735769988382986405</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Harpreet Sahota 👨🏽‍💻 🥑: I'm the kind of guy who doesn't settle for benchmarks – I roll up my sleeves and dive headfirst into the acti...]]></title>
@@ -273,22 +289,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 14 Dec 2023 17:02:11 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/n4ze3m/status/1735344445568991586</guid>
             <link>https://twitter.com/n4ze3m/status/1735344445568991586</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Neo4j: Re @tb_tomaz "By splitting longer documents into smaller vectors and indexing these for similarity, we can increase the retrieval accuracy w...]]></title>
-            <description><![CDATA[RT Neo4j<br>Re @tb_tomaz "By splitting longer documents into smaller vectors and indexing these for similarity, we can increase the retrieval accuracy while retaining the contextual information of parent documents to generate the answers with #LLMs." <br>How?<br>https://bit.ly/3NsfImd<br>#Neo4j]]></description>
-            <pubDate>Thu, 14 Dec 2023 16:25:03 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/neo4j/status/1735335098180866377</guid>
-            <link>https://twitter.com/neo4j/status/1735335098180866377</link>
             
             
             
