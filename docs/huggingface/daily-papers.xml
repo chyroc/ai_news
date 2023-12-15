@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 15 Dec 2023 03:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 01:33:42 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Zebra: Extending Context Window with Layerwise Grouped Local-Global Attention]]></title>
-            <description><![CDATA[This paper introduces a novel approach to enhance the capabilities of Large Language Models (LLMs) in processing and understanding extensive text sequences, a critical aspect in applications requiring deep comprehension and synthesis of large volumes of information. Recognizing the inherent challenges in extending the context window for LLMs, primarily built on Transformer architecture, we propose a new model architecture, referred to as Zebra. This architecture efficiently manages the quadratic time and memory complexity issues associated with full attention in the Transformer by employing grouped local-global attention layers. Our model, akin to a zebra's alternating stripes, balances local and global attention layers, significantly reducing computational requirements and memory consumption. Comprehensive experiments, including pretraining from scratch, continuation of long context adaptation training, and long instruction tuning, are conducted to evaluate the Zebra's performance. The results show that Zebra achieves comparable or superior performance on both short and long sequence benchmarks, while also enhancing training and inference efficiency.]]></description>
-            <pubDate>Fri, 15 Dec 2023 03:33:47 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.08618</guid>
-            <link>https://arxiv.org/abs/2312.08618</link>
+            <title><![CDATA[Invariant Graph Transformer]]></title>
+            <description><![CDATA[Rationale discovery is defined as finding a subset of the input data that maximally supports the prediction of downstream tasks. In graph machine learning context, graph rationale is defined to locate the critical subgraph in the given graph topology, which fundamentally determines the prediction results. In contrast to the rationale subgraph, the remaining subgraph is named the environment subgraph. Graph rationalization can enhance the model performance as the mapping between the graph rationale and prediction label is viewed as invariant, by assumption. To ensure the discriminative power of the extracted rationale subgraphs, a key technique named "intervention" is applied. The core idea of intervention is that given any changing environment subgraphs, the semantics from the rationale subgraph is invariant, which guarantees the correct prediction result. However, most, if not all, of the existing rationalization works on graph data develop their intervention strategies on the graph level, which is coarse-grained. In this paper, we propose well-tailored intervention strategies on graph data. Our idea is driven by the development of Transformer models, whose self-attention module provides rich interactions between input nodes. Based on the self-attention module, our proposed invariant graph Transformer (IGT) can achieve fine-grained, more specifically, node-level and virtual node-level intervention. Our comprehensive experiments involve 7 real-world datasets, and the proposed IGT shows significant performance advantages compared to 13 baseline methods.]]></description>
+            <pubDate>Thu, 14 Dec 2023 04:27:26 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07859</guid>
+            <link>https://arxiv.org/abs/2312.07859</link>
             
             
             
-            <author><![CDATA[Kaiqiang Song, Xiaoyang Wang, Sangwoo Cho, Xiaoman Pan, Dong Yu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks]]></title>
-            <description><![CDATA[This study examines 4-bit quantization methods like GPTQ in large language models (LLMs), highlighting GPTQ's overfitting and limited enhancement in Zero-Shot tasks. While prior works merely focusing on zero-shot measurement, we extend task scope to more generative categories such as code generation and abstractive summarization, in which we found that INT4 quantization can significantly underperform. However, simply shifting to higher precision formats like FP6 has been particularly challenging, thus overlooked, due to poor performance caused by the lack of sophisticated integration and system acceleration strategies on current AI hardware. Our results show that FP6, even with a coarse-grain quantization scheme, performs robustly across various algorithms and tasks, demonstrating its superiority in accuracy and versatility. Notably, with the FP6 quantization, \codestar-15B model performs comparably to its FP16 counterpart in code generation, and for smaller models like the 406M it closely matches their baselines in summarization. Neither can be achieved by INT4. To better accommodate various AI hardware and achieve the best system performance, we propose a novel 4+2 design for FP6 to achieve similar latency to the state-of-the-art INT4 fine-grain quantization. With our design, FP6 can become a promising solution to the current 4-bit quantization methods used in LLMs.]]></description>
-            <pubDate>Fri, 15 Dec 2023 03:28:52 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.08583</guid>
-            <link>https://arxiv.org/abs/2312.08583</link>
-            
-            
-            
-            <author><![CDATA[Xiaoxia Wu, Haojun Xia, Stephen Youn, Zhen Zheng, Shiyang Chen, Arash Bakhtiari, Michael Wyatt, Yuxiong He, Olatunji Ruwase, Leon Song, Zhewei Yao]]></author>
+            <author><![CDATA[Zhe Xu, Menghai Pan, Yuzhong Chen, Huiyuan Chen, Yuchen Yan, Mahashweta Das, Hanghang Tong]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions]]></title>
-            <description><![CDATA[Curation methods for massive vision-language datasets trade off between dataset size and quality. However, even the highest quality of available curated captions are far too short to capture the rich visual detail in an image. To show the value of dense and highly-aligned image-text pairs, we collect the Densely Captioned Images (DCI) dataset, containing 8012 natural images human-annotated with mask-aligned descriptions averaging above 1000 words each. With precise and reliable captions associated with specific parts of an image, we can evaluate vision-language models' (VLMs) understanding of image content with a novel task that matches each caption with its corresponding subcrop. As current models are often limited to 77 text tokens, we also introduce a summarized version (sDCI) in which each caption length is limited. We show that modern techniques that make progress on standard benchmarks do not correspond with significant improvement on our sDCI based benchmark. Lastly, we finetune CLIP using sDCI and show significant improvements over the baseline despite a small training set. By releasing the first human annotated dense image captioning dataset, we hope to enable the development of new benchmarks or fine-tuning recipes for the next generation of VLMs to come.]]></description>
-            <pubDate>Fri, 15 Dec 2023 03:23:12 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.08578</guid>
-            <link>https://arxiv.org/abs/2312.08578</link>
+            <title><![CDATA[ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields]]></title>
+            <description><![CDATA[Recent advances in neural rendering have shown that, albeit slow, implicit compact models can learn a scene's geometries and view-dependent appearances from multiple views. To maintain such a small memory footprint but achieve faster inference times, recent works have adopted `sampler' networks that adaptively sample a small subset of points along each ray in the implicit neural radiance fields. Although these methods achieve up to a 10times reduction in rendering time, they still suffer from considerable quality degradation compared to the vanilla NeRF. In contrast, we propose ProNeRF, which provides an optimal trade-off between memory footprint (similar to NeRF), speed (faster than HyperReel), and quality (better than K-Planes). ProNeRF is equipped with a novel projection-aware sampling (PAS) network together with a new training strategy for ray exploration and exploitation, allowing for efficient fine-grained particle sampling. Our ProNeRF yields state-of-the-art metrics, being 15-23x faster with 0.65dB higher PSNR than NeRF and yielding 0.95dB higher PSNR than the best published sampler-based method, HyperReel. Our exploration and exploitation training strategy allows ProNeRF to learn the full scenes' color and density distributions while also learning efficient ray sampling focused on the highest-density regions. We provide extensive experimental results that support the effectiveness of our method on the widely adopted forward-facing and 360 datasets, LLFF and Blender, respectively.]]></description>
+            <pubDate>Thu, 14 Dec 2023 03:25:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.08136</guid>
+            <link>https://arxiv.org/abs/2312.08136</link>
             
             
             
-            <author><![CDATA[Jack Urbanek, Florian Bordes, Pietro Astolfi, Mary Williamson, Vasu Sharma, Adriana Romero-Soriano]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Holodeck: Language Guided Generation of 3D Embodied AI Environments]]></title>
-            <description><![CDATA[3D simulated environments play a critical role in Embodied AI, but their creation requires expertise and extensive manual effort, restricting their diversity and scope. To mitigate this limitation, we present Holodeck, a system that generates 3D environments to match a user-supplied prompt fully automatedly. Holodeck can generate diverse scenes, e.g., arcades, spas, and museums, adjust the designs for styles, and can capture the semantics of complex queries such as "apartment for a researcher with a cat" and "office of a professor who is a fan of Star Wars". Holodeck leverages a large language model (GPT-4) for common sense knowledge about what the scene might look like and uses a large collection of 3D assets from Objaverse to populate the scene with diverse objects. To address the challenge of positioning objects correctly, we prompt GPT-4 to generate spatial relational constraints between objects and then optimize the layout to satisfy those constraints. Our large-scale human evaluation shows that annotators prefer Holodeck over manually designed procedural baselines in residential scenes and that Holodeck can produce high-quality outputs for diverse scene types. We also demonstrate an exciting application of Holodeck in Embodied AI, training agents to navigate in novel scenes like music rooms and daycares without human-constructed data, which is a significant step forward in developing general-purpose embodied agents.]]></description>
-            <pubDate>Fri, 15 Dec 2023 02:18:02 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09067</guid>
-            <link>https://arxiv.org/abs/2312.09067</link>
-            
-            
-            
-            <author><![CDATA[Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark]]></author>
+            <author><![CDATA[Juan Luis Gonzalez Bello, Minh-Quan Viet Bui, Munchurl Kim]]></author>
             
                 
             
@@ -83,15 +51,111 @@
         </item>
         
         <item>
-            <title><![CDATA[Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent]]></title>
-            <description><![CDATA[Large language models (LLMs) face challenges in solving complex mathematical problems that require comprehensive capacities to parse the statements, associate domain knowledge, perform compound logical reasoning, and integrate the intermediate rationales. Tackling all these problems once could be arduous for LLMs, thus leading to confusion in generation. In this work, we explore the potential of enhancing LLMs with agents by meticulous decomposition and modeling of mathematical reasoning process. Specifically, we propose a formal description of the mathematical solving and extend LLMs with an agent-based zero-shot framework named Planner-Reasoner-Executor-Reflector (PRER). We further provide and implement two MathAgents that define the logical forms and inherent relations via a pool of actions in different grains and orientations: MathAgent-M adapts its actions to LLMs, while MathAgent-H aligns with humankind. Experiments on miniF2F and MATH have demonstrated the effectiveness of PRER and proposed MathAgents, achieving an increase of 12.3%(53.9%66.2%) on the MiniF2F, 9.2% (49.8%59.0%) on MATH, and 13.2%(23.2%35.4%) for level-5 problems of MATH against GPT-4. Further analytical results provide more insightful perspectives on exploiting the behaviors of LLMs as agents.]]></description>
-            <pubDate>Fri, 15 Dec 2023 01:58:29 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.08926</guid>
-            <link>https://arxiv.org/abs/2312.08926</link>
+            <title><![CDATA[CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor]]></title>
+            <description><![CDATA[Existing open-vocabulary image segmentation methods require a fine-tuning step on mask annotations and/or image-text datasets. Mask labels are labor-intensive, which limits the number of categories in segmentation datasets. As a result, the open-vocabulary capacity of pre-trained VLMs is severely reduced after fine-tuning. However, without fine-tuning, VLMs trained under weak image-text supervision tend to make suboptimal mask predictions when there are text queries referring to non-existing concepts in the image. To alleviate these issues, we introduce a novel recurrent framework that progressively filters out irrelevant texts and enhances mask quality without training efforts. The recurrent unit is a two-stage segmenter built upon a VLM with frozen weights. Thus, our model retains the VLM's broad vocabulary space and strengthens its segmentation capability. Experimental results show that our method outperforms not only the training-free counterparts, but also those fine-tuned with millions of additional data samples, and sets new state-of-the-art records for both zero-shot semantic and referring image segmentation tasks. Specifically, we improve the current record by 28.8, 16.0, and 6.9 mIoU on Pascal VOC, COCO Object, and Pascal Context.]]></description>
+            <pubDate>Thu, 14 Dec 2023 03:10:24 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07661</guid>
+            <link>https://arxiv.org/abs/2312.07661</link>
             
             
             
-            <author><![CDATA[Haoran Liao, Qinyi Du, Shaohua Hu, Hao He, Yanyan Xu, Jidong Tian, Yaohui Jin]]></author>
+            <author><![CDATA[Shuyang Sun, Runjia Li, Philip Torr, Xiuye Gu, Siyang Li]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Clockwork Diffusion: Efficient Generation With Model-Step Distillation]]></title>
+            <description><![CDATA[This work aims to improve the efficiency of text-to-image diffusion models. While diffusion models use computationally expensive UNet-based denoising operations in every generation step, we identify that not all operations are equally relevant for the final output quality. In particular, we observe that UNet layers operating on high-res feature maps are relatively sensitive to small perturbations. In contrast, low-res feature maps influence the semantic layout of the final image and can often be perturbed with no noticeable change in the output. Based on this observation, we propose Clockwork Diffusion, a method that periodically reuses computation from preceding denoising steps to approximate low-res feature maps at one or more subsequent steps. For multiple baselines, and for both text-to-image generation and image editing, we demonstrate that Clockwork leads to comparable or improved perceptual scores with drastically reduced computational complexity. As an example, for Stable Diffusion v1.5 with 8 DPM++ steps we save 32% of FLOPs with negligible FID and CLIP change.]]></description>
+            <pubDate>Thu, 14 Dec 2023 03:03:02 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.08128</guid>
+            <link>https://arxiv.org/abs/2312.08128</link>
+            
+            
+            
+            <author><![CDATA[Amirhossein Habibian, Amir Ghodrati, Noor Fathima, Guillaume Sautiere, Risheek Garrepalli, Fatih Porikli, Jens Petersen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Distributed Inference and Fine-tuning of Large Language Models Over The Internet]]></title>
+            <description><![CDATA[Large language models (LLMs) are useful in many NLP tasks and become more capable with size, with the best open-source models having over 50 billion parameters. However, using these 50B+ models requires high-end hardware, making them inaccessible to most researchers. In this work, we investigate methods for cost-efficient inference and fine-tuning of LLMs, comparing local and distributed strategies. We observe that a large enough model (50B+) can run efficiently even on geodistributed devices in a consumer-grade network. This could allow running LLM efficiently by pooling together idle compute resources of multiple research groups and volunteers. We address two open problems: (1) how to perform inference and fine-tuning reliably if any device can disconnect abruptly and (2) how to partition LLMs between devices with uneven hardware, joining and leaving at will. In order to do that, we develop special fault-tolerant inference algorithms and load-balancing protocols that automatically assign devices to maximize the total system throughput. We showcase these algorithms in Petals - a decentralized system that runs Llama 2 (70B) and BLOOM (176B) over the Internet up to 10x faster than offloading for interactive generation. We evaluate the performance of our system in simulated conditions and a real-world setup spanning two continents.]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:44:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.08361</guid>
+            <link>https://arxiv.org/abs/2312.08361</link>
+            
+            
+            
+            <author><![CDATA[Alexander Borzunov, Max Ryabinin, Artem Chumachenko, Dmitry Baranchuk, Tim Dettmers, Younes Belkada, Pavel Samygin, Colin Raffel]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects]]></title>
+            <description><![CDATA[We present FoundationPose, a unified foundation model for 6D object pose estimation and tracking, supporting both model-based and model-free setups. Our approach can be instantly applied at test-time to a novel object without fine-tuning, as long as its CAD model is given, or a small number of reference images are captured. We bridge the gap between these two setups with a neural implicit representation that allows for effective novel view synthesis, keeping the downstream pose estimation modules invariant under the same unified framework. Strong generalizability is achieved via large-scale synthetic training, aided by a large language model (LLM), a novel transformer-based architecture, and contrastive learning formulation. Extensive evaluation on multiple public datasets involving challenging scenarios and objects indicate our unified approach outperforms existing methods specialized for each task by a large margin. In addition, it even achieves comparable results to instance-level methods despite the reduced assumptions. Project page: https://nvlabs.github.io/FoundationPose/]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:37:03 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.08344</guid>
+            <link>https://arxiv.org/abs/2312.08344</link>
+            
+            
+            
+            <author><![CDATA[Bowen Wen, Wei Yang, Jan Kautz, Stan Birchfield]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention]]></title>
+            <description><![CDATA[The costly self-attention layers in modern Transformers require memory and compute quadratic in sequence length. Existing approximation methods usually underperform and fail to obtain significant speedups in practice. Here we present SwitchHead - a novel method that reduces both compute and memory requirements and achieves wall-clock speedup, while matching the language modeling performance of baseline Transformers with the same parameter budget. SwitchHead uses Mixture-of-Experts (MoE) layers for the value and output projections and requires 4 to 8 times fewer attention matrices than standard Transformers. Our novel attention can also be combined with MoE MLP layers, resulting in an efficient fully-MoE "SwitchHead" Transformer model. Our code is public.]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:29:22 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07987</guid>
+            <link>https://arxiv.org/abs/2312.07987</link>
+            
+            
+            
+            <author><![CDATA[Róbert Csordás, Piotr Piękos, Kazuki Irie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PromptBench: A Unified Library for Evaluation of Large Language Models]]></title>
+            <description><![CDATA[The evaluation of large language models (LLMs) is crucial to assess their performance and mitigate potential security risks. In this paper, we introduce PromptBench, a unified library to evaluate LLMs. It consists of several key components that are easily used and extended by researchers: prompt construction, prompt engineering, dataset and model loading, adversarial prompt attack, dynamic evaluation protocols, and analysis tools. PromptBench is designed to be an open, general, and flexible codebase for research purposes that can facilitate original study in creating new benchmarks, deploying downstream applications, and designing new evaluation protocols. The code is available at: https://github.com/microsoft/promptbench and will be continuously supported.]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:22:31 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07910</guid>
+            <link>https://arxiv.org/abs/2312.07910</link>
+            
+            
+            
+            <author><![CDATA[Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Foundation Models in Robotics: Applications, Challenges, and the Future]]></title>
+            <description><![CDATA[We survey applications of pretrained foundation models in robotics. Traditional deep learning models in robotics are trained on small datasets tailored for specific tasks, which limits their adaptability across diverse applications. In contrast, foundation models pretrained on internet-scale data appear to have superior generalization capabilities, and in some instances display an emergent ability to find zero-shot solutions to problems that are not present in the training data. Foundation models may hold the potential to enhance various components of the robot autonomy stack, from perception to decision-making and control. For example, large language models can generate code or provide common sense reasoning, while vision-language models enable open-vocabulary visual recognition. However, significant open research challenges remain, particularly around the scarcity of robot-relevant training data, safety guarantees and uncertainty quantification, and real-time execution. In this survey, we study recent papers that have used or built foundation models to solve robotics problems. We explore how foundation models contribute to improving robot capabilities in the domains of perception, decision-making, and control. We discuss the challenges hindering the adoption of foundation models in robot autonomy and provide opportunities and potential pathways for future advancements. The GitHub project corresponding to this paper (Preliminary release. We are committed to further enhancing and updating this work to ensure its quality and relevance) can be found here: https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models]]></description>
+            <pubDate>Thu, 14 Dec 2023 02:14:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.07843</guid>
+            <link>https://arxiv.org/abs/2312.07843</link>
+            
+            
+            
+            <author><![CDATA[Roya Firoozi, Johnathan Tucker, Stephen Tian, Anirudha Majumdar, Jiankai Sun, Weiyu Liu, Yuke Zhu, Shuran Song, Ashish Kapoor, Karol Hausman, Brian Ichter, Danny Driess, Jiajun Wu, Cewu Lu, Mac Schwager]]></author>
             
                 
             
