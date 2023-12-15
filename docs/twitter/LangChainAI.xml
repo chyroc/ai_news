@@ -24,104 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Dec 2023 03:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 00:47:57 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Ryuu: Exciting news! 🚀 Just launched my Personal Tutoring Bot 🤖📚 - Upload files, ask questions, get predictions for the next one, get quiz...]]></title>
-            <description><![CDATA[RT Ryuu<br>Exciting news! 🚀 Just launched my Personal Tutoring Bot 🤖📚 - Upload files, ask questions, get predictions for the next one, get quizzes based on your files, Gives top topics and its details asked by all users. 🎓 Currently used by 30+ students at our college! 🌐✨ #EdTech #AI<br><video src="https://video.twimg.com/ext_tw_video/1735473769148506112/pu/vid/avc1/1280x720/kA8NKSlgGtLmYp35.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735473769148506112/pu/img/HMlXwsSGgl55s0gA.jpg"></video>]]></description>
-            <pubDate>Fri, 15 Dec 2023 01:58:44 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Ryuu1200/status/1735479470956658829</guid>
-            <link>https://twitter.com/Ryuu1200/status/1735479470956658829</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: Build your own Gemini Pro Chatbot 🤖@HeikoHotz guides you through creating your own #Gemini chatbot, that remembers without special...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>Build your own Gemini Pro Chatbot<br>🤖@HeikoHotz guides you through creating your own #Gemini chatbot, that remembers without specialized hardware. <br>Using @VertexAi APIs, @Streamlit Ui &amp; @LangChainAI expertly manage context. <br><br>Code: https://buff.ly/3TnGHmA<br> https://buff.ly/3tma3XV<br><img style="" src="https://pbs.twimg.com/media/GBWaANPXcAEUX59?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 15 Dec 2023 00:51:32 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1735462562706174305</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1735462562706174305</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Dmitry Noranovich: Benchmarking RAG on tables by @LangChainAI https://blog.langchain.dev/benchmarking-rag-on-tables/]]></title>
-            <description><![CDATA[RT Dmitry Noranovich<br>Benchmarking RAG on tables by @LangChainAI<br><br>https://blog.langchain.dev/benchmarking-rag-on-tables/]]></description>
-            <pubDate>Fri, 15 Dec 2023 00:29:57 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/javaeeeee1/status/1735457130918863293</guid>
-            <link>https://twitter.com/javaeeeee1/status/1735457130918863293</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Colin McNamara: Come hack on @langchainAI with us tonight!]]></title>
-            <description><![CDATA[RT Colin McNamara<br>Come hack on @langchainAI with us tonight!<div class="rsshub-quote"><br><br>Austin LangChain: 🚀 Join us at #AustinLangChain Meetup on Dec 14! Dive into AI Web Architecture with #LangChain, #Streamlit, &amp; #Docker. <br>📍1204 San Antonio, Austin, TX. <br>⏰6-9 PM.<br>🔗 https://www.meetup.com/austin-langchain-ai-group/events/297837958/<br>#AI #WebDevelopment #AustinTech<br>👇 More details in the thread!<br></div>]]></description>
-            <pubDate>Thu, 14 Dec 2023 22:19:52 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/colinmcnamara/status/1735424392232837302</guid>
-            <link>https://twitter.com/colinmcnamara/status/1735424392232837302</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT AI Makerspace: 🧑‍💻⚒️ Have you built with LangSmith yet? It’s @LangChainAI's emerging best-practice #LLM Ops tool for deploying & operatin...]]></title>
-            <description><![CDATA[RT AI Makerspace<br>🧑‍💻⚒️ Have you built with LangSmith yet?<br><br>It’s @LangChainAI's emerging best-practice #LLM Ops tool for deploying  &amp; operating LLM applications in production!<br><br>🤩Join us at 10 AM PT next week to talk LangSmith: How to Improve LLM Apps in #production.<br><br>https://lu.ma/Langsmithllmapps]]></description>
-            <pubDate>Thu, 14 Dec 2023 20:25:34 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/AIMakerspace/status/1735395628921094259</guid>
-            <link>https://twitter.com/AIMakerspace/status/1735395628921094259</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Kevin Cohen: How to semantically search over documents in an S3 bucket with real-time changes? Instructions and step by step 👇 If an application...]]></title>
-            <description><![CDATA[RT Kevin Cohen<br>How to semantically search over documents in an S3 bucket with real-time changes?<br>Instructions and step by step 👇<br><br>If an application requires to semantically search a corpus of data, chances are that you are dealing with vector embeddings and vector databases to store these… https://twitter.com/i/web/status/1735392243140436301]]></description>
-            <pubDate>Thu, 14 Dec 2023 20:12:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/kevin_neum/status/1735392243140436301</guid>
-            <link>https://twitter.com/kevin_neum/status/1735392243140436301</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Brace: 🧙 Mistral AI API Integration 🧙 @LangChainAI 🔗🦜 just added a package for interacting with the @MistralAI chat, streaming and embe...]]></title>
@@ -316,6 +220,54 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Jacob Lee: 👾 Discord Tool for Agents 👾 It’s been quite a few weeks for @LangChainAI 🦜🔗 JS/TS, and how fitting that our community-only ...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>👾&nbsp;Discord Tool for Agents 👾<br><br>It’s been quite a few weeks for @LangChainAI 🦜🔗 JS/TS, and how fitting that our community-only import is a @discord tool in 0.0.206!<br><br>Your agents can use it to send messages and pull server info!<br><br>Ty Maanethdesilva!<br><br>https://js.langchain.com/docs/integrations/tools/discord<br><img style="" src="https://pbs.twimg.com/media/GBQSVEpa4AAn9Hq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 20:21:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1735032241221423279</guid>
+            <link>https://twitter.com/Hacubu/status/1735032241221423279</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Want to use Gemini models via GCP? 🚀The LangChain x VertexAI integration is now updated to support the recent models! `pip install langchain-commun...]]></title>
+            <description><![CDATA[Want to use Gemini models via GCP? <br><br>🚀The LangChain x VertexAI integration is now updated to support the recent models!<br><br>`pip install langchain-community==0.0.3`<br><br>🏦VertexAI works natively with GCP - great for enterprise use cases!<br><img style="" src="https://pbs.twimg.com/media/GBQIvu1aUAMv_aG?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 19:39:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1735021642416525538</guid>
+            <link>https://twitter.com/LangChainAI/status/1735021642416525538</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT WFH: pip install langchain-google-genai]]></title>
+            <description><![CDATA[RT WFH<br>pip install langchain-google-genai<div class="rsshub-quote"><br><br>LangChain: 🦜LangChain 🤝Gemini♊️<br><br>Gemini API access is out! Access it through LangChain with our first standalone integration package:<br><br>`pip install langchain-google-genai`<br><br>We're also launching an integration guide showing how to:<br><br>🎏Stream results<br>🖼️Use it's multimodal capabilities… https://twitter.com/i/web/status/1734982565352845428<br><br><img style="" src="https://pbs.twimg.com/media/GBPlaVjaAAA_yvW?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBPlaV2aUAAW9Yj?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 13 Dec 2023 19:13:42 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/WHinthorn/status/1735015156365808011</guid>
+            <link>https://twitter.com/WHinthorn/status/1735015156365808011</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Jeff Bussgang: Sharing a fun project these last few months: an AI faculty co-pilot that I created for my @HarvardHBS entrepreneurship class and ran...]]></title>
             <description><![CDATA[RT Jeff Bussgang<br>Sharing a fun project these last few months:  an AI faculty co-pilot that I created for my @HarvardHBS entrepreneurship class and ran all semester (thanks @OpenAI, @pinecone, @LangChainAI, and @Azure)<br>https://www.linkedin.com/pulse/ai-professor-harvard-chatltv-jeffrey-bussgang-oiaie/<br><img style="" src="https://pbs.twimg.com/media/GBQBGtYakAA8mWB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 13 Dec 2023 19:07:38 GMT</pubDate>
@@ -332,11 +284,59 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[RT Pagerize: Pagerize transforms any Youtube videos into brief, insightful summaries in a snap⚡️ Skip the long watch hours and get straight to the k...]]></title>
-            <description><![CDATA[RT Pagerize<br>Pagerize transforms any Youtube videos into brief, insightful summaries in a snap⚡️  Skip the long watch hours and get straight to the knowledge, all made possible by @LangChainAI🦜🔗<br><br>A thread🧵]]></description>
-            <pubDate>Wed, 13 Dec 2023 17:40:36 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/pagerize_ai/status/1734991723951181838</guid>
-            <link>https://twitter.com/pagerize_ai/status/1734991723951181838</link>
+            <title><![CDATA[Re Short video discussing these results is here: https://www.youtube.com/watch?v=KMZZh7Z5mno Slides here: https://docs.google.com/presentation/d/1qlef...]]></title>
+            <description><![CDATA[Re Short video discussing these results is here:<br>https://www.youtube.com/watch?v=KMZZh7Z5mno<br><br>Slides here:<br>https://docs.google.com/presentation/d/1qlefldNZR3BgW4gt0uOF9UztrV39ovWrQAisN_A1AEQ/edit?usp=sharing]]></description>
+            <pubDate>Wed, 13 Dec 2023 18:52:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734984414906699984</guid>
+            <link>https://twitter.com/LangChainAI/status/1734984414906699984</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[⭐️ Benchmarking semi-structured RAG ⭐️ We've seen many question about RAG on documents that contain a mixture of text and tables. To test various ...]]></title>
+            <description><![CDATA[⭐️ Benchmarking semi-structured RAG ⭐️<br><br>We've seen many question about RAG on documents that contain a mixture of text and tables.<br><br>To test various semi-structured RAG approaches, we built a LangChain public benchmark on a set of whitepapers and financial reports that contain… https://twitter.com/i/web/status/1734984414906699984<br><img style="" src="https://pbs.twimg.com/media/GBPkWVMaUAANE2Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 17:11:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734984414906699984</guid>
+            <link>https://twitter.com/LangChainAI/status/1734984414906699984</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜LangChain 🤝Gemini♊️ Gemini API access is out! Access it through LangChain with our first standalone integration package: `pip install langcha...]]></title>
+            <description><![CDATA[🦜LangChain 🤝Gemini♊️<br><br>Gemini API access is out! Access it through LangChain with our first standalone integration package:<br><br>`pip install langchain-google-genai`<br><br>We're also launching an integration guide showing how to:<br><br>🎏Stream results<br>🖼️Use it's multimodal capabilities… https://twitter.com/i/web/status/1734982565352845428<br><img style="" src="https://pbs.twimg.com/media/GBPlaVjaAAA_yvW?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBPlaV2aUAAW9Yj?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 17:04:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1734982565352845428</guid>
+            <link>https://twitter.com/LangChainAI/status/1734982565352845428</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Logan Anderson: Using @LangChainAI agents and @vercel 's AI package, I built a chat bot that queries a knowledge base and streams results with tool...]]></title>
+            <description><![CDATA[RT Logan Anderson<br>Using @LangChainAI agents and @vercel 's AI package, I built a chat bot that queries a knowledge base and streams results with tool outputs. The tools respond with MDX components that are then streamed to a frontend MDX renderer. <br><br>Check out the video!<br><br>#AI #Chatbot<br><video src="https://video.twimg.com/ext_tw_video/1734612121508544514/pu/vid/avc1/1152x720/hxpfcVifI162WPkv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1734612121508544514/pu/img/cruJ3Iv_Pke68rwM.jpg"></video>]]></description>
+            <pubDate>Tue, 12 Dec 2023 16:34:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/logan_anders0n/status/1734612683226521761</guid>
+            <link>https://twitter.com/logan_anders0n/status/1734612683226521761</link>
             
             
             
