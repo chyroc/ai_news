@@ -21,8 +21,40 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Fri, 15 Dec 2023 20:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 22:07:36 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Google Research helped develop Magic Editor, an AI-powered photo editor that allows users to easily make complex edits to photos using generative AI. ...]]></title>
+            <description><![CDATA[Google Research helped develop Magic Editor, an AI-powered photo editor that allows users to easily make complex edits to photos using generative AI. We fine-tuned models for inpainting, image transformation, super-resolution, and more. Learn more → https://goo.gle/3t4lcfU<br><video src="https://video.twimg.com/tweet_video/GBa5uG0aoAETuN4.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GBa5uG0aoAETuN4.jpg"></video>]]></description>
+            <pubDate>Fri, 15 Dec 2023 21:50:09 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735779301088469431</guid>
+            <link>https://twitter.com/GoogleAI/status/1735779301088469431</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Introducing StyleDrop, a model that allows a significantly higher level of stylized text-to-image synthesis by using a few style reference images that...]]></title>
+            <description><![CDATA[Introducing StyleDrop, a model that allows a significantly higher level of stylized text-to-image synthesis by using a few style reference images that describe the style for text-to-image generation, bypassing the burden of text prompt engineering. More→ https://goo.gle/3v0PsZw<br><video src="https://video.twimg.com/ext_tw_video/1735754902687883264/pu/vid/avc1/720x1280/2CnGWSw6yDe0oX27.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735754902687883264/pu/img/qgvq2Y1q8cOXv6br.jpg"></video>]]></description>
+            <pubDate>Fri, 15 Dec 2023 20:13:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735755033411756241</guid>
+            <link>https://twitter.com/GoogleAI/status/1735755033411756241</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Congratulations to Thomas Steinke, Milad Nasr, & Matthew Jagielski for their paper "Privacy Auditing with One (1) Training Run", which won the #NeurIP...]]></title>
@@ -286,38 +318,6 @@
             <pubDate>Tue, 12 Dec 2023 21:57:51 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734694078204314034</guid>
             <link>https://twitter.com/GoogleAI/status/1734694078204314034</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Congratulations to Jeff Dean, Greg Corrado, & co-authors of the paper “Distributed Representations of Words and Phrases and their Compositionality”,...]]></title>
-            <description><![CDATA[Congratulations to Jeff Dean, Greg Corrado, &amp; co-authors of the paper “Distributed Representations of Words and Phrases and their Compositionality”, for winning the #NeurIPS2023 Test of Time Award! This prize recognizes a highly impactful paper published at NeurIPS 10 years ago.<br><img style="" src="https://pbs.twimg.com/media/GBLVQp2bUAABp-u?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 12 Dec 2023 21:15:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734683335665082487</guid>
-            <link>https://twitter.com/GoogleAI/status/1734683335665082487</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Learning with #DifferentialPrivacy often involves adding noise into the learning process. At 3:20pm today, Krishna Pillutla will be at the #NeurIPS202...]]></title>
-            <description><![CDATA[Learning with #DifferentialPrivacy often involves adding noise into the learning process. At 3:20pm today, Krishna Pillutla will be at the #NeurIPS2023 Google booth to explain why it is beneficial in DP algorithms to add noise that is correlated across time. Drop by to hear more!<br><img style="" src="https://pbs.twimg.com/media/GBLLotnXIAAXQ5M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 12 Dec 2023 20:33:29 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734672846729670825</guid>
-            <link>https://twitter.com/GoogleAI/status/1734672846729670825</link>
             
             
             
