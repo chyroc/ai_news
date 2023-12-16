@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Dec 2023 20:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 18:10:15 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Lance Martin: Local multi-modal LLMs Multi-modal LLMs will be useful for tasks like image extraction, visual Q+A, etc. But running them locally / i...]]></title>
-            <description><![CDATA[RT Lance Martin<br>Local multi-modal LLMs<br><br>Multi-modal LLMs will be useful for tasks like image extraction, visual Q+A, etc. But running them locally / in private mode has been a challenge.<br> <br>@OLLAMA just added support local / private multi-modal LLMs. E.g., see many version of LLaVA here that can… https://twitter.com/i/web/status/1736107788039065623<br><img style="" src="https://pbs.twimg.com/media/GBfhHlWboAAID1h?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 16 Dec 2023 19:35:26 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/RLanceMartin/status/1736107788039065623</guid>
-            <link>https://twitter.com/RLanceMartin/status/1736107788039065623</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Lizzie Siegle: Google's Gemini API just came out! Here's multimodal chat💬 w/ the new Gemini♊️ API + @LangChainAI, @streamlit, @replit! 🧵]]></title>
-            <description><![CDATA[RT Lizzie Siegle<br>Google's Gemini API just came out!<br><br>Here's multimodal chat💬 w/ the new Gemini♊️ API + @LangChainAI, @streamlit, @replit! <br><br>🧵<br><video src="https://video.twimg.com/ext_tw_video/1735945669268082688/pu/vid/avc1/1052x720/Rq16adBl-xZmUrfp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735945669268082688/pu/img/frVTblumip0ybgUy.jpg"></video>]]></description>
-            <pubDate>Sat, 16 Dec 2023 18:36:34 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/lizziepika/status/1736092971748192516</guid>
-            <link>https://twitter.com/lizziepika/status/1736092971748192516</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[🦜📹LangSmith: How to Improve LLM Apps in Production Our friends at @AIMakerspace are doing a deep dive on all things LangSmith With tracing, moni...]]></title>
@@ -316,11 +284,43 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Brace: 🧙 Mistral AI API Integration 🧙 @LangChainAI 🔗🦜 just added a package for interacting with the @MistralAI chat, streaming and embe...]]></title>
+            <description><![CDATA[RT Brace<br>🧙 Mistral AI API Integration 🧙<br><br>@LangChainAI 🔗🦜 just added a package for interacting with the @MistralAI chat, streaming and embedding endpoints, all seamlessly integrated with LangChain's ecosystem.<br><br>Download the package here:<br><br>https://www.npmjs.com/package/@langchain/mistralai<br><br>Read the docs here:… https://twitter.com/i/web/status/1735376742108545433]]></description>
+            <pubDate>Thu, 14 Dec 2023 19:10:31 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1735376742108545433</guid>
+            <link>https://twitter.com/BraceSproul/status/1735376742108545433</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Lizzie Siegle: my latest tutorial on the @twilio blog + last of the yr: Create an AI Commentator (a la Stephen A Smith) w/ @twiliodevs SendGrid, GP...]]></title>
             <description><![CDATA[RT Lizzie Siegle<br>my latest tutorial on the @twilio blog + last of the yr: <br>Create an AI Commentator (a la Stephen A Smith) w/ @twiliodevs SendGrid, GPT-4V, @openai TTS, @Replit,  and @LangChainAI! <br><br>feat. my @accelerate_sf teammate Chris who let me break his ankles<br><br>https://www.twilio.com/blog/generate-ai-commentary-from-gpt4-sendgrid<br><video src="https://video.twimg.com/ext_tw_video/1735358187229069314/pu/vid/avc1/920x720/ztWdy7TlVGQXaUWB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735358187229069314/pu/img/SUZI5qJkQTLYPAdG.jpg"></video>]]></description>
             <pubDate>Thu, 14 Dec 2023 19:04:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/lizziepika/status/1735375100357296580</guid>
             <link>https://twitter.com/lizziepika/status/1735375100357296580</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Muratcan Koylan: We can automate everything with AI Agents, we can analyze everything with LLMs. Human expert predictions/reviews with LLMs + predi...]]></title>
+            <description><![CDATA[RT Muratcan Koylan<br>We can automate everything with AI Agents, we can analyze everything with LLMs. <br><br>Human expert predictions/reviews with LLMs + predictive analysis with ML = 🛸🚀👽<br><br>In @LangChainAI, @togethercompute, @MistralAI We Trust<br><br>Accelerate by delegating...<br><video src="https://video.twimg.com/ext_tw_video/1735279250784088064/pu/vid/avc1/1280x720/PXCBcrU0hADAVZhs.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735279250784088064/pu/img/f5-opSbyMk6GJXSm.jpg"></video>]]></description>
+            <pubDate>Thu, 14 Dec 2023 12:50:28 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/youraimarketer/status/1735281098031046761</guid>
+            <link>https://twitter.com/youraimarketer/status/1735281098031046761</link>
             
             
             
