@@ -24,8 +24,56 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 16 Dec 2023 16:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 18:10:15 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🦜📹LangSmith: How to Improve LLM Apps in Production Our friends at @AIMakerspace are doing a deep dive on all things LangSmith With tracing, moni...]]></title>
+            <description><![CDATA[🦜📹LangSmith: How to Improve LLM Apps in Production<br><br>Our friends at @AIMakerspace are doing a deep dive on all things LangSmith<br><br>With tracing, monitoring, testing, annotating, and collaborating - LangSmith a the full collection of tools<br><br>https://lu.ma/Langsmithllmapps]]></description>
+            <pubDate>Sat, 16 Dec 2023 17:22:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736074206595412011</guid>
+            <link>https://twitter.com/LangChainAI/status/1736074206595412011</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: My TED talk is out! I talk about what it takes to build "context-aware reasoning applications", including: 4 different ways of prov...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>My TED talk is out!<br><br>I talk about what it takes to build "context-aware reasoning applications", including:<br><br>4 different ways of providing context to LLMs<br>6 different types of cognitive architectures<br><br>https://www.ted.com/talks/harrison_chase_the_magical_ai_assistants_of_the_future_and_the_engineering_behind_them]]></description>
+            <pubDate>Sat, 16 Dec 2023 16:51:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1736066556877324692</guid>
+            <link>https://twitter.com/hwchase17/status/1736066556877324692</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🧮Building An LLM-Powered Analyst This great article deep dives on how to empower LLMs with external tools using OpenAI functions At a **19 minu...]]></title>
+            <description><![CDATA[🦜🧮Building An LLM-Powered Analyst<br><br>This great article deep dives on how to empower LLMs with external tools using OpenAI functions<br><br>At a **19 minute** minute, it's pretty comprehensive<br><br>It examines two use cases: extraction to get structured output and routing to use external… https://twitter.com/i/web/status/1736066027564450150<br><img style="" src="https://pbs.twimg.com/media/GBe-d0magAAK5Ze?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 16 Dec 2023 16:49:30 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736066027564450150</guid>
+            <link>https://twitter.com/LangChainAI/status/1736066027564450150</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Brace: Don't have access to the Mistral API yet? No need to worry. @LangChainAI 🦜🔗 TS v0.0.208 supports the @togethercompute API, with Mistra...]]></title>
@@ -268,59 +316,11 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[⭐️Video overview: Strategies for RAG on semi-structured data⭐️ We've seen great interest in RAG apps on docs w/ a mixture of tables and text (fina...]]></title>
-            <description><![CDATA[⭐️Video overview: Strategies for RAG on semi-structured data⭐️&nbsp; <br><br>We've seen great interest in RAG apps on docs w/ a mixture of tables and text (financial docs, whitepapers, technical manuals).<br><br>But, this brings up a few tricky questions:<br>1/ Can I just stuff semi-structured docs… https://twitter.com/i/web/status/1735350379901272289<br><img style="" src="https://pbs.twimg.com/media/GBUzU5PawAA8GLh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:25:46 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1735350379901272289</guid>
-            <link>https://twitter.com/LangChainAI/status/1735350379901272289</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Nazeem: Dialoqbase v1.5.0 has arrived with Dark Mode! 🎉 Added Mistral MoE 8x7B model via .@thefireworksai and the new Google gemini-pro model Po...]]></title>
-            <description><![CDATA[RT Nazeem<br>Dialoqbase v1.5.0 has arrived with Dark Mode! 🎉 <br><br>Added Mistral MoE 8x7B model via  .@thefireworksai and the new Google gemini-pro model<br><br>Powered by .@LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1735344058942537728/pu/vid/avc1/1476x720/90HXeiVf3ecy8ruL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735344058942537728/pu/img/Vu56G2Ww7QhvNQgg.jpg"></video>]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:02:11 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/n4ze3m/status/1735344445568991586</guid>
-            <link>https://twitter.com/n4ze3m/status/1735344445568991586</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Muratcan Koylan: We can automate everything with AI Agents, we can analyze everything with LLMs. Human expert predictions/reviews with LLMs + predi...]]></title>
             <description><![CDATA[RT Muratcan Koylan<br>We can automate everything with AI Agents, we can analyze everything with LLMs. <br><br>Human expert predictions/reviews with LLMs + predictive analysis with ML = 🛸🚀👽<br><br>In @LangChainAI, @togethercompute, @MistralAI We Trust<br><br>Accelerate by delegating...<br><video src="https://video.twimg.com/ext_tw_video/1735279250784088064/pu/vid/avc1/1280x720/PXCBcrU0hADAVZhs.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735279250784088064/pu/img/f5-opSbyMk6GJXSm.jpg"></video>]]></description>
             <pubDate>Thu, 14 Dec 2023 12:50:28 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/youraimarketer/status/1735281098031046761</guid>
             <link>https://twitter.com/youraimarketer/status/1735281098031046761</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Shubham Saboo: LangChain meets Google Gemini 🔥 Google just launched Gemini Pro as an API for developers to use in their applications. LangChain ...]]></title>
-            <description><![CDATA[RT Shubham Saboo<br>LangChain meets Google Gemini 🔥<br><br>Google just launched Gemini Pro as an API for developers to use in their applications. <br><br>LangChain without any wait quickly released a new Python package to access Google's multimodal LLM -Gemini!<br><br>All you need to do to get started: `pip install… https://twitter.com/i/web/status/1735182170715537663<br><img style="" src="https://pbs.twimg.com/media/GBSa9pCXEAAPB3U?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 06:17:22 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Saboo_Shubham_/status/1735182170715537663</guid>
-            <link>https://twitter.com/Saboo_Shubham_/status/1735182170715537663</link>
             
             
             
