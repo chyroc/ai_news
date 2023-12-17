@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 17 Dec 2023 17:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:25:43 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🦜🔗LangChain Ecosystem Update (by @CobusGreylingZA) We've made a lot of changes to the LangChain ecosystem - but don't just take our word for it ...]]></title>
-            <description><![CDATA[🦜🔗LangChain Ecosystem Update (by @CobusGreylingZA)<br><br>We've made a lot of changes to the LangChain ecosystem - but don't just take our word for it<br><br>@CobusGreylingZA wrote a great writeup of what's changed and what all the different components are<br><br>Blog: https://cobusgreyling.medium.com/the-langchain-ecosystem-is-expanding-at-a-tremendous-pace-135756e162e9<br><img style="" src="https://pbs.twimg.com/media/GBkPIhrbkAA8k8u?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Dec 2023 17:18:53 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736435812231946646</guid>
-            <link>https://twitter.com/LangChainAI/status/1736435812231946646</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[For an introduction to what it takes to build "context-aware reasoning applications" (the main goal of LangChain) check out @hwchase17's recent TED ta...]]></title>
-            <description><![CDATA[For an introduction to what it takes to build "context-aware reasoning applications" (the main goal of LangChain) check out @hwchase17's recent TED talk<br><br>Dives into:<br><br>The 4 different ways to provide context to LLMs<br>The 6 different cognitive architectures<br><br>https://www.ted.com/talks/harrison_chase_the_magical_ai_assistants_of_the_future_and_the_engineering_behind_them]]></description>
-            <pubDate>Sun, 17 Dec 2023 16:53:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736429296363741524</guid>
-            <link>https://twitter.com/LangChainAI/status/1736429296363741524</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Ollama: It's toy time, Saturday! Day 9: AI Tamago is a tamagotchi-like game that has its thoughts and feelings generated via a LLM. It can be run l...]]></title>
@@ -257,6 +225,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Fri, 15 Dec 2023 21:13:08 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1735769988382986405</guid>
             <link>https://twitter.com/BraceSproul/status/1735769988382986405</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harpreet Sahota 👨🏽‍💻 🥑: I'm the kind of guy who doesn't settle for benchmarks – I roll up my sleeves and dive headfirst into the acti...]]></title>
+            <description><![CDATA[RT Harpreet Sahota 👨🏽‍💻 🥑<br>I'm the kind of guy who doesn't settle for benchmarks – I roll up my sleeves and dive headfirst into the action. <br><br>Benchmarks are great but hard to grasp and wrap my head around; I need to feel how a model works and go through the motions to believe it. <br><br>It's how I grok things.… https://twitter.com/i/web/status/1735723440643117387<br><img style="" src="https://pbs.twimg.com/media/GBaFlUZaEAE5eUC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBaFlUaaEAMWn5L?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 15 Dec 2023 18:08:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/DataScienceHarp/status/1735723440643117387</guid>
+            <link>https://twitter.com/DataScienceHarp/status/1735723440643117387</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔎Proposition-Based Retrieval This new paper by @tomchen0 introduces a new retrieval method by changing 🎯what is indexed🎯 in the first place T...]]></title>
+            <description><![CDATA[🔎Proposition-Based Retrieval<br><br>This new paper by @tomchen0 introduces a new retrieval method by changing 🎯what is indexed🎯 in the first place<br><br>This can easily use our 🌲multi-vector retriever🌲, and we've added a template to get started with it easily!<br><br>💡How does it work? 👇… https://twitter.com/i/web/status/1735708004618764470<br><img style="" src="https://pbs.twimg.com/media/GBZ5Nw7bQAAGoPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 15 Dec 2023 17:06:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1735708004618764470</guid>
+            <link>https://twitter.com/LangChainAI/status/1735708004618764470</link>
             
             
             
