@@ -24,8 +24,72 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Dec 2023 14:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 16:34:37 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jack Gordley: Introducing ADB Chat, an LLM chatbot built with @LangchainAI, @streamlit, and the @Android Debug Bridge to aid in Android Forensics i...]]></title>
+            <description><![CDATA[RT Jack Gordley<br>Introducing ADB Chat, an LLM chatbot built with @LangchainAI, @streamlit, and the @Android Debug Bridge to aid in Android Forensics investigations. Simply plug in your Android Device and chat with files, processes, and other system info https://github.com/jgordley/chat-adb<br><img style="" src="https://pbs.twimg.com/media/GBpEYNAbcAAzdL7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBpEbBXboAEN5z4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:50:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/jackgordley/status/1736775880922546308</guid>
+            <link>https://twitter.com/jackgordley/status/1736775880922546308</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jack Gordley: Excited to share my new Google Calendar assistant built with @nextjs, @FastAPI, and @MongoDB. Core logic built using @LangChainAI and...]]></title>
+            <description><![CDATA[RT Jack Gordley<br>Excited to share my new Google Calendar assistant built with @nextjs, @FastAPI, and @MongoDB. Core logic built using @LangChainAI and the @OpenAI API. A lot is possible right now using LLMs and simple tool definitions, such as the GCal API specs: https://gordles.io/posts/calvin<br><img style="" src="https://pbs.twimg.com/media/GBpCuUiaQAA5DdU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:42:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/jackgordley/status/1736774001488515533</guid>
+            <link>https://twitter.com/jackgordley/status/1736774001488515533</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT MyScale: The #AI-powered #chatbot is a game-changer for the future. With #RAG empowerment, your chatbot takes competition to the next level🚀. �...]]></title>
+            <description><![CDATA[RT MyScale<br>The #AI-powered #chatbot is a game-changer for the future. With #RAG empowerment, your chatbot takes competition to the next level🚀.<br><br>💡Introducing our end-to-end RAG solution, using @MyScaleDB and @LangChainAI for cutting-edge chatbot development!<br>👀👀https://myscale.com/blog/build-rag-enabled-chatbot/]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:41:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/MyScaleDB/status/1736773564827648121</guid>
+            <link>https://twitter.com/MyScaleDB/status/1736773564827648121</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Sebastian Rojo: Excited to share my latest project for the @Supabase Hackathon! I've developed a unique RAG system that's voice-activated. It's des...]]></title>
+            <description><![CDATA[RT Sebastian Rojo<br>Excited to share my latest project for the @Supabase Hackathon! I've  developed a unique RAG system that's voice-activated. It's designed to  discuss the architecture of any application using a mix of @LangChainAI ,  @supabase , @nextjs, @FastAPI, and @vocodehq. 🧵<br><video src="https://video.twimg.com/ext_tw_video/1736687818326286336/pu/vid/avc1/1148x646/6uL_z_MsdYTelc3Z.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1736687818326286336/pu/img/3odsJuaTLNHEohOC.jpg"></video>]]></description>
+            <pubDate>Mon, 18 Dec 2023 10:18:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/arpagon/status/1736692489409413420</guid>
+            <link>https://twitter.com/arpagon/status/1736692489409413420</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT João Moura: Stock Analysis with AI Agents, using CrewAI 🚣 Using @LangChainAI tools + LangSmith, running on @Replit A researcher, an analyst and...]]></title>
@@ -209,70 +273,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 17 Dec 2023 02:24:49 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Oyemade_/status/1736210814137143667</guid>
             <link>https://twitter.com/Oyemade_/status/1736210814137143667</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ollama: It's toy time, Saturday! Day 9: AI Tamago is a tamagotchi-like game that has its thoughts and feelings generated via a LLM. It can be run l...]]></title>
-            <description><![CDATA[RT Ollama<br>It's toy time, Saturday! Day 9: <br><br>AI Tamago is a tamagotchi-like game that has its thoughts and feelings generated via a LLM. <br><br>It can be run locally, 100% Javascript-based, and costs $0 to run. <br><br>It's an amazing project by @stuffyokodraws <br><br>Source: <br>https://github.com/ykhli/AI-tamago<br><img style="" src="https://pbs.twimg.com/media/GBgmH37boAA8GiX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Dec 2023 00:35:48 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OLLAMA/status/1736183378888847581</guid>
-            <link>https://twitter.com/OLLAMA/status/1736183378888847581</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: Unlock savings! "Customise Token Pricing Calculation in @LangChainAI 🦜️🔗: A Step-by-Step Guide" Sahdev Garg guide to integrate...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>Unlock savings! "Customise Token Pricing Calculation in @LangChainAI 🦜️🔗: A Step-by-Step Guide" Sahdev Garg guide to integrate custom OpenAI pricing &amp; discounts into token cost calculations configurable using #LangChain,  modify callbacks &amp; data. https://buff.ly/3Tt9XZb<br>#LLMs<br><img style="" src="https://pbs.twimg.com/media/GBgHUVoWwAAAaLo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 16 Dec 2023 22:06:06 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1736145704857276421</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1736145704857276421</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: Build a CSV chatbot w/@LangchainAI & #ChatGPT by Mine Kaya 👩‍💻 Prompt models for context over data, handle multiple CSVs📊 &...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>Build a CSV chatbot w/@LangchainAI &amp; #ChatGPT  by Mine Kaya<br>👩‍💻 Prompt models for context over data, handle multiple CSVs📊 &amp; errors<br>🤓 Compares HuggingFace performance<br>Key points: import. of prompting, adding memory for natural convos. 💬 with the bot!👉 https://buff.ly/3tk1r48<br><img style="" src="https://pbs.twimg.com/media/GBfzQMSXAAAm83K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 16 Dec 2023 20:38:26 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1736123643304751346</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1736123643304751346</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Dialoqbase ⚡: We support the latest .@GoogleAI Gemini model. Here is an example using gemini-pro and embedding-001 to chat with a webpage. Powered...]]></title>
-            <description><![CDATA[RT Dialoqbase ⚡<br>We support the latest .@GoogleAI Gemini model. Here is an example using gemini-pro and embedding-001 to chat with a webpage.<br><br>Powered by @LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1736118615420862464/pu/vid/avc1/1280x720/MoLltVjzz_Qwjz_c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1736118615420862464/pu/img/l7iR34DGLYRE8zwx.jpg"></video>]]></description>
-            <pubDate>Sat, 16 Dec 2023 20:21:20 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/dialoqbase/status/1736119338690916666</guid>
-            <link>https://twitter.com/dialoqbase/status/1736119338690916666</link>
             
             
             
