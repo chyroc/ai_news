@@ -24,8 +24,56 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 18 Dec 2023 16:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 18:36:12 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🦜👿Chaos Engineering The behavior of LLMs can be unpredictable and chaotic ChatChaos is a fake LLM by @andrewnguonly specifically designed to ret...]]></title>
+            <description><![CDATA[🦜👿Chaos Engineering<br><br>The behavior of LLMs can be unpredictable and chaotic<br><br>ChatChaos is a fake LLM by @andrewnguonly specifically designed to return invalid JSON, hallucinate, and have long response times<br><br>Can be used to stress test your system!<br><br>Blog: https://medium.com/@andrewnguonly/chatchaos-the-good-the-bad-and-the-ugly-81f9612d7b00]]></description>
+            <pubDate>Mon, 18 Dec 2023 17:27:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736800240538153269</guid>
+            <link>https://twitter.com/LangChainAI/status/1736800240538153269</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜💬FastUI-Chat Want to get an easy frontend for your LangChain app? All written in Python? @Shroominic made an awesome example hooking up LangCha...]]></title>
+            <description><![CDATA[🦜💬FastUI-Chat<br><br>Want to get an easy frontend for your LangChain app? All written in Python?<br><br>@Shroominic made an awesome example hooking up LangChain to FastUI (a new framework from the @pydantic team)<br><br>Check it out here: https://github.com/shroominic/fastui-chat/tree/main]]></description>
+            <pubDate>Mon, 18 Dec 2023 17:07:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736795207553683599</guid>
+            <link>https://twitter.com/LangChainAI/status/1736795207553683599</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🦙🌋 Ollama local multimodal models 🌋🦙 You can now add local image reasoning abilities to your @LangChainAI 🦜🔗 Python an...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🦙🌋&nbsp;Ollama local multimodal models 🌋🦙<br><br>You can now add local image reasoning abilities to your @LangChainAI 🦜🔗 Python and JS projects via LLaVA and @OLLAMA!<br><br>Upgrading will also use their chat interface if available.<br><br>🐍: https://python.langchain.com/docs/integrations/chat/ollama<br>☕: https://js.langchain.com/docs/integrations/chat/ollama<br><img style="" src="https://pbs.twimg.com/media/GBpUsQSbsAE8fwU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 17:01:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1736793769675207156</guid>
+            <link>https://twitter.com/Hacubu/status/1736793769675207156</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Jack Gordley: Introducing ADB Chat, an LLM chatbot built with @LangchainAI, @streamlit, and the @Android Debug Bridge to aid in Android Forensics i...]]></title>
@@ -65,6 +113,70 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 18 Dec 2023 15:41:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/MyScaleDB/status/1736773564827648121</guid>
             <link>https://twitter.com/MyScaleDB/status/1736773564827648121</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: How @LangChainAI improved context for lyric continuation from limited seeds:✳️Retrieve most relevant chunks✳️Get full parent docs...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>How @LangChainAI improved context for lyric continuation from limited seeds:✳️Retrieve most relevant chunks✳️Get full parent docs for complete style/tone✳️Or, retrieve bigger chunks, more context while fitting LLM limits.<br>See Mahesh Deshwal walkthru: https://buff.ly/47WN6JU<br><img style="" src="https://pbs.twimg.com/media/GBo9AN2W4AAyAva?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:17:37 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1736767683356459307</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1736767683356459307</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Hard Kothari: Another week and some great updates by @LangChainAI The newsletter is out and below is my short 🔑take away: LangChain v0.1 Langcha...]]></title>
+            <description><![CDATA[RT Hard Kothari<br>Another week and some great updates by @LangChainAI <br><br>The newsletter is out and below is my short 🔑take away:<br><br>LangChain v0.1<br>Langchain is splitting its code in<br>- langchain: Main Congnitive Architecture<br>- langchain-core: Abstractions and LCEL<br>- langchain-community: 3rd Party… https://twitter.com/i/web/status/1736765123224555687<br><img style="" src="https://pbs.twimg.com/media/GBo5rydXsAAzWRE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBo5t7qXgAAj6pw?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:07:27 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/HardKothari/status/1736765123224555687</guid>
+            <link>https://twitter.com/HardKothari/status/1736765123224555687</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Neo4j: If you already took the "Neo4j & LLM Fundamentals" course, it's time to put all your knowledge into practice and create a Movie Recommendati...]]></title>
+            <description><![CDATA[RT Neo4j<br>If you already took the "Neo4j &amp; LLM Fundamentals" course, it's time to put all your knowledge into practice and create a Movie Recommendation Chatbot backed by a Neo4j database 😎 <br><br>Check it out:<br>https://bit.ly/3Tpmflr<br><br>#Neo4j #Chatbot #llms #GenAI #Python @LangChainAI<br><img style="" src="https://pbs.twimg.com/media/GBoyITuWoAAXPXI?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 14:30:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/neo4j/status/1736755745721327844</guid>
+            <link>https://twitter.com/neo4j/status/1736755745721327844</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT PlugBear: PlugBear now supports LangServe (+ @LangChainAI) apps 🎉 Invite your LLM app to your Slack or Discord seamlessly with PlugBear! (You ca...]]></title>
+            <description><![CDATA[RT PlugBear<br>PlugBear now supports LangServe (+ @LangChainAI) apps 🎉 Invite your LLM app to your Slack or Discord seamlessly with PlugBear! (You can do that in 5 minutes 😉)<br><br>https://plugbear.io/posts/integrate-langchain-langserve-app-with-slack-using-plugbear<br><br>#buildinpublic #langchain #langserve #plugbear]]></description>
+            <pubDate>Mon, 18 Dec 2023 13:31:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/plugbear_io/status/1736741058732839406</guid>
+            <link>https://twitter.com/plugbear_io/status/1736741058732839406</link>
             
             
             
@@ -129,70 +241,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 17 Dec 2023 19:46:31 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/dani_avila7/status/1736472963325600157</guid>
             <link>https://twitter.com/dani_avila7/status/1736472963325600157</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Andrew Nguonly: Do the Principles of Chaos Engineering 🔥 apply to LLM apps? ChatChaos is a @LangChainAI chat model abstraction that explores the...]]></title>
-            <description><![CDATA[RT Andrew Nguonly<br>Do the Principles of Chaos Engineering 🔥 apply to LLM apps? ChatChaos is a @LangChainAI chat model abstraction that explores the Good, the Bad, and the Ugly...<br><br>https://medium.com/@andrewnguonly/chatchaos-the-good-the-bad-and-the-ugly-81f9612d7b00]]></description>
-            <pubDate>Sun, 17 Dec 2023 17:53:52 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/andrewnguonly/status/1736444616084434961</guid>
-            <link>https://twitter.com/andrewnguonly/status/1736444616084434961</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜🔗LangChain Ecosystem Update (by @CobusGreylingZA) We've made a lot of changes to the LangChain ecosystem - but don't just take our word for it ...]]></title>
-            <description><![CDATA[🦜🔗LangChain Ecosystem Update (by @CobusGreylingZA)<br><br>We've made a lot of changes to the LangChain ecosystem - but don't just take our word for it<br><br>@CobusGreylingZA wrote a great writeup of what's changed and what all the different components are<br><br>Blog: https://cobusgreyling.medium.com/the-langchain-ecosystem-is-expanding-at-a-tremendous-pace-135756e162e9<br><img style="" src="https://pbs.twimg.com/media/GBkPIhrbkAA8k8u?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 17 Dec 2023 17:18:53 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736435812231946646</guid>
-            <link>https://twitter.com/LangChainAI/status/1736435812231946646</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[For an introduction to what it takes to build "context-aware reasoning applications" (the main goal of LangChain) check out @hwchase17's recent TED ta...]]></title>
-            <description><![CDATA[For an introduction to what it takes to build "context-aware reasoning applications" (the main goal of LangChain) check out @hwchase17's recent TED talk<br><br>Dives into:<br><br>The 4 different ways to provide context to LLMs<br>The 6 different cognitive architectures<br><br>https://www.ted.com/talks/harrison_chase_the_magical_ai_assistants_of_the_future_and_the_engineering_behind_them]]></description>
-            <pubDate>Sun, 17 Dec 2023 16:53:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1736429296363741524</guid>
-            <link>https://twitter.com/LangChainAI/status/1736429296363741524</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Alexander Chen: A great demo by @lizziepika made w/ @LangChainAI + @streamlit + @Replit + Gemini API ♊ lets you try out multimodal chat w/ Gemini ...]]></title>
-            <description><![CDATA[RT Alexander Chen<br>A great demo by @lizziepika made w/ @LangChainAI + @streamlit + @Replit + Gemini API ♊ lets you try out multimodal chat w/ Gemini right in your browser. 👀 🗨️ Code below too! 👇<div class="rsshub-quote"><br><br>Lizzie Siegle: Google's Gemini API just came out!<br><br>Here's multimodal chat💬 w/ the new Gemini♊️ API + @LangChainAI, @streamlit, @replit! <br><br>🧵<br><br><video src="https://video.twimg.com/ext_tw_video/1735945669268082688/pu/vid/avc1/1052x720/Rq16adBl-xZmUrfp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1735945669268082688/pu/img/frVTblumip0ybgUy.jpg"></video></div>]]></description>
-            <pubDate>Sun, 17 Dec 2023 16:41:34 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/alexanderchen/status/1736426419297685710</guid>
-            <link>https://twitter.com/alexanderchen/status/1736426419297685710</link>
             
             
             
@@ -273,54 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 17 Dec 2023 02:24:49 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Oyemade_/status/1736210814137143667</guid>
             <link>https://twitter.com/Oyemade_/status/1736210814137143667</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT ifioravanti: Great article and a very good starting point! GenAI Stack Walkthrough: Behind the Scenes With @Neo4j @LangChainAI and @OLLAMA in @Dock...]]></title>
-            <description><![CDATA[RT ifioravanti<br>Great article and a very good starting point! GenAI Stack Walkthrough: Behind the Scenes With @Neo4j @LangChainAI and @OLLAMA in @Docker<br><br>https://neo4j.com/developer-blog/genai-app-how-to-build #graphdatabases]]></description>
-            <pubDate>Sat, 16 Dec 2023 19:37:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/ivanfioravanti/status/1736108425170317401</guid>
-            <link>https://twitter.com/ivanfioravanti/status/1736108425170317401</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Oyemade Oyemaja: New blog for beginners showing how to build an AI-powered app using @LangChainAI JS with @OpenAI @OpenAIDevs LLM. http://bit.ly/48...]]></title>
-            <description><![CDATA[RT Oyemade Oyemaja<br>New blog for beginners showing how to build an AI-powered app using @LangChainAI JS with @OpenAI @OpenAIDevs LLM.<br><br>http://bit.ly/480TsYT<br><br>Please like, repost and share 🙏🏽<br><br>#ai #tech #100DaysOfCode #opensource]]></description>
-            <pubDate>Sat, 16 Dec 2023 18:37:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Oyemade_/status/1736093158239240703</guid>
-            <link>https://twitter.com/Oyemade_/status/1736093158239240703</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Und3rf10w: I updated my @RobertsSpaceInd's Star Citizen virtual AI application some. You can now hold a conversation with the various components; i...]]></title>
-            <description><![CDATA[RT Und3rf10w<br>I updated my @RobertsSpaceInd's Star Citizen virtual AI application some. You can now hold a conversation with the various components; in addition to a more streamlined setup and configuration. Finally, I added external integration w/ Cornerstone's apps:<br><br>https://github.com/Und3rf10w/OpenJanus]]></description>
-            <pubDate>Sat, 16 Dec 2023 01:16:44 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Und3rf10w/status/1735831288941060439</guid>
-            <link>https://twitter.com/Und3rf10w/status/1735831288941060439</link>
             
             
             
