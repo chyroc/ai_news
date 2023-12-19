@@ -24,88 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 19 Dec 2023 18:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 16:38:10 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🦜🧱SQL Research Assistant Lots of data is locked in SQL tables Most text-to-SQL apps try to convert a user question to a single SQL statement - b...]]></title>
-            <description><![CDATA[🦜🧱SQL Research Assistant<br><br>Lots of data is locked in SQL tables<br><br>Most text-to-SQL apps try to convert a user question to a single SQL statement - but that often isn't enough for complex questions<br><br>❓So how we enable more complex question answering over SQL tables?<br><br>We've… https://twitter.com/i/web/status/1737177596843208893<br><img style="" src="https://pbs.twimg.com/media/GBuxVYUbMAASqSI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Dec 2023 18:26:28 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737177596843208893</guid>
-            <link>https://twitter.com/LangChainAI/status/1737177596843208893</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Rubric: Excited to launch our newest project → http://year-in-code.com by @withgraphite End 2023 with a personalized video of your @github stats. ...]]></title>
-            <description><![CDATA[RT Rubric<br>Excited to launch our newest project → http://year-in-code.com by @withgraphite<br><br>End 2023 with a personalized video of your @github stats. <br><br>Want to see yours? Give it a try. It's completely free.<br><img style="" src="https://pbs.twimg.com/media/GBugvx6WsAA9Gr1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Dec 2023 17:31:14 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/RubricLabs/status/1737163697095659981</guid>
-            <link>https://twitter.com/RubricLabs/status/1737163697095659981</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ted Spare: An AI-directed video, unique to every developer 🤯 See your year in code → http://year-in-code.com ◆ @Remotion with @threejs to rend...]]></title>
-            <description><![CDATA[RT Ted Spare<br>An AI-directed video, unique to every developer 🤯<br><br>See your year in code → http://year-in-code.com<br><br>◆ @Remotion with @threejs to render 3D video from React<br>◆ @LangChainAI with @OpenAI GPT-4-turbo to write &amp; frame a unique video from your @github stats<br><br>Incredibly proud of… https://twitter.com/i/web/status/1737163105782661294]]></description>
-            <pubDate>Tue, 19 Dec 2023 17:28:54 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/TedSpare/status/1737163105782661294</guid>
-            <link>https://twitter.com/TedSpare/status/1737163105782661294</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Neo4j: Look at our latest blog, where @tb_tomaz walks us through a scenario of implementing a knowledge graph-based RAG application with LangChain ...]]></title>
-            <description><![CDATA[RT Neo4j<br>Look at our latest blog, where @tb_tomaz walks us through a scenario of implementing a knowledge graph-based RAG application with LangChain to support your DevOps team.<br>https://bit.ly/3tugXKD<br><br>#Knowledgegraphs @LangChainAI  <br>#Neo4j #llms #GeneAI #RAG]]></description>
-            <pubDate>Tue, 19 Dec 2023 17:06:06 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/neo4j/status/1737157368067096888</guid>
-            <link>https://twitter.com/neo4j/status/1737157368067096888</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜🔗Question Answering with Documents using LangChain and Vertex AI Matching Engine Learn how to use Vertex AI Matching Engine to ground your LLM ...]]></title>
-            <description><![CDATA[🦜🔗Question Answering with Documents using LangChain and Vertex AI Matching Engine<br><br>Learn how to use Vertex AI Matching Engine to ground your LLM in company documents<br><br>Ingestion and generation powered by LangChain<br><br>Code: https://github.com/GoogleCloudPlatform/generative-ai/blob/main/language/use-cases/document-qa/question_answering_documents_langchain_matching_engine.ipynb<br><img style="" src="https://pbs.twimg.com/media/GBq1tHeaEAAMmvs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 19 Dec 2023 17:06:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737157343899537783</guid>
-            <link>https://twitter.com/LangChainAI/status/1737157343899537783</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[📅Open-Source Google Calendar Assistant Managing one's calendar can be a repetitive task - perfect for automation with an AI agent @jackgordley's re...]]></title>
@@ -284,6 +204,54 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Jack Gordley: Introducing ADB Chat, an LLM chatbot built with @LangchainAI, @streamlit, and the @Android Debug Bridge to aid in Android Forensics i...]]></title>
+            <description><![CDATA[RT Jack Gordley<br>Introducing ADB Chat, an LLM chatbot built with @LangchainAI, @streamlit, and the @Android Debug Bridge to aid in Android Forensics investigations. Simply plug in your Android Device and chat with files, processes, and other system info https://github.com/jgordley/chat-adb<br><img style="" src="https://pbs.twimg.com/media/GBpEYNAbcAAzdL7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBpEbBXboAEN5z4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:50:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/jackgordley/status/1736775880922546308</guid>
+            <link>https://twitter.com/jackgordley/status/1736775880922546308</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jack Gordley: Excited to share my new Google Calendar assistant built with @nextjs, @FastAPI, and @MongoDB. Core logic built using @LangChainAI and...]]></title>
+            <description><![CDATA[RT Jack Gordley<br>Excited to share my new Google Calendar assistant built with @nextjs, @FastAPI, and @MongoDB. Core logic built using @LangChainAI and the @OpenAI API. A lot is possible right now using LLMs and simple tool definitions, such as the GCal API specs: https://gordles.io/posts/calvin<br><img style="" src="https://pbs.twimg.com/media/GBpCuUiaQAA5DdU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:42:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/jackgordley/status/1736774001488515533</guid>
+            <link>https://twitter.com/jackgordley/status/1736774001488515533</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT MyScale: The #AI-powered #chatbot is a game-changer for the future. With #RAG empowerment, your chatbot takes competition to the next level🚀. �...]]></title>
+            <description><![CDATA[RT MyScale<br>The #AI-powered #chatbot is a game-changer for the future. With #RAG empowerment, your chatbot takes competition to the next level🚀.<br><br>💡Introducing our end-to-end RAG solution, using @MyScaleDB and @LangChainAI for cutting-edge chatbot development!<br>👀👀https://myscale.com/blog/build-rag-enabled-chatbot/]]></description>
+            <pubDate>Mon, 18 Dec 2023 15:41:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/MyScaleDB/status/1736773564827648121</guid>
+            <link>https://twitter.com/MyScaleDB/status/1736773564827648121</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Roger Taylor: How @LangChainAI improved context for lyric continuation from limited seeds:✳️Retrieve most relevant chunks✳️Get full parent docs...]]></title>
             <description><![CDATA[RT Roger Taylor<br>How @LangChainAI improved context for lyric continuation from limited seeds:✳️Retrieve most relevant chunks✳️Get full parent docs for complete style/tone✳️Or, retrieve bigger chunks, more context while fitting LLM limits.<br>See Mahesh Deshwal walkthru: https://buff.ly/47WN6JU<br><img style="" src="https://pbs.twimg.com/media/GBo9AN2W4AAyAva?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 18 Dec 2023 15:17:37 GMT</pubDate>
@@ -337,6 +305,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 18 Dec 2023 13:31:50 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/plugbear_io/status/1736741058732839406</guid>
             <link>https://twitter.com/plugbear_io/status/1736741058732839406</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Sebastian Rojo: Excited to share my latest project for the @Supabase Hackathon! I've developed a unique RAG system that's voice-activated. It's des...]]></title>
+            <description><![CDATA[RT Sebastian Rojo<br>Excited to share my latest project for the @Supabase Hackathon! I've  developed a unique RAG system that's voice-activated. It's designed to  discuss the architecture of any application using a mix of @LangChainAI ,  @supabase , @nextjs, @FastAPI, and @vocodehq. 🧵<br><video src="https://video.twimg.com/ext_tw_video/1736687818326286336/pu/vid/avc1/1148x646/6uL_z_MsdYTelc3Z.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1736687818326286336/pu/img/3odsJuaTLNHEohOC.jpg"></video>]]></description>
+            <pubDate>Mon, 18 Dec 2023 10:18:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/arpagon/status/1736692489409413420</guid>
+            <link>https://twitter.com/arpagon/status/1736692489409413420</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Vinit Agrawal: Made a video about using LangChain's (@LangChainAI) Self-Querying Query Constructor and use it in Slack's (@SlackHQ) search API. Sel...]]></title>
+            <description><![CDATA[RT Vinit Agrawal<br>Made a video about using LangChain's (@LangChainAI) Self-Querying Query Constructor and use it in Slack's (@SlackHQ) search API.<br><br>Self-Querying is usually used with vector stores like @weaviate_io, but here I am using it for Slack's search.<br><br>Check it out:<br>https://youtu.be/DTifxo4hhzA?si=knQ87py3QGvMr2ws]]></description>
+            <pubDate>Tue, 12 Dec 2023 10:00:52 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/volume88/status/1734513642471891144</guid>
+            <link>https://twitter.com/volume88/status/1734513642471891144</link>
             
             
             
