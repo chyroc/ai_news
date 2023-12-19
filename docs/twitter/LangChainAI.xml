@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 19 Dec 2023 18:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 20:45:37 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🦜LangChain & Redis over Financial PDFs Excited to work with the @Redisinc team to create a RAG template for developers to chat with public financia...]]></title>
+            <description><![CDATA[🦜LangChain &amp; Redis over Financial PDFs<br><br>Excited to work with the @Redisinc team to create a RAG template for developers to chat with public financial PDF documents such as Nike’s 10k filings. The application uses:<br><br>🦄FastAPI and Uvicorn to serve client requests via HTTP<br>🔃… https://twitter.com/i/web/status/1737192769096200257<br><img style="" src="https://pbs.twimg.com/media/GBu_hBbbMAAk0SX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 19 Dec 2023 19:26:46 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737192769096200257</guid>
+            <link>https://twitter.com/LangChainAI/status/1737192769096200257</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[📺 Personalizing videos with LLMs 📺 The talented folks @RubricLabs + @withgraphite wrote up a deep dive on using LangChain 🦜🔗 to generate p...]]></title>
+            <description><![CDATA[📺 Personalizing videos with LLMs 📺<br><br>The talented folks @RubricLabs + @withgraphite wrote up a deep dive on using LangChain 🦜🔗 to generate personalized year-end "GitHub wrapped" videos for everyone!<br><br>Generate your own: http://year-in-code.com<br><br>Blog: https://blog.langchain.dev/rubric-labs-graphite-personalized-video-at-scale/ https://twitter.com/i/web/status/1737182726997094880]]></description>
+            <pubDate>Tue, 19 Dec 2023 18:46:52 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737182726997094880</guid>
+            <link>https://twitter.com/LangChainAI/status/1737182726997094880</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🦜🧱SQL Research Assistant Lots of data is locked in SQL tables Most text-to-SQL apps try to convert a user question to a single SQL statement - b...]]></title>
@@ -273,38 +305,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 18 Dec 2023 17:01:17 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Hacubu/status/1736793769675207156</guid>
             <link>https://twitter.com/Hacubu/status/1736793769675207156</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: How @LangChainAI improved context for lyric continuation from limited seeds:✳️Retrieve most relevant chunks✳️Get full parent docs...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>How @LangChainAI improved context for lyric continuation from limited seeds:✳️Retrieve most relevant chunks✳️Get full parent docs for complete style/tone✳️Or, retrieve bigger chunks, more context while fitting LLM limits.<br>See Mahesh Deshwal walkthru: https://buff.ly/47WN6JU<br><img style="" src="https://pbs.twimg.com/media/GBo9AN2W4AAyAva?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 18 Dec 2023 15:17:37 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1736767683356459307</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1736767683356459307</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Hard Kothari: Another week and some great updates by @LangChainAI The newsletter is out and below is my short 🔑take away: LangChain v0.1 Langcha...]]></title>
-            <description><![CDATA[RT Hard Kothari<br>Another week and some great updates by @LangChainAI <br><br>The newsletter is out and below is my short 🔑take away:<br><br>LangChain v0.1<br>Langchain is splitting its code in<br>- langchain: Main Congnitive Architecture<br>- langchain-core: Abstractions and LCEL<br>- langchain-community: 3rd Party… https://twitter.com/i/web/status/1736765123224555687<br><img style="" src="https://pbs.twimg.com/media/GBo5rydXsAAzWRE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBo5t7qXgAAj6pw?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 18 Dec 2023 15:07:27 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/HardKothari/status/1736765123224555687</guid>
-            <link>https://twitter.com/HardKothari/status/1736765123224555687</link>
             
             
             
