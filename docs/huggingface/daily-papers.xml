@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 19 Dec 2023 04:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 06:06:02 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[MobileSAMv2: Faster Segment Anything to Everything]]></title>
-            <description><![CDATA[Segment anything model (SAM) addresses two practical yet challenging segmentation tasks: segment anything (SegAny), which utilizes a certain point to predict the mask for a single object of interest, and segment everything (SegEvery), which predicts the masks for all objects on the image. What makes SegAny slow for SAM is its heavyweight image encoder, which has been addressed by MobileSAM via decoupled knowledge distillation. The efficiency bottleneck of SegEvery with SAM, however, lies in its mask decoder because it needs to first generate numerous masks with redundant grid-search prompts and then perform filtering to obtain the final valid masks. We propose to improve its efficiency by directly generating the final masks with only valid prompts, which can be obtained through object discovery. Our proposed approach not only helps reduce the total time on the mask decoder by at least 16 times but also achieves superior performance. Specifically, our approach yields an average performance boost of 3.6\% (42.5\% v.s. 38.9\%) for zero-shot object proposal on the LVIS dataset with the mask AR@K metric. Qualitative results show that our approach generates fine-grained masks while avoiding over-segmenting things. This project targeting faster SegEvery than the original SAM is termed MobileSAMv2 to differentiate from MobileSAM which targets faster SegAny. Moreover, we demonstrate that our new prompt sampling is also compatible with the distilled image encoders in MobileSAM, contributing to a unified framework for efficient SegAny and SegEvery. The code is available at the same link as MobileSAM Project https://github.com/ChaoningZhang/MobileSAM{red{https://github.com/ChaoningZhang/MobileSAM}}. abstract]]></description>
-            <pubDate>Mon, 18 Dec 2023 05:27:58 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09579</guid>
-            <link>https://arxiv.org/abs/2312.09579</link>
+            <title><![CDATA[MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising]]></title>
+            <description><![CDATA[Visual storytelling often uses nontypical aspect-ratio images like scroll paintings, comic strips, and panoramas to create an expressive and compelling narrative. While generative AI has achieved great success and shown the potential to reshape the creative industry, it remains a challenge to generate coherent and engaging content with arbitrary size and controllable style, concept, and layout, all of which are essential for visual storytelling. To overcome the shortcomings of previous methods including repetitive content, style inconsistency, and lack of controllability, we propose MagicScroll, a multi-layered, progressive diffusion-based image generation framework with a novel semantic-aware denoising process. The model enables fine-grained control over the generated image on object, scene, and background levels with text, image, and layout conditions. We also establish the first benchmark for nontypical aspect-ratio image generation for visual storytelling including mediums like paintings, comics, and cinematic panoramas, with customized metrics for systematic evaluation. Through comparative and ablation studies, MagicScroll showcases promising results in aligning with the narrative text, improving visual coherence, and engaging the audience. We plan to release the code and benchmark in the hope of a better collaboration between AI researchers and creative practitioners involving visual storytelling.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:54:10 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10899</guid>
+            <link>https://arxiv.org/abs/2312.10899</link>
             
             
             
-            <author><![CDATA[Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Point Transformer V3: Simpler, Faster, Stronger]]></title>
-            <description><![CDATA[This paper is not motivated to seek innovation within the attention mechanism. Instead, it focuses on overcoming the existing trade-offs between accuracy and efficiency within the context of point cloud processing, leveraging the power of scale. Drawing inspiration from recent advances in 3D large-scale representation learning, we recognize that model performance is more influenced by scale than by intricate design. Therefore, we present Point Transformer V3 (PTv3), which prioritizes simplicity and efficiency over the accuracy of certain mechanisms that are minor to the overall performance after scaling, such as replacing the precise neighbor search by KNN with an efficient serialized neighbor mapping of point clouds organized with specific patterns. This principle enables significant scaling, expanding the receptive field from 16 to 1024 points while remaining efficient (a 3x increase in processing speed and a 10x improvement in memory efficiency compared with its predecessor, PTv2). PTv3 attains state-of-the-art results on over 20 downstream tasks that span both indoor and outdoor scenarios. Further enhanced with multi-dataset joint training, PTv3 pushes these results to a higher level.]]></description>
-            <pubDate>Mon, 18 Dec 2023 05:25:30 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.10035</guid>
-            <link>https://arxiv.org/abs/2312.10035</link>
-            
-            
-            
-            <author><![CDATA[Xiaoyang Wu, Li Jiang, Peng-Shuai Wang, Zhijian Liu, Xihui Liu, Yu Qiao, Wanli Ouyang, Tong He, Hengshuang Zhao]]></author>
+            <author><![CDATA[Bingyuan Wang, Hengyu Meng, Zeyu Cai, Lanjiong Li, Yue Ma, Qifeng Chen, Zeyu Wang]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Extending Context Window of Large Language Models via Semantic Compression]]></title>
-            <description><![CDATA[Transformer-based Large Language Models (LLMs) often impose limitations on the length of the text input to ensure the generation of fluent and relevant responses. This constraint restricts their applicability in scenarios involving long texts. We propose a novel semantic compression method that enables generalization to texts that are 6-8 times longer, without incurring significant computational costs or requiring fine-tuning. Our proposed framework draws inspiration from source coding in information theory and employs a pre-trained model to reduce the semantic redundancy of long inputs before passing them to the LLMs for downstream tasks. Experimental results demonstrate that our method effectively extends the context window of LLMs across a range of tasks including question answering, summarization, few-shot learning, and information retrieval. Furthermore, the proposed semantic compression method exhibits consistent fluency in text generation while reducing the associated computational overhead.]]></description>
-            <pubDate>Mon, 18 Dec 2023 05:23:35 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09571</guid>
-            <link>https://arxiv.org/abs/2312.09571</link>
+            <title><![CDATA[Cascade Speculative Drafting for Even Faster LLM Inference]]></title>
+            <description><![CDATA[Speculative decoding enhances the efficiency of large language models (LLMs) by leveraging a draft model to draft for a larger target model to review. However, drafting in speculative decoding involves slow autoregressive generation and generating tokens of different importance with the same time allocation. These two inefficiencies lead to its suboptimal performance. To address this issue, we introduce Cascade Speculative Drafting (CS. Drafting), a novel approach that employs two types of cascades. The Vertical Cascade eliminates autoregressive generation from neural models. The Horizontal Cascade constitutes efficient time allocation in drafting with its optimality supported by our theoretical analysis. Combining both cascades, our CS. Drafting algorithm has achieved up to 72 percent additional speedup over speculative decoding in our experiments while keeping the same output distribution.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:50:46 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11462</guid>
+            <link>https://arxiv.org/abs/2312.11462</link>
             
             
             
-            <author><![CDATA[Weizhi Fei, Xueyan Niu, Pingyi Zhou, Lu Hou, Bo Bai, Lei Deng, Wei Han]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models]]></title>
-            <description><![CDATA[Diffusion models have shown remarkable success in a variety of downstream generative tasks, yet remain under-explored in the important and challenging expressive talking head generation. In this work, we propose a DreamTalk framework to fulfill this gap, which employs meticulous design to unlock the potential of diffusion models in generating expressive talking heads. Specifically, DreamTalk consists of three crucial components: a denoising network, a style-aware lip expert, and a style predictor. The diffusion-based denoising network is able to consistently synthesize high-quality audio-driven face motions across diverse expressions. To enhance the expressiveness and accuracy of lip motions, we introduce a style-aware lip expert that can guide lip-sync while being mindful of the speaking styles. To eliminate the need for expression reference video or text, an extra diffusion-based style predictor is utilized to predict the target expression directly from the audio. By this means, DreamTalk can harness powerful diffusion models to generate expressive faces effectively and reduce the reliance on expensive style references. Experimental results demonstrate that DreamTalk is capable of generating photo-realistic talking faces with diverse speaking styles and achieving accurate lip motions, surpassing existing state-of-the-art counterparts.]]></description>
-            <pubDate>Mon, 18 Dec 2023 05:20:59 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09767</guid>
-            <link>https://arxiv.org/abs/2312.09767</link>
-            
-            
-            
-            <author><![CDATA[Yifeng Ma, Shiwei Zhang, Jiayu Wang, Xiang Wang, Yingya Zhang, Zhidong Deng]]></author>
+            <author><![CDATA[Ziyi Chen, Xiaocong Yang, Jiacheng Lin, Chenkai Sun, Jie Huang, Kevin Chen-Chuan Chang]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[SlimmeRF: Slimmable Radiance Fields]]></title>
-            <description><![CDATA[Neural Radiance Field (NeRF) and its variants have recently emerged as successful methods for novel view synthesis and 3D scene reconstruction. However, most current NeRF models either achieve high accuracy using large model sizes, or achieve high memory-efficiency by trading off accuracy. This limits the applicable scope of any single model, since high-accuracy models might not fit in low-memory devices, and memory-efficient models might not satisfy high-quality requirements. To this end, we present SlimmeRF, a model that allows for instant test-time trade-offs between model size and accuracy through slimming, thus making the model simultaneously suitable for scenarios with different computing budgets. We achieve this through a newly proposed algorithm named Tensorial Rank Incrementation (TRaIn) which increases the rank of the model's tensorial representation gradually during training. We also observe that our model allows for more effective trade-offs in sparse-view scenarios, at times even achieving higher accuracy after being slimmed. We credit this to the fact that erroneous information such as floaters tend to be stored in components corresponding to higher ranks. Our implementation is available at https://github.com/Shiran-Yuan/SlimmeRF.]]></description>
-            <pubDate>Mon, 18 Dec 2023 05:17:54 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.10034</guid>
-            <link>https://arxiv.org/abs/2312.10034</link>
+            <title><![CDATA[M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts]]></title>
+            <description><![CDATA[Recently, 3D understanding has become popular to facilitate autonomous agents to perform further decisionmaking. However, existing 3D datasets and methods are often limited to specific tasks. On the other hand, recent progress in Large Language Models (LLMs) and Multimodal Language Models (MLMs) have demonstrated exceptional general language and imagery tasking performance. Therefore, it is interesting to unlock MLM's potential to be 3D generalist for wider tasks. However, current MLMs' research has been less focused on 3D tasks due to a lack of large-scale 3D instruction-following datasets. In this work, we introduce a comprehensive 3D instructionfollowing dataset called M3DBench, which possesses the following characteristics: 1) It supports general multimodal instructions interleaved with text, images, 3D objects, and other visual prompts. 2) It unifies diverse 3D tasks at both region and scene levels, covering a variety of fundamental abilities in real-world 3D environments. 3) It is a large-scale 3D instruction-following dataset with over 320k instruction-response pairs. Furthermore, we establish a new benchmark for assessing the performance of large models in understanding multi-modal 3D prompts. Extensive experiments demonstrate the effectiveness of our dataset and baseline, supporting general 3D-centric tasks, which can inspire future research.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:46:47 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10763</guid>
+            <link>https://arxiv.org/abs/2312.10763</link>
             
             
             
-            <author><![CDATA[Shiran Yuan, Hao Zhao]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models]]></title>
-            <description><![CDATA[One of the key components within diffusion models is the UNet for noise prediction. While several works have explored basic properties of the UNet decoder, its encoder largely remains unexplored. In this work, we conduct the first comprehensive study of the UNet encoder. We empirically analyze the encoder features and provide insights to important questions regarding their changes at the inference process. In particular, we find that encoder features change gently, whereas the decoder features exhibit substantial variations across different time-steps. This finding inspired us to omit the encoder at certain adjacent time-steps and reuse cyclically the encoder features in the previous time-steps for the decoder. Further based on this observation, we introduce a simple yet effective encoder propagation scheme to accelerate the diffusion sampling for a diverse set of tasks. By benefiting from our propagation scheme, we are able to perform in parallel the decoder at certain adjacent time-steps. Additionally, we introduce a prior noise injection method to improve the texture details in the generated image. Besides the standard text-to-image task, we also validate our approach on other tasks: text-to-video, personalized generation and reference-guided generation. Without utilizing any knowledge distillation technique, our approach accelerates both the Stable Diffusion (SD) and the DeepFloyd-IF models sampling by 41% and 24% respectively, while maintaining high-quality generation performance. Our code is available in https://github.com/hutaiHang/Faster-Diffusion{FasterDiffusion}.]]></description>
-            <pubDate>Mon, 18 Dec 2023 05:10:20 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09608</guid>
-            <link>https://arxiv.org/abs/2312.09608</link>
-            
-            
-            
-            <author><![CDATA[Senmao Li, Taihang Hu, Fahad Shahbaz Khan, Linxuan Li, Shiqi Yang, Yaxing Wang, Ming-Ming Cheng, Jian Yang]]></author>
+            <author><![CDATA[Mingsheng Li, Xin Chen, Chi Zhang, Sijin Chen, Hongyuan Zhu, Fukun Yin, Gang Yu, Tao Chen]]></author>
             
                 
             
@@ -115,31 +67,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Perspectives on the State and Future of Deep Learning -- 2023]]></title>
-            <description><![CDATA[The goal of this series is to chronicle opinions and issues in the field of machine learning as they stand today and as they change over time. The plan is to host this survey periodically until the AI singularity paperclip-frenzy-driven doomsday, keeping an updated list of topical questions and interviewing new community members for each edition. In this issue, we probed people's opinions on interpretable AI, the value of benchmarking in modern NLP, the state of progress towards understanding deep learning, and the future of academia.]]></description>
-            <pubDate>Mon, 18 Dec 2023 05:07:48 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09323</guid>
-            <link>https://arxiv.org/abs/2312.09323</link>
+            <title><![CDATA[Paloma: A Benchmark for Evaluating Language Model Fit]]></title>
+            <description><![CDATA[Language models (LMs) commonly report perplexity on monolithic data held out from training. Implicitly or explicitly, this data is composed of domainsx2013varying distributions of language. Rather than assuming perplexity on one distribution extrapolates to others, Perplexity Analysis for Language Model Assessment (Paloma), measures LM fit to 585 text domains, ranging from nytimes.com to r/depression on Reddit. We invite submissions to our benchmark and organize results by comparability based on compliance with guidelines such as removal of benchmark contamination from pretraining. Submissions can also record parameter and training token count to make comparisons of Pareto efficiency for performance as a function of these measures of cost. We populate our benchmark with results from 6 baselines pretrained on popular corpora. In case studies, we demonstrate analyses that are possible with Paloma, such as finding that pretraining without data beyond Common Crawl leads to inconsistent fit to many domains.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:44:16 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10523</guid>
+            <link>https://arxiv.org/abs/2312.10523</link>
             
             
             
-            <author><![CDATA[Micah Goldblum, Anima Anandkumar, Richard Baraniuk, Tom Goldstein, Kyunghyun Cho, Zachary C Lipton, Melanie Mitchell, Preetum Nakkiran, Max Welling, Andrew Gordon Wilson]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Amphion: An Open-Source Audio, Music and Speech Generation Toolkit]]></title>
-            <description><![CDATA[Amphion is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development. Amphion offers a unique feature: visualizations of classic models or architectures. We believe that these visualizations are beneficial for junior researchers and engineers who wish to gain a better understanding of the model. The North-Star objective of Amphion is to offer a platform for studying the conversion of any inputs into general audio. Amphion is designed to support individual generation tasks. In addition to the specific generation tasks, Amphion also includes several vocoders and evaluation metrics. A vocoder is an important module for producing high-quality audio signals, while evaluation metrics are critical for ensuring consistent metrics in generation tasks. In this paper, we provide a high-level overview of Amphion.]]></description>
-            <pubDate>Mon, 18 Dec 2023 04:58:43 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09911</guid>
-            <link>https://arxiv.org/abs/2312.09911</link>
-            
-            
-            
-            <author><![CDATA[Xueyao Zhang, Liumeng Xue, Yuancheng Wang, Yicheng Gu, Xi Chen, Zihao Fang, Haopeng Chen, Lexiao Zou, Chaoren Wang, Jun Han, Kai Chen, Haizhou Li, Zhizheng Wu]]></author>
+            <author><![CDATA[Ian Magnusson, Akshita Bhagia, Valentin Hofmann, Luca Soldaini, Ananya Harsh Jha, Oyvind Tafjord, Dustin Schwenk, Evan Pete Walsh, Yanai Elazar, Kyle Lo, Dirk Groeneveld, Iz Beltagy, Hannaneh Hajishirzi, Noah A. Smith, Kyle Richardson, Jesse Dodge]]></author>
             
                 
             
@@ -147,31 +83,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Stable Score Distillation for High-Quality 3D Generation]]></title>
-            <description><![CDATA[Score Distillation Sampling (SDS) has exhibited remarkable performance in conditional 3D content generation. However, a comprehensive understanding of the SDS formulation is still lacking, hindering the development of 3D generation. In this work, we present an interpretation of SDS as a combination of three functional components: mode-disengaging, mode-seeking and variance-reducing terms, and analyze the properties of each. We show that problems such as over-smoothness and color-saturation result from the intrinsic deficiency of the supervision terms and reveal that the variance-reducing term introduced by SDS is sub-optimal. Additionally, we shed light on the adoption of large Classifier-Free Guidance (CFG) scale for 3D generation. Based on the analysis, we propose a simple yet effective approach named Stable Score Distillation (SSD) which strategically orchestrates each term for high-quality 3D generation. Extensive experiments validate the efficacy of our approach, demonstrating its ability to generate high-fidelity 3D content without succumbing to issues such as over-smoothness and over-saturation, even under low CFG conditions with the most challenging NeRF representation.]]></description>
-            <pubDate>Mon, 18 Dec 2023 04:55:49 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09305</guid>
-            <link>https://arxiv.org/abs/2312.09305</link>
+            <title><![CDATA[Catwalk: A Unified Language Model Evaluation Framework for Many Datasets]]></title>
+            <description><![CDATA[The success of large language models has shifted the evaluation paradigms in natural language processing (NLP). The community's interest has drifted towards comparing NLP models across many tasks, domains, and datasets, often at an extreme scale. This imposes new engineering challenges: efforts in constructing datasets and models have been fragmented, and their formats and interfaces are incompatible. As a result, it often takes extensive (re)implementation efforts to make fair and controlled comparisons at scale.   Catwalk aims to address these issues. Catwalk provides a unified interface to a broad range of existing NLP datasets and models, ranging from both canonical supervised training and fine-tuning, to more modern paradigms like in-context learning. Its carefully-designed abstractions allow for easy extensions to many others. Catwalk substantially lowers the barriers to conducting controlled experiments at scale. For example, we finetuned and evaluated over 64 models on over 86 datasets with a single command, without writing any code. Maintained by the AllenNLP team at the Allen Institute for Artificial Intelligence (AI2), Catwalk is an ongoing open-source effort: https://github.com/allenai/catwalk.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:40:26 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10253</guid>
+            <link>https://arxiv.org/abs/2312.10253</link>
             
             
             
-            <author><![CDATA[Boshi Tang, Jianan Wang, Zhiyong Wu, Lei Zhang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Challenges with unsupervised LLM knowledge discovery]]></title>
-            <description><![CDATA[We show that existing unsupervised methods on large language model (LLM) activations do not discover knowledge -- instead they seem to discover whatever feature of the activations is most prominent. The idea behind unsupervised knowledge elicitation is that knowledge satisfies a consistency structure, which can be used to discover knowledge. We first prove theoretically that arbitrary features (not just knowledge) satisfy the consistency structure of a particular leading unsupervised knowledge-elicitation method, contrast-consistent search (Burns et al. - arXiv:2212.03827). We then present a series of experiments showing settings in which unsupervised methods result in classifiers that do not predict knowledge, but instead predict a different prominent feature. We conclude that existing unsupervised methods for discovering latent knowledge are insufficient, and we contribute sanity checks to apply to evaluating future knowledge elicitation methods. Conceptually, we hypothesise that the identification issues explored here, e.g. distinguishing a model's knowledge from that of a simulated character's, will persist for future unsupervised methods.]]></description>
-            <pubDate>Mon, 18 Dec 2023 03:00:55 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.10029</guid>
-            <link>https://arxiv.org/abs/2312.10029</link>
-            
-            
-            
-            <author><![CDATA[Sebastian Farquhar, Vikrant Varma, Zachary Kenton, Johannes Gasteiger, Vladimir Mikulik, Rohin Shah]]></author>
+            <author><![CDATA[Dirk Groeneveld, Anas Awadalla, Iz Beltagy, Akshita Bhagia, Ian Magnusson, Hao Peng, Oyvind Tafjord, Pete Walsh, Kyle Richardson, Jesse Dodge]]></author>
             
                 
             
@@ -179,31 +99,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Faithful Persona-based Conversational Dataset Generation with Large Language Models]]></title>
-            <description><![CDATA[High-quality conversational datasets are essential for developing AI models that can communicate with users. One way to foster deeper interactions between a chatbot and its user is through personas, aspects of the user's character that provide insights into their personality, motivations, and behaviors. Training Natural Language Processing (NLP) models on a diverse and comprehensive persona-based dataset can lead to conversational models that create a deeper connection with the user, and maintain their engagement. In this paper, we leverage the power of Large Language Models (LLMs) to create a large, high-quality conversational dataset from a seed dataset. We propose a Generator-Critic architecture framework to expand the initial dataset, while improving the quality of its conversations. The Generator is an LLM prompted to output conversations. The Critic consists of a mixture of expert LLMs that control the quality of the generated conversations. These experts select the best generated conversations, which we then use to improve the Generator. We release Synthetic-Persona-Chat, consisting of 20k conversations seeded from Persona-Chat. We evaluate the quality of Synthetic-Persona-Chat and our generation framework on different dimensions through extensive experiments, and observe that the losing rate of Synthetic-Persona-Chat against Persona-Chat during Turing test decreases from 17.2% to 8.8% over three iterations.]]></description>
-            <pubDate>Mon, 18 Dec 2023 02:59:30 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.10007</guid>
-            <link>https://arxiv.org/abs/2312.10007</link>
+            <title><![CDATA[ProTIP: Progressive Tool Retrieval Improves Planning]]></title>
+            <description><![CDATA[Large language models (LLMs) are increasingly employed for complex multi-step planning tasks, where the tool retrieval (TR) step is crucial for achieving successful outcomes. Two prevalent approaches for TR are single-step retrieval, which utilizes the complete query, and sequential retrieval using task decomposition (TD), where a full query is segmented into discrete atomic subtasks. While single-step retrieval lacks the flexibility to handle "inter-tool dependency," the TD approach necessitates maintaining "subtask-tool atomicity alignment," as the toolbox can evolve dynamically. To address these limitations, we introduce the Progressive Tool retrieval to Improve Planning (ProTIP) framework. ProTIP is a lightweight, contrastive learning-based framework that implicitly performs TD without the explicit requirement of subtask labels, while simultaneously maintaining subtask-tool atomicity. On the ToolBench dataset, ProTIP outperforms the ChatGPT task decomposition-based approach by a remarkable margin, achieving a 24% improvement in Recall@K=10 for TR and a 41% enhancement in tool accuracy for plan generation.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:32:32 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10332</guid>
+            <link>https://arxiv.org/abs/2312.10332</link>
             
             
             
-            <author><![CDATA[Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, Hakim Sidahmed]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent]]></title>
-            <description><![CDATA[Answering complex natural language questions often necessitates multi-step reasoning and integrating external information. Several systems have combined knowledge retrieval with a large language model (LLM) to answer such questions. These systems, however, suffer from various failure cases, and we cannot directly train them end-to-end to fix such failures, as interaction with external knowledge is non-differentiable. To address these deficiencies, we define a ReAct-style LLM agent with the ability to reason and act upon external knowledge. We further refine the agent through a ReST-like method that iteratively trains on previous trajectories, employing growing-batch reinforcement learning with AI feedback for continuous self-improvement and self-distillation. Starting from a prompted large model and after just two iterations of the algorithm, we can produce a fine-tuned small model that achieves comparable performance on challenging compositional question-answering benchmarks with two orders of magnitude fewer parameters.]]></description>
-            <pubDate>Mon, 18 Dec 2023 02:56:42 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.10003</guid>
-            <link>https://arxiv.org/abs/2312.10003</link>
-            
-            
-            
-            <author><![CDATA[Renat Aksitov, Sobhan Miryoosefi, Zonglin Li, Daliang Li, Sheila Babayan, Kavya Kopparapu, Zachary Fisher, Ruiqi Guo, Sushant Prakash, Pranesh Srinivasan, Manzil Zaheer, Felix Yu, Sanjiv Kumar]]></author>
+            <author><![CDATA[Raviteja Anantha, Bortik Bandyopadhyay, Anirudh Kashi, Sayantan Mahinder, Andrew W Hill, Srinivas Chappidi]]></author>
             
                 
             
@@ -211,31 +115,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Self-Evaluation Improves Selective Generation in Large Language Models]]></title>
-            <description><![CDATA[Safe deployment of large language models (LLMs) may benefit from a reliable method for assessing their generated content to determine when to abstain or to selectively generate. While likelihood-based metrics such as perplexity are widely employed, recent research has demonstrated the limitations of using sequence-level probability estimates given by LLMs as reliable indicators of generation quality. Conversely, LLMs have demonstrated strong calibration at the token level, particularly when it comes to choosing correct answers in multiple-choice questions or evaluating true/false statements. In this work, we reformulate open-ended generation tasks into token-level prediction tasks, and leverage LLMs' superior calibration at the token level. We instruct an LLM to self-evaluate its answers, employing either a multi-way comparison or a point-wise evaluation approach, with the option to include a ``None of the above'' option to express the model's uncertainty explicitly. We benchmark a range of scoring methods based on self-evaluation and evaluate their performance in selective generation using TruthfulQA and TL;DR. Through experiments with PaLM-2 and GPT-3, we demonstrate that self-evaluation based scores not only improve accuracy, but also correlate better with the overall quality of generated content.]]></description>
-            <pubDate>Mon, 18 Dec 2023 02:03:12 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09300</guid>
-            <link>https://arxiv.org/abs/2312.09300</link>
+            <title><![CDATA[G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model]]></title>
+            <description><![CDATA[Large language models (LLMs) have shown remarkable proficiency in human-level reasoning and generation capabilities, which encourages extensive research on their application in mathematical problem solving. However, current work has been largely focused on text-based mathematical problems, with limited investigation in problems involving geometric information. Addressing this gap, we aim to enable LLMs to solve geometric problems by understanding image input. We first analyze the limitations of current Multimodal Large Language Models (MLLMs) in this area: they struggle to accurately comprehending basic geometric elements and their relationships. To overcome these challenges, we take advantage of the unique characteristics of geometric problems (such as unique geometric logical form, and geometric scalability) and the capacity of the textual LLMs to build an enriched multimodal geometry dataset based on existing data. The augmented dataset, Geo170K, contains more than 170K geometric image-caption and question-answer pairs. Utilizing our constructed Geo170K dataset, we develop G-LLaVA, which demonstrates exceptional performance in solving geometric problems, significantly outperforming GPT-4-V on the MathVista benchmark with only 7B parameters.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:31:02 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11370</guid>
+            <link>https://arxiv.org/abs/2312.11370</link>
             
             
             
-            <author><![CDATA[Jie Ren, Yao Zhao, Tu Vu, Peter J. Liu, Balaji Lakshminarayanan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Weight subcloning: direct initialization of transformers using larger pretrained ones]]></title>
-            <description><![CDATA[Training large transformer models from scratch for a target task requires lots of data and is computationally demanding. The usual practice of transfer learning overcomes this challenge by initializing the model with weights of a pretrained model of the same size and specification to increase the convergence and training speed. However, what if no pretrained model of the required size is available? In this paper, we introduce a simple yet effective technique to transfer the knowledge of a pretrained model to smaller variants. Our approach called weight subcloning expedites the training of scaled-down transformers by initializing their weights from larger pretrained models.   Weight subcloning involves an operation on the pretrained model to obtain the equivalent initialized scaled-down model. It consists of two key steps: first, we introduce neuron importance ranking to decrease the embedding dimension per layer in the pretrained model. Then, we remove blocks from the transformer model to match the number of layers in the scaled-down network. The result is a network ready to undergo training, which gains significant improvements in training speed compared to random initialization. For instance, we achieve 4x faster training for vision transformers in image classification and language models designed for next token prediction.]]></description>
-            <pubDate>Mon, 18 Dec 2023 01:56:31 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09299</guid>
-            <link>https://arxiv.org/abs/2312.09299</link>
-            
-            
-            
-            <author><![CDATA[Mohammad Samragh, Mehrdad Farajtabar, Sachin Mehta, Raviteja Vemulapalli, Fartash Faghri, Devang Naik, Oncel Tuzel, Mohammad Rastegari]]></author>
+            <author><![CDATA[Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong]]></author>
             
                 
             
@@ -243,15 +131,47 @@
         </item>
         
         <item>
-            <title><![CDATA[Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision]]></title>
-            <description><![CDATA[Widely used alignment techniques, such as reinforcement learning from human feedback (RLHF), rely on the ability of humans to supervise model behavior - for example, to evaluate whether a model faithfully followed instructions or generated safe outputs. However, future superhuman models will behave in complex ways too difficult for humans to reliably evaluate; humans will only be able to weakly supervise superhuman models. We study an analogy to this problem: can weak model supervision elicit the full capabilities of a much stronger model? We test this using a range of pretrained language models in the GPT-4 family on natural language processing (NLP), chess, and reward modeling tasks. We find that when we naively finetune strong pretrained models on labels generated by a weak model, they consistently perform better than their weak supervisors, a phenomenon we call weak-to-strong generalization. However, we are still far from recovering the full capabilities of strong models with naive finetuning alone, suggesting that techniques like RLHF may scale poorly to superhuman models without further work. We find that simple methods can often significantly improve weak-to-strong generalization: for example, when finetuning GPT-4 with a GPT-2-level supervisor and an auxiliary confidence loss, we can recover close to GPT-3.5-level performance on NLP tasks. Our results suggest that it is feasible to make empirical progress today on a fundamental challenge of aligning superhuman models.]]></description>
-            <pubDate>Mon, 18 Dec 2023 01:52:55 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.09390</guid>
-            <link>https://arxiv.org/abs/2312.09390</link>
+            <title><![CDATA[Silkie: Preference Distillation for Large Visual Language Models]]></title>
+            <description><![CDATA[This paper explores preference distillation for large vision language models (LVLMs), improving their ability to generate helpful and faithful responses anchoring the visual context. We first build a vision-language feedback (VLFeedback) dataset utilizing AI annotation. Specifically, responses are generated by models sampled from 12 LVLMs, conditioned on multi-modal instructions sourced from various datasets. We adopt GPT-4V to assess the generated outputs regarding helpfulness, visual faithfulness, and ethical considerations. Furthermore, the preference supervision is distilled into Qwen-VL-Chat through the direct preference optimization (DPO) method. The resulting model Silkie, achieves 6.9% and 9.5% relative improvement on the MME benchmark regarding the perception and cognition capabilities, respectively. Silkie also demonstrates reduced hallucination by setting a new state-of-the-art score of 3.02 on the MMHal-Bench benchmark. Further analysis shows that DPO with our VLFeedback dataset mainly boosts the fine-grained perception and complex cognition abilities of LVLMs, leading to more comprehensive improvements compared to human-annotated preference datasets.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:28:47 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10665</guid>
+            <link>https://arxiv.org/abs/2312.10665</link>
             
             
             
-            <author><![CDATA[Collin Burns, Pavel Izmailov, Jan Hendrik Kirchner, Bowen Baker, Leo Gao, Leopold Aschenbrenner, Yining Chen, Adrien Ecoffet, Manas Joglekar, Jan Leike, Ilya Sutskever, Jeff Wu]]></author>
+            <author><![CDATA[Lei Li, Zhihui Xie, Mukai Li, Shunian Chen, Peiyi Wang, Liang Chen, Yazheng Yang, Benyou Wang, Lingpeng Kong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rich Human Feedback for Text-to-Image Generation]]></title>
+            <description><![CDATA[Recent Text-to-Image (T2I) generation models such as Stable Diffusion and Imagen have made significant progress in generating high-resolution images based on text descriptions. However, many generated images still suffer from issues such as artifacts/implausibility, misalignment with text descriptions, and low aesthetic quality. Inspired by the success of Reinforcement Learning with Human Feedback (RLHF) for large language models, prior works collected human-provided scores as feedback on generated images and trained a reward model to improve the T2I generation. In this paper, we enrich the feedback signal by (i) marking image regions that are implausible or misaligned with the text, and (ii) annotating which words in the text prompt are misrepresented or missing on the image. We collect such rich human feedback on 18K generated images and train a multimodal transformer to predict the rich feedback automatically. We show that the predicted rich human feedback can be leveraged to improve image generation, for example, by selecting high-quality training data to finetune and improve the generative models, or by creating masks with predicted heatmaps to inpaint the problematic regions. Notably, the improvements generalize to models (Muse) beyond those used to generate the images on which human feedback data were collected (Stable Diffusion variants).]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:26:07 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10240</guid>
+            <link>https://arxiv.org/abs/2312.10240</link>
+            
+            
+            
+            <author><![CDATA[Youwei Liang, Junfeng He, Gang Li, Peizhao Li, Arseniy Klimovskiy, Nicholas Carolan, Jiao Sun, Jordi Pont-Tuset, Sarah Young, Feng Yang, Junjie Ke, Krishnamurthy Dj Dvijotham, Katie Collins, Yiwen Luo, Yang Li, Kai J Kohlhoff, Deepak Ramachandran, Vidhya Navalpakkam]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[VidToMe: Video Token Merging for Zero-Shot Video Editing]]></title>
+            <description><![CDATA[Diffusion models have made significant advances in generating high-quality images, but their application to video generation has remained challenging due to the complexity of temporal motion. Zero-shot video editing offers a solution by utilizing pre-trained image diffusion models to translate source videos into new ones. Nevertheless, existing methods struggle to maintain strict temporal consistency and efficient memory consumption. In this work, we propose a novel approach to enhance temporal consistency in generated videos by merging self-attention tokens across frames. By aligning and compressing temporally redundant tokens across frames, our method improves temporal coherence and reduces memory consumption in self-attention computations. The merging strategy matches and aligns tokens according to the temporal correspondence between frames, facilitating natural temporal consistency in generated video frames. To manage the complexity of video processing, we divide videos into chunks and develop intra-chunk local token merging and inter-chunk global token merging, ensuring both short-term video continuity and long-term content consistency. Our video editing approach seamlessly extends the advancements in image editing to video editing, rendering favorable results in temporal consistency over state-of-the-art methods.]]></description>
+            <pubDate>Tue, 19 Dec 2023 05:22:03 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.10656</guid>
+            <link>https://arxiv.org/abs/2312.10656</link>
+            
+            
+            
+            <author><![CDATA[Xirui Li, Chao Ma, Xiaokang Yang, Ming-Hsuan Yang]]></author>
             
                 
             
