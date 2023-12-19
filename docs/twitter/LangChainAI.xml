@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 19 Dec 2023 20:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 22:49:17 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT virat: This is pretty slick. Chatting with Nike's 10-K using @LangChainAI and @Redisinc. Under the hood, it uses: - LangChain Redis RAG template - ...]]></title>
+            <description><![CDATA[RT virat<br>This is pretty slick.<br><br>Chatting with Nike's 10-K using @LangChainAI and @Redisinc.<br><br>Under the hood, it uses:<br><br>- LangChain Redis RAG template<br>- LangServe + FastAPI<br><br>The app took ~1 min to set up.<br><video src="https://video.twimg.com/ext_tw_video/1737220556267601920/pu/vid/avc1/1288x720/1MWl-qYmun4WnwT8.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1737220556267601920/pu/img/gCLB2OQI_Z334XzU.jpg"></video>]]></description>
+            <pubDate>Tue, 19 Dec 2023 21:18:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/virattt/status/1737220793518670001</guid>
+            <link>https://twitter.com/virattt/status/1737220793518670001</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🦜LangChain & Redis over Financial PDFs Excited to work with the @Redisinc team to create a RAG template for developers to chat with public financia...]]></title>
@@ -305,22 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 18 Dec 2023 17:01:17 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Hacubu/status/1736793769675207156</guid>
             <link>https://twitter.com/Hacubu/status/1736793769675207156</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Neo4j: If you already took the "Neo4j & LLM Fundamentals" course, it's time to put all your knowledge into practice and create a Movie Recommendati...]]></title>
-            <description><![CDATA[RT Neo4j<br>If you already took the "Neo4j &amp; LLM Fundamentals" course, it's time to put all your knowledge into practice and create a Movie Recommendation Chatbot backed by a Neo4j database 😎 <br><br>Check it out:<br>https://bit.ly/3Tpmflr<br><br>#Neo4j #Chatbot #llms #GenAI #Python @LangChainAI<br><img style="" src="https://pbs.twimg.com/media/GBoyITuWoAAXPXI?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 18 Dec 2023 14:30:11 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/neo4j/status/1736755745721327844</guid>
-            <link>https://twitter.com/neo4j/status/1736755745721327844</link>
             
             
             
