@@ -15,8 +15,152 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 20 Dec 2023 02:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 04:57:31 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[3D-LFM: Lifting Foundation Model]]></title>
+            <description><![CDATA[The lifting of 3D structure and camera from 2D landmarks is at the cornerstone of the entire discipline of computer vision. Traditional methods have been confined to specific rigid objects, such as those in Perspective-n-Point (PnP) problems, but deep learning has expanded our capability to reconstruct a wide range of object classes (e.g. C3PDO and PAUL) with resilience to noise, occlusions, and perspective distortions. All these techniques, however, have been limited by the fundamental need to establish correspondences across the 3D training data -- significantly limiting their utility to applications where one has an abundance of "in-correspondence" 3D data. Our approach harnesses the inherent permutation equivariance of transformers to manage varying number of points per 3D data instance, withstands occlusions, and generalizes to unseen categories. We demonstrate state of the art performance across 2D-3D lifting task benchmarks. Since our approach can be trained across such a broad class of structures we refer to it simply as a 3D Lifting Foundation Model (3D-LFM) -- the first of its kind.]]></description>
+            <pubDate>Wed, 20 Dec 2023 04:23:24 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11894</guid>
+            <link>https://arxiv.org/abs/2312.11894</link>
+            
+            
+            
+            <author><![CDATA[Mosam Dabhi, Laszlo A. Jeni, Simon Lucey]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles]]></title>
+            <description><![CDATA[We present HAAR, a new strand-based generative model for 3D human hairstyles. Specifically, based on textual inputs, HAAR produces 3D hairstyles that could be used as production-level assets in modern computer graphics engines. Current AI-based generative models take advantage of powerful 2D priors to reconstruct 3D content in the form of point clouds, meshes, or volumetric functions. However, by using the 2D priors, they are intrinsically limited to only recovering the visual parts. Highly occluded hair structures can not be reconstructed with those methods, and they only model the ''outer shell'', which is not ready to be used in physics-based rendering or simulation pipelines. In contrast, we propose a first text-guided generative method that uses 3D hair strands as an underlying representation. Leveraging 2D visual question-answering (VQA) systems, we automatically annotate synthetic hair models that are generated from a small set of artist-created hairstyles. This allows us to train a latent diffusion model that operates in a common hairstyle UV space. In qualitative and quantitative studies, we demonstrate the capabilities of the proposed model and compare it to existing hairstyle generation approaches.]]></description>
+            <pubDate>Wed, 20 Dec 2023 04:09:01 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11666</guid>
+            <link>https://arxiv.org/abs/2312.11666</link>
+            
+            
+            
+            <author><![CDATA[Vanessa Sklyarova, Egor Zakharov, Otmar Hilliges, Michael J. Black, Justus Thies]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TIP: Text-Driven Image Processing with Semantic and Restoration Instructions]]></title>
+            <description><![CDATA[Text-driven diffusion models have become increasingly popular for various image editing tasks, including inpainting, stylization, and object replacement. However, it still remains an open research problem to adopt this language-vision paradigm for more fine-level image processing tasks, such as denoising, super-resolution, deblurring, and compression artifact removal. In this paper, we develop TIP, a Text-driven Image Processing framework that leverages natural language as a user-friendly interface to control the image restoration process. We consider the capacity of text information in two dimensions. First, we use content-related prompts to enhance the semantic alignment, effectively alleviating identity ambiguity in the restoration outcomes. Second, our approach is the first framework that supports fine-level instruction through language-based quantitative specification of the restoration strength, without the need for explicit task-specific design. In addition, we introduce a novel fusion mechanism that augments the existing ControlNet architecture by learning to rescale the generative prior, thereby achieving better restoration fidelity. Our extensive experiments demonstrate the superior restoration performance of TIP compared to the state of the arts, alongside offering the flexibility of text-based control over the restoration effects.]]></description>
+            <pubDate>Wed, 20 Dec 2023 03:45:52 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11595</guid>
+            <link>https://arxiv.org/abs/2312.11595</link>
+            
+            
+            
+            <author><![CDATA[Chenyang Qi, Zhengzhong Tu, Keren Ye, Mauricio Delbracio, Peyman Milanfar, Qifeng Chen, Hossein Talebi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tracking Any Object Amodally]]></title>
+            <description><![CDATA[Amodal perception, the ability to comprehend complete object structures from partial visibility, is a fundamental skill, even for infants. Its significance extends to applications like autonomous driving, where a clear understanding of heavily occluded objects is essential. However, modern detection and tracking algorithms often overlook this critical capability, perhaps due to the prevalence of modal annotations in most datasets. To address the scarcity of amodal data, we introduce the TAO-Amodal benchmark, featuring 880 diverse categories in thousands of video sequences. Our dataset includes amodal and modal bounding boxes for visible and occluded objects, including objects that are partially out-of-frame. To enhance amodal tracking with object permanence, we leverage a lightweight plug-in module, the amodal expander, to transform standard, modal trackers into amodal ones through fine-tuning on a few hundred video sequences with data augmentation. We achieve a 3.3\% and 1.6\% improvement on the detection and tracking of occluded objects on TAO-Amodal. When evaluated on people, our method produces dramatic improvements of 2x compared to state-of-the-art modal baselines.]]></description>
+            <pubDate>Wed, 20 Dec 2023 03:41:39 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.12433</guid>
+            <link>https://arxiv.org/abs/2312.12433</link>
+            
+            
+            
+            <author><![CDATA[Cheng-Yen Hsieh, Tarasha Khurana, Achal Dave, Deva Ramanan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MixRT: Mixed Neural Representations For Real-Time NeRF Rendering]]></title>
+            <description><![CDATA[Neural Radiance Field (NeRF) has emerged as a leading technique for novel view synthesis, owing to its impressive photorealistic reconstruction and rendering capability. Nevertheless, achieving real-time NeRF rendering in large-scale scenes has presented challenges, often leading to the adoption of either intricate baked mesh representations with a substantial number of triangles or resource-intensive ray marching in baked representations. We challenge these conventions, observing that high-quality geometry, represented by meshes with substantial triangles, is not necessary for achieving photorealistic rendering quality. Consequently, we propose MixRT, a novel NeRF representation that includes a low-quality mesh, a view-dependent displacement map, and a compressed NeRF model. This design effectively harnesses the capabilities of existing graphics hardware, thus enabling real-time NeRF rendering on edge devices. Leveraging a highly-optimized WebGL-based rendering framework, our proposed MixRT attains real-time rendering speeds on edge devices (over 30 FPS at a resolution of 1280 x 720 on a MacBook M1 Pro laptop), better rendering quality (0.2 PSNR higher in indoor scenes of the Unbounded-360 datasets), and a smaller storage size (less than 80% compared to state-of-the-art methods).]]></description>
+            <pubDate>Wed, 20 Dec 2023 03:36:53 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11841</guid>
+            <link>https://arxiv.org/abs/2312.11841</link>
+            
+            
+            
+            <author><![CDATA[Chaojian Li, Bichen Wu, Peter Vajda, Yingyan, Lin]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FastSR-NeRF: Improving NeRF Efficiency on Consumer Devices with A Simple Super-Resolution Pipeline]]></title>
+            <description><![CDATA[Super-resolution (SR) techniques have recently been proposed to upscale the outputs of neural radiance fields (NeRF) and generate high-quality images with enhanced inference speeds. However, existing NeRF+SR methods increase training overhead by using extra input features, loss functions, and/or expensive training procedures such as knowledge distillation. In this paper, we aim to leverage SR for efficiency gains without costly training or architectural changes. Specifically, we build a simple NeRF+SR pipeline that directly combines existing modules, and we propose a lightweight augmentation technique, random patch sampling, for training. Compared to existing NeRF+SR methods, our pipeline mitigates the SR computing overhead and can be trained up to 23x faster, making it feasible to run on consumer devices such as the Apple MacBook. Experiments show our pipeline can upscale NeRF outputs by 2-4x while maintaining high quality, increasing inference speeds by up to 18x on an NVIDIA V100 GPU and 12.8x on an M1 Pro chip. We conclude that SR can be a simple but effective technique for improving the efficiency of NeRF models for consumer devices.]]></description>
+            <pubDate>Wed, 20 Dec 2023 03:32:26 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11537</guid>
+            <link>https://arxiv.org/abs/2312.11537</link>
+            
+            
+            
+            <author><![CDATA[Chien-Yu Lin, Qichen Fu, Thomas Merth, Karren Yang, Anurag Ranjan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior]]></title>
+            <description><![CDATA[In this paper, we present a novel two-stage approach that fully utilizes the information provided by the reference image to establish a customized knowledge prior for image-to-3D generation. While previous approaches primarily rely on a general diffusion prior, which struggles to yield consistent results with the reference image, we propose a subject-specific and multi-modal diffusion model. This model not only aids NeRF optimization by considering the shading mode for improved geometry but also enhances texture from the coarse results to achieve superior refinement. Both aspects contribute to faithfully aligning the 3D content with the subject. Extensive experiments showcase the superiority of our method, Customize-It-3D, outperforming previous works by a substantial margin. It produces faithful 360-degree reconstructions with impressive visual quality, making it well-suited for various applications, including text-to-3D creation.]]></description>
+            <pubDate>Wed, 20 Dec 2023 03:26:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11535</guid>
+            <link>https://arxiv.org/abs/2312.11535</link>
+            
+            
+            
+            <author><![CDATA[Nan Huang, Ting Zhang, Yuhui Yuan, Dong Chen, Shanghang Zhang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model]]></title>
+            <description><![CDATA[The ability of large language models (LLMs) to process visual inputs has given rise to general-purpose vision systems, unifying various vision-language (VL) tasks by instruction tuning. However, due to the enormous diversity in input-output formats in the vision domain, existing general-purpose models fail to successfully integrate segmentation and multi-image inputs with coarse-level tasks into a single framework. In this work, we introduce VistaLLM, a powerful visual system that addresses coarse- and fine-grained VL tasks over single and multiple input images using a unified framework. VistaLLM utilizes an instruction-guided image tokenizer that filters global embeddings using task descriptions to extract compressed and refined features from numerous images. Moreover, VistaLLM employs a gradient-aware adaptive sampling technique to represent binary segmentation masks as sequences, significantly improving over previously used uniform sampling. To bolster the desired capability of VistaLLM, we curate CoinIt, a comprehensive coarse-to-fine instruction tuning dataset with 6.8M samples. We also address the lack of multi-image grounding datasets by introducing a novel task, AttCoSeg (Attribute-level Co-Segmentation), which boosts the model's reasoning and grounding capability over multiple input images. Extensive experiments on a wide range of V- and VL tasks demonstrate the effectiveness of VistaLLM by achieving consistent state-of-the-art performance over strong baselines across all downstream tasks. Our project page can be found at https://shramanpramanick.github.io/VistaLLM/.]]></description>
+            <pubDate>Wed, 20 Dec 2023 03:12:21 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.12423</guid>
+            <link>https://arxiv.org/abs/2312.12423</link>
+            
+            
+            
+            <author><![CDATA[Shraman Pramanick, Guangxing Han, Rui Hou, Sayan Nag, Ser-Nam Lim, Nicolas Ballas, Qifan Wang, Rama Chellappa, Amjad Almahairi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Text-Conditioned Resampler For Long Form Video Understanding]]></title>
+            <description><![CDATA[Videos are highly redundant data source and it is often enough to identify a few key moments to solve any given task. In this paper, we present a text-conditioned video resampler (TCR) module that uses a pre-trained and frozen visual encoder and large language model (LLM) to process long video sequences for a task. TCR localises relevant visual features from the video given a text condition and provides them to a LLM to generate a text response. Due to its lightweight design and use of cross-attention, TCR can process more than 100 frames at a time allowing the model to use much longer chunks of video than earlier works. We make the following contributions: (i) we design a transformer-based sampling architecture that can process long videos conditioned on a task, together with a training method that enables it to bridge pre-trained visual and language models; (ii) we empirically validate its efficacy on a wide variety of evaluation tasks, and set a new state-of-the-art on NextQA, EgoSchema, and the EGO4D-LTA challenge; and (iii) we determine tasks which require longer video contexts and that can thus be used effectively for further evaluation of long-range video models.]]></description>
+            <pubDate>Wed, 20 Dec 2023 03:02:46 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.11897</guid>
+            <link>https://arxiv.org/abs/2312.11897</link>
+            
+            
+            
+            <author><![CDATA[Bruno Korbar, Yongqin Xian, Alessio Tonioni, Andrew Zisserman, Federico Tombari]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[StarVector: Generating Scalable Vector Graphics Code from Images]]></title>
