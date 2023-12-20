@@ -21,56 +21,8 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Dec 2023 18:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 16:11:13 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Today, hear from Tania Bedrax-Weiss, Sr. Director, Research Engineering at Google! She and her team explore how to push the state of the art in langua...]]></title>
-            <description><![CDATA[Today, hear from Tania Bedrax-Weiss, Sr. Director, Research Engineering at Google! She and her team explore how to push the state of the art in language &amp; vision understanding and generation; their goal is to make Google products more efficient, reliable, and easy to use. More ↓<br><video src="https://video.twimg.com/ext_tw_video/1737530710729330688/pu/vid/avc1/1280x720/fWVkNs4Jl_dHxZvW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1737530710729330688/pu/img/9IKKJH3BsQMy71Hk.jpg"></video>]]></description>
-            <pubDate>Wed, 20 Dec 2023 17:58:48 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1737533018989039741</guid>
-            <link>https://twitter.com/GoogleAI/status/1737533018989039741</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Check out our researchers’ contributions to Ultra HDR, a format allowing Pixel devices to capture more lifelike images. It provides tonemapping into ...]]></title>
-            <description><![CDATA[Check out our researchers’ contributions to Ultra HDR, a format allowing Pixel devices to capture more lifelike images. It provides tonemapping into a wider range of colors &amp; brightness/contrast, enabled by the Actua &amp; Super Actua HDR-enabled displays on the Pixel &amp; Pixel 8 Pro.<br><img style="" src="https://pbs.twimg.com/media/GBzuML7boAEcLux?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 20 Dec 2023 17:29:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1737525571096387803</guid>
-            <link>https://twitter.com/GoogleAI/status/1737525571096387803</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The HausaNLP Research Group in Nigeria uses Google Colab to build next-generation datasets for Hausa & other low-resource languages. Their goal is to ...]]></title>
-            <description><![CDATA[The HausaNLP Research Group in Nigeria uses Google Colab to build next-generation datasets for Hausa &amp; other low-resource languages. Their goal is to increase the representation of the 300+ languages spoken in Nigeria in AI training datasets. Watch more →https://goo.gle/3NArT09<br><video src="https://video.twimg.com/tweet_video/GBzpROgboAABz-4.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GBzpROgboAABz-4.jpg"></video>]]></description>
-            <pubDate>Wed, 20 Dec 2023 17:09:29 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1737520608601415813</guid>
-            <link>https://twitter.com/GoogleAI/status/1737520608601415813</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Introducing VideoPoet, a large language model for zero-shot video generation that produces a range of large & smooth motions while preserving objects...]]></title>
@@ -302,6 +254,54 @@
             <pubDate>Wed, 13 Dec 2023 20:07:12 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735028616453406901</guid>
             <link>https://twitter.com/GoogleAI/status/1735028616453406901</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Adaptation methods (e.g., Adapter and LoRA) can finetune LMs with minimal parameter updates, but their inference remains expensive. At 3:15pm today dr...]]></title>
+            <description><![CDATA[Adaptation methods (e.g., Adapter and LoRA) can finetune LMs with minimal parameter updates, but their inference remains expensive. At 3:15pm today drop by our #NeurIPS2023 booth to learn about Conditional Adapters, which make LMs faster to use and apply across modalities!<br><img style="" src="https://pbs.twimg.com/media/GBP-34gWcAEJ9VU?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 18:57:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735011003123880212</guid>
+            <link>https://twitter.com/GoogleAI/status/1735011003123880212</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Adversarial Nibbler Challenge is a prompt hacking competition for implicit adversarial prompts with the goal of improving generative text-to-image...]]></title>
+            <description><![CDATA[The Adversarial Nibbler Challenge is a prompt hacking competition for implicit adversarial prompts with the goal of improving generative text-to-image model safety one bite at a time. At 12:45pm today, visit the #NeurIPS2023 Google booth where @laroyo will talk all about it!]]></description>
+            <pubDate>Wed, 13 Dec 2023 17:06:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734983098545103182</guid>
+            <link>https://twitter.com/GoogleAI/status/1734983098545103182</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Join us at the #NeurIPS2023 Google booth today at 12:45pm when Erin Drake Kajioka & Michal Todorovic will host a demo of resonator, an experimental ga...]]></title>
+            <description><![CDATA[Join us at the #NeurIPS2023 Google booth today at 12:45pm when Erin Drake Kajioka &amp; Michal Todorovic will host a demo of resonator, an experimental game-based interface for exploring &amp; discovering music through 3D visualizations of a music understanding model embedding.<br><video src="https://video.twimg.com/ext_tw_video/1734978793373130752/pu/vid/avc1/1080x720/aZXDV1Basi4ENFVO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1734978793373130752/pu/img/2UxvcDfMjaljiWo-.jpg"></video>]]></description>
+            <pubDate>Wed, 13 Dec 2023 16:51:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1734979404403560506</guid>
+            <link>https://twitter.com/GoogleAI/status/1734979404403560506</link>
             
             
             
