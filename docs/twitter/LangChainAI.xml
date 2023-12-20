@@ -24,56 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 20 Dec 2023 19:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 17:38:36 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Which LLMs are best at using tools? OpenAI > Claude > Mixtral > Mistral Which others ones should we benchmark?]]></title>
-            <description><![CDATA[Which LLMs are best at using tools?<br><br>OpenAI &gt; Claude &gt; Mixtral &gt; Mistral<br><br>Which others ones should we benchmark?<br><img style="" src="https://pbs.twimg.com/media/GBz1Bh1boAAY6dF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>LangChain: ⚙️ Agents are the “killer” LLM app, but building and evaluating agents is hard. <br><br>A huge part of agents is tool use, but there aren't enough open-source tool use benchmarks out there. <br><br>Today, we are excited to release four new test environments for benchmarking LLMs’ ability to… https://twitter.com/i/web/status/1737515077807620499<br><br><img style="" src="https://pbs.twimg.com/media/GBzhlIhbYAAC6fq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 20 Dec 2023 17:59:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737533098546573817</guid>
-            <link>https://twitter.com/LangChainAI/status/1737533098546573817</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤖✉️ Anthropic Messages Use Anthropic’s new beta Messages API and Claude 2.1 with the new @LangChainAI x @AnthropicAI packages in Python and JS! ...]]></title>
-            <description><![CDATA[🤖✉️ Anthropic Messages<br><br>Use Anthropic’s new beta Messages API and Claude 2.1 with the new&nbsp;@LangChainAI x @AnthropicAI  packages in Python and JS! With better support for processing your Chat Messages in the correct format, give ChatAnthropicMessages a go!… https://twitter.com/i/web/status/1737531991237828882]]></description>
-            <pubDate>Wed, 20 Dec 2023 17:54:43 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737531991237828882</guid>
-            <link>https://twitter.com/LangChainAI/status/1737531991237828882</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Harrison Chase: My favorite benchmark here is the "Multiverse Math" dataset ⚔️Mistral is close to private models ⏬Private Models have low scores...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>My favorite benchmark here is the "Multiverse Math" dataset<br><br>⚔️Mistral is close to private models<br>⏬Private Models have low scores<br>📉More recent private models perform worse<br><br>Why?<br><br>Hypothesis: better models bias more towards internal knowledge, rather than using tools<br><br>🧵<br><img style="" src="https://pbs.twimg.com/media/GBzykoVakAExEpM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>LangChain: ⚙️ Agents are the “killer” LLM app, but building and evaluating agents is hard. <br><br>A huge part of agents is tool use, but there aren't enough open-source tool use benchmarks out there. <br><br>Today, we are excited to release four new test environments for benchmarking LLMs’ ability to… https://twitter.com/i/web/status/1737515077807620499<br><br><img style="" src="https://pbs.twimg.com/media/GBzhlIhbYAAC6fq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 20 Dec 2023 17:50:37 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1737530959963333043</guid>
-            <link>https://twitter.com/hwchase17/status/1737530959963333043</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT WFH: In April, @swyx pointed out that agents are the next big AI app, but how good are LLM agents? @veryboldbagel designed 4 benchmarks for LLM too...]]></title>
@@ -284,11 +236,59 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Mo Gharabat 🦇: OpenCopilot is at 3.5K GitHub stars! ⭐⭐ https://github.com/openchatai/OpenCopilot It's a way to let your product's users chat w...]]></title>
+            <description><![CDATA[RT Mo Gharabat 🦇<br>OpenCopilot is at 3.5K GitHub stars! ⭐⭐<br><br>https://github.com/openchatai/OpenCopilot<br><br>It's a way to let your product's users chat with your product functionality and execute stuff by text, a kind of custom AI copilot.<br><br>&amp; We released a lot of cool things⬇️<br><br>(Powered by @LangChainAI @hwchase17)]]></description>
+            <pubDate>Wed, 20 Dec 2023 01:52:49 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/ikbenbasha/status/1737289921050677464</guid>
+            <link>https://twitter.com/ikbenbasha/status/1737289921050677464</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Tim Carambat: The holiday crunch has been kind to us 🎄 https://github.com/Mintplex-Labs/anything-llm]]></title>
+            <description><![CDATA[RT Tim Carambat<br>The holiday crunch has been kind to us 🎄<br>https://github.com/Mintplex-Labs/anything-llm<br><img style="" src="https://pbs.twimg.com/media/GBwMv03bwAAHfoO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 20 Dec 2023 01:04:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/tcarambat/status/1737277688677826849</guid>
+            <link>https://twitter.com/tcarambat/status/1737277688677826849</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Sheyzi Einstein: Re @ibrahimraimi_ introduced me to @LangChainAI yesterday night... I haven't slept The possibilities are just crazy, I had to star...]]></title>
             <description><![CDATA[RT Sheyzi Einstein<br>Re @ibrahimraimi_ introduced me to @LangChainAI  yesterday night... I haven't slept <br><br>The possibilities are just crazy, I had to start learning it<br><img style="" src="https://pbs.twimg.com/media/GBwMvc4WEAAGkiG?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GBwMzYxXUAAkV0d?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 20 Dec 2023 01:04:03 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/sheyzi/status/1737277650744316397</guid>
             <link>https://twitter.com/sheyzi/status/1737277650744316397</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Gram Liu: A fun little side project I built recently with GPT-4V on top of @tldraw and @LangChainAI 🎨 Web Spinner converts low-fidelity mockups ...]]></title>
+            <description><![CDATA[RT Gram Liu<br>A fun little side project I built recently with GPT-4V on top of @tldraw and @LangChainAI 🎨<br><br>Web Spinner converts low-fidelity mockups into PRs with modular React components and @nextjs App Router pages. It also themes the generated code with your other page designs for cohesion<br><video src="https://video.twimg.com/ext_tw_video/1737263057477505024/pu/vid/avc1/1280x720/79hUGvfhHqmHcjYS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1737263057477505024/pu/img/rLPlbp3Z-O6QBBDq.jpg"></video>]]></description>
+            <pubDate>Wed, 20 Dec 2023 00:47:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/gramliu/status/1737273439608775088</guid>
+            <link>https://twitter.com/gramliu/status/1737273439608775088</link>
             
             
             
