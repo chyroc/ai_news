@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Dec 2023 22:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 20:55:44 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT robot3yes: Just pulled in Mistral support for Agent IX. IX generates component interfaces using JSON schemas. It's quick and easy to integrate new ...]]></title>
-            <description><![CDATA[RT robot3yes<br>Just pulled in Mistral support for Agent IX.<br><br>IX generates component interfaces using JSON schemas. It's quick and easy to integrate new components.<br><br>Now I just need API access to test it. 😅<br>https://github.com/kreneskyp/ix/pull/361<div class="rsshub-quote"><br><br>LangChain: Ⓜ️ MistralAI API<br><br>We’re excited to announce the new langchain_mistralai package today which lets you use Mistral’s new hosted API in LangChain!<br><br>Mistral’s Open Source models have impressed us along with many others, and we’re excited about making it even easier to get started… https://twitter.com/i/web/status/1737890996204253238<br><br><img style="" src="https://pbs.twimg.com/media/GB46E8NagAINOq2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Thu, 21 Dec 2023 21:13:42 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/kreneskyp/status/1737944456220054009</guid>
-            <link>https://twitter.com/kreneskyp/status/1737944456220054009</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Michael Roy: Nice to see @OLLAMA in the list!]]></title>
-            <description><![CDATA[RT Michael Roy<br>Nice to see @OLLAMA in the list!<div class="rsshub-quote"><br><br>LangChain: 🦜👑LangChain State of AI 2023<br><br>What are people building? Which LLMs are they using? Which vectorstores are they using? How are they testing?<br><br>📊We turn to anonymized usage stats from LangSmith to answer these questions with real data.<br><br>Blog: https://blog.langchain.dev/langchain-state-of-ai-2023/<br><br>Recap 🧵<br><br><img style="" src="https://pbs.twimg.com/media/GB4o82CaAAARx3H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GB4o9yBakAABU6f?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GB4o-R-b0AAG2rq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GB4pAnCaIAAkT3W?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Thu, 21 Dec 2023 19:40:01 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/mikeroySoft/status/1737920879642968231</guid>
-            <link>https://twitter.com/mikeroySoft/status/1737920879642968231</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Crew AI is a multi-agent framework built on top of LangChain We're publishing a blog from its creator @joaomdmoura explaining how it works Check it ou...]]></title>
@@ -97,22 +65,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 21 Dec 2023 19:30:11 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/hwchase17/status/1737918407264338424</guid>
             <link>https://twitter.com/hwchase17/status/1737918407264338424</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Replit ⠕: Today we're spotlighting CrewAI, a modular library for orchestrating AI agents, built with @LangChainAI. Check out the Replit templates ...]]></title>
-            <description><![CDATA[RT Replit ⠕<br>Today we're spotlighting CrewAI, a modular library for orchestrating AI agents, built with @LangChainAI. <br><br>Check out the Replit templates and create practical applications, from trip planning to stock analysis: https://replit.com/@crewAI]]></description>
-            <pubDate>Thu, 21 Dec 2023 18:46:46 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Replit/status/1737907480712425607</guid>
-            <link>https://twitter.com/Replit/status/1737907480712425607</link>
             
             
             
@@ -335,6 +287,54 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <title><![CDATA[Re Most used LLM Providers 1. @OpenAI 2. Azure Open AI 3. @AnthropicAI 4. @huggingface 5. Vertex AI 6. @thefireworksai 7. @OLLAMA 8. AWS Bedrock]]></title>
             <description><![CDATA[Re Most used LLM Providers<br><br>1. @OpenAI <br>2. Azure Open AI<br>3. @AnthropicAI <br>4. @huggingface <br>5. Vertex AI<br>6. @thefireworksai <br>7. @OLLAMA <br>8. AWS Bedrock<br><img style="" src="https://pbs.twimg.com/media/GB4qSkUacAAbS8S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 21 Dec 2023 17:14:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
+            <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re LangChain Expression Language Usage of LangChain Expression Language has been on the rise, as its emerged as an easy way to really compose chains t...]]></title>
+            <description><![CDATA[Re LangChain Expression Language<br><br>Usage of LangChain Expression Language has been on the rise, as its emerged as an easy way to really compose chains together<br><br>https://python.langchain.com/docs/expression_language/?ref=blog.langchain.dev<br><img style="" src="https://pbs.twimg.com/media/GB4p7tAbgAAKVIY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Dec 2023 17:14:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
+            <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re 🏗️What are people building? We see that retrieval is emerging as a dominant trend, with 42% of complex traces involving a retriever. By compari...]]></title>
+            <description><![CDATA[Re 🏗️What are people building?<br><br>We see that retrieval is emerging as a dominant trend, with 42% of complex traces involving a retriever. By comparison, only 17% involve an agent<br><br>We also see that 15% of our usage comes from people NOT using LangChain<br><img style="" src="https://pbs.twimg.com/media/GB4pr3qbUAAWPfv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 21 Dec 2023 17:14:16 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
+            <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re All stats are taken from LangSmith, from 2023-07-02 to 2023-12-11 http://smith.langchain.com We see people using it for everything from debugging, ...]]></title>
+            <description><![CDATA[Re All stats are taken from LangSmith, from 2023-07-02 to 2023-12-11<br><br>http://smith.langchain.com<br><br>We see people using it for everything from debugging, to production monitoring, to testing &amp; evaluation]]></description>
+            <pubDate>Thu, 21 Dec 2023 17:14:16 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
             <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
             
