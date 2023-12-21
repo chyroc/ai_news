@@ -21,24 +21,8 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Thu, 21 Dec 2023 00:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 22:11:27 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Magic Eraser now uses gen AI to fill in detail when users remove unwanted objects from photos. Google Research worked on the MaskGIT generative image ...]]></title>
-            <description><![CDATA[Magic Eraser now uses gen AI to fill in detail when users remove unwanted objects from photos. Google Research worked on the MaskGIT generative image transformer for inpainting, and improved segmentation to include shadows and objects attached to people.<br><video src="https://video.twimg.com/tweet_video/GB1A_wtaIAADGRV.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GB1A_wtaIAADGRV.jpg"></video>]]></description>
-            <pubDate>Wed, 20 Dec 2023 23:35:08 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1737617660060606962</guid>
-            <link>https://twitter.com/GoogleAI/status/1737617660060606962</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Today, hear from Tania Bedrax-Weiss, Sr. Director, Research Engineering at Google! She and her team explore how to push the state of the art in langua...]]></title>
@@ -313,11 +297,11 @@
         </item>
         
         <item>
-            <title><![CDATA[RT Google for Developers: 📣🛠️ Calling all devs, Gemini Pro is now available for you to build with. Get started with Google AI Studio, the faste...]]></title>
-            <description><![CDATA[RT Google for Developers<br>📣🛠️ Calling all devs, Gemini Pro is now available for you to build with.<br><br>Get started with Google AI Studio, the fastest way to build with Gemini. ➡️ http://goo.gle/gemini-x<br><br>#BuildWithGemini<br><img style="" src="https://pbs.twimg.com/media/GBPKK2zXIAAapLe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 13 Dec 2023 15:05:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/googledevs/status/1734952573973471630</guid>
-            <link>https://twitter.com/googledevs/status/1734952573973471630</link>
+            <title><![CDATA[Interested in learning more about Med-PaLM M, our generalist biomedical AI system? Drop by the #NeurIPS2023 Google booth at 3:15pm today where Tao Tu ...]]></title>
+            <description><![CDATA[Interested in learning more about Med-PaLM M, our generalist biomedical AI system? Drop by the #NeurIPS2023 Google booth at 3:15pm today where Tao Tu will give discuss Med-PaLM M and MultiMedBench, a new multimodal biomedical benchmark.<br><video src="https://video.twimg.com/tweet_video/GBQPROCW4AAtkvP.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GBQPROCW4AAtkvP.jpg"></video>]]></description>
+            <pubDate>Wed, 13 Dec 2023 20:07:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735028616453406901</guid>
+            <link>https://twitter.com/GoogleAI/status/1735028616453406901</link>
             
             
             
@@ -329,11 +313,27 @@
         </item>
         
         <item>
-            <title><![CDATA[RT Google Public Policy: In Dialogues, @Google's James Manyika, @Kent_Walker, @demishassabis, and experts from a variety of backgrounds explore some o...]]></title>
-            <description><![CDATA[RT Google Public Policy<br>In Dialogues, @Google's James Manyika, @Kent_Walker, @demishassabis, and experts from a variety of backgrounds explore some of the biggest unanswered questions about AI, society, and what comes next.<br><br>Explore the digital magazine here.  https://www.theatlantic.com/sponsored/google-2023/dialogues/3841/]]></description>
-            <pubDate>Wed, 15 Nov 2023 19:07:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/googlepubpolicy/status/1724866616582934720</guid>
-            <link>https://twitter.com/googlepubpolicy/status/1724866616582934720</link>
+            <title><![CDATA[RT Google Cloud: Introducing new capabilities across our #AI stack in support of Gemini, our most capable and general model yet! Take a look and let G...]]></title>
+            <description><![CDATA[RT Google Cloud<br>Introducing new capabilities across our #AI stack in support of Gemini, our most capable and general model yet!<br><br>Take a look and let Gemini guide your next transformation ↓ https://cloud.google.com/blog/products/ai-machine-learning/bringing-gemini-to-organizations-everywhere?utm_source=twitter&amp;utm_medium=unpaidsoc&amp;utm_campaign=fy23q4-googlecloud-ai_feed-no-brand-global&amp;utm_content=-&amp;utm_term=-ariel]]></description>
+            <pubDate>Wed, 13 Dec 2023 15:25:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/googlecloud/status/1734957735475564786</guid>
+            <link>https://twitter.com/googlecloud/status/1734957735475564786</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Google for Developers: 📣🛠️ Calling all devs, Gemini Pro is now available for you to build with. Get started with Google AI Studio, the faste...]]></title>
+            <description><![CDATA[RT Google for Developers<br>📣🛠️ Calling all devs, Gemini Pro is now available for you to build with.<br><br>Get started with Google AI Studio, the fastest way to build with Gemini. ➡️ http://goo.gle/gemini-x<br><br>#BuildWithGemini<br><img style="" src="https://pbs.twimg.com/media/GBPKK2zXIAAapLe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 13 Dec 2023 15:05:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/googledevs/status/1734952573973471630</guid>
+            <link>https://twitter.com/googledevs/status/1734952573973471630</link>
             
             
             
