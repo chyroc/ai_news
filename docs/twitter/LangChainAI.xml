@@ -24,8 +24,56 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 22 Dec 2023 13:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 16:03:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Kristian Freeman: Ooh, neat -- @obsdmd document loader is in JS @LangChainAI -- loads Markdown and even parses YAML frontmatter 🖼️ Quick script...]]></title>
+            <description><![CDATA[RT Kristian Freeman<br>Ooh, neat -- @obsdmd document loader is in JS @LangChainAI -- loads Markdown and even parses YAML frontmatter<br><br>🖼️ Quick script to load a local vault into Langchain documents. Next is plugging the docs into @Cloudflare Vectorize and querying via an LLM!<br><br>https://api.js.langchain.com/classes/langchain_document_loaders_fs_obsidian.ObsidianLoader.html<br><img style="" src="https://pbs.twimg.com/media/GB9nf5zXgAAx30w?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Dec 2023 15:37:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/kristianf_/status/1738222337554821227</guid>
+            <link>https://twitter.com/kristianf_/status/1738222337554821227</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: Leverage @LangChainAI's create_pandas_dataframe_agent() to build an AI assistant for effortless EDA, analysis & data visualization. N...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>Leverage @LangChainAI's create_pandas_dataframe_agent() to build an AI assistant for effortless EDA, analysis &amp; data visualization. <br>Nagesh Mashette guides through querying dataframes in NL for efficient hypothesis testing &amp; insights!  https://medium.com/@nageshmashette32/automate-data-analysis-with-langchain-3c0d97dec356<br>#LLMs #NLP #DataViz]]></description>
+            <pubDate>Fri, 22 Dec 2023 15:03:49 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1738213761708622200</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1738213761708622200</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Arsalan Ali: Just explored the entire Gemini API. For now it seems alright. Created a simplified version of the official notebook and used @LangCha...]]></title>
+            <description><![CDATA[RT Arsalan Ali<br>Just explored the entire Gemini API.<br>For now it seems alright. <br><br>Created a simplified version of the official notebook and used @LangChainAI to mostly interact with the Gemini models.<br><br>Notebook:<br>https://lnkd.in/djeTk-QM<br><br>#LLM  #GeminiAI #AI #multimodalAI #Google  #langchain<br><img style="" src="https://pbs.twimg.com/media/GB9M3LpbUAAliNE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Dec 2023 13:40:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/arslanchaos/status/1738192880974610814</guid>
+            <link>https://twitter.com/arslanchaos/status/1738192880974610814</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT robot3yes: Just pulled in Mistral support for Agent IX. IX generates component interfaces using JSON schemas. It's quick and easy to integrate new ...]]></title>
@@ -287,54 +335,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <title><![CDATA[Re Top Embedding Providers 1. @OpenAI 2. @huggingface 3. Vertex AI 4. Azure 5. @cohere 6. GPT4All 7. Amazon bedrock 8. @OLLAMA]]></title>
             <description><![CDATA[Re Top Embedding Providers<br><br>1. @OpenAI <br>2. @huggingface <br>3. Vertex AI<br>4. Azure<br>5. @cohere <br>6. GPT4All<br>7. Amazon bedrock<br>8. @OLLAMA<br><img style="" src="https://pbs.twimg.com/media/GB4zGzOa8AA4J3N?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 21 Dec 2023 17:14:19 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
-            <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Most Used Vectorstores Dominated by local vectorstores: 1. @trychroma 2. FAISS 4. @qdrant_engine 5. DocArray Vector-native databases next most popu...]]></title>
-            <description><![CDATA[Re Most Used Vectorstores<br><br>Dominated by local vectorstores:<br>1. @trychroma<br>2. FAISS<br>4. @qdrant_engine<br>5. DocArray<br><br>Vector-native databases next most popular<br>3. @pinecone <br>6. @weaviate_io <br><br>Other Databases<br>7. PGVector<br>8. @supabase <br>9. @neo4j <br>10. @Redisinc <br>11. Azure<br>12. @AstraDB<br><img style="" src="https://pbs.twimg.com/media/GB4qyCFbsAAI8Oy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 21 Dec 2023 17:14:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
-            <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Most used OSS LLM providers 1. @huggingface 2. @thefireworksai 3. @OLLAMA 4. LlamaCpp 5. @replicate 6. GPT4All 7. @togethercompute 8. @anyscalecomp...]]></title>
-            <description><![CDATA[Re Most used OSS LLM providers<br><br>1. @huggingface <br>2. @thefireworksai <br>3. @OLLAMA <br>4. LlamaCpp<br>5. @replicate <br>6. GPT4All<br>7. @togethercompute <br>8. @anyscalecompute<br><img style="" src="https://pbs.twimg.com/media/GB4qnqnbEAAZ6g0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 21 Dec 2023 17:14:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
-            <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Most used LLM Providers 1. @OpenAI 2. Azure Open AI 3. @AnthropicAI 4. @huggingface 5. Vertex AI 6. @thefireworksai 7. @OLLAMA 8. AWS Bedrock]]></title>
-            <description><![CDATA[Re Most used LLM Providers<br><br>1. @OpenAI <br>2. Azure Open AI<br>3. @AnthropicAI <br>4. @huggingface <br>5. Vertex AI<br>6. @thefireworksai <br>7. @OLLAMA <br>8. AWS Bedrock<br><img style="" src="https://pbs.twimg.com/media/GB4qSkUacAAbS8S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 21 Dec 2023 17:14:17 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737884196465782901</guid>
             <link>https://twitter.com/LangChainAI/status/1737884196465782901</link>
             
