@@ -21,8 +21,24 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Fri, 22 Dec 2023 18:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 20:12:54 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[2023 has been an exciting year for research across Google. Today @JeffDean, @demishassabis, and James Manyika highlight some of this year's exciting r...]]></title>
+            <description><![CDATA[2023 has been an exciting year for research across Google. Today @JeffDean, @demishassabis, and James Manyika highlight some of this year's exciting research across #GenerativeAI, language models, quantum, health, #ResponsibleAI, and more! Check it out at https://goo.gle/3TBsyCp<br><img style="" src="https://pbs.twimg.com/media/GB-TaVUWYAAxWGx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Dec 2023 18:50:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1738270815676674467</guid>
+            <link>https://twitter.com/GoogleAI/status/1738270815676674467</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Magic Eraser now uses gen AI to fill in detail when users remove unwanted objects from photos. Google Research worked on the MaskGIT generative image ...]]></title>
@@ -286,38 +302,6 @@
             <pubDate>Thu, 14 Dec 2023 18:21:34 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735364422187794724</guid>
             <link>https://twitter.com/GoogleAI/status/1735364422187794724</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Stop by the #NeurIPS2023 Google booth today at 4:15pm when Ryan Knuffman & Milica Cvetkovic will demostrate Multimodal RAG, a question answering syste...]]></title>
-            <description><![CDATA[Stop by the #NeurIPS2023 Google booth today at 4:15pm when Ryan Knuffman &amp; Milica Cvetkovic will demostrate Multimodal RAG, a question answering system powered by Med-PaLM M and grounded in multimodal retrieval-augmented generation that is geared towards patient inquiries.]]></description>
-            <pubDate>Wed, 13 Dec 2023 21:23:43 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735047873367032049</guid>
-            <link>https://twitter.com/GoogleAI/status/1735047873367032049</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[At 4:15pm today @TheGradient will be at the #NeurIPS2023 Google booth to talk about the differences between Sharpness-Aware Minimization (that improve...]]></title>
-            <description><![CDATA[At 4:15pm today @TheGradient will be at the #NeurIPS2023 Google booth to talk about the differences between Sharpness-Aware Minimization (that improves generalization) and similar methods (that don't), which can be explained by the structure of the Hessian of the loss function.<br><img style="" src="https://pbs.twimg.com/media/GBQffQnWoAI2B93?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 13 Dec 2023 21:18:45 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735046624135553351</guid>
-            <link>https://twitter.com/GoogleAI/status/1735046624135553351</link>
             
             
             
