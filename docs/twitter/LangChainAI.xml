@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 23 Dec 2023 17:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 15:34:16 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[💬Creating ChatGPT with Your Own Data with Supabase in JavaScript This fantastic article from the community walks through how to create a ChatGPT ex...]]></title>
-            <description><![CDATA[💬Creating ChatGPT with Your Own Data with Supabase in JavaScript<br><br>This fantastic article from the community walks through how to create a ChatGPT experience over your data using LangChain and @supabase <br><br>All in JavaScript!<br><br>Check it out here: https://dev.to/surajondev/using-chatgpt-with-your-own-data-using-langchain-and-supabase-4k6c<br><img style="" src="https://pbs.twimg.com/media/GCDBfRAbgAALpXh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 23 Dec 2023 16:47:42 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1738602288955220067</guid>
-            <link>https://twitter.com/LangChainAI/status/1738602288955220067</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Ollama: Ollama and @LangChainAI 🦜works well together! In previous posts, @Hacubu from LangChain has built an example client-side app (all local)...]]></title>
@@ -273,6 +257,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 21 Dec 2023 19:38:58 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737920616995651773</guid>
             <link>https://twitter.com/LangChainAI/status/1737920616995651773</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: Crew AI is a multi-agent framework from @joaomdmoura that is built on top of LangChain 👀Check it out]]></title>
+            <description><![CDATA[RT Harrison Chase<br>Crew AI is a multi-agent framework from @joaomdmoura that is built on top of LangChain<br><br>👀Check it out<div class="rsshub-quote"><br><br>João Moura: AI Agents on the cloud plan my next trip! 🤖☁️✈️<br>I had a lot of fun putting together this post with @Replit and @hwchase17  from @LangChainAI<br><br>You can now try this Tricrew of AI Agents yourself (and two other crews) directly on Replit: https://blog.replit.com/crew-ai<br><br><video src="https://video.twimg.com/ext_tw_video/1737914205213241344/pu/vid/avc1/1662x1080/gBAPsmbRg4KuFM36.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1737914205213241344/pu/img/LSMMTa1h5t_1WxK2.jpg"></video></div>]]></description>
+            <pubDate>Thu, 21 Dec 2023 19:30:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1737918407264338424</guid>
+            <link>https://twitter.com/hwchase17/status/1737918407264338424</link>
             
             
             
