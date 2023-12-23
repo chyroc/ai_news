@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 23 Dec 2023 18:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 17:34:23 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[♊️Gemini API with LangChain @arslanchaos put together an AWESOME notebook showing how to use the Google Gemini API with LangChain. Covers: 💬Text ...]]></title>
-            <description><![CDATA[♊️Gemini API with LangChain<br><br>@arslanchaos put together an AWESOME notebook showing how to use the Google Gemini API with LangChain. Covers:<br><br>💬Text Generation<br>🖼️Image Understanding<br>🛟Safety Features<br>🪛Streaming and batch support<br><br>Check it out here: https://github.com/ArslanKAS/LangChain-for-LLM-App-Development/blob/master/GeminiPro_with_LangChain.ipynb<br><img style="" src="https://pbs.twimg.com/media/GCDCh99bQAAZdyS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GCDCh9_aYAASMXT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GCDCh99akAAa8QP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GCDCh-AbgAADjUa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 23 Dec 2023 17:52:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1738618471443746926</guid>
-            <link>https://twitter.com/LangChainAI/status/1738618471443746926</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[💬Creating ChatGPT with Your Own Data with Supabase in JavaScript This fantastic article from the community walks through how to create a ChatGPT ex...]]></title>
@@ -273,6 +257,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 21 Dec 2023 19:40:01 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/mikeroySoft/status/1737920879642968231</guid>
             <link>https://twitter.com/mikeroySoft/status/1737920879642968231</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Crew AI is a multi-agent framework built on top of LangChain We're publishing a blog from its creator @joaomdmoura explaining how it works Check it ou...]]></title>
+            <description><![CDATA[Crew AI is a multi-agent framework built on top of LangChain<br><br>We're publishing a blog from its creator @joaomdmoura explaining how it works<br><br>Check it out here - and go build some awesome stuff with it!<br><br>Blog: https://blog.langchain.dev/crewai-unleashed-future-of-ai-agent-teams/<br><img style="" src="https://pbs.twimg.com/media/GB5VlPFagAAocal?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>João Moura: AI Agents on the cloud plan my next trip! 🤖☁️✈️<br>I had a lot of fun putting together this post with @Replit and @hwchase17  from @LangChainAI<br><br>You can now try this Tricrew of AI Agents yourself (and two other crews) directly on Replit: https://blog.replit.com/crew-ai<br><br><video src="https://video.twimg.com/ext_tw_video/1737914205213241344/pu/vid/avc1/1662x1080/gBAPsmbRg4KuFM36.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1737914205213241344/pu/img/LSMMTa1h5t_1WxK2.jpg"></video></div>]]></description>
+            <pubDate>Thu, 21 Dec 2023 19:38:58 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737920616995651773</guid>
+            <link>https://twitter.com/LangChainAI/status/1737920616995651773</link>
             
             
             
