@@ -24,8 +24,56 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 24 Dec 2023 16:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 18:48:02 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: Happy holidays to the @LangChainAI 🦜🔗 community! As we wind down the year, I’d like to thank the following folks for contribution...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>Happy holidays to the @LangChainAI 🦜🔗 community!<br><br>As we wind down the year, I’d like to thank the following folks for contributions to the JS/TS repo the last two weeks during big structural changes 🛠️!<br><br>♊️ @alexalx13 for adding @Google Gemini support via AI studio<br><br>(1/10)<br><video src="https://video.twimg.com/tweet_video/GCISS0uXMAAYUm7.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GCISS0uXMAAYUm7.jpg"></video>]]></description>
+            <pubDate>Sun, 24 Dec 2023 17:18:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1738972531774648481</guid>
+            <link>https://twitter.com/Hacubu/status/1738972531774648481</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🪩RAG Tutorial from Oracle Generative AI Chatbot using LLaMA-2, @qdrant_engine, RAG, LangChain & @streamlit Really detailed blog post walking throug...]]></title>
+            <description><![CDATA[🪩RAG Tutorial from Oracle<br><br>Generative AI Chatbot using LLaMA-2, @qdrant_engine, RAG, LangChain &amp; @streamlit <br><br>Really detailed blog post walking through ingestion, setting up a chain, and making it look great in the UI<br><br>Blog: https://blogs.oracle.com/ai-and-datascience/post/ai-chatbot-llama2-qdrant-rag-langchain-streamlit<br><img style="" src="https://pbs.twimg.com/media/GCFZMPRaIAAPTYl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 24 Dec 2023 16:50:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1738965256544669810</guid>
+            <link>https://twitter.com/LangChainAI/status/1738965256544669810</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Carly Richmond: I had a lot of fun generating Christmas songs using @LangChainAI, #elasticsearch and LLMs. Check out how here: https://discuss.elas...]]></title>
+            <description><![CDATA[RT Carly Richmond<br>I had a lot of fun generating Christmas songs using @LangChainAI, #elasticsearch and LLMs. Check out how here:<br><br>https://discuss.elastic.co/t/dec-24th-2023-en-generating-the-ultimate-christmas-song-with-elasticsearch-and-llms/347313<br><br>If you've not been following the Elastic advent calendar (😲) check it out here:<br><br>https://discuss.elastic.co/c/elastic-community-ecosystem/advent-calendar/61<br><br>Happy holidays everyone! 🎄🥳<div class="rsshub-quote"><br><br>David Pilato 🇺🇦🇪🇺🇫🇷: 📣 @CarlyLRichmond wrote 'Generating the ultimate Christmas song with #Elasticsearch and LLMs' for the @elastic #AdventCalendar ▶️ https://discuss.elastic.co/t/347313. 🎅🏼🎄🎁<br><br><img style="" src="https://pbs.twimg.com/media/GAQpU4KXYAAdOez?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Sun, 24 Dec 2023 09:42:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/CarlyLRichmond/status/1738857640862597573</guid>
+            <link>https://twitter.com/CarlyLRichmond/status/1738857640862597573</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re @higherselfai @togethercompute Yes!]]></title>
@@ -204,38 +252,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[RT Kristian Freeman: Ooh, neat -- @obsdmd document loader is in JS @LangChainAI -- loads Markdown and even parses YAML frontmatter 🖼️ Quick script...]]></title>
-            <description><![CDATA[RT Kristian Freeman<br>Ooh, neat -- @obsdmd document loader is in JS @LangChainAI -- loads Markdown and even parses YAML frontmatter<br><br>🖼️ Quick script to load a local vault into Langchain documents. Next is plugging the docs into @Cloudflare Vectorize and querying via an LLM!<br><br>https://api.js.langchain.com/classes/langchain_document_loaders_fs_obsidian.ObsidianLoader.html<br><img style="" src="https://pbs.twimg.com/media/GB9nf5zXgAAx30w?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 22 Dec 2023 15:37:54 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/kristianf_/status/1738222337554821227</guid>
-            <link>https://twitter.com/kristianf_/status/1738222337554821227</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: Leverage @LangChainAI's create_pandas_dataframe_agent() to build an AI assistant for effortless EDA, analysis & data visualization. N...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>Leverage @LangChainAI's create_pandas_dataframe_agent() to build an AI assistant for effortless EDA, analysis &amp; data visualization. <br>Nagesh Mashette guides through querying dataframes in NL for efficient hypothesis testing &amp; insights!  https://medium.com/@nageshmashette32/automate-data-analysis-with-langchain-3c0d97dec356<br>#LLMs #NLP #DataViz]]></description>
-            <pubDate>Fri, 22 Dec 2023 15:03:49 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1738213761708622200</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1738213761708622200</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Arsalan Ali: Just explored the entire Gemini API. For now it seems alright. Created a simplified version of the official notebook and used @LangCha...]]></title>
             <description><![CDATA[RT Arsalan Ali<br>Just explored the entire Gemini API.<br>For now it seems alright. <br><br>Created a simplified version of the official notebook and used @LangChainAI to mostly interact with the Gemini models.<br><br>Notebook:<br>https://lnkd.in/djeTk-QM<br><br>#LLM  #GeminiAI #AI #multimodalAI #Google  #langchain<br><img style="" src="https://pbs.twimg.com/media/GB9M3LpbUAAliNE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 22 Dec 2023 13:40:51 GMT</pubDate>
@@ -289,22 +305,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 21 Dec 2023 19:21:21 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/joaomdmoura/status/1737916180747129105</guid>
             <link>https://twitter.com/joaomdmoura/status/1737916180747129105</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Replit ⠕: Today we're spotlighting CrewAI, a modular library for orchestrating AI agents, built with @LangChainAI. Check out the Replit templates ...]]></title>
-            <description><![CDATA[RT Replit ⠕<br>Today we're spotlighting CrewAI, a modular library for orchestrating AI agents, built with @LangChainAI. <br><br>Check out the Replit templates and create practical applications, from trip planning to stock analysis: https://replit.com/@crewAI]]></description>
-            <pubDate>Thu, 21 Dec 2023 18:46:46 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Replit/status/1737907480712425607</guid>
-            <link>https://twitter.com/Replit/status/1737907480712425607</link>
             
             
             
