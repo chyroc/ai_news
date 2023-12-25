@@ -24,8 +24,88 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 25 Dec 2023 16:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 18:53:46 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[If you’re looking to connect LLMs to your data… @pjausovec will be going through some of the options we have tmrw!]]></title>
+            <description><![CDATA[If you’re looking to connect LLMs to your data… @pjausovec will be going through some of the options we have tmrw!<div class="rsshub-quote"><br><br>Peter Jausovec: coming up tomorrow - I’ll be looking into RAG and loaders in @LangChainAI <br><br>https://m.youtube.com/watch?v=902RQMRCu1s<br><br><img style="" src="https://pbs.twimg.com/media/GCNjXvlaYAAv4Am?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 25 Dec 2023 18:19:41 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739350216921461055</guid>
+            <link>https://twitter.com/LangChainAI/status/1739350216921461055</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Peter Jausovec: coming up tomorrow - I’ll be looking into RAG and loaders in @LangChainAI https://m.youtube.com/watch?v=902RQMRCu1s]]></title>
+            <description><![CDATA[RT Peter Jausovec<br>coming up tomorrow - I’ll be looking into RAG and loaders in @LangChainAI <br><br>https://m.youtube.com/watch?v=902RQMRCu1s<br><img style="" src="https://pbs.twimg.com/media/GCNjXvlaYAAv4Am?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 25 Dec 2023 17:51:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/pjausovec/status/1739343143722766337</guid>
+            <link>https://twitter.com/pjausovec/status/1739343143722766337</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Ali Madad: Might shuffle Xmas day projects after watching @RLanceMartin's excellent Getting Started with Multi-Modal LLMs @LangChainAI — and start...]]></title>
+            <description><![CDATA[RT Ali Madad<br>Might shuffle Xmas day projects after watching @RLanceMartin's excellent Getting Started with Multi-Modal LLMs @LangChainAI — and start on experiments to tackle a cache of 160+ strategy/trend reports for 2024. https://www.youtube.com/watch?v=28lC4fqukoc]]></description>
+            <pubDate>Mon, 25 Dec 2023 14:20:04 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amadad/status/1739289914980675860</guid>
+            <link>https://twitter.com/amadad/status/1739289914980675860</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: Leveraging LLMs with LangChain for #SupplyChain #Analytics — A Control Tower Powered by GPT Build an automated supply chain control ...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>Leveraging LLMs with LangChain for #SupplyChain #Analytics — A Control Tower Powered by GPT<br>Build an automated supply chain control tower with a @LangChainAI #SQL agent connected to the database of a transportation management system<br>Tutorial by Samir Saci: https://buff.ly/3SGSxrG]]></description>
+            <pubDate>Mon, 25 Dec 2023 11:33:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1739248015695605868</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1739248015695605868</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: Unraveling the magic behind ingenious @LangchainAI's #SQL agent by Luc Nguyen 📚 Gathers schema & context through loops ✍️ Writes...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>Unraveling the magic behind ingenious @LangchainAI's #SQL agent by Luc Nguyen<br>📚 Gathers schema &amp; context through loops<br>✍️ Writes queries to retrieve data<br>🔧 Understand workflow enables customization<br>💡 Looping structure builds intelligence<br>Dive in: 👉 https://buff.ly/48xP1Vo]]></description>
+            <pubDate>Mon, 25 Dec 2023 11:08:10 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1739241618920575265</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1739241618920575265</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: Happy holidays to the @LangChainAI 🦜🔗 community! As we wind down the year, I’d like to thank the following folks for contribution...]]></title>
@@ -236,91 +316,11 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[Good question We are running chat-langchain in production: https://github.com/langchain-ai/chat-langchain Includes an incremental ingest pipeline run ...]]></title>
-            <description><![CDATA[Good question <br><br>We are running chat-langchain in production: https://github.com/langchain-ai/chat-langchain<br><br>Includes an incremental ingest pipeline run daily, citing of source quotes, returning retrieved documents, query transformation, chat memory, and streaming<div class="rsshub-quote"><br><br>Martin Høst Normark: What are some great productized examples of RAG? @llama_index and @LangChainAI helps with the technical implementation, but there's a lot left on the table to onboard into a product, ingest knowledge, apply potentially different RAG strategies for knowledge bases etc.<br></div>]]></description>
-            <pubDate>Fri, 22 Dec 2023 16:06:35 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1738229556010758424</guid>
-            <link>https://twitter.com/LangChainAI/status/1738229556010758424</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Arsalan Ali: Just explored the entire Gemini API. For now it seems alright. Created a simplified version of the official notebook and used @LangCha...]]></title>
-            <description><![CDATA[RT Arsalan Ali<br>Just explored the entire Gemini API.<br>For now it seems alright. <br><br>Created a simplified version of the official notebook and used @LangChainAI to mostly interact with the Gemini models.<br><br>Notebook:<br>https://lnkd.in/djeTk-QM<br><br>#LLM  #GeminiAI #AI #multimodalAI #Google  #langchain<br><img style="" src="https://pbs.twimg.com/media/GB9M3LpbUAAliNE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 22 Dec 2023 13:40:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/arslanchaos/status/1738192880974610814</guid>
-            <link>https://twitter.com/arslanchaos/status/1738192880974610814</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Suraj Vishwakarma🥑: One of my ambitious article is here🚀 The article is a guide on using ChatGPT over your own data. It covers the following ...]]></title>
-            <description><![CDATA[RT Suraj Vishwakarma🥑<br>One of my ambitious article is here🚀<br><br>The article is a guide on using ChatGPT over your own data. It covers the following 👇<br>- Concept<br>- Setting client and server<br>- Integrating @Supabase and @LangChainAI<br><br>GH repo is provided. Read the article here👇<br><br>https://bit.ly/41wxg6g]]></description>
-            <pubDate>Fri, 22 Dec 2023 12:06:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/surajondev/status/1738169147937464377</guid>
-            <link>https://twitter.com/surajondev/status/1738169147937464377</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Bridger Tower: ⁦@youngbloodcyb⁩ and I have been using CrewAI and loving it. It’s the most streamlined way of making AI Agent Teams via ⁦@LangCh...]]></title>
-            <description><![CDATA[RT Bridger Tower<br>⁦@youngbloodcyb⁩ and I have been using CrewAI and loving it. It’s the most streamlined way of making AI Agent Teams via ⁦@LangChainAI⁩. s/o to ⁦⁦@joaomdmoura⁩  https://github.com/joaomdmoura/crewAI]]></description>
-            <pubDate>Fri, 22 Dec 2023 00:40:29 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/bridgertower/status/1737996495796818292</guid>
-            <link>https://twitter.com/bridgertower/status/1737996495796818292</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT João Moura: AI Agents on the cloud plan my next trip! 🤖☁️✈️ I had a lot of fun putting together this post with @Replit and @hwchase17 from ...]]></title>
-            <description><![CDATA[RT João Moura<br>AI Agents on the cloud plan my next trip! 🤖☁️✈️<br>I had a lot of fun putting together this post with @Replit and @hwchase17  from @LangChainAI<br><br>You can now try this Tricrew of AI Agents yourself (and two other crews) directly on Replit: https://blog.replit.com/crew-ai<br><video src="https://video.twimg.com/ext_tw_video/1737914205213241344/pu/vid/avc1/1662x1080/gBAPsmbRg4KuFM36.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1737914205213241344/pu/img/LSMMTa1h5t_1WxK2.jpg"></video>]]></description>
-            <pubDate>Thu, 21 Dec 2023 19:21:21 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/joaomdmoura/status/1737916180747129105</guid>
-            <link>https://twitter.com/joaomdmoura/status/1737916180747129105</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Afiz ⚡️: Exciting news for LLM Lovers! 😍😍 @LangChainAI has announced the new langchain_mistralai package today which lets you use Mistral’...]]></title>
-            <description><![CDATA[RT Afiz ⚡️<br>Exciting news for LLM Lovers! 😍😍<br><br>@LangChainAI has announced the new langchain_mistralai package today which lets you use Mistral’s new hosted API in LangChain!<br><br>Read more: https://python.langchain.com/docs/integrations/chat/mistralai<br><img style="" src="https://pbs.twimg.com/media/GB4-0Y2agAA84zM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 21 Dec 2023 17:59:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/itsafiz/status/1737895701999419805</guid>
-            <link>https://twitter.com/itsafiz/status/1737895701999419805</link>
+            <title><![CDATA[RT Ben Auffarth: My book's finally out! If you want to quickly get up to speed with what's possible with #LLMs this book could be for you! Learn build...]]></title>
+            <description><![CDATA[RT Ben Auffarth<br>My book's finally out! <br><br>If you want to quickly get up to speed with what's possible with #LLMs this book could be for you! Learn building LLM applications with #langchain in  #python. <br><br>https://www.amazon.com/Generative-AI-LangChain-language-ChatGPT-ebook/dp/B0CBBL55PQ<br><br>#generativeai #ai #gpt4 #vertexai]]></description>
+            <pubDate>Fri, 22 Dec 2023 13:44:24 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/benji1a/status/1738193773555806518</guid>
+            <link>https://twitter.com/benji1a/status/1738193773555806518</link>
             
             
             
