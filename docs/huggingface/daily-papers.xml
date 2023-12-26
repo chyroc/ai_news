@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 26 Dec 2023 01:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 03:55:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[DyBluRF: Dynamic Deblurring Neural Radiance Fields for Blurry Monocular Video]]></title>
-            <description><![CDATA[Video view synthesis, allowing for the creation of visually appealing frames from arbitrary viewpoints and times, offers immersive viewing experiences. Neural radiance fields, particularly NeRF, initially developed for static scenes, have spurred the creation of various methods for video view synthesis. However, the challenge for video view synthesis arises from motion blur, a consequence of object or camera movement during exposure, which hinders the precise synthesis of sharp spatio-temporal views. In response, we propose a novel dynamic deblurring NeRF framework for blurry monocular video, called DyBluRF, consisting of an Interleave Ray Refinement (IRR) stage and a Motion Decomposition-based Deblurring (MDD) stage. Our DyBluRF is the first that addresses and handles the novel view synthesis for blurry monocular video. The IRR stage jointly reconstructs dynamic 3D scenes and refines the inaccurate camera pose information to combat imprecise pose information extracted from the given blurry frames. The MDD stage is a novel incremental latent sharp-rays prediction (ILSP) approach for the blurry monocular video frames by decomposing the latent sharp rays into global camera motion and local object motion components. Extensive experimental results demonstrate that our DyBluRF outperforms qualitatively and quantitatively the very recent state-of-the-art methods. Our project page including source codes and pretrained model are publicly available at https://kaist-viclab.github.io/dyblurf-site/.]]></description>
-            <pubDate>Fri, 22 Dec 2023 04:55:58 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13528</guid>
-            <link>https://arxiv.org/abs/2312.13528</link>
+            <title><![CDATA[Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning]]></title>
+            <description><![CDATA[A key method for creating Artificial Intelligence (AI) agents is Reinforcement Learning (RL). However, constructing a standalone RL policy that maps perception to action directly encounters severe problems, chief among them being its lack of generality across multiple tasks and the need for a large amount of training data. The leading cause is that it cannot effectively integrate prior information into the perception-action cycle when devising the policy. Large language models (LLMs) emerged as a fundamental way to incorporate cross-domain knowledge into AI agents but lack crucial learning and adaptation toward specific decision problems. This paper presents a general framework model for integrating and learning structured reasoning into AI agents' policies. Our methodology is motivated by the modularity found in the human brain. The framework utilises the construction of intrinsic and extrinsic functions to add previous understandings of reasoning structures. It also provides the adaptive ability to learn models inside every module or function, consistent with the modular structure of cognitive processes. We describe the framework in-depth and compare it with other AI pipelines and existing frameworks. The paper explores practical applications, covering experiments that show the effectiveness of our method. Our results indicate that AI agents perform and adapt far better when organised reasoning and prior knowledge are embedded. This opens the door to more resilient and general AI agent systems.]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:44:18 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14878</guid>
+            <link>https://arxiv.org/abs/2312.14878</link>
             
             
             
-            <author><![CDATA[Minh-Quan Viet Bui, Jongmin Park, Jihyong Oh, Munchurl Kim]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors]]></title>
-            <description><![CDATA[We introduce ShowRoom3D, a three-stage approach for generating high-quality 3D room-scale scenes from texts. Previous methods using 2D diffusion priors to optimize neural radiance fields for generating room-scale scenes have shown unsatisfactory quality. This is primarily attributed to the limitations of 2D priors lacking 3D awareness and constraints in the training methodology. In this paper, we utilize a 3D diffusion prior, MVDiffusion, to optimize the 3D room-scale scene. Our contributions are in two aspects. Firstly, we propose a progressive view selection process to optimize NeRF. This involves dividing the training process into three stages, gradually expanding the camera sampling scope. Secondly, we propose the pose transformation method in the second stage. It will ensure MVDiffusion provide the accurate view guidance. As a result, ShowRoom3D enables the generation of rooms with improved structural integrity, enhanced clarity from any view, reduced content repetition, and higher consistency across different perspectives. Extensive experiments demonstrate that our method, significantly outperforms state-of-the-art approaches by a large margin in terms of user study.]]></description>
-            <pubDate>Fri, 22 Dec 2023 04:43:20 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13324</guid>
-            <link>https://arxiv.org/abs/2312.13324</link>
-            
-            
-            
-            <author><![CDATA[Weijia Mao, Yan-Pei Cao, Jia-Wei Liu, Zhongcong Xu, Mike Zheng Shou]]></author>
+            <author><![CDATA[Filippos Christianos, Georgios Papoudakis, Matthieu Zimmer, Thomas Coste, Zhihao Wu, Jingxuan Chen, Khyati Khandelwal, James Doran, Xidong Feng, Jiacheng Liu, Zheng Xiong, Yicheng Luo, Jianye Hao, Kun Shao, Haitham Bou-Ammar, Jun Wang]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Unlocking Pre-trained Image Backbones for Semantic Image Synthesis]]></title>
-            <description><![CDATA[Semantic image synthesis, i.e., generating images from user-provided semantic label maps, is an important conditional image generation task as it allows to control both the content as well as the spatial layout of generated images. Although diffusion models have pushed the state of the art in generative image modeling, the iterative nature of their inference process makes them computationally demanding. Other approaches such as GANs are more efficient as they only need a single feed-forward pass for generation, but the image quality tends to suffer on large and diverse datasets. In this work, we propose a new class of GAN discriminators for semantic image synthesis that generates highly realistic images by exploiting feature backbone networks pre-trained for tasks such as image classification. We also introduce a new generator architecture with better context modeling and using cross-attention to inject noise into latent variables, leading to more diverse generated images. Our model, which we dub DP-SIMS, achieves state-of-the-art results in terms of image quality and consistency with the input label maps on ADE-20K, COCO-Stuff, and Cityscapes, surpassing recent diffusion models while requiring two orders of magnitude less compute for inference.]]></description>
-            <pubDate>Fri, 22 Dec 2023 04:30:18 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13314</guid>
-            <link>https://arxiv.org/abs/2312.13314</link>
+            <title><![CDATA[YAYI 2: Multilingual Open-Source Large Language Models]]></title>
+            <description><![CDATA[As the latest advancements in natural language processing, large language models (LLMs) have achieved human-level language understanding and generation abilities in many real-world tasks, and even have been regarded as a potential path to the artificial general intelligence. To better facilitate research on LLMs, many open-source LLMs, such as Llama 2 and Falcon, have recently been proposed and gained comparable performances to proprietary models. However, these models are primarily designed for English scenarios and exhibit poor performances in Chinese contexts. In this technical report, we propose YAYI 2, including both base and chat models, with 30 billion parameters. YAYI 2 is pre-trained from scratch on a multilingual corpus which contains 2.65 trillion tokens filtered by our pre-training data processing pipeline. The base model is aligned with human values through supervised fine-tuning with millions of instructions and reinforcement learning from human feedback. Extensive experiments on multiple benchmarks, such as MMLU and CMMLU, consistently demonstrate that the proposed YAYI 2 outperforms other similar sized open-source models.]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:40:03 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14862</guid>
+            <link>https://arxiv.org/abs/2312.14862</link>
             
             
             
-            <author><![CDATA[Tariq Berrada, Jakob Verbeek, Camille Couprie, Karteek Alahari]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AppAgent: Multimodal Agents as Smartphone Users]]></title>
-            <description><![CDATA[Recent advancements in large language models (LLMs) have led to the creation of intelligent agents capable of performing complex tasks. This paper introduces a novel LLM-based multimodal agent framework designed to operate smartphone applications. Our framework enables the agent to operate smartphone applications through a simplified action space, mimicking human-like interactions such as tapping and swiping. This novel approach bypasses the need for system back-end access, thereby broadening its applicability across diverse apps. Central to our agent's functionality is its innovative learning method. The agent learns to navigate and use new apps either through autonomous exploration or by observing human demonstrations. This process generates a knowledge base that the agent refers to for executing complex tasks across different applications. To demonstrate the practicality of our agent, we conducted extensive testing over 50 tasks in 10 different applications, including social media, email, maps, shopping, and sophisticated image editing tools. The results affirm our agent's proficiency in handling a diverse array of high-level tasks.]]></description>
-            <pubDate>Fri, 22 Dec 2023 04:13:54 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13771</guid>
-            <link>https://arxiv.org/abs/2312.13771</link>
-            
-            
-            
-            <author><![CDATA[Chi Zhang, Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu]]></author>
+            <author><![CDATA[Yin Luo, Qingchao Kong, Nan Xu, Jia Cao, Bao Hao, Baoyu Qu, Bo Chen, Chao Zhu, Chenyang Zhao, Donglei Zhang, Fan Feng, Feifei Zhao, Hailong Sun, Hanxuan Yang, Haojun Pan, Hongyu Liu, Jianbin Guo, Jiangtao Du, Jingyi Wang, Junfeng Li, Lei Sun, Liduo Liu, Lifeng Dong, Lili Liu, Lin Wang, Liwen Zhang, Minzheng Wang, Pin Wang, Ping Yu, Qingxiao Li, Rui Yan, Rui Zou, Ruiqun Li, Taiwen Huang, Xiaodong Wang, Xiaofei Wu, Xin Peng, Xina Zhang, Xing Fang, Xinglin Xiao, Yanni Hao, Yao Dong, Yigang Wang, Ying Liu, Yongyu Jiang, Yungan Wang, Yuqi Wang, Zhangsheng Wang, Zhaoxin Yu, Zhen Luo, Wenji Mao, Lei Wang, Dajun Zeng]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Time is Encoded in the Weights of Finetuned Language Models]]></title>
-            <description><![CDATA[We present time vectors, a simple tool to customize language models to new time periods. Time vectors are created by finetuning a language model on data from a single time (e.g., a year or month), and then subtracting the weights of the original pretrained model. This vector specifies a direction in weight space that, as our experiments show, improves performance on text from that time period. Time vectors specialized to adjacent time periods appear to be positioned closer together in a manifold. Using this structure, we interpolate between time vectors to induce new models that perform better on intervening and future time periods, without any additional training. We demonstrate the consistency of our findings across different tasks, domains, model sizes, and time scales. Our results suggest that time is encoded in the weight space of finetuned models.]]></description>
-            <pubDate>Fri, 22 Dec 2023 04:08:55 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13401</guid>
-            <link>https://arxiv.org/abs/2312.13401</link>
+            <title><![CDATA[Reasons to Reject? Aligning Language Models with Judgments]]></title>
+            <description><![CDATA[As humans, we consistently engage in interactions with our peers and receive feedback in the form of natural language. This language feedback allows us to reflect on our actions, maintain appropriate behavior, and rectify our errors. The question arises naturally: can we use language feedback to align large language models (LLMs)? In contrast to previous research that aligns LLMs with reward or preference data, we present the first systematic exploration of alignment through the lens of language feedback (i.e., judgment). We commence with an in-depth investigation of potential methods that can be adapted for aligning LLMs with judgments, revealing that these methods are unable to fully capitalize on the judgments. To facilitate more effective utilization of judgments, we propose a novel framework, Contrastive Unlikelihood Training (CUT), that allows for fine-grained inappropriate content detection and correction based on judgments. Our offline alignment results show that, with merely 1317 off-the-shelf judgment data, CUT (LLaMA2-13b) can beat the 175B DaVinci003 and surpass the best baseline by 52.34 points on AlpacaEval. The online alignment results demonstrate that CUT can align LLMs (LLaMA2-chat-13b) in an iterative fashion using model-specific judgment data, with a steady performance improvement from 81.09 to 91.36 points on AlpacaEval. Our analysis further suggests that judgments exhibit greater potential than rewards for LLM alignment and warrant future research.]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:35:06 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14591</guid>
+            <link>https://arxiv.org/abs/2312.14591</link>
             
             
             
-            <author><![CDATA[Kai Nylund, Suchin Gururangan, Noah A. Smith]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs]]></title>
-            <description><![CDATA[Current advances in human head modeling allow to generate plausible-looking 3D head models via neural representations. Nevertheless, constructing complete high-fidelity head models with explicitly controlled animation remains an issue. Furthermore, completing the head geometry based on a partial observation, e.g. coming from a depth sensor, while preserving details is often problematic for the existing methods. We introduce a generative model for detailed 3D head meshes on top of an articulated 3DMM which allows explicit animation and high-detail preservation at the same time. Our method is trained in two stages. First, we register a parametric head model with vertex displacements to each mesh of the recently introduced NPHM dataset of accurate 3D head scans. The estimated displacements are baked into a hand-crafted UV layout. Second, we train a StyleGAN model in order to generalize over the UV maps of displacements. The decomposition of the parametric model and high-quality vertex displacements allows us to animate the model and modify it semantically. We demonstrate the results of unconditional generation and fitting to the full or partial observation. The project page is available at https://seva100.github.io/headcraft.]]></description>
-            <pubDate>Fri, 22 Dec 2023 03:47:19 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.14140</guid>
-            <link>https://arxiv.org/abs/2312.14140</link>
-            
-            
-            
-            <author><![CDATA[Artem Sevastopolsky, Philip-William Grassal, Simon Giebenhain, ShahRukh Athar, Luisa Verdoliva, Matthias Niessner]]></author>
+            <author><![CDATA[Weiwen Xu, Deng Cai, Zhisong Zhang, Wai Lam, Shuming Shi]]></author>
             
                 
             
@@ -115,31 +67,15 @@
         </item>
         
         <item>
-            <title><![CDATA[HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models]]></title>
-            <description><![CDATA[Recent progress in text-guided image inpainting, based on the unprecedented success of text-to-image diffusion models, has led to exceptionally realistic and visually plausible results. However, there is still significant potential for improvement in current text-to-image inpainting models, particularly in better aligning the inpainted area with user prompts and performing high-resolution inpainting. Therefore, in this paper we introduce HD-Painter, a completely training-free approach that accurately follows to prompts and coherently scales to high-resolution image inpainting. To this end, we design the Prompt-Aware Introverted Attention (PAIntA) layer enhancing self-attention scores by prompt information and resulting in better text alignment generations. To further improve the prompt coherence we introduce the Reweighting Attention Score Guidance (RASG) mechanism seamlessly integrating a post-hoc sampling strategy into general form of DDIM to prevent out-of-distribution latent shifts. Moreover, HD-Painter allows extension to larger scales by introducing a specialized super-resolution technique customized for inpainting, enabling the completion of missing regions in images of up to 2K resolution. Our experiments demonstrate that HD-Painter surpasses existing state-of-the-art approaches qualitatively and quantitatively, achieving an impressive generation accuracy improvement of 61.4% vs 51.9%. We will make the codes publicly available at: https://github.com/Picsart-AI-Research/HD-Painter]]></description>
-            <pubDate>Fri, 22 Dec 2023 03:29:29 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.14091</guid>
-            <link>https://arxiv.org/abs/2312.14091</link>
+            <title><![CDATA[Parameter Efficient Tuning Allows Scalable Personalization of LLMs for Text Entry: A Case Study on Abbreviation Expansion]]></title>
+            <description><![CDATA[Abbreviation expansion is a strategy used to speed up communication by limiting the amount of typing and using a language model to suggest expansions. Here we look at personalizing a Large Language Model's (LLM) suggestions based on prior conversations to enhance the relevance of predictions, particularly when the user data is small (~1000 samples). Specifically, we compare fine-tuning, prompt-tuning, and retrieval augmented generation of expanded text suggestions for abbreviated inputs. Our case study with a deployed 8B parameter LLM on a real user living with ALS, and experiments on movie character personalization indicates that (1) customization may be necessary in some scenarios and prompt-tuning generalizes well to those, (2) fine-tuning on in-domain data (with as few as 600 samples) still shows some gains, however (3) retrieval augmented few-shot selection also outperforms fine-tuning. (4) Parameter efficient tuning allows for efficient and scalable personalization. For prompt-tuning, we also find that initializing the learned "soft-prompts" to user relevant concept tokens leads to higher accuracy than random initialization.]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:31:02 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14327</guid>
+            <link>https://arxiv.org/abs/2312.14327</link>
             
             
             
-            <author><![CDATA[Hayk Manukyan, Andranik Sargsyan, Barsegh Atanyan, Zhangyang Wang, Shant Navasardyan, Humphrey Shi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning]]></title>
-            <description><![CDATA[Recent advancements in the text-to-3D task leverage finetuned text-to-image diffusion models to generate multi-view images, followed by NeRF reconstruction. Yet, existing supervised finetuned (SFT) diffusion models still suffer from multi-view inconsistency and the resulting NeRF artifacts. Although training longer with SFT improves consistency, it also causes distribution shift, which reduces diversity and realistic details. We argue that the SFT of multi-view diffusion models resembles the instruction finetuning stage of the LLM alignment pipeline and can benefit from RL finetuning (RLFT) methods. Essentially, RLFT methods optimize models beyond their SFT data distribution by using their own outputs, effectively mitigating distribution shift. To this end, we introduce Carve3D, a RLFT method coupled with the Multi-view Reconstruction Consistency (MRC) metric, to improve the consistency of multi-view diffusion models. To compute MRC on a set of multi-view images, we compare them with their corresponding renderings of the reconstructed NeRF at the same viewpoints. We validate the robustness of MRC with extensive experiments conducted under controlled inconsistency levels. We enhance the base RLFT algorithm to stabilize the training process, reduce distribution shift, and identify scaling laws. Through qualitative and quantitative experiments, along with a user study, we demonstrate Carve3D's improved multi-view consistency, the resulting superior NeRF reconstruction quality, and minimal distribution shift compared to longer SFT. Project webpage: https://desaixie.github.io/carve-3d.]]></description>
-            <pubDate>Fri, 22 Dec 2023 03:22:07 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13980</guid>
-            <link>https://arxiv.org/abs/2312.13980</link>
-            
-            
-            
-            <author><![CDATA[Desai Xie, Jiahao Li, Hao Tan, Xin Sun, Zhixin Shu, Yi Zhou, Sai Bi, Sören Pirk, Arie E. Kaufman]]></author>
+            <author><![CDATA[Katrin Tomanek, Shanqing Cai, Subhashini Venugopalan]]></author>
             
                 
             
@@ -147,31 +83,15 @@
         </item>
         
         <item>
-            <title><![CDATA[PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models]]></title>
-            <description><![CDATA[Recent advancements in personalized text-to-image (T2I) models have revolutionized content creation, empowering non-experts to generate stunning images with unique styles. While promising, adding realistic motions into these personalized images by text poses significant challenges in preserving distinct styles, high-fidelity details, and achieving motion controllability by text. In this paper, we present PIA, a Personalized Image Animator that excels in aligning with condition images, achieving motion controllability by text, and the compatibility with various personalized T2I models without specific tuning. To achieve these goals, PIA builds upon a base T2I model with well-trained temporal alignment layers, allowing for the seamless transformation of any personalized T2I model into an image animation model. A key component of PIA is the introduction of the condition module, which utilizes the condition frame and inter-frame affinity as input to transfer appearance information guided by the affinity hint for individual frame synthesis in the latent space. This design mitigates the challenges of appearance-related image alignment within and allows for a stronger focus on aligning with motion-related guidance.]]></description>
-            <pubDate>Fri, 22 Dec 2023 02:48:53 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13964</guid>
-            <link>https://arxiv.org/abs/2312.13964</link>
+            <title><![CDATA[InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks]]></title>
+            <description><![CDATA[The exponential growth of large language models (LLMs) has opened up numerous possibilities for multi-modal AGI systems. However, the progress in vision and vision-language foundation models, which are also critical elements of multi-modal AGI, has not kept pace with LLMs. In this work, we design a large-scale vision-language foundation model (InternVL), which scales up the vision foundation model to 6 billion parameters and progressively aligns it with the large language model, using web-scale image-text data from various sources. This model can be broadly applied to and achieve state-of-the-art performance on visual perception tasks such as image-level or pixel-level recognition, vision-language tasks such as zero-shot image/video classification, zero-shot image/video-text retrieval, and link with LLMs to create multi-modal dialogue systems. We hope that our research could contribute to the development of multi-modal large models. Code and models are available at https://github.com/OpenGVLab/InternVL.]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:28:38 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14238</guid>
+            <link>https://arxiv.org/abs/2312.14238</link>
             
             
             
-            <author><![CDATA[Yiming Zhang, Zhening Xing, Yanhong Zeng, Youqing Fang, Kai Chen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models]]></title>
-            <description><![CDATA[This paper presents Paint3D, a novel coarse-to-fine generative framework that is capable of producing high-resolution, lighting-less, and diverse 2K UV texture maps for untextured 3D meshes conditioned on text or image inputs. The key challenge addressed is generating high-quality textures without embedded illumination information, which allows the textures to be re-lighted or re-edited within modern graphics pipelines. To achieve this, our method first leverages a pre-trained depth-aware 2D diffusion model to generate view-conditional images and perform multi-view texture fusion, producing an initial coarse texture map. However, as 2D models cannot fully represent 3D shapes and disable lighting effects, the coarse texture map exhibits incomplete areas and illumination artifacts. To resolve this, we train separate UV Inpainting and UVHD diffusion models specialized for the shape-aware refinement of incomplete areas and the removal of illumination artifacts. Through this coarse-to-fine process, Paint3D can produce high-quality 2K UV textures that maintain semantic consistency while being lighting-less, significantly advancing the state-of-the-art in texturing 3D objects.]]></description>
-            <pubDate>Fri, 22 Dec 2023 02:30:44 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13913</guid>
-            <link>https://arxiv.org/abs/2312.13913</link>
-            
-            
-            
-            <author><![CDATA[Xianfang Zeng, Xin Chen, Zhongqi Qi, Wen Liu, Zibo Zhao, Zhibin Wang, BIN FU, Yong Liu, Gang Yu]]></author>
+            <author><![CDATA[Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Zhong Muyan, Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu Qiao, Jifeng Dai]]></author>
             
                 
             
@@ -179,31 +99,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis]]></title>
-            <description><![CDATA[In this paper, we introduce Fairy, a minimalist yet robust adaptation of image-editing diffusion models, enhancing them for video editing applications. Our approach centers on the concept of anchor-based cross-frame attention, a mechanism that implicitly propagates diffusion features across frames, ensuring superior temporal coherence and high-fidelity synthesis. Fairy not only addresses limitations of previous models, including memory and processing speed. It also improves temporal consistency through a unique data augmentation strategy. This strategy renders the model equivariant to affine transformations in both source and target images. Remarkably efficient, Fairy generates 120-frame 512x384 videos (4-second duration at 30 FPS) in just 14 seconds, outpacing prior works by at least 44x. A comprehensive user study, involving 1000 generated samples, confirms that our approach delivers superior quality, decisively outperforming established methods.]]></description>
-            <pubDate>Fri, 22 Dec 2023 02:17:41 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13834</guid>
-            <link>https://arxiv.org/abs/2312.13834</link>
+            <title><![CDATA[WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation]]></title>
+            <description><![CDATA[Recent work demonstrates that, after being fine-tuned on a high-quality instruction dataset, the resulting model can obtain impressive capabilities to address a wide range of tasks. However, existing methods for instruction data generation often produce duplicate data and are not controllable enough on data quality. In this paper, we extend the generalization of instruction tuning by classifying the instruction data to 4 code-related tasks and propose a LLM-based Generator-Discriminator data process framework to generate diverse, high-quality instruction data from open source code. Hence, we introduce CodeOcean, a dataset comprising 20,000 instruction instances across 4 universal code-related tasks,which is aimed at augmenting the effectiveness of instruction tuning and improving the generalization ability of fine-tuned model. Subsequently, we present WaveCoder, a fine-tuned Code LLM with Widespread And Versatile Enhanced instruction tuning. This model is specifically designed for enhancing instruction tuning of Code Language Models (LLMs). Our experiments demonstrate that Wavecoder models outperform other open-source models in terms of generalization ability across different code-related tasks at the same level of fine-tuning scale. Moreover, Wavecoder exhibits high efficiency in previous code generation tasks. This paper thus offers a significant contribution to the field of instruction data generation and fine-tuning models, providing new insights and tools for enhancing performance in code-related tasks.]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:20:39 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14187</guid>
+            <link>https://arxiv.org/abs/2312.14187</link>
             
             
             
-            <author><![CDATA[Bichen Wu, Ching-Yao Chuang, Xiaoyan Wang, Yichen Jia, Kapil Krishnakumar, Tong Xiao, Feng Liang, Licheng Yu, Peter Vajda]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[TinySAM: Pushing the Envelope for Efficient Segment Anything Model]]></title>
-            <description><![CDATA[Recently segment anything model (SAM) has shown powerful segmentation capability and has drawn great attention in computer vision fields. Massive following works have developed various applications based on the pretrained SAM and achieved impressive performance on downstream vision tasks. However, SAM consists of heavy architectures and requires massive computational capacity, which hinders the further application of SAM on computation constrained edge devices. To this end, in this paper we propose a framework to obtain a tiny segment anything model (TinySAM) while maintaining the strong zero-shot performance. We first propose a full-stage knowledge distillation method with online hard prompt sampling strategy to distill a lightweight student model. We also adapt the post-training quantization to the promptable segmentation task and further reduce the computational cost. Moreover, a hierarchical segmenting everything strategy is proposed to accelerate the everything inference by 2times with almost no performance degradation. With all these proposed methods, our TinySAM leads to orders of magnitude computational reduction and pushes the envelope for efficient segment anything task. Extensive experiments on various zero-shot transfer tasks demonstrate the significantly advantageous performance of our TinySAM against counterpart methods. Pre-trained models and codes will be available at https://github.com/xinghaochen/TinySAM and https://gitee.com/mindspore/models/tree/master/research/cv/TinySAM.]]></description>
-            <pubDate>Fri, 22 Dec 2023 02:12:07 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13789</guid>
-            <link>https://arxiv.org/abs/2312.13789</link>
-            
-            
-            
-            <author><![CDATA[Han Shu, Wenshuo Li, Yehui Tang, Yiman Zhang, Yihao Chen, Houqiang Li, Yunhe Wang, Xinghao Chen]]></author>
+            <author><![CDATA[Zhaojian Yu, Xin Zhang, Ning Shang, Yangyu Huang, Can Xu, Yishujie Zhao, Wenxiang Hu, Qiufeng Yin]]></author>
             
                 
             
@@ -211,31 +115,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DreamTuner: Single Image is Enough for Subject-Driven Generation]]></title>
-            <description><![CDATA[Diffusion-based models have demonstrated impressive capabilities for text-to-image generation and are expected for personalized applications of subject-driven generation, which require the generation of customized concepts with one or a few reference images. However, existing methods based on fine-tuning fail to balance the trade-off between subject learning and the maintenance of the generation capabilities of pretrained models. Moreover, other methods that utilize additional image encoders tend to lose important details of the subject due to encoding compression. To address these challenges, we propose DreamTurner, a novel method that injects reference information from coarse to fine to achieve subject-driven image generation more effectively. DreamTurner introduces a subject-encoder for coarse subject identity preservation, where the compressed general subject features are introduced through an attention layer before visual-text cross-attention. We then modify the self-attention layers within pretrained text-to-image models to self-subject-attention layers to refine the details of the target subject. The generated image queries detailed features from both the reference image and itself in self-subject-attention. It is worth emphasizing that self-subject-attention is an effective, elegant, and training-free method for maintaining the detailed features of customized subjects and can serve as a plug-and-play solution during inference. Finally, with additional subject-driven fine-tuning, DreamTurner achieves remarkable performance in subject-driven image generation, which can be controlled by a text or other conditions such as pose. For further details, please visit the project page at https://dreamtuner-diffusion.github.io/.]]></description>
-            <pubDate>Fri, 22 Dec 2023 02:06:25 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13691</guid>
-            <link>https://arxiv.org/abs/2312.13691</link>
+            <title><![CDATA[Shai: A large language model for asset management]]></title>
+            <description><![CDATA[This paper introduces "Shai" a 10B level large language model specifically designed for the asset management industry, built upon an open-source foundational model. With continuous pre-training and fine-tuning using a targeted corpus, Shai demonstrates enhanced performance in tasks relevant to its domain, outperforming baseline models. Our research includes the development of an innovative evaluation framework, which integrates professional qualification exams, tailored tasks, open-ended question answering, and safety assessments, to comprehensively assess Shai's capabilities. Furthermore, we discuss the challenges and implications of utilizing large language models like GPT-4 for performance assessment in asset management, suggesting a combination of automated evaluation and human judgment. Shai's development, showcasing the potential and versatility of 10B-level large language models in the financial sector with significant performance and modest computational requirements, hopes to provide practical insights and methodologies to assist industry peers in their similar endeavors.]]></description>
+            <pubDate>Tue, 26 Dec 2023 03:16:07 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14203</guid>
+            <link>https://arxiv.org/abs/2312.14203</link>
             
             
             
-            <author><![CDATA[Miao Hua, Jiawei Liu, Fei Ding, Wei Liu, Jie Wu, Qian He]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation]]></title>
-            <description><![CDATA[The generation of emotional talking faces from a single portrait image remains a significant challenge. The simultaneous achievement of expressive emotional talking and accurate lip-sync is particularly difficult, as expressiveness is often compromised for the accuracy of lip-sync. As widely adopted by many prior works, the LSTM network often fails to capture the subtleties and variations of emotional expressions. To address these challenges, we introduce DREAM-Talk, a two-stage diffusion-based audio-driven framework, tailored for generating diverse expressions and accurate lip-sync concurrently. In the first stage, we propose EmoDiff, a novel diffusion module that generates diverse highly dynamic emotional expressions and head poses in accordance with the audio and the referenced emotion style. Given the strong correlation between lip motion and audio, we then refine the dynamics with enhanced lip-sync accuracy using audio features and emotion style. To this end, we deploy a video-to-video rendering module to transfer the expressions and lip motions from our proxy 3D avatar to an arbitrary portrait. Both quantitatively and qualitatively, DREAM-Talk outperforms state-of-the-art methods in terms of expressiveness, lip-sync accuracy and perceptual quality.]]></description>
-            <pubDate>Fri, 22 Dec 2023 02:01:31 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13578</guid>
-            <link>https://arxiv.org/abs/2312.13578</link>
-            
-            
-            
-            <author><![CDATA[Chenxu Zhang, Chao Wang, Jianfeng Zhang, Hongyi Xu, Guoxian Song, You Xie, Linjie Luo, Yapeng Tian, Xiaohu Guo, Jiashi Feng]]></author>
+            <author><![CDATA[Zhongyang Guo, Guanran Jiang, Zhongdan Zhang, Peng Li, Zhefeng Wang, Yinchun Wang]]></author>
             
                 
             
@@ -243,31 +131,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Neural feels with neural fields: Visuo-tactile perception for in-hand manipulation]]></title>
-            <description><![CDATA[To achieve human-level dexterity, robots must infer spatial awareness from multimodal sensing to reason over contact interactions. During in-hand manipulation of novel objects, such spatial awareness involves estimating the object's pose and shape. The status quo for in-hand perception primarily employs vision, and restricts to tracking a priori known objects. Moreover, visual occlusion of objects in-hand is imminent during manipulation, preventing current systems to push beyond tasks without occlusion. We combine vision and touch sensing on a multi-fingered hand to estimate an object's pose and shape during in-hand manipulation. Our method, NeuralFeels, encodes object geometry by learning a neural field online and jointly tracks it by optimizing a pose graph problem. We study multimodal in-hand perception in simulation and the real-world, interacting with different objects via a proprioception-driven policy. Our experiments show final reconstruction F-scores of 81% and average pose drifts of 4.7,mm, further reduced to 2.3,mm with known CAD models. Additionally, we observe that under heavy visual occlusion we can achieve up to 94% improvements in tracking compared to vision-only methods. Our results demonstrate that touch, at the very least, refines and, at the very best, disambiguates visual estimates during in-hand manipulation. We release our evaluation dataset of 70 experiments, FeelSight, as a step towards benchmarking in this domain. Our neural representation driven by multimodal sensing can serve as a perception backbone towards advancing robot dexterity. Videos can be found on our project website https://suddhu.github.io/neural-feels/]]></description>
-            <pubDate>Fri, 22 Dec 2023 01:56:35 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13469</guid>
-            <link>https://arxiv.org/abs/2312.13469</link>
+            <title><![CDATA[Exploiting Novel GPT-4 APIs]]></title>
+            <description><![CDATA[Language model attacks typically assume one of two extreme threat models: full white-box access to model weights, or black-box access limited to a text generation API. However, real-world APIs are often more flexible than just text generation: these APIs expose ``gray-box'' access leading to new threat vectors. To explore this, we red-team three new functionalities exposed in the GPT-4 APIs: fine-tuning, function calling and knowledge retrieval. We find that fine-tuning a model on as few as 15 harmful examples or 100 benign examples can remove core safeguards from GPT-4, enabling a range of harmful outputs. Furthermore, we find that GPT-4 Assistants readily divulge the function call schema and can be made to execute arbitrary function calls. Finally, we find that knowledge retrieval can be hijacked by injecting instructions into retrieval documents. These vulnerabilities highlight that any additions to the functionality exposed by an API can create new vulnerabilities.]]></description>
+            <pubDate>Tue, 26 Dec 2023 02:56:05 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14302</guid>
+            <link>https://arxiv.org/abs/2312.14302</link>
             
             
             
-            <author><![CDATA[Sudharshan Suresh, Haozhi Qi, Tingfan Wu, Taosha Fan, Luis Pineda, Mike Lambeta, Jitendra Malik, Mrinal Kalakrishnan, Roberto Calandra, Michael Kaess, Joseph Ortiz, Mustafa Mukadam]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[VideoPoet: A Large Language Model for Zero-Shot Video Generation]]></title>
-            <description><![CDATA[We present VideoPoet, a language model capable of synthesizing high-quality video, with matching audio, from a large variety of conditioning signals. VideoPoet employs a decoder-only transformer architecture that processes multimodal inputs -- including images, videos, text, and audio. The training protocol follows that of Large Language Models (LLMs), consisting of two stages: pretraining and task-specific adaptation. During pretraining, VideoPoet incorporates a mixture of multimodal generative objectives within an autoregressive Transformer framework. The pretrained LLM serves as a foundation that can be adapted for a range of video generation tasks. We present empirical results demonstrating the model's state-of-the-art capabilities in zero-shot video generation, specifically highlighting VideoPoet's ability to generate high-fidelity motions. Project page: http://sites.research.google/videopoet/]]></description>
-            <pubDate>Fri, 22 Dec 2023 01:41:09 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.14125</guid>
-            <link>https://arxiv.org/abs/2312.14125</link>
-            
-            
-            
-            <author><![CDATA[Dan Kondratyuk, Lijun Yu, Xiuye Gu, José Lezama, Jonathan Huang, Rachel Hornung, Hartwig Adam, Hassan Akbari, Yair Alon, Vighnesh Birodkar, Yong Cheng, Ming-Chang Chiu, Josh Dillon, Irfan Essa, Agrim Gupta, Meera Hahn, Anja Hauth, David Hendon, Alonso Martinez, David Minnen, David Ross, Grant Schindler, Mikhail Sirotenko, Kihyuk Sohn, Krishna Somandepalli, Huisheng Wang, Jimmy Yan, Ming-Hsuan Yang, Xuan Yang, Bryan Seybold, Lu Jiang]]></author>
+            <author><![CDATA[Kellin Pelrine, Mohammad Taufeeque, Michał Zając, Euan McLean, Adam Gleave]]></author>
             
                 
             
@@ -275,15 +147,31 @@
         </item>
         
         <item>
-            <title><![CDATA[Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models]]></title>
-            <description><![CDATA[Text-guided diffusion models have revolutionized image and video generation and have also been successfully used for optimization-based 3D object synthesis. Here, we instead focus on the underexplored text-to-4D setting and synthesize dynamic, animated 3D objects using score distillation methods with an additional temporal dimension. Compared to previous work, we pursue a novel compositional generation-based approach, and combine text-to-image, text-to-video, and 3D-aware multiview diffusion models to provide feedback during 4D object optimization, thereby simultaneously enforcing temporal consistency, high-quality visual appearance and realistic geometry. Our method, called Align Your Gaussians (AYG), leverages dynamic 3D Gaussian Splatting with deformation fields as 4D representation. Crucial to AYG is a novel method to regularize the distribution of the moving 3D Gaussians and thereby stabilize the optimization and induce motion. We also propose a motion amplification mechanism as well as a new autoregressive synthesis scheme to generate and combine multiple 4D sequences for longer generation. These techniques allow us to synthesize vivid dynamic scenes, outperform previous work qualitatively and quantitatively and achieve state-of-the-art text-to-4D performance. Due to the Gaussian 4D representation, different 4D animations can be seamlessly combined, as we demonstrate. AYG opens up promising avenues for animation, simulation and digital content creation as well as synthetic data generation.]]></description>
-            <pubDate>Fri, 22 Dec 2023 01:39:36 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.13763</guid>
-            <link>https://arxiv.org/abs/2312.13763</link>
+            <title><![CDATA[VCoder: Versatile Vision Encoders for Multimodal Large Language Models]]></title>
+            <description><![CDATA[Humans possess the remarkable skill of Visual Perception, the ability to see and understand the seen, helping them make sense of the visual world and, in turn, reason. Multimodal Large Language Models (MLLM) have recently achieved impressive performance on vision-language tasks ranging from visual question-answering and image captioning to visual reasoning and image generation. However, when prompted to identify or count (perceive) the entities in a given image, existing MLLM systems fail. Working towards developing an accurate MLLM system for perception and reasoning, we propose using Versatile vision enCoders (VCoder) as perception eyes for Multimodal LLMs. We feed the VCoder with perception modalities such as segmentation or depth maps, improving the MLLM's perception abilities. Secondly, we leverage the images from COCO and outputs from off-the-shelf vision perception models to create our COCO Segmentation Text (COST) dataset for training and evaluating MLLMs on the object perception task. Thirdly, we introduce metrics to assess the object perception abilities in MLLMs on our COST dataset. Lastly, we provide extensive experimental evidence proving the VCoder's improved object-level perception skills over existing Multimodal LLMs, including GPT-4V. We open-source our dataset, code, and models to promote research. We open-source our code at https://github.com/SHI-Labs/VCoder]]></description>
+            <pubDate>Tue, 26 Dec 2023 02:40:43 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14233</guid>
+            <link>https://arxiv.org/abs/2312.14233</link>
             
             
             
-            <author><![CDATA[Huan Ling, Seung Wook Kim, Antonio Torralba, Sanja Fidler, Karsten Kreis]]></author>
+            <author><![CDATA[Jitesh Jain, Jianwei Yang, Humphrey Shi]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LLM4VG: Large Language Models Evaluation for Video Grounding]]></title>
+            <description><![CDATA[Recently, researchers have attempted to investigate the capability of LLMs in handling videos and proposed several video LLM models. However, the ability of LLMs to handle video grounding (VG), which is an important time-related video task requiring the model to precisely locate the start and end timestamps of temporal moments in videos that match the given textual queries, still remains unclear and unexplored in literature. To fill the gap, in this paper, we propose the LLM4VG benchmark, which systematically evaluates the performance of different LLMs on video grounding tasks. Based on our proposed LLM4VG, we design extensive experiments to examine two groups of video LLM models on video grounding: (i) the video LLMs trained on the text-video pairs (denoted as VidLLM), and (ii) the LLMs combined with pretrained visual description models such as the video/image captioning model. We propose prompt methods to integrate the instruction of VG and description from different kinds of generators, including caption-based generators for direct visual description and VQA-based generators for information enhancement. We also provide comprehensive comparisons of various VidLLMs and explore the influence of different choices of visual models, LLMs, prompt designs, etc, as well. Our experimental evaluations lead to two conclusions: (i) the existing VidLLMs are still far away from achieving satisfactory video grounding performance, and more time-related video tasks should be included to further fine-tune these models, and (ii) the combination of LLMs and visual models shows preliminary abilities for video grounding with considerable potential for improvement by resorting to more reliable models and further guidance of prompt instructions.]]></description>
+            <pubDate>Tue, 26 Dec 2023 02:35:28 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14206</guid>
+            <link>https://arxiv.org/abs/2312.14206</link>
+            
+            
+            
+            <author><![CDATA[Wei Feng, Xin Wang, Hong Chen, Zeyang Zhang, Zihan Song, Yuwei Zhou, Wenwu Zhu]]></author>
             
                 
             
