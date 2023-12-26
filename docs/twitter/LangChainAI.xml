@@ -24,72 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 26 Dec 2023 17:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 15:09:20 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🌲RAG With PDFs Want to easily set up a RAG pipeline over PDFs? This great tutorial by our friends at @clarifai goes over how to do exactly that Blo...]]></title>
-            <description><![CDATA[🌲RAG With PDFs<br><br>Want to easily set up a RAG pipeline over PDFs?<br><br>This great tutorial by our friends at @clarifai goes over how to do exactly that<br><br>Blog: https://www.clarifai.com/blog/ai-in-5-rag-with-pdfs<br><img style="" src="https://pbs.twimg.com/media/GCNjnzvbsAAyzgD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 26 Dec 2023 16:52:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739690535630348574</guid>
-            <link>https://twitter.com/LangChainAI/status/1739690535630348574</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT DataStax Developers: Revisit one of our top webinars: An introduction to using @LangChainAI with Astra DB 🦜 #VectorDB #LangChain #GenAI https://...]]></title>
-            <description><![CDATA[RT DataStax Developers<br>Revisit one of our top webinars: An introduction to using @LangChainAI with Astra DB 🦜<br><br>#VectorDB #LangChain #GenAI<br><br>https://dtsx.io/3vfaP9A]]></description>
-            <pubDate>Tue, 26 Dec 2023 14:02:15 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/DataStaxDevs/status/1739647816757064109</guid>
-            <link>https://twitter.com/DataStaxDevs/status/1739647816757064109</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ankush Singal: Revolutionizing Language Processing with Langchain and Mixtral-8x7B A Llama-cpp and StructuredOutputParser Approach @ggerganov @Lang...]]></title>
-            <description><![CDATA[RT Ankush Singal<br>Revolutionizing Language Processing with Langchain and Mixtral-8x7B<br>A Llama-cpp and StructuredOutputParser Approach<br>@ggerganov @LangChainAI @hwchase17 @MistralAI <br><br>https://medium.com/ai-advances/revolutionizing-language-processing-with-langchain-and-mixtral-8x7b-b955ec2fb5df]]></description>
-            <pubDate>Tue, 26 Dec 2023 02:56:08 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/andysingal/status/1739480183470760401</guid>
-            <link>https://twitter.com/andysingal/status/1739480183470760401</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Mert: Quick RAG application in python. Replace pinecone with an open-source alternative such as FAISS or Weaviate, for a free application. All from...]]></title>
-            <description><![CDATA[RT Mert<br>Quick RAG application in python.<br><br>Replace pinecone with an open-source alternative such as FAISS or Weaviate, for a free application.<br><br>All from @LangChainAI.<br><img style="" src="https://pbs.twimg.com/media/GCOTKn8XsAEAQnz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 25 Dec 2023 21:20:25 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/MertLovesAI/status/1739395697647006043</guid>
-            <link>https://twitter.com/MertLovesAI/status/1739395697647006043</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Pratik Singh: Just blew my friend's mind by creating a Q/A bot in 20 mins using RAG, and dataset creation for LLM fine-tuning. @LangChainAI and @pi...]]></title>
@@ -321,6 +257,70 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Fri, 22 Dec 2023 18:15:12 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Hacubu/status/1738261921768616025</guid>
             <link>https://twitter.com/Hacubu/status/1738261921768616025</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🤗 HuggingFace Chat Wrapper 🤗 You can now use @HuggingFace LLMs in @LangChainAI as chat models! Incredibly, the small Zephyr-7B can...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🤗&nbsp;HuggingFace Chat Wrapper 🤗<br><br>You can now use @HuggingFace LLMs in @LangChainAI as chat models!<br><br>Incredibly, the small Zephyr-7B can even power simple agent use-cases. only the most powerful frontier models could do this last year!<br><br>S/o @andrewrreed!<br><br>https://python.langchain.com/docs/integrations/chat/huggingface<br><img style="" src="https://pbs.twimg.com/media/GB98uKCbMAQj8u3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GB98uKEakAABibd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GB98uKCakAADibH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Dec 2023 17:08:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1738245143982190703</guid>
+            <link>https://twitter.com/Hacubu/status/1738245143982190703</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[💎Automatic LLM Routing with `notdiamond-0001` notdiamond-0001 automatically determines whether to send queries to GPT-3.5 or GPT-4, depending on wh...]]></title>
+            <description><![CDATA[💎Automatic LLM Routing with `notdiamond-0001`<br><br>notdiamond-0001 automatically determines whether to send queries to GPT-3.5 or GPT-4, depending on which model is best-suited for your task<br><br>Built by @tomas_hk, they trained notdiamond-0001 on hundreds of thousands of data points… https://twitter.com/i/web/status/1738243031403540543<br><img style="" src="https://pbs.twimg.com/media/GB96wkgbQAAmdDn?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GB96zRxbMAA1AwM?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 22 Dec 2023 17:00:08 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1738243031403540543</guid>
+            <link>https://twitter.com/LangChainAI/status/1738243031403540543</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Vinit Agrawal: Part 2 of converting a natural language question🗣to a structured query 🐿 that Slack's (@SlackHQ) search knows. Built with @Lan...]]></title>
+            <description><![CDATA[RT Vinit Agrawal<br>Part 2 of converting a natural language question🗣to a structured query 🐿 that Slack's (@SlackHQ) search knows.<br><br>Built with @LangChainAI🤝<br><br>"What was that message by Ish about AI Safety, about a week ago"<br>to<br>"from:@jindalish  after:2023-12-14 AI Safety"<br><br>https://youtu.be/qhFO1hwGqzU]]></description>
+            <pubDate>Fri, 22 Dec 2023 16:29:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/vinit_agr/status/1738235249535136084</guid>
+            <link>https://twitter.com/vinit_agr/status/1738235249535136084</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @muhaksim Let us know how we can help!]]></title>
+            <description><![CDATA[Re @muhaksim Let us know how we can help!]]></description>
+            <pubDate>Fri, 22 Dec 2023 16:08:27 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1737890814896775283</guid>
+            <link>https://twitter.com/LangChainAI/status/1737890814896775283</link>
             
             
             
