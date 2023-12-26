@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 26 Dec 2023 17:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 19:42:27 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[⭐️(Community Spotlight) How LangChain Transforms Data Analysis and More Want to learn how to build an agent for data analysis? This blog walks throu...]]></title>
+            <description><![CDATA[⭐️(Community Spotlight) How LangChain Transforms Data Analysis and More<br><br>Want to learn how to build an agent for data analysis? This blog walks through that and more, covering a few different use cases for LangChain<br><br>h/t Ankush Singal<br><br>Blog: https://ai.gopubby.com/unlocking-the-power-of-language-how-langchain-transforms-data-analysis-and-more-3c4f327d520d<br><img style="" src="https://pbs.twimg.com/media/GCNhhdobwAAvLaL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 26 Dec 2023 17:44:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739703621686636747</guid>
+            <link>https://twitter.com/LangChainAI/status/1739703621686636747</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🧑‍🦲Per-User Retrieval Guide Most production RAG apps need some sort of per-user (or per-org) retrieval 🗺️We've recently added a guide showi...]]></title>
+            <description><![CDATA[🧑‍🦲Per-User Retrieval Guide<br><br>Most production RAG apps need some sort of per-user (or per-org) retrieval<br><br>🗺️We've recently added a guide showing how to do this with @pinecone! s/o @cyrusofeden for the nudge<br><br>Guide: https://python.langchain.com/docs/use_cases/question_answering/per_user<br><br>Comes down to two steps:<br><br>1⃣ Does the… https://twitter.com/i/web/status/1739702665049964614<br><img style="" src="https://pbs.twimg.com/media/GCSqPx9bsAAwnMZ?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GCSqQcZa8AA3RcI?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 26 Dec 2023 17:40:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739702665049964614</guid>
+            <link>https://twitter.com/LangChainAI/status/1739702665049964614</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🌲RAG With PDFs Want to easily set up a RAG pipeline over PDFs? This great tutorial by our friends at @clarifai goes over how to do exactly that Blo...]]></title>
@@ -289,38 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 23 Dec 2023 16:47:42 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1738602288955220067</guid>
             <link>https://twitter.com/LangChainAI/status/1738602288955220067</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ollama: Ollama and @LangChainAI 🦜works well together! In previous posts, @Hacubu from LangChain has built an example client-side app (all local)...]]></title>
-            <description><![CDATA[RT Ollama<br>Ollama and @LangChainAI 🦜works well together! <br><br>In previous posts, @Hacubu from LangChain has built an example client-side app (all local) that allows you to chat over documents. <br><br>The flexibility of being open-source means as a developer you have a choice on the tooling of your… https://twitter.com/i/web/status/1738408806609289407<br><img style="" src="https://pbs.twimg.com/media/GCAM-tAa0AANz38?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 23 Dec 2023 03:58:52 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OLLAMA/status/1738408806609289407</guid>
-            <link>https://twitter.com/OLLAMA/status/1738408806609289407</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 🌠 Azure Cosmos DB Vectorstore 🌠 You can use @Azure Cosmos DB as a vectorstore in @LangChainAI 🦜🔗 JS/TS community 0.0.10! It...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>🌠&nbsp;Azure Cosmos DB Vectorstore 🌠<br><br>You can use @Azure Cosmos DB as a vectorstore in @LangChainAI 🦜🔗 JS/TS community 0.0.10!<br><br>It’s fully managed and MongoDB-compatible, letting you work with a familiar interface and dev experience.<br><br>Thanks @sinedied!<br><br>https://js.langchain.com/docs/integrations/vectorstores/azure_cosmosdb<br><img style="" src="https://pbs.twimg.com/media/GB-L4XdbMAEKG_K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 22 Dec 2023 18:15:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1738261921768616025</guid>
-            <link>https://twitter.com/Hacubu/status/1738261921768616025</link>
             
             
             
