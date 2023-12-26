@@ -15,8 +15,104 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 26 Dec 2023 03:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 05:55:05 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Parrot Captions Teach CLIP to Spot Text]]></title>
+            <description><![CDATA[Despite CLIP being the foundation model in numerous vision-language applications, the CLIP suffers from a severe text spotting bias. Such bias causes CLIP models to `Parrot' the visual text embedded within images while disregarding the authentic visual semantics. We uncover that in the most popular image-text dataset LAION-2B, the captions also densely parrot (spell) the text embedded in images. Our analysis shows that around 50\% of images are embedded with visual text content, and 90\% of their captions more or less parrot the visual text. Based on such observation, we thoroughly inspect the different release d versions of CLIP models and verify that the visual text is the dominant factor in measuring the LAION-style image-text similarity for these models. To examine whether these parrot captions shape the text spotting bias, we train a series of CLIP models with LAION subsets curated by different parrot-caption-oriented criteria. We show that training with parrot captions easily shapes such bias but harms the expected visual-language representation learning in CLIP models. This suggests that it is urgent to revisit either the design of CLIP-like models or the existing image-text dataset curation pipeline built on CLIP score filtering.]]></description>
+            <pubDate>Tue, 26 Dec 2023 05:19:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14232</guid>
+            <link>https://arxiv.org/abs/2312.14232</link>
+            
+            
+            
+            <author><![CDATA[Yiqi Lin, Conghui He, Alex Jinpeng Wang, Bin Wang, Weijia Li, Mike Zheng Shou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ZeroShape: Regression-based Zero-shot Shape Reconstruction]]></title>
+            <description><![CDATA[We study the problem of single-image zero-shot 3D shape reconstruction. Recent works learn zero-shot shape reconstruction through generative modeling of 3D assets, but these models are computationally expensive at train and inference time. In contrast, the traditional approach to this problem is regression-based, where deterministic models are trained to directly regress the object shape. Such regression methods possess much higher computational efficiency than generative methods. This raises a natural question: is generative modeling necessary for high performance, or conversely, are regression-based approaches still competitive? To answer this, we design a strong regression-based model, called ZeroShape, based on the converging findings in this field and a novel insight. We also curate a large real-world evaluation benchmark, with objects from three different real-world 3D datasets. This evaluation benchmark is more diverse and an order of magnitude larger than what prior works use to quantitatively evaluate their models, aiming at reducing the evaluation variance in our field. We show that ZeroShape not only achieves superior performance over state-of-the-art methods, but also demonstrates significantly higher computational and data efficiency.]]></description>
+            <pubDate>Tue, 26 Dec 2023 05:13:13 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14198</guid>
+            <link>https://arxiv.org/abs/2312.14198</link>
+            
+            
+            
+            <author><![CDATA[Zixuan Huang, Stefan Stojanov, Anh Thai, Varun Jampani, James M. Rehg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MACS: Mass Conditioned 3D Hand and Object Motion Synthesis]]></title>
+            <description><![CDATA[The physical properties of an object, such as mass, significantly affect how we manipulate it with our hands. Surprisingly, this aspect has so far been neglected in prior work on 3D motion synthesis. To improve the naturalness of the synthesized 3D hand object motions, this work proposes MACS the first MAss Conditioned 3D hand and object motion Synthesis approach. Our approach is based on cascaded diffusion models and generates interactions that plausibly adjust based on the object mass and interaction type. MACS also accepts a manually drawn 3D object trajectory as input and synthesizes the natural 3D hand motions conditioned by the object mass. This flexibility enables MACS to be used for various downstream applications, such as generating synthetic training data for ML tasks, fast animation of hands for graphics workflows, and generating character interactions for computer games. We show experimentally that a small-scale dataset is sufficient for MACS to reasonably generalize across interpolated and extrapolated object masses unseen during the training. Furthermore, MACS shows moderate generalization to unseen objects, thanks to the mass-conditioned contact labels generated by our surface contact synthesis model ConNet. Our comprehensive user study confirms that the synthesized 3D hand-object interactions are highly plausible and realistic.]]></description>
+            <pubDate>Tue, 26 Dec 2023 05:03:00 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14929</guid>
+            <link>https://arxiv.org/abs/2312.14929</link>
+            
+            
+            
+            <author><![CDATA[Soshi Shimada, Franziska Mueller, Jan Bednarik, Bardia Doosti, Bernd Bickel, Danhang Tang, Vladislav Golyanik, Jonathan Taylor, Christian Theobalt, Thabo Beeler]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Generative AI Beyond LLMs: System Implications of Multi-Modal Generation]]></title>
+            <description><![CDATA[As the development of large-scale Generative AI models evolve beyond text (1D) generation to include image (2D) and video (3D) generation, processing spatial and temporal information presents unique challenges to quality, performance, and efficiency. We present the first work towards understanding this new system design space for multi-modal text-to-image (TTI) and text-to-video (TTV) generation models. Current model architecture designs are bifurcated into 2 categories: Diffusion- and Transformer-based models. Our systematic performance characterization on a suite of eight representative TTI/TTV models shows that after state-of-the-art optimization techniques such as Flash Attention are applied, Convolution accounts for up to 44% of execution time for Diffusion-based TTI models, while Linear layers consume up to 49% of execution time for Transformer-based models. We additionally observe that Diffusion-based TTI models resemble the Prefill stage of LLM inference, and benefit from 1.1-2.5x greater speedup from Flash Attention than Transformer-based TTI models that resemble the Decode phase. Since optimizations designed for LLMs do not map directly onto TTI/TTV models, we must conduct a thorough characterization of these workloads to gain insights for new optimization opportunities. In doing so, we define sequence length in the context of TTI/TTV models and observe sequence length can vary up to 4x in Diffusion model inference. We additionally observe temporal aspects of TTV workloads pose unique system bottlenecks, with Temporal Attention accounting for over 60% of total Attention time. Overall, our in-depth system performance characterization is a critical first step towards designing efficient and deployable systems for emerging TTI/TTV workloads.]]></description>
+            <pubDate>Tue, 26 Dec 2023 04:51:01 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14385</guid>
+            <link>https://arxiv.org/abs/2312.14385</link>
+            
+            
+            
+            <author><![CDATA[Alicia Golden, Samuel Hsia, Fei Sun, Bilge Acun, Basil Hosmer, Yejin Lee, Zachary DeVito, Jeff Johnson, Gu-Yeon Wei, David Brooks, Carole-Jean Wu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models]]></title>
+            <description><![CDATA[The popularization of Text-to-Image (T2I) diffusion models enables the generation of high-quality images from text descriptions. However, generating diverse customized images with reference visual attributes remains challenging. This work focuses on personalizing T2I diffusion models at a more abstract concept or category level, adapting commonalities from a set of reference images while creating new instances with sufficient variations. We introduce a solution that allows a pretrained T2I diffusion model to learn a set of soft prompts, enabling the generation of novel images by sampling prompts from the learned distribution. These prompts offer text-guided editing capabilities and additional flexibility in controlling variation and mixing between multiple distributions. We also show the adaptability of the learned prompt distribution to other tasks, such as text-to-3D. Finally we demonstrate effectiveness of our approach through quantitative analysis including automatic evaluation and human assessment. Project website: https://briannlongzhao.github.io/DreamDistribution]]></description>
+            <pubDate>Tue, 26 Dec 2023 04:44:34 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14216</guid>
+            <link>https://arxiv.org/abs/2312.14216</link>
+            
+            
+            
+            <author><![CDATA[Brian Nlong Zhao, Yuhang Xiao, Jiashu Xu, Xinyang Jiang, Yifan Yang, Dongsheng Li, Laurent Itti, Vibhav Vineet, Yunhao Ge]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PlatoNeRF: 3D Reconstruction in Plato's Cave via Single-View Two-Bounce Lidar]]></title>
+            <description><![CDATA[3D reconstruction from a single-view is challenging because of the ambiguity from monocular cues and lack of information about occluded regions. Neural radiance fields (NeRF), while popular for view synthesis and 3D reconstruction, are typically reliant on multi-view images. Existing methods for single-view 3D reconstruction with NeRF rely on either data priors to hallucinate views of occluded regions, which may not be physically accurate, or shadows observed by RGB cameras, which are difficult to detect in ambient light and low albedo backgrounds. We propose using time-of-flight data captured by a single-photon avalanche diode to overcome these limitations. Our method models two-bounce optical paths with NeRF, using lidar transient data for supervision. By leveraging the advantages of both NeRF and two-bounce light measured by lidar, we demonstrate that we can reconstruct visible and occluded geometry without data priors or reliance on controlled ambient lighting or scene albedo. In addition, we demonstrate improved generalization under practical constraints on sensor spatial- and temporal-resolution. We believe our method is a promising direction as single-photon lidars become ubiquitous on consumer devices, such as phones, tablets, and headsets.]]></description>
+            <pubDate>Tue, 26 Dec 2023 04:40:53 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.14239</guid>
+            <link>https://arxiv.org/abs/2312.14239</link>
+            
+            
+            
+            <author><![CDATA[Tzofi Klinghoffer, Xiaoyu Xiang, Siddharth Somasundaram, Yuchen Fan, Christian Richardt, Ramesh Raskar, Rakesh Ranjan]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning]]></title>
