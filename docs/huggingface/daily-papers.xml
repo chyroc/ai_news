@@ -15,8 +15,104 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 27 Dec 2023 04:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 06:40:17 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces]]></title>
+            <description><![CDATA[The reference-based object segmentation tasks, namely referring image segmentation (RIS), few-shot image segmentation (FSS), referring video object segmentation (RVOS), and video object segmentation (VOS), aim to segment a specific object by utilizing either language or annotated masks as references. Despite significant progress in each respective field, current methods are task-specifically designed and developed in different directions, which hinders the activation of multi-task capabilities for these tasks. In this work, we end the current fragmented situation and propose UniRef++ to unify the four reference-based object segmentation tasks with a single architecture. At the heart of our approach is the proposed UniFusion module which performs multiway-fusion for handling different tasks with respect to their specified references. And a unified Transformer architecture is then adopted for achieving instance-level segmentation. With the unified designs, UniRef++ can be jointly trained on a broad range of benchmarks and can flexibly complete multiple tasks at run-time by specifying the corresponding references. We evaluate our unified models on various benchmarks. Extensive experimental results indicate that our proposed UniRef++ achieves state-of-the-art performance on RIS and RVOS, and performs competitively on FSS and VOS with a parameter-shared network. Moreover, we showcase that the proposed UniFusion module could be easily incorporated into the current advanced foundation model SAM and obtain satisfactory results with parameter-efficient finetuning. Codes and models are available at https://github.com/FoundationVision/UniRef.]]></description>
+            <pubDate>Wed, 27 Dec 2023 06:19:39 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.15715</guid>
+            <link>https://arxiv.org/abs/2312.15715</link>
+            
+            
+            
+            <author><![CDATA[Jiannan Wu, Yi Jiang, Bin Yan, Huchuan Lu, Zehuan Yuan, Ping Luo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LangSplat: 3D Language Gaussian Splatting]]></title>
+            <description><![CDATA[Human lives in a 3D world and commonly uses natural language to interact with a 3D scene. Modeling a 3D language field to support open-ended language queries in 3D has gained increasing attention recently. This paper introduces LangSplat, which constructs a 3D language field that enables precise and efficient open-vocabulary querying within 3D spaces. Unlike existing methods that ground CLIP language embeddings in a NeRF model, LangSplat advances the field by utilizing a collection of 3D Gaussians, each encoding language features distilled from CLIP, to represent the language field. By employing a tile-based splatting technique for rendering language features, we circumvent the costly rendering process inherent in NeRF. Instead of directly learning CLIP embeddings, LangSplat first trains a scene-wise language autoencoder and then learns language features on the scene-specific latent space, thereby alleviating substantial memory demands imposed by explicit modeling. Existing methods struggle with imprecise and vague 3D language fields, which fail to discern clear boundaries between objects. We delve into this issue and propose to learn hierarchical semantics using SAM, thereby eliminating the need for extensively querying the language field across various scales and the regularization of DINO features. Extensive experiments on open-vocabulary 3D object localization and semantic segmentation demonstrate that LangSplat significantly outperforms the previous state-of-the-art method LERF by a large margin. Notably, LangSplat is extremely efficient, achieving a {\speed} times speedup compared to LERF at the resolution of 1440 times 1080. We strongly recommend readers to check out our video results at https://langsplat.github.io]]></description>
+            <pubDate>Wed, 27 Dec 2023 06:01:11 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.16084</guid>
+            <link>https://arxiv.org/abs/2312.16084</link>
+            
+            
+            
+            <author><![CDATA[Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Human101: Training 100+FPS Human Gaussians in 100s from 1 View]]></title>
+            <description><![CDATA[Reconstructing the human body from single-view videos plays a pivotal role in the virtual reality domain. One prevalent application scenario necessitates the rapid reconstruction of high-fidelity 3D digital humans while simultaneously ensuring real-time rendering and interaction. Existing methods often struggle to fulfill both requirements. In this paper, we introduce Human101, a novel framework adept at producing high-fidelity dynamic 3D human reconstructions from 1-view videos by training 3D Gaussians in 100 seconds and rendering in 100+ FPS. Our method leverages the strengths of 3D Gaussian Splatting, which provides an explicit and efficient representation of 3D humans. Standing apart from prior NeRF-based pipelines, Human101 ingeniously applies a Human-centric Forward Gaussian Animation method to deform the parameters of 3D Gaussians, thereby enhancing rendering speed (i.e., rendering 1024-resolution images at an impressive 60+ FPS and rendering 512-resolution images at 100+ FPS). Experimental results indicate that our approach substantially eclipses current methods, clocking up to a 10 times surge in frames per second and delivering comparable or superior rendering quality. Code and demos will be released at https://github.com/longxiang-ai/Human101.]]></description>
+            <pubDate>Wed, 27 Dec 2023 05:43:01 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.15258</guid>
+            <link>https://arxiv.org/abs/2312.15258</link>
+            
+            
+            
+            <author><![CDATA[Mingwei Li, Jiachen Tao, Zongxin Yang, Yi Yang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Audiobox: Unified Audio Generation with Natural Language Prompts]]></title>
+            <description><![CDATA[Audio is an essential part of our life, but creating it often requires expertise and is time-consuming. Research communities have made great progress over the past year advancing the performance of large scale audio generative models for a single modality (speech, sound, or music) through adopting more powerful generative models and scaling data. However, these models lack controllability in several aspects: speech generation models cannot synthesize novel styles based on text description and are limited on domain coverage such as outdoor environments; sound generation models only provide coarse-grained control based on descriptions like "a person speaking" and would only generate mumbling human voices. This paper presents Audiobox, a unified model based on flow-matching that is capable of generating various audio modalities. We design description-based and example-based prompting to enhance controllability and unify speech and sound generation paradigms. We allow transcript, vocal, and other audio styles to be controlled independently when generating speech. To improve model generalization with limited labels, we adapt a self-supervised infilling objective to pre-train on large quantities of unlabeled audio. Audiobox sets new benchmarks on speech and sound generation (0.745 similarity on Librispeech for zero-shot TTS; 0.77 FAD on AudioCaps for text-to-sound) and unlocks new methods for generating audio with novel vocal and acoustic styles. We further integrate Bespoke Solvers, which speeds up generation by over 25 times compared to the default ODE solver for flow-matching, without loss of performance on several tasks. Our demo is available at https://audiobox.metademolab.com/]]></description>
+            <pubDate>Wed, 27 Dec 2023 05:40:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.15821</guid>
+            <link>https://arxiv.org/abs/2312.15821</link>
+            
+            
+            
+            <author><![CDATA[Apoorv Vyas, Bowen Shi, Matthew Le, Andros Tjandra, Yi-Chiao Wu, Baishan Guo, Jiemin Zhang, Xinyue Zhang, Robert Adkins, William Ngan, Jeff Wang, Ivan Cruz, Bapi Akula, Akinniyi Akinyemi, Brian Ellis, Rashel Moritz, Yael Yungster, Alice Rakotoarison, Liang Tan, Chris Summers, Carleigh Wood, Joshua Lane, Mary Williamson, Wei-Ning Hsu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D]]></title>
+            <description><![CDATA[Recent progress in single-image 3D generation highlights the importance of multi-view coherency, leveraging 3D priors from large-scale diffusion models pretrained on Internet-scale images. However, the aspect of novel-view diversity remains underexplored within the research landscape due to the ambiguity in converting a 2D image into 3D content, where numerous potential shapes can emerge. Here, we aim to address this research gap by simultaneously addressing both consistency and diversity. Yet, striking a balance between these two aspects poses a considerable challenge due to their inherent trade-offs. This work introduces HarmonyView, a simple yet effective diffusion sampling technique adept at decomposing two intricate aspects in single-image 3D generation: consistency and diversity. This approach paves the way for a more nuanced exploration of the two critical dimensions within the sampling process. Moreover, we propose a new evaluation metric based on CLIP image and text encoders to comprehensively assess the diversity of the generated views, which closely aligns with human evaluators' judgments. In experiments, HarmonyView achieves a harmonious balance, demonstrating a win-win scenario in both consistency and diversity.]]></description>
+            <pubDate>Wed, 27 Dec 2023 05:36:28 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.15980</guid>
+            <link>https://arxiv.org/abs/2312.15980</link>
+            
+            
+            
+            <author><![CDATA[Sangmin Woo, Byeongjun Park, Hyojun Go, Jin-Young Kim, Changick Kim]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications]]></title>
+            <description><![CDATA[The prevalent use of commercial and open-source diffusion models (DMs) for text-to-image generation prompts risk mitigation to prevent undesired behaviors. Existing concept erasing methods in academia are all based on full parameter or specification-based fine-tuning, from which we observe the following issues: 1) Generation alternation towards erosion: Parameter drift during target elimination causes alternations and potential deformations across all generations, even eroding other concepts at varying degrees, which is more evident with multi-concept erased; 2) Transfer inability &amp; deployment inefficiency: Previous model-specific erasure impedes the flexible combination of concepts and the training-free transfer towards other models, resulting in linear cost growth as the deployment scenarios increase. To achieve non-invasive, precise, customizable, and transferable elimination, we ground our erasing framework on one-dimensional adapters to erase multiple concepts from most DMs at once across versatile erasing applications. The concept-SemiPermeable structure is injected as a Membrane (SPM) into any DM to learn targeted erasing, and meantime the alteration and erosion phenomenon is effectively mitigated via a novel Latent Anchoring fine-tuning strategy. Once obtained, SPMs can be flexibly combined and plug-and-play for other DMs without specific re-tuning, enabling timely and efficient adaptation to diverse scenarios. During generation, our Facilitated Transport mechanism dynamically regulates the permeability of each SPM to respond to different input prompts, further minimizing the impact on other concepts. Quantitative and qualitative results across ~40 concepts, 7 DMs and 4 erasing applications have demonstrated the superior erasing of SPM. Our code and pre-tuned SPMs will be available on the project page https://lyumengyao.github.io/projects/spm.]]></description>
+            <pubDate>Wed, 27 Dec 2023 05:18:16 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.16145</guid>
+            <link>https://arxiv.org/abs/2312.16145</link>
+            
+            
+            
+            <author><![CDATA[Mengyao Lyu, Yuhong Yang, Haiwen Hong, Hui Chen, Xuan Jin, Yuan He, Hui Xue, Jungong Han, Guiguang Ding]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Make-A-Character: High Quality Text-to-3D Character Generation within Minutes]]></title>
