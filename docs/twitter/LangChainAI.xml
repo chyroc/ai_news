@@ -24,8 +24,56 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 27 Dec 2023 01:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 03:55:57 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Building complex custom chains can be fun]]></title>
+            <description><![CDATA[Building complex custom chains can be fun<div class="rsshub-quote"><br><br>Austin Vance: Had an old RAG using @LangChainAI's older agents and Chain parent class. Migrated to LCEL and holy cow what a difference. Deleted tons of code. Steps are more clear. Parallel execution means the chain is blazing fast. Great work y'all such a fun one!<br></div>]]></description>
+            <pubDate>Wed, 27 Dec 2023 03:08:21 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739845646142849231</guid>
+            <link>https://twitter.com/LangChainAI/status/1739845646142849231</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @austinbv Glad to hear!]]></title>
+            <description><![CDATA[Re @austinbv Glad to hear!]]></description>
+            <pubDate>Wed, 27 Dec 2023 03:07:52 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739832130811650312</guid>
+            <link>https://twitter.com/LangChainAI/status/1739832130811650312</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Austin Vance: Had an old RAG using @LangChainAI's older agents and Chain parent class. Migrated to LCEL and holy cow what a difference. Deleted ton...]]></title>
+            <description><![CDATA[RT Austin Vance<br>Had an old RAG using @LangChainAI's older agents and Chain parent class. Migrated to LCEL and holy cow what a difference. Deleted tons of code. Steps are more clear. Parallel execution means the chain is blazing fast. Great work y'all such a fun one!]]></description>
+            <pubDate>Wed, 27 Dec 2023 02:14:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/austinbv/status/1739832130811650312</guid>
+            <link>https://twitter.com/austinbv/status/1739832130811650312</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re @woundedkarma what docs in particular are you looking at?]]></title>
@@ -273,54 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 25 Dec 2023 11:08:10 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1739241618920575265</guid>
             <link>https://twitter.com/Roger_M_Taylor/status/1739241618920575265</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: Happy holidays to the @LangChainAI 🦜🔗 community! As we wind down the year, I’d like to thank the following folks for contribution...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>Happy holidays to the @LangChainAI 🦜🔗 community!<br><br>As we wind down the year, I’d like to thank the following folks for contributions to the JS/TS repo the last two weeks during big structural changes 🛠️!<br><br>♊️ @alexalx13 for adding @Google Gemini support via AI studio<br><br>(1/10)<br><video src="https://video.twimg.com/tweet_video/GCISS0uXMAAYUm7.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GCISS0uXMAAYUm7.jpg"></video>]]></description>
-            <pubDate>Sun, 24 Dec 2023 17:18:54 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1738972531774648481</guid>
-            <link>https://twitter.com/Hacubu/status/1738972531774648481</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🪩RAG Tutorial from Oracle Generative AI Chatbot using LLaMA-2, @qdrant_engine, RAG, LangChain & @streamlit Really detailed blog post walking throug...]]></title>
-            <description><![CDATA[🪩RAG Tutorial from Oracle<br><br>Generative AI Chatbot using LLaMA-2, @qdrant_engine, RAG, LangChain &amp; @streamlit <br><br>Really detailed blog post walking through ingestion, setting up a chain, and making it look great in the UI<br><br>Blog: https://blogs.oracle.com/ai-and-datascience/post/ai-chatbot-llama2-qdrant-rag-langchain-streamlit<br><img style="" src="https://pbs.twimg.com/media/GCFZMPRaIAAPTYl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 24 Dec 2023 16:50:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1738965256544669810</guid>
-            <link>https://twitter.com/LangChainAI/status/1738965256544669810</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Carly Richmond: I had a lot of fun generating Christmas songs using @LangChainAI, #elasticsearch and LLMs. Check out how here: https://discuss.elas...]]></title>
-            <description><![CDATA[RT Carly Richmond<br>I had a lot of fun generating Christmas songs using @LangChainAI, #elasticsearch and LLMs. Check out how here:<br><br>https://discuss.elastic.co/t/dec-24th-2023-en-generating-the-ultimate-christmas-song-with-elasticsearch-and-llms/347313<br><br>If you've not been following the Elastic advent calendar (😲) check it out here:<br><br>https://discuss.elastic.co/c/elastic-community-ecosystem/advent-calendar/61<br><br>Happy holidays everyone! 🎄🥳<div class="rsshub-quote"><br><br>David Pilato 🇺🇦🇪🇺🇫🇷: 📣 @CarlyLRichmond wrote 'Generating the ultimate Christmas song with #Elasticsearch and LLMs' for the @elastic #AdventCalendar ▶️ https://discuss.elastic.co/t/347313. 🎅🏼🎄🎁<br><br><img style="" src="https://pbs.twimg.com/media/GAQpU4KXYAAdOez?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Sun, 24 Dec 2023 09:42:22 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/CarlyLRichmond/status/1738857640862597573</guid>
-            <link>https://twitter.com/CarlyLRichmond/status/1738857640862597573</link>
             
             
             
