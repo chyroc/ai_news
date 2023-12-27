@@ -24,8 +24,88 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 27 Dec 2023 17:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 19:15:44 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Assem: Super excited to launch NexusGPT 1.0 : the first platform letting you create autonomous AI agents for on any LLM in < 2 min Built on top of ...]]></title>
+            <description><![CDATA[RT Assem<br>Super excited to launch NexusGPT 1.0 : the first platform letting you create autonomous AI agents for on any LLM in &lt; 2 min <br><br>Built on top of @hwchase17 @LangChainAI, with great inspiration from @yoheinakajima's @BabyAGI_ <br><br>You can try it for free right now on… https://twitter.com/i/web/status/1740082463722893505<br><video src="https://video.twimg.com/ext_tw_video/1740082089419005952/pu/vid/avc1/1280x720/4ftpPsgnn1HDG_4C.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1740082089419005952/pu/img/-qzO9alOklJ-a1Hg.jpg"></video>]]></description>
+            <pubDate>Wed, 27 Dec 2023 18:49:23 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/achammah1/status/1740082463722893505</guid>
+            <link>https://twitter.com/achammah1/status/1740082463722893505</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🕸️Customized LangChain <> @neo4j Integration If you want to build advanced RAG, you probably need to know how to customize any off-the-shelf guide...]]></title>
+            <description><![CDATA[🕸️Customized LangChain &lt;&gt; @neo4j Integration<br><br>If you want to build advanced RAG, you probably need to know how to customize any off-the-shelf guide to your use case<br><br>@tb_tomaz dives deep on how to do this with Graph DBs like Neo4j<br><br>Blog: https://github.com/langchain-ai/langchain/pull/15084<br><img style="" src="https://pbs.twimg.com/media/GCUXbP-bsAA4Ec8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Dec 2023 18:36:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1740079095973810576</guid>
+            <link>https://twitter.com/LangChainAI/status/1740079095973810576</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT virat: Yesterday, LangChain released a neat "per-user" retrieval guide. For my financial assistant, I modified the guide's code to do "per-ticker" ...]]></title>
+            <description><![CDATA[RT virat<br>Yesterday, LangChain released a neat "per-user" retrieval guide.<br><br>For my financial assistant, I modified the guide's code to do "per-ticker" retrieval for financial analysis.<br><br>It worked really well.<br><br>In my code, I used:<br>- qa chain from @LangChainAI <br>- vector store from @pinecone… https://twitter.com/i/web/status/1740073632305483869<br><img style="" src="https://pbs.twimg.com/media/GCX6HGrXEAAozKn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Dec 2023 18:14:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/virattt/status/1740073632305483869</guid>
+            <link>https://twitter.com/virattt/status/1740073632305483869</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔎ResearchPlot This project aims to understand the user's scenario🧠, ask relevant questions❓, and generate a flowchart 📈for clear and concise...]]></title>
+            <description><![CDATA[🔎ResearchPlot<br><br>This project aims to understand the user's scenario🧠, ask relevant questions❓, and generate a flowchart 📈for clear and concise representation of the findings<br><br>🦆Helpful for rubber-ducking with yourself!<br><br>Code: https://github.com/PratikSingh121/ResearchPlot/blob/main/readme.md<br><img style="" src="https://pbs.twimg.com/media/GCNirocacAAqbyK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Dec 2023 17:48:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1740067016239656989</guid>
+            <link>https://twitter.com/LangChainAI/status/1740067016239656989</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[💡[Community Spotlight] Create Your Customized Chat Bot with LangChain The most prevalent UX for LLM applications is chat. This blog walks through a...]]></title>
+            <description><![CDATA[💡[Community Spotlight] Create Your Customized Chat Bot with LangChain<br><br>The most prevalent UX for LLM applications is chat. This blog walks through all the steps needed to create a customized Chat Bot<br><br>Blog: https://medium.com/@akturkrehsan/create-your-customized-chat-bot-with-langchain-41be6b928428<br><img style="" src="https://pbs.twimg.com/media/GCUVA0ca4AAseUm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Dec 2023 17:26:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1740061479834169441</guid>
+            <link>https://twitter.com/LangChainAI/status/1740061479834169441</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[💿RAG on CPUs (with Intel Developer Cloud) Retrieval Augmented Generation is a great way to combine YOUR data with LLMs... which is why it's so nice...]]></title>
@@ -252,91 +332,11 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[RT DataStax Developers: Revisit one of our top webinars: An introduction to using @LangChainAI with Astra DB 🦜 #VectorDB #LangChain #GenAI https://...]]></title>
-            <description><![CDATA[RT DataStax Developers<br>Revisit one of our top webinars: An introduction to using @LangChainAI with Astra DB 🦜<br><br>#VectorDB #LangChain #GenAI<br><br>https://dtsx.io/3vfaP9A]]></description>
-            <pubDate>Tue, 26 Dec 2023 14:02:15 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/DataStaxDevs/status/1739647816757064109</guid>
-            <link>https://twitter.com/DataStaxDevs/status/1739647816757064109</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ankush Singal: Revolutionizing Language Processing with Langchain and Mixtral-8x7B A Llama-cpp and StructuredOutputParser Approach @ggerganov @Lang...]]></title>
-            <description><![CDATA[RT Ankush Singal<br>Revolutionizing Language Processing with Langchain and Mixtral-8x7B<br>A Llama-cpp and StructuredOutputParser Approach<br>@ggerganov @LangChainAI @hwchase17 @MistralAI <br><br>https://medium.com/ai-advances/revolutionizing-language-processing-with-langchain-and-mixtral-8x7b-b955ec2fb5df]]></description>
-            <pubDate>Tue, 26 Dec 2023 02:56:08 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/andysingal/status/1739480183470760401</guid>
-            <link>https://twitter.com/andysingal/status/1739480183470760401</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Mert: Quick RAG application in python. Replace pinecone with an open-source alternative such as FAISS or Weaviate, for a free application. All from...]]></title>
             <description><![CDATA[RT Mert<br>Quick RAG application in python.<br><br>Replace pinecone with an open-source alternative such as FAISS or Weaviate, for a free application.<br><br>All from @LangChainAI.<br><img style="" src="https://pbs.twimg.com/media/GCOTKn8XsAEAQnz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 25 Dec 2023 21:20:25 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/MertLovesAI/status/1739395697647006043</guid>
             <link>https://twitter.com/MertLovesAI/status/1739395697647006043</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Pratik Singh: Just blew my friend's mind by creating a Q/A bot in 20 mins using RAG, and dataset creation for LLM fine-tuning. @LangChainAI and @pi...]]></title>
-            <description><![CDATA[RT Pratik Singh<br>Just blew my friend's mind by creating a Q/A bot in 20 mins using RAG, and dataset creation for LLM fine-tuning.<br><br>@LangChainAI and @pinecone make life so much easier :)<br><br>code : https://github.com/PratikSingh121/Langchain/blob/main/Langchain_QARetriever_and_Pinecone.py<br><img style="" src="https://pbs.twimg.com/media/GCNp14IaAAA76Xf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 25 Dec 2023 18:36:45 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/pratiksingh121/status/1739354509909098804</guid>
-            <link>https://twitter.com/pratiksingh121/status/1739354509909098804</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: Leveraging LLMs with LangChain for #SupplyChain #Analytics — A Control Tower Powered by GPT Build an automated supply chain control ...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>Leveraging LLMs with LangChain for #SupplyChain #Analytics — A Control Tower Powered by GPT<br>Build an automated supply chain control tower with a @LangChainAI #SQL agent connected to the database of a transportation management system<br>Tutorial by Samir Saci: https://buff.ly/3SGSxrG]]></description>
-            <pubDate>Mon, 25 Dec 2023 11:33:35 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1739248015695605868</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1739248015695605868</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Roger Taylor: Unraveling the magic behind ingenious @LangchainAI's #SQL agent by Luc Nguyen 📚 Gathers schema & context through loops ✍️ Writes...]]></title>
-            <description><![CDATA[RT Roger Taylor<br>Unraveling the magic behind ingenious @LangchainAI's #SQL agent by Luc Nguyen<br>📚 Gathers schema &amp; context through loops<br>✍️ Writes queries to retrieve data<br>🔧 Understand workflow enables customization<br>💡 Looping structure builds intelligence<br>Dive in: 👉 https://buff.ly/48xP1Vo]]></description>
-            <pubDate>Mon, 25 Dec 2023 11:08:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1739241618920575265</guid>
-            <link>https://twitter.com/Roger_M_Taylor/status/1739241618920575265</link>
             
             
             
