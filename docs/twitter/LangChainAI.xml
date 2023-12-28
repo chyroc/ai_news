@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 27 Dec 2023 21:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 00:35:46 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Benjamin ELKRIEFF: One of the major challenges when working with ChatGPT is its limitation in accessing real-time data. Check out Christian Braun's...]]></title>
+            <description><![CDATA[RT Benjamin ELKRIEFF<br>One of the major challenges when working with ChatGPT is its limitation in accessing real-time data.<br><br>Check out Christian Braun's new repo that explains how to break the limitations of ChatGPT with @LangChainAI and @CometML 🚀! https://bit.ly/3TJrP23<br><img style="" src="https://pbs.twimg.com/media/GCYk165X0AALlB6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Dec 2023 21:13:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/BenjaminAIKing/status/1740118816779079959</guid>
+            <link>https://twitter.com/BenjaminAIKing/status/1740118816779079959</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Mert Cakmak: Three teams have been dominating the LLM game for a while: @MistralAI for sota LLMs 🦙 @LangChainAI for building with LLMs 🦜 @tog...]]></title>
+            <description><![CDATA[RT Mert Cakmak<br>Three teams have been dominating the LLM game for a while:<br><br>@MistralAI for sota LLMs 🦙<br>@LangChainAI for building with LLMs 🦜 @togethercompute for serving LLMs 🚀<br><br>If you know how, you can build things really, really fast now.<br><br>Brief intro and code walk-through for you 👇]]></description>
+            <pubDate>Wed, 27 Dec 2023 19:14:30 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/umitmertcakmak/status/1740088787173011933</guid>
+            <link>https://twitter.com/umitmertcakmak/status/1740088787173011933</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Assem: Super excited to launch NexusGPT 1.0 : the first platform letting you create autonomous AI agents for on any LLM in < 2 min Built on top of ...]]></title>
@@ -49,6 +81,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 27 Dec 2023 18:36:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1740079095973810576</guid>
             <link>https://twitter.com/LangChainAI/status/1740079095973810576</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Yoko: Re @thorwebdev is incredibly good at explaining how the local ai stack works - try this out during the holidays! 🎁 Built with @supabase @O...]]></title>
+            <description><![CDATA[RT Yoko<br>Re @thorwebdev is incredibly good at explaining how the local ai stack works - try this out during the holidays! 🎁<br><br>Built with @supabase @OLLAMA @LangChainAI @huggingface transformer.js and @nextjs<div class="rsshub-quote"><br><br>Supabase: Check out this starter kit to build *local-only* AI apps that cost $0 to run! <br>By @stuffyokodraws using @OLLAMA @LangChainAI @nextjs @huggingface and Supabase.<br><br>Join @thorwebdev in this unboxing video <br><br>🎁 https://youtu.be/5_GfGf4lAQ8<br><br><img style="" src="https://pbs.twimg.com/media/GCXdNcLXEAATJjT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 27 Dec 2023 18:25:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/stuffyokodraws/status/1740076539449143633</guid>
+            <link>https://twitter.com/stuffyokodraws/status/1740076539449143633</link>
             
             
             
@@ -289,54 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 26 Dec 2023 17:44:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739703621686636747</guid>
             <link>https://twitter.com/LangChainAI/status/1739703621686636747</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🧑‍🦲Per-User Retrieval Guide Most production RAG apps need some sort of per-user (or per-org) retrieval 🗺️We've recently added a guide showi...]]></title>
-            <description><![CDATA[🧑‍🦲Per-User Retrieval Guide<br><br>Most production RAG apps need some sort of per-user (or per-org) retrieval<br><br>🗺️We've recently added a guide showing how to do this with @pinecone! s/o @cyrusofeden for the nudge<br><br>Guide: https://python.langchain.com/docs/use_cases/question_answering/per_user<br><br>Comes down to two steps:<br><br>1⃣ Does the… https://twitter.com/i/web/status/1739702665049964614<br><img style="" src="https://pbs.twimg.com/media/GCSqPx9bsAAwnMZ?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GCSqQcZa8AA3RcI?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 26 Dec 2023 17:40:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739702665049964614</guid>
-            <link>https://twitter.com/LangChainAI/status/1739702665049964614</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🌲RAG With PDFs Want to easily set up a RAG pipeline over PDFs? This great tutorial by our friends at @clarifai goes over how to do exactly that Blo...]]></title>
-            <description><![CDATA[🌲RAG With PDFs<br><br>Want to easily set up a RAG pipeline over PDFs?<br><br>This great tutorial by our friends at @clarifai goes over how to do exactly that<br><br>Blog: https://www.clarifai.com/blog/ai-in-5-rag-with-pdfs<br><img style="" src="https://pbs.twimg.com/media/GCNjnzvbsAAyzgD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 26 Dec 2023 16:52:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739690535630348574</guid>
-            <link>https://twitter.com/LangChainAI/status/1739690535630348574</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Mert: Quick RAG application in python. Replace pinecone with an open-source alternative such as FAISS or Weaviate, for a free application. All from...]]></title>
-            <description><![CDATA[RT Mert<br>Quick RAG application in python.<br><br>Replace pinecone with an open-source alternative such as FAISS or Weaviate, for a free application.<br><br>All from @LangChainAI.<br><img style="" src="https://pbs.twimg.com/media/GCOTKn8XsAEAQnz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 25 Dec 2023 21:20:25 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/MertLovesAI/status/1739395697647006043</guid>
-            <link>https://twitter.com/MertLovesAI/status/1739395697647006043</link>
             
             
             
