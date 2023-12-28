@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 28 Dec 2023 15:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 17:05:14 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🤖3 Levels of Building Agents A great article by @LucasEnkrateia goes over how to build agents in three levels of abstraction: 📰From Scratch 🛠...]]></title>
+            <description><![CDATA[🤖3 Levels of Building Agents<br><br>A great article by @LucasEnkrateia goes over how to build agents in three levels of abstraction:<br><br>📰From Scratch<br>🛠️OpenAI function calling<br>🦜LangChain<br><br>Check it out here: https://lucas-soares.medium.com/building-llm-agents-in-3-levels-of-complexity-from-scratch-openai-functions-langchain-bec68b451b84]]></description>
+            <pubDate>Thu, 28 Dec 2023 16:27:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1740409019901386911</guid>
+            <link>https://twitter.com/LangChainAI/status/1740409019901386911</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Andrew Nguonly: Temperature, top P — does anyone actually know what the optimal values are for these LLM parameters? I don't. So I built a @LangCh...]]></title>
@@ -321,22 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 27 Dec 2023 03:07:52 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739832130811650312</guid>
             <link>https://twitter.com/LangChainAI/status/1739832130811650312</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Austin Vance: Had an old RAG using @LangChainAI's older agents and Chain parent class. Migrated to LCEL and holy cow what a difference. Deleted ton...]]></title>
-            <description><![CDATA[RT Austin Vance<br>Had an old RAG using @LangChainAI's older agents and Chain parent class. Migrated to LCEL and holy cow what a difference. Deleted tons of code. Steps are more clear. Parallel execution means the chain is blazing fast. Great work y'all such a fun one!]]></description>
-            <pubDate>Wed, 27 Dec 2023 02:14:39 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/austinbv/status/1739832130811650312</guid>
-            <link>https://twitter.com/austinbv/status/1739832130811650312</link>
             
             
             
