@@ -24,72 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 28 Dec 2023 06:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 04:06:47 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Andrew Nguonly: Temperature, top P — does anyone actually know what the optimal values are for these LLM parameters? I don't. So I built a @LangCh...]]></title>
-            <description><![CDATA[RT Andrew Nguonly<br>Temperature, top P —  does anyone actually know what the optimal values are for these LLM parameters?<br><br>I don't. So I built a @LangChainAI chat model abstraction (powered by @OLLAMA) to dynamically set them for me.<br><br>A short write-up: https://medium.com/@andrewnguonly/how-did-we-get-stuck-with-temperature-and-frequency-penalty-553c3e585544]]></description>
-            <pubDate>Thu, 28 Dec 2023 05:47:20 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/andrewnguonly/status/1740248041708515559</guid>
-            <link>https://twitter.com/andrewnguonly/status/1740248041708515559</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT HeliosPrime.eth (🌸, 🌿): https://github.com/HeliosPrimeOne/ragforge Locally Ran #Ai #RAG -powered #Solutions for local convos with your Docs! ...]]></title>
-            <description><![CDATA[RT HeliosPrime.eth (🌸, 🌿)<br>https://github.com/HeliosPrimeOne/ragforge<br>Locally Ran #Ai<br>#RAG -powered #Solutions for local convos with your Docs!<br>Utilizing @LangChainAI and Chroma<br>@huggingface Embeds 🌞<br>@LMStudioAI for the API because it just works. Great platform.]]></description>
-            <pubDate>Thu, 28 Dec 2023 05:04:23 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/HeliosPrimeOne/status/1740237233784041551</guid>
-            <link>https://twitter.com/HeliosPrimeOne/status/1740237233784041551</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Milvus: On @ThePracticalDev, Ayush Pandey and @Intuit's Amit Kaushal demonstrate a #SimilaritySearch for asking questions from a wiki page using @L...]]></title>
-            <description><![CDATA[RT Milvus<br>On @ThePracticalDev, Ayush Pandey and @Intuit's Amit Kaushal demonstrate a #SimilaritySearch for asking questions from a wiki page using @LangChainAI and #Milvus. https://bit.ly/3RsLArT]]></description>
-            <pubDate>Thu, 28 Dec 2023 04:53:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/milvusio/status/1740234369963278630</guid>
-            <link>https://twitter.com/milvusio/status/1740234369963278630</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Tarun Jain🦄: Just published a blog article on different ways you can use Open Source Large Language Models from HuggingFace using Langchain Code...]]></title>
-            <description><![CDATA[RT Tarun Jain🦄<br>Just published a blog article on different ways you can use Open Source Large Language Models from HuggingFace using Langchain<br><br>Code Implementation and Explanation:<br>https://www.analyticsvidhya.com/blog/2023/12/implement-huggingface-models-using-langchain/<br><br>@huggingface @LangChainAI <br><br>#AI #ChatGPT]]></description>
-            <pubDate>Thu, 28 Dec 2023 04:42:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/TRJ_0751/status/1740231815217234221</guid>
-            <link>https://twitter.com/TRJ_0751/status/1740231815217234221</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Lucas: Just wrote an article about building simple agents by first just putting functions inside the model's prompts and then calling the API, then...]]></title>
@@ -337,6 +273,70 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 27 Dec 2023 02:14:39 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/austinbv/status/1739832130811650312</guid>
             <link>https://twitter.com/austinbv/status/1739832130811650312</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @woundedkarma what docs in particular are you looking at?]]></title>
+            <description><![CDATA[Re @woundedkarma what docs in particular are you looking at?]]></description>
+            <pubDate>Wed, 27 Dec 2023 01:32:59 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739715169746358428</guid>
+            <link>https://twitter.com/LangChainAI/status/1739715169746358428</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @woundedkarma what endpoint/class? just testing AzureOpenAI and working fine for us]]></title>
+            <description><![CDATA[Re @woundedkarma what endpoint/class? just testing AzureOpenAI and working fine for us]]></description>
+            <pubDate>Wed, 27 Dec 2023 01:32:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739766445066641540</guid>
+            <link>https://twitter.com/LangChainAI/status/1739766445066641540</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[‼️Hands-on RAG meetup‼️ Want to learn how to combine YOUR data with LLMs? Retrieval Augmented Generation (RAG) is the dominant way to do do The Au...]]></title>
+            <description><![CDATA[‼️Hands-on RAG meetup‼️<br><br>Want to learn how to combine YOUR data with LLMs? Retrieval Augmented Generation (RAG) is the dominant way to do do<br><br>The Austin community group will be doing a hands-on RAG meetup - check it out<div class="rsshub-quote"><br><br>Austin LangChain: 🚀 Join us Jan 18 at 1204 San Antonio for a hands-on RAG meetup! Network, learn RAG theory, and get practical with LangChain &amp; Docker. 🌐<br><br>🔗 Details: https://www.meetup.com/austin-langchain-ai-group/events/298155051/ #RAG #AI #TechMeetup #Networking<br></div>]]></description>
+            <pubDate>Wed, 27 Dec 2023 01:27:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739820348416393259</guid>
+            <link>https://twitter.com/LangChainAI/status/1739820348416393259</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Neo4j: Learn how to customize LangChain’s wrapper of #Neo4j vector index. @tb_tomaz goes deep on this integration 👇 https://bit.ly/489bat3 #Lan...]]></title>
+            <description><![CDATA[RT Neo4j<br>Learn how to customize LangChain’s wrapper of #Neo4j vector index.<br>@tb_tomaz  goes deep on this integration 👇 <br>https://bit.ly/489bat3<br><br>#Langchain @LangChainAI  #vector]]></description>
+            <pubDate>Tue, 26 Dec 2023 20:39:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/neo4j/status/1739747663342440488</guid>
+            <link>https://twitter.com/neo4j/status/1739747663342440488</link>
             
             
             
