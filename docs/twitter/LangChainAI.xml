@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 27 Dec 2023 23:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 02:02:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Lucas: Just wrote an article about building simple agents by first just putting functions inside the model's prompts and then calling the API, then...]]></title>
+            <description><![CDATA[RT Lucas<br>Just wrote an article about building simple agents by first just putting functions inside the model's prompts and then calling the API, then with @OpenAI  function calling, then with @LangChainAI .  Check it out here:<br>https://medium.com/p/bec68b451b84]]></description>
+            <pubDate>Wed, 27 Dec 2023 23:16:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LucasEnkrateia/status/1740149796986609883</guid>
+            <link>https://twitter.com/LucasEnkrateia/status/1740149796986609883</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Benjamin ELKRIEFF: One of the major challenges when working with ChatGPT is its limitation in accessing real-time data. Check out Christian Braun's...]]></title>
@@ -321,22 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 26 Dec 2023 20:39:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/neo4j/status/1739747663342440488</guid>
             <link>https://twitter.com/neo4j/status/1739747663342440488</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[⭐️(Community Spotlight) How LangChain Transforms Data Analysis and More Want to learn how to build an agent for data analysis? This blog walks throu...]]></title>
-            <description><![CDATA[⭐️(Community Spotlight) How LangChain Transforms Data Analysis and More<br><br>Want to learn how to build an agent for data analysis? This blog walks through that and more, covering a few different use cases for LangChain<br><br>h/t Ankush Singal<br><br>Blog: https://ai.gopubby.com/unlocking-the-power-of-language-how-langchain-transforms-data-analysis-and-more-3c4f327d520d<br><img style="" src="https://pbs.twimg.com/media/GCNhhdobwAAvLaL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 26 Dec 2023 17:44:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1739703621686636747</guid>
-            <link>https://twitter.com/LangChainAI/status/1739703621686636747</link>
             
             
             
