@@ -15,8 +15,56 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 29 Dec 2023 05:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 07:35:59 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Compact Neural Graphics Primitives with Learned Hash Probing]]></title>
+            <description><![CDATA[Neural graphics primitives are faster and achieve higher quality when their neural networks are augmented by spatial data structures that hold trainable features arranged in a grid. However, existing feature grids either come with a large memory footprint (dense or factorized grids, trees, and hash tables) or slow performance (index learning and vector quantization). In this paper, we show that a hash table with learned probes has neither disadvantage, resulting in a favorable combination of size and speed. Inference is faster than unprobed hash tables at equal quality while training is only 1.2-2.6x slower, significantly outperforming prior index learning approaches. We arrive at this formulation by casting all feature grids into a common framework: they each correspond to a lookup function that indexes into a table of feature vectors. In this framework, the lookup functions of existing data structures can be combined by simple arithmetic combinations of their indices, resulting in Pareto optimal compression and speed.]]></description>
+            <pubDate>Fri, 29 Dec 2023 06:22:38 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.17241</guid>
+            <link>https://arxiv.org/abs/2312.17241</link>
+            
+            
+            
+            <author><![CDATA[Towaki Takikawa, Thomas Müller, Merlin Nimier-David, Alex Evans, Sanja Fidler, Alec Jacobson, Alexander Keller]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Restoration by Generation with Constrained Priors]]></title>
+            <description><![CDATA[The inherent generative power of denoising diffusion models makes them well-suited for image restoration tasks where the objective is to find the optimal high-quality image within the generative space that closely resembles the input image. We propose a method to adapt a pretrained diffusion model for image restoration by simply adding noise to the input image to be restored and then denoise. Our method is based on the observation that the space of a generative model needs to be constrained. We impose this constraint by finetuning the generative model with a set of anchor images that capture the characteristics of the input image. With the constrained space, we can then leverage the sampling strategy used for generation to do image restoration. We evaluate against previous methods and show superior performances on multiple real-world restoration datasets in preserving identity and image quality. We also demonstrate an important and practical application on personalized restoration, where we use a personal album as the anchor images to constrain the generative space. This approach allows us to produce results that accurately preserve high-frequency details, which previous works are unable to do. Project webpage: https://gen2res.github.io.]]></description>
+            <pubDate>Fri, 29 Dec 2023 06:16:59 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.17161</guid>
+            <link>https://arxiv.org/abs/2312.17161</link>
+            
+            
+            
+            <author><![CDATA[Zheng Ding, Xuaner Zhang, Zhuowen Tu, Zhihao Xia]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SSR-Encoder: Encoding Selective Subject Representation for Subject-Driven Generation]]></title>
+            <description><![CDATA[Recent advancements in subject-driven image generation have led to zero-shot generation, yet precise selection and focus on crucial subject representations remain challenging. Addressing this, we introduce the SSR-Encoder, a novel architecture designed for selectively capturing any subject from single or multiple reference images. It responds to various query modalities including text and masks, without necessitating test-time fine-tuning. The SSR-Encoder combines a Token-to-Patch Aligner that aligns query inputs with image patches and a Detail-Preserving Subject Encoder for extracting and preserving fine features of the subjects, thereby generating subject embeddings. These embeddings, used in conjunction with original text embeddings, condition the generation process. Characterized by its model generalizability and efficiency, the SSR-Encoder adapts to a range of custom models and control modules. Enhanced by the Embedding Consistency Regularization Loss for improved training, our extensive experiments demonstrate its effectiveness in versatile and high-quality image generation, indicating its broad applicability. Project page: https://ssr-encoder.github.io]]></description>
+            <pubDate>Fri, 29 Dec 2023 06:10:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2312.16272</guid>
+            <link>https://arxiv.org/abs/2312.16272</link>
+            
+            
+            
+            <author><![CDATA[Yuxuan Zhang, Jiaming Liu, Yiren Song, Rui Wang, Hao Tang, Jinpeng Yu, Huaxia Li, Xu Tang, Yao Hu, Han Pan, Zhongliang Jing]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks]]></title>
