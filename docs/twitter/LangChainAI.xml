@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 30 Dec 2023 18:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 16:06:40 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[⭐️Quivr: your GenAI 2nd Brain One of the most popular RAG apps out their is Quivr. Even better: it can be run completely locally Check out this awes...]]></title>
-            <description><![CDATA[⭐️Quivr: your GenAI 2nd Brain<br><br>One of the most popular RAG apps out their is Quivr. Even better: it can be run completely locally<br><br>Check out this awesome video by @mesudarshan on how to run it<br><br>- Llama2 model with @OLLAMA<br>- Uses @Docker &amp; @supabase &amp; @LangChainAI<br>- LangSmith for… https://twitter.com/i/web/status/1741139405648318747<br><img style="" src="https://pbs.twimg.com/media/GCnFBbabUAARw_G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 30 Dec 2023 16:49:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1741139405648318747</guid>
-            <link>https://twitter.com/LangChainAI/status/1741139405648318747</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[As the year draws to a close, highlighting two pieces of content that really summed up 2023 for LangChain: 👑LangChain State of AI 2023: highlightin...]]></title>
@@ -321,6 +305,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 27 Dec 2023 18:25:50 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/stuffyokodraws/status/1740076539449143633</guid>
             <link>https://twitter.com/stuffyokodraws/status/1740076539449143633</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT virat: Yesterday, LangChain released a neat "per-user" retrieval guide. For my financial assistant, I modified the guide's code to do "per-ticker" ...]]></title>
+            <description><![CDATA[RT virat<br>Yesterday, LangChain released a neat "per-user" retrieval guide.<br><br>For my financial assistant, I modified the guide's code to do "per-ticker" retrieval for financial analysis.<br><br>It worked really well.<br><br>In my code, I used:<br>- qa chain from @LangChainAI <br>- vector store from @pinecone… https://twitter.com/i/web/status/1740073632305483869<br><img style="" src="https://pbs.twimg.com/media/GCX6HGrXEAAozKn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 27 Dec 2023 18:14:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/virattt/status/1740073632305483869</guid>
+            <link>https://twitter.com/virattt/status/1740073632305483869</link>
             
             
             
