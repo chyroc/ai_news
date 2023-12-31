@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 31 Dec 2023 15:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 17:49:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🧮Evaluating RAG pipelines using LangChain and Ragas LangChain can help you build RAG pipelines, but how do you evaluate them? We have a great integ...]]></title>
+            <description><![CDATA[🧮Evaluating RAG pipelines using LangChain and Ragas<br><br>LangChain can help you build RAG pipelines, but how do you evaluate them?<br><br>We have a great integration with RAGAS to do exactly that!<br><br>h/t @DataScienceHarp for writing all about it<br><br>Blog: https://deci.ai/blog/evaluating-rag-pipelines-using-langchain-and-ragas/<br><img style="" src="https://pbs.twimg.com/media/GCnHrLkbIAANkkE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 31 Dec 2023 17:28:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1741511534604620187</guid>
+            <link>https://twitter.com/LangChainAI/status/1741511534604620187</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🏗️Building your own RAGs with LangChain A practical tutorial from Madhav Thacker (Senior Data Scientist @Shopify) on how to build your own RAGs wi...]]></title>
+            <description><![CDATA[🏗️Building your own RAGs with LangChain<br><br>A practical tutorial from Madhav Thacker (Senior Data Scientist @Shopify) on how to build your own RAGs with @LangChainAI⛏️<br><br>Thanks to our friends at @arizeai for organizing!<br><br>YouTube: https://www.youtube.com/watch?v=IUEny5cbys8<br><img style="" src="https://pbs.twimg.com/media/GCnG6WDbcAAfsAv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 31 Dec 2023 16:57:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1741503733115052360</guid>
+            <link>https://twitter.com/LangChainAI/status/1741503733115052360</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Emrick Donadei: I completely missed that the @LangChainAI quickstart with @OLLAMA is amazing. Allows to run a full LLM chain on a m1 pro with ease,...]]></title>
@@ -268,22 +300,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[RT HeliosPrime.eth (🌸, 🌿): https://github.com/HeliosPrimeOne/ragforge Locally Ran #Ai #RAG -powered #Solutions for local convos with your Docs! ...]]></title>
-            <description><![CDATA[RT HeliosPrime.eth (🌸, 🌿)<br>https://github.com/HeliosPrimeOne/ragforge<br>Locally Ran #Ai<br>#RAG -powered #Solutions for local convos with your Docs!<br>Utilizing @LangChainAI and Chroma<br>@huggingface Embeds 🌞<br>@LMStudioAI for the API because it just works. Great platform.]]></description>
-            <pubDate>Thu, 28 Dec 2023 05:04:23 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/HeliosPrimeOne/status/1740237233784041551</guid>
-            <link>https://twitter.com/HeliosPrimeOne/status/1740237233784041551</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Milvus: On @ThePracticalDev, Ayush Pandey and @Intuit's Amit Kaushal demonstrate a #SimilaritySearch for asking questions from a wiki page using @L...]]></title>
             <description><![CDATA[RT Milvus<br>On @ThePracticalDev, Ayush Pandey and @Intuit's Amit Kaushal demonstrate a #SimilaritySearch for asking questions from a wiki page using @LangChainAI and #Milvus. https://bit.ly/3RsLArT]]></description>
             <pubDate>Thu, 28 Dec 2023 04:53:00 GMT</pubDate>
@@ -305,22 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 28 Dec 2023 04:42:51 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/TRJ_0751/status/1740231815217234221</guid>
             <link>https://twitter.com/TRJ_0751/status/1740231815217234221</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Lucas: Just wrote an article about building simple agents by first just putting functions inside the model's prompts and then calling the API, then...]]></title>
-            <description><![CDATA[RT Lucas<br>Just wrote an article about building simple agents by first just putting functions inside the model's prompts and then calling the API, then with @OpenAI  function calling, then with @LangChainAI .  Check it out here:<br>https://medium.com/p/bec68b451b84]]></description>
-            <pubDate>Wed, 27 Dec 2023 23:16:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LucasEnkrateia/status/1740149796986609883</guid>
-            <link>https://twitter.com/LucasEnkrateia/status/1740149796986609883</link>
             
             
             
