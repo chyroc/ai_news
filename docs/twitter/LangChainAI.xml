@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 30 Dec 2023 22:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 01:25:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Emrick Donadei: I completely missed that the @LangChainAI quickstart with @OLLAMA is amazing. Allows to run a full LLM chain on a m1 pro with ease,...]]></title>
+            <description><![CDATA[RT Emrick Donadei<br>I completely missed that the @LangChainAI quickstart with @OLLAMA is amazing. Allows to run a full LLM chain on a m1 pro with ease, even easily implementing RAG and stuff.]]></description>
+            <pubDate>Sat, 30 Dec 2023 23:14:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/edonadei_/status/1741236267143078148</guid>
+            <link>https://twitter.com/edonadei_/status/1741236267143078148</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🖼️Multimodal RAG using Langchain Expression Language And GPT4-Vision Great guide from Plaban Nayak on multimodal RAG. We suspect this will become ...]]></title>
@@ -49,6 +65,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 30 Dec 2023 16:49:17 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1741139405648318747</guid>
             <link>https://twitter.com/LangChainAI/status/1741139405648318747</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Nazeem: Dialoqbase v1.6.0 update! We now support .@OLLAMA Here's an example using Mistral, fully local, to chat and generate HTML. 🚀 Powered by ...]]></title>
+            <description><![CDATA[RT Nazeem<br>Dialoqbase v1.6.0 update! We now support .@OLLAMA Here's an example using Mistral, fully local, to chat and generate HTML. 🚀<br><br>Powered by @LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1741096654369890304/pu/vid/avc1/1680x720/qNkcuSUi7EfKAU1G.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1741096654369890304/pu/img/A4SiGciM_5Bp-dSa.jpg"></video>]]></description>
+            <pubDate>Sat, 30 Dec 2023 14:04:52 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/n4ze3m/status/1741098028516434227</guid>
+            <link>https://twitter.com/n4ze3m/status/1741098028516434227</link>
             
             
             
@@ -289,38 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 27 Dec 2023 23:16:56 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LucasEnkrateia/status/1740149796986609883</guid>
             <link>https://twitter.com/LucasEnkrateia/status/1740149796986609883</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Mert Cakmak: Three teams have been dominating the LLM game for a while: @MistralAI for sota LLMs 🦙 @LangChainAI for building with LLMs 🦜 @tog...]]></title>
-            <description><![CDATA[RT Mert Cakmak<br>Three teams have been dominating the LLM game for a while:<br><br>@MistralAI for sota LLMs 🦙<br>@LangChainAI for building with LLMs 🦜 @togethercompute for serving LLMs 🚀<br><br>If you know how, you can build things really, really fast now.<br><br>Brief intro and code walk-through for you 👇]]></description>
-            <pubDate>Wed, 27 Dec 2023 19:14:30 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/umitmertcakmak/status/1740088787173011933</guid>
-            <link>https://twitter.com/umitmertcakmak/status/1740088787173011933</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Yoko: Re @thorwebdev is incredibly good at explaining how the local ai stack works - try this out during the holidays! 🎁 Built with @supabase @O...]]></title>
-            <description><![CDATA[RT Yoko<br>Re @thorwebdev is incredibly good at explaining how the local ai stack works - try this out during the holidays! 🎁<br><br>Built with @supabase @OLLAMA @LangChainAI @huggingface transformer.js and @nextjs<div class="rsshub-quote"><br><br>Supabase: Check out this starter kit to build *local-only* AI apps that cost $0 to run! <br>By @stuffyokodraws using @OLLAMA @LangChainAI @nextjs @huggingface and Supabase.<br><br>Join @thorwebdev in this unboxing video <br><br>🎁 https://youtu.be/5_GfGf4lAQ8<br><br><img style="" src="https://pbs.twimg.com/media/GCXdNcLXEAATJjT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 27 Dec 2023 18:25:50 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/stuffyokodraws/status/1740076539449143633</guid>
-            <link>https://twitter.com/stuffyokodraws/status/1740076539449143633</link>
             
             
             
