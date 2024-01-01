@@ -15,56 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 01 Jan 2024 05:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 03:21:06 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Learning Vision from Models Rivals Learning Vision from Data]]></title>
-            <description><![CDATA[We introduce SynCLR, a novel approach for learning visual representations exclusively from synthetic images and synthetic captions, without any real data. We synthesize a large dataset of image captions using LLMs, then use an off-the-shelf text-to-image model to generate multiple images corresponding to each synthetic caption. We perform visual representation learning on these synthetic images via contrastive learning, treating images sharing the same caption as positive pairs. The resulting representations transfer well to many downstream tasks, competing favorably with other general-purpose visual representation learners such as CLIP and DINO v2 in image classification tasks. Furthermore, in dense prediction tasks such as semantic segmentation, SynCLR outperforms previous self-supervised methods by a significant margin, e.g., improving over MAE and iBOT by 6.2 and 4.3 mIoU on ADE20k for ViT-B/16.]]></description>
-            <pubDate>Mon, 01 Jan 2024 03:47:47 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.17742</guid>
-            <link>https://arxiv.org/abs/2312.17742</link>
-            
-            
-            
-            <author><![CDATA[Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, Phillip Isola]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis]]></title>
-            <description><![CDATA[Diffusion models have transformed the image-to-image (I2I) synthesis and are now permeating into videos. However, the advancement of video-to-video (V2V) synthesis has been hampered by the challenge of maintaining temporal consistency across video frames. This paper proposes a consistent V2V synthesis framework by jointly leveraging spatial conditions and temporal optical flow clues within the source video. Contrary to prior methods that strictly adhere to optical flow, our approach harnesses its benefits while handling the imperfection in flow estimation. We encode the optical flow via warping from the first frame and serve it as a supplementary reference in the diffusion model. This enables our model for video synthesis by editing the first frame with any prevalent I2I models and then propagating edits to successive frames. Our V2V model, FlowVid, demonstrates remarkable properties: (1) Flexibility: FlowVid works seamlessly with existing I2I models, facilitating various modifications, including stylization, object swaps, and local edits. (2) Efficiency: Generation of a 4-second video with 30 FPS and 512x512 resolution takes only 1.5 minutes, which is 3.1x, 7.2x, and 10.5x faster than CoDeF, Rerender, and TokenFlow, respectively. (3) High-quality: In user studies, our FlowVid is preferred 45.7% of the time, outperforming CoDeF (3.5%), Rerender (10.2%), and TokenFlow (40.4%).]]></description>
-            <pubDate>Mon, 01 Jan 2024 03:42:55 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.17681</guid>
-            <link>https://arxiv.org/abs/2312.17681</link>
-            
-            
-            
-            <author><![CDATA[Feng Liang, Bichen Wu, Jialiang Wang, Licheng Yu, Kunpeng Li, Yinan Zhao, Ishan Misra, Jia-Bin Huang, Peizhao Zhang, Peter Vajda, Diana Marculescu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LARP: Language-Agent Role Play for Open-World Games]]></title>
-            <description><![CDATA[Language agents have shown impressive problem-solving skills within defined settings and brief timelines. Yet, with the ever-evolving complexities of open-world simulations, there's a pressing need for agents that can flexibly adapt to complex environments and consistently maintain a long-term memory to ensure coherent actions. To bridge the gap between language agents and open-world games, we introduce Language Agent for Role-Playing (LARP), which includes a cognitive architecture that encompasses memory processing and a decision-making assistant, an environment interaction module with a feedback-driven learnable action space, and a postprocessing method that promotes the alignment of various personalities. The LARP framework refines interactions between users and agents, predefined with unique backgrounds and personalities, ultimately enhancing the gaming experience in open-world contexts. Furthermore, it highlights the diverse uses of language models in a range of areas such as entertainment, education, and various simulation scenarios. The project page is released at https://miao-ai-lab.github.io/LARP/.]]></description>
-            <pubDate>Mon, 01 Jan 2024 03:23:37 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2312.17653</guid>
-            <link>https://arxiv.org/abs/2312.17653</link>
-            
-            
-            
-            <author><![CDATA[Ming Yan, Ruihao Li, Hao Zhang, Hao Wang, Zhilan Yang, Ji Yan]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[PanGu-$π$: Enhancing Language Model Architectures via Nonlinearity Compensation]]></title>
