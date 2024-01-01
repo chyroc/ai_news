@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 01 Jan 2024 13:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 17:05:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Shroominic: FastUI-Chat is now available as pypi package: just `pip install fastui-chat` and quickly spin up an interface for your @LangChainAI cha...]]></title>
+            <description><![CDATA[RT Shroominic<br>FastUI-Chat is now available as pypi package:<br>just `pip install fastui-chat` and quickly spin up an  interface for your @LangChainAI chatbots!<br><img style="" src="https://pbs.twimg.com/media/GCxDhlGWMAAdYIU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 01 Jan 2024 15:26:06 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Shroominic/status/1741843248132329739</guid>
+            <link>https://twitter.com/Shroominic/status/1741843248132329739</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🧮Evaluating RAG pipelines using LangChain and Ragas LangChain can help you build RAG pipelines, but how do you evaluate them? We have a great integ...]]></title>
@@ -289,22 +305,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 28 Dec 2023 05:47:20 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/andrewnguonly/status/1740248041708515559</guid>
             <link>https://twitter.com/andrewnguonly/status/1740248041708515559</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Milvus: On @ThePracticalDev, Ayush Pandey and @Intuit's Amit Kaushal demonstrate a #SimilaritySearch for asking questions from a wiki page using @L...]]></title>
-            <description><![CDATA[RT Milvus<br>On @ThePracticalDev, Ayush Pandey and @Intuit's Amit Kaushal demonstrate a #SimilaritySearch for asking questions from a wiki page using @LangChainAI and #Milvus. https://bit.ly/3RsLArT]]></description>
-            <pubDate>Thu, 28 Dec 2023 04:53:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/milvusio/status/1740234369963278630</guid>
-            <link>https://twitter.com/milvusio/status/1740234369963278630</link>
             
             
             
