@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 03 Jan 2024 00:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 02:10:28 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity]]></title>
-            <description><![CDATA[Score distillation has emerged as one of the most prevalent approaches for text-to-3D asset synthesis. Essentially, score distillation updates 3D parameters by lifting and back-propagating scores averaged over different views. In this paper, we reveal that the gradient estimation in score distillation is inherent to high variance. Through the lens of variance reduction, the effectiveness of SDS and VSD can be interpreted as applications of various control variates to the Monte Carlo estimator of the distilled score. Motivated by this rethinking and based on Stein's identity, we propose a more general solution to reduce variance for score distillation, termed Stein Score Distillation (SSD). SSD incorporates control variates constructed by Stein identity, allowing for arbitrary baseline functions. This enables us to include flexible guidance priors and network architectures to explicitly optimize for variance reduction. In our experiments, the overall pipeline, dubbed SteinDreamer, is implemented by instantiating the control variate with a monocular depth estimator. The results suggest that SSD can effectively reduce the distillation variance and consistently improve visual quality for both object- and scene-level generation. Moreover, we demonstrate that SteinDreamer achieves faster convergence than existing methods due to more stable gradient updates.]]></description>
-            <pubDate>Tue, 02 Jan 2024 05:23:11 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00604</guid>
-            <link>https://arxiv.org/abs/2401.00604</link>
+            <title><![CDATA[VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM]]></title>
+            <description><![CDATA[The recent innovations and breakthroughs in diffusion models have significantly expanded the possibilities of generating high-quality videos for the given prompts. Most existing works tackle the single-scene scenario with only one video event occurring in a single background. Extending to generate multi-scene videos nevertheless is not trivial and necessitates to nicely manage the logic in between while preserving the consistent visual appearance of key content across video scenes. In this paper, we propose a novel framework, namely VideoDrafter, for content-consistent multi-scene video generation. Technically, VideoDrafter leverages Large Language Models (LLM) to convert the input prompt into comprehensive multi-scene script that benefits from the logical knowledge learnt by LLM. The script for each scene includes a prompt describing the event, the foreground/background entities, as well as camera movement. VideoDrafter identifies the common entities throughout the script and asks LLM to detail each entity. The resultant entity description is then fed into a text-to-image model to generate a reference image for each entity. Finally, VideoDrafter outputs a multi-scene video by generating each scene video via a diffusion process that takes the reference images, the descriptive prompt of the event and camera movement into account. The diffusion model incorporates the reference images as the condition and alignment to strengthen the content consistency of multi-scene videos. Extensive experiments demonstrate that VideoDrafter outperforms the SOTA video generation models in terms of visual quality, content consistency, and user preference.]]></description>
+            <pubDate>Wed, 03 Jan 2024 01:59:08 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01256</guid>
+            <link>https://arxiv.org/abs/2401.01256</link>
             
             
             
-            <author><![CDATA[Peihao Wang, Zhiwen Fan, Dejia Xu, Dilin Wang, Sreyas Mohan, Forrest Iandola, Rakesh Ranjan, Yilei Li, Qiang Liu, Zhangyang Wang, Vikas Chandra]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boosting Large Language Model for Speech Synthesis: An Empirical Study]]></title>
-            <description><![CDATA[Large language models (LLMs) have made significant advancements in natural language processing and are concurrently extending the language ability to other modalities, such as speech and vision. Nevertheless, most of the previous work focuses on prompting LLMs with perception abilities like auditory comprehension, and the effective approach for augmenting LLMs with speech synthesis capabilities remains ambiguous. In this paper, we conduct a comprehensive empirical exploration of boosting LLMs with the ability to generate speech, by combining pre-trained LLM LLaMA/OPT and text-to-speech synthesis model VALL-E. We compare three integration methods between LLMs and speech synthesis models, including directly fine-tuned LLMs, superposed layers of LLMs and VALL-E, and coupled LLMs and VALL-E using LLMs as a powerful text encoder. Experimental results show that, using LoRA method to fine-tune LLMs directly to boost the speech synthesis capability does not work well, and superposed LLMs and VALL-E can improve the quality of generated speech both in speaker similarity and word error rate (WER). Among these three methods, coupled methods leveraging LLMs as the text encoder can achieve the best performance, making it outperform original speech synthesis models with a consistently better speaker similarity and a significant (10.9%) WER reduction.]]></description>
-            <pubDate>Tue, 02 Jan 2024 05:10:09 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00246</guid>
-            <link>https://arxiv.org/abs/2401.00246</link>
-            
-            
-            
-            <author><![CDATA[Hongkun Hao, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei]]></author>
+            <author><![CDATA[Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei]]></author>
             
                 
             
@@ -51,95 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training]]></title>
-            <description><![CDATA[In the evolution of Vision-Language Pre-training, shifting from short-text comprehension to encompassing extended textual contexts is pivotal. Recent autoregressive vision-language models like flamingo, palme, leveraging the long-context capability of Large Language Models, have excelled in few-shot text generation tasks but face challenges in alignment tasks. Addressing this gap, we introduce the contrastive loss into text generation models, presenting the COntrastive-Streamlined MultimOdal framework (\ModelName), strategically partitioning the language model into dedicated unimodal text processing and adept multimodal data handling components. \ModelName, our unified framework, merges unimodal and multimodal elements, enhancing model performance for tasks involving textual and visual data while notably reducing learnable parameters. However, these models demand extensive long-text datasets, yet the availability of high-quality long-text video datasets remains limited. To bridge this gap, this work introduces \VideoDatasetName, an inaugural interleaved video-text dataset featuring comprehensive captions, marking a significant step forward. Demonstrating its impact, we illustrate how  enhances model performance in image-text tasks. With 34% learnable parameters and utilizing 72\% of the available data, our model demonstrates significant superiority over OpenFlamingo~openflamingo. For instance, in the 4-shot flickr captioning task, performance notably improves from 57.2% to 65.\%. The contributions of  and  are underscored by notable performance gains across 14 diverse downstream datasets encompassing both image-text and video-text tasks.]]></description>
-            <pubDate>Tue, 02 Jan 2024 04:51:57 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00849</guid>
-            <link>https://arxiv.org/abs/2401.00849</link>
+            <title><![CDATA[TrailBlazer: Trajectory Control for Diffusion-Based Video Generation]]></title>
+            <description><![CDATA[Within recent approaches to text-to-video (T2V) generation, achieving controllability in the synthesized video is often a challenge. Typically, this issue is addressed by providing low-level per-frame guidance in the form of edge maps, depth maps, or an existing video to be altered. However, the process of obtaining such guidance can be labor-intensive. This paper focuses on enhancing controllability in video synthesis by employing straightforward bounding boxes to guide the subject in various ways, all without the need for neural network training, finetuning, optimization at inference time, or the use of pre-existing videos. Our algorithm, TrailBlazer, is constructed upon a pre-trained (T2V) model, and easy to implement. The subject is directed by a bounding box through the proposed spatial and temporal attention map editing. Moreover, we introduce the concept of keyframing, allowing the subject trajectory and overall appearance to be guided by both a moving bounding box and corresponding prompts, without the need to provide a detailed mask. The method is efficient, with negligible additional computation relative to the underlying pre-trained model. Despite the simplicity of the bounding box guidance, the resulting motion is surprisingly natural, with emergent effects including perspective and movement toward the virtual camera as the box size increases.]]></description>
+            <pubDate>Wed, 03 Jan 2024 01:43:06 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.00896</guid>
+            <link>https://arxiv.org/abs/2401.00896</link>
             
             
             
-            <author><![CDATA[Alex Jinpeng Wang, Linjie Li, Kevin Qinghong Lin, Jianfeng Wang, Kevin Lin, Zhengyuan Yang, Lijuan Wang, Mike Zheng Shou]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Astraios: Parameter-Efficient Instruction Tuning Code Large Language Models]]></title>
-            <description><![CDATA[The high cost of full-parameter fine-tuning (FFT) of Large Language Models (LLMs) has led to a series of parameter-efficient fine-tuning (PEFT) methods. However, it remains unclear which methods provide the best cost-performance trade-off at different model scales. We introduce Astraios, a suite of 28 instruction-tuned OctoCoder models using 7 tuning methods and 4 model sizes up to 16 billion parameters. Through investigations across 5 tasks and 8 different datasets encompassing both code comprehension and code generation tasks, we find that FFT generally leads to the best downstream performance across all scales, and PEFT methods differ significantly in their efficacy based on the model scale. LoRA usually offers the most favorable trade-off between cost and performance. Further investigation into the effects of these methods on both model robustness and code security reveals that larger models tend to demonstrate reduced robustness and less security. At last, we explore the relationships among updated parameters, cross-entropy loss, and task performance. We find that the tuning effectiveness observed in small models generalizes well to larger models, and the validation loss in instruction tuning can be a reliable indicator of overall downstream performance.]]></description>
-            <pubDate>Tue, 02 Jan 2024 04:39:49 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00788</guid>
-            <link>https://arxiv.org/abs/2401.00788</link>
-            
-            
-            
-            <author><![CDATA[Terry Yue Zhuo, Armel Zebaze, Nitchakarn Suppattarachai, Leandro von Werra, Harm de Vries, Qian Liu, Niklas Muennighoff]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws]]></title>
-            <description><![CDATA[Large language model (LLM) scaling laws are empirical formulas that estimate changes in model quality as a result of increasing parameter count and training data. However, these formulas, including the popular DeepMind Chinchilla scaling laws, neglect to include the cost of inference. We modify the Chinchilla scaling laws to calculate the optimal LLM parameter count and pre-training data size to train and deploy a model of a given quality and inference demand. We conduct our analysis both in terms of a compute budget and real-world costs and find that LLM researchers expecting reasonably large inference demand (~1B requests) should train models smaller and longer than Chinchilla-optimal.]]></description>
-            <pubDate>Tue, 02 Jan 2024 04:17:25 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00448</guid>
-            <link>https://arxiv.org/abs/2401.00448</link>
-            
-            
-            
-            <author><![CDATA[Nikhil Sardana, Jonathan Frankle]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[GeoGalactica: A Scientific Large Language Model in Geoscience]]></title>
-            <description><![CDATA[Large language models (LLMs) have achieved huge success for their general knowledge and ability to solve a wide spectrum of tasks in natural language processing (NLP). Due to their impressive abilities, LLMs have shed light on potential inter-discipline applications to foster scientific discoveries of a specific domain by using artificial intelligence (AI for science, AI4S). In the meantime, utilizing NLP techniques in geoscience research and practice is wide and convoluted, contributing from knowledge extraction and document classification to question answering and knowledge discovery. In this work, we take the initial step to leverage LLM for science, through a rather straightforward approach. We try to specialize an LLM into geoscience, by further pre-training the model with a vast amount of texts in geoscience, as well as supervised fine-tuning (SFT) the resulting model with our custom collected instruction tuning dataset. These efforts result in a model GeoGalactica consisting of 30 billion parameters. To our best knowledge, it is the largest language model for the geoscience domain. More specifically, GeoGalactica is from further pre-training of Galactica. We train GeoGalactica over a geoscience-related text corpus containing 65 billion tokens curated from extensive data sources in the big science project Deep-time Digital Earth (DDE), preserving as the largest geoscience-specific text corpus. Then we fine-tune the model with 1 million pairs of instruction-tuning data consisting of questions that demand professional geoscience knowledge to answer. In this technical report, we will illustrate in detail all aspects of GeoGalactica, including data collection, data cleaning, base model selection, pre-training, SFT, and evaluation. We open-source our data curation tools and the checkpoints of GeoGalactica during the first 3/4 of pre-training.]]></description>
-            <pubDate>Tue, 02 Jan 2024 04:09:10 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00434</guid>
-            <link>https://arxiv.org/abs/2401.00434</link>
-            
-            
-            
-            <author><![CDATA[Zhouhan Lin, Cheng Deng, Le Zhou, Tianhang Zhang, Yi Xu, Yutong Xu, Zhongmou He, Yuanyuan Shi, Beiya Dai, Yunchong Song, Boyi Zeng, Qiyuan Chen, Tao Shi, Tianyu Huang, Yiwei Xu, Shu Wang, Luoyi Fu, Weinan Zhang, Junxian He, Chao Ma, Yunqiang Zhu, Xinbing Wang, Chenghu Zhou]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Improving Text Embeddings with Large Language Models]]></title>
-            <description><![CDATA[In this paper, we introduce a novel and simple method for obtaining high-quality text embeddings using only synthetic data and less than 1k training steps. Unlike existing methods that often depend on multi-stage intermediate pre-training with billions of weakly-supervised text pairs, followed by fine-tuning with a few labeled datasets, our method does not require building complex training pipelines or relying on manually collected datasets that are often constrained by task diversity and language coverage. We leverage proprietary LLMs to generate diverse synthetic data for hundreds of thousands of text embedding tasks across nearly 100 languages. We then fine-tune open-source decoder-only LLMs on the synthetic data using standard contrastive loss. Experiments demonstrate that our method achieves strong performance on highly competitive text embedding benchmarks without using any labeled data. Furthermore, when fine-tuned with a mixture of synthetic and labeled data, our model sets new state-of-the-art results on the BEIR and MTEB benchmarks.]]></description>
-            <pubDate>Tue, 02 Jan 2024 04:03:28 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00368</guid>
-            <link>https://arxiv.org/abs/2401.00368</link>
-            
-            
-            
-            <author><![CDATA[Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, Furu Wei]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Unicron: Economizing Self-Healing LLM Training at Scale]]></title>
-            <description><![CDATA[Training large-scale language models is increasingly critical in various domains, but it is hindered by frequent failures, leading to significant time and economic costs. Current failure recovery methods in cloud-based settings inadequately address the diverse and complex scenarios that arise, focusing narrowly on erasing downtime for individual tasks without considering the overall cost impact on a cluster. We introduce Unicron, a workload manager designed for efficient self-healing in large-scale language model training. Unicron optimizes the training process by minimizing failure-related costs across multiple concurrent tasks within a cluster. Its key features include in-band error detection for real-time error identification without extra overhead, a dynamic cost-aware plan generation mechanism for optimal reconfiguration, and an efficient transition strategy to reduce downtime during state changes. Deployed on a 128-GPU distributed cluster, Unicron demonstrates up to a 1.9x improvement in training efficiency over state-of-the-art methods, significantly reducing failure recovery costs and enhancing the reliability of large-scale language model training.]]></description>
-            <pubDate>Tue, 02 Jan 2024 04:01:40 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.00134</guid>
-            <link>https://arxiv.org/abs/2401.00134</link>
-            
-            
-            
-            <author><![CDATA[Tao He, Xue Li, Zhibin Wang, Kun Qian, Jingbo Xu, Wenyuan Yu, Jingren Zhou]]></author>
+            <author><![CDATA[Wan-Duo Kurt Ma, J. P. Lewis, W. Bastiaan Kleijn]]></author>
             
                 
             
