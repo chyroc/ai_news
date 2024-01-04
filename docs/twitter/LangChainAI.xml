@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 04 Jan 2024 15:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 17:27:45 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[✂️ Information Extraction using LLMs This great blog walks through how to create an app that allows you to: 📁Upload a file of your choice 🧱Spe...]]></title>
+            <description><![CDATA[✂️ Information Extraction using LLMs<br><br>This great blog walks through how to create an app that allows you to:<br><br>📁Upload a file of your choice<br>🧱Specify the schema you want to extract<br><br>And then it pulls out all that info!<br><br>Blog: https://pub.towardsai.net/demystifying-information-extraction-using-llm-f1a551f01f66<br><br>Full code links in blog!<br><img style="" src="https://pbs.twimg.com/media/GC-dQTdbAAAscln?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GC-dTOHbsAAzLWW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 04 Jan 2024 17:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742954042899169600</guid>
+            <link>https://twitter.com/LangChainAI/status/1742954042899169600</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Our community is awesome! Incredible to see this animation of the LangChain GitHub repository over time Thank you to everyone who shows up!! Can you s...]]></title>
+            <description><![CDATA[Our community is awesome!<br><br>Incredible to see this animation of the LangChain GitHub repository over time<br><br>Thank you to everyone who shows up!! Can you spot yourself?<div class="rsshub-quote"><br><br>Bassem Dghaidi: It's fascinating to see how the @LangChainAI / langchain GitHub repository evolved over time. The power of open source communities is mind boggling. You can also see the explosion in contributions when LLMs became mainstream in 2023.<br><br>I generated this with the awesome gource… https://twitter.com/i/web/status/1742544697027862947<br><br><video src="https://video.twimg.com/ext_tw_video/1742541649736011777/pu/vid/avc1/1280x720/jkEOFYjLrBtGoYf1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1742541649736011777/pu/img/sx3b5OmNg3T8TjTx.jpg"></video></div>]]></description>
+            <pubDate>Thu, 04 Jan 2024 16:40:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742949006286967151</guid>
+            <link>https://twitter.com/LangChainAI/status/1742949006286967151</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT DataCamp: A key application of large language models (LLMs) is the ability to answer questions about specific documents and datasets. In this code-...]]></title>
@@ -289,38 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 02 Jan 2024 09:47:40 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/sockcymbal/status/1742120465110610398</guid>
             <link>https://twitter.com/sockcymbal/status/1742120465110610398</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[⭐️Open-Source RAG Chatbot Builder One of the most popular use cases for GPTs is uploading it some data and creating a chatbot over that data💬 Did...]]></title>
-            <description><![CDATA[⭐️Open-Source RAG Chatbot Builder<br><br>One of the most popular use cases for GPTs is uploading it some data and creating a chatbot over that data💬<br><br>Did you know there's an open-source solution that can do the same thing built entirely in typescript?<br><br>⭐️@dialoqbase by @n4ze3m⭐️<br><br>Uses… https://twitter.com/i/web/status/1741868363603955995<br><img style="" src="https://pbs.twimg.com/media/GCxbvJXbcAAr9Yk?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 01 Jan 2024 17:05:54 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1741868363603955995</guid>
-            <link>https://twitter.com/LangChainAI/status/1741868363603955995</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Shroominic: FastUI-Chat is now available as pypi package: just `pip install fastui-chat` and quickly spin up an interface for your @LangChainAI cha...]]></title>
-            <description><![CDATA[RT Shroominic<br>FastUI-Chat is now available as pypi package:<br>just `pip install fastui-chat` and quickly spin up an  interface for your @LangChainAI chatbots!<br><img style="" src="https://pbs.twimg.com/media/GCxDhlGWMAAdYIU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 01 Jan 2024 15:26:06 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Shroominic/status/1741843248132329739</guid>
-            <link>https://twitter.com/Shroominic/status/1741843248132329739</link>
             
             
             
