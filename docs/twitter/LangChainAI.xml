@@ -24,8 +24,56 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 04 Jan 2024 22:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 00:31:19 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Want to use ColBERT with LangChain? This is the easiest way we know of]]></title>
+            <description><![CDATA[Want to use ColBERT with LangChain? This is the easiest way we know of<div class="rsshub-quote"><br><br>Harrison Chase: I've been wanting to try out ColBERT for a while - and this made it so easy I had no reason not to!<br><br>Added a page on how to use RAGatouille in LangChain! The RAGatouille interface lined up nicely with the LangChain one so was quite easy 😎<br><br>👏👏 @bclavie<br><br>https://python.langchain.com/docs/integrations/retrievers/ragatouille<br><br><img style="" src="https://pbs.twimg.com/media/GDB8GnIbEAESpUH?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Thu, 04 Jan 2024 22:25:27 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1743035942540321051</guid>
+            <link>https://twitter.com/LangChainAI/status/1743035942540321051</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Austin Vance: Just finished a Tutorial on how I built a RAG with @LangChainAI to help me create YouTube descriptions, titles and more. Honestly @La...]]></title>
+            <description><![CDATA[RT Austin Vance<br>Just finished a Tutorial on how I built a RAG with @LangChainAI  to help me create YouTube descriptions, titles and more.<br><br>Honestly @LangChainAI + @OpenAI w/ LCEL make it so easy to build LLM tools small or large.<br><br>Give me a ❤️ / 👍 if you like it!<br><br>https://youtu.be/DTjj50mfEP8]]></description>
+            <pubDate>Thu, 04 Jan 2024 22:14:18 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/austinbv/status/1743033136160645463</guid>
+            <link>https://twitter.com/austinbv/status/1743033136160645463</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: I've been wanting to try out ColBERT for a while - and this made it so easy I had no reason not to! Added a page on how to use RAGa...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>I've been wanting to try out ColBERT for a while - and this made it so easy I had no reason not to!<br><br>Added a page on how to use RAGatouille in LangChain! The RAGatouille interface lined up nicely with the LangChain one so was quite easy 😎<br><br>👏👏 @bclavie<br><br>https://python.langchain.com/docs/integrations/retrievers/ragatouille<br><img style="" src="https://pbs.twimg.com/media/GDB8GnIbEAESpUH?format=png&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Benjamin Clavié: The RAG wave is here to stay, but in practice, it's hard to retrieve the right docs w/ embdings, &amp; better IR models are hard to use!<br><br>Let's fix that: Introducing 🪤RAGatouille, a lib to train&amp;use SotA retrieval model, ColBERT, in just a few lines of code!<br>https://github.com/bclavie/RAGatouille<br><br><img style="" src="https://pbs.twimg.com/media/GDAjZMvaEAAP5Vh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Thu, 04 Jan 2024 22:01:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1743029845297401882</guid>
+            <link>https://twitter.com/hwchase17/status/1743029845297401882</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🕵️LCEL Chain Inspection Need a better understanding of that long chain? We've recently added two methods to better inspect ANY chain created with ...]]></title>
@@ -289,54 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 02 Jan 2024 16:33:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742222469166252485</guid>
             <link>https://twitter.com/LangChainAI/status/1742222469166252485</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜📹Build a Full-Stack RAG App with TypeScript In our newest YouTube tutorial, @BraceSproul walks through how to build a RAG app from scratch 🔎...]]></title>
-            <description><![CDATA[🦜📹Build a Full-Stack RAG App with TypeScript<br><br>In our newest YouTube tutorial, @BraceSproul<br>walks through how to build a RAG app from scratch<br><br>🔎This covers prompting, API server, databases, web client application and more <br><br>🧠By the end of this video, you’ll have a complete… https://twitter.com/i/web/status/1742222290694385885<br><img style="" src="https://pbs.twimg.com/media/GC2d449bkAA0DvT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 02 Jan 2024 16:32:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742222290694385885</guid>
-            <link>https://twitter.com/LangChainAI/status/1742222290694385885</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Nathan Black: What if AI could transform not just the answers we get, but the questions we ask? 🌟 Introducing The QuestionImprover Agent, a new ...]]></title>
-            <description><![CDATA[RT Nathan Black<br>What if AI could transform not just the answers we get, but the questions we ask?<br><br>🌟 Introducing The QuestionImprover Agent, a new AI tool for thought: https://github.com/sockcymbal/QuestionImprover (work in progress, please test with your best questions and share feedback!)<br><br>This project won 1st… https://twitter.com/i/web/status/1742120465110610398<br><img style="" src="https://pbs.twimg.com/media/GC0Na2FbcAALOQ-?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GC0Nb0obQAAJ-IB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GC0Ncnxa4AADpL7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 02 Jan 2024 09:47:40 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/sockcymbal/status/1742120465110610398</guid>
-            <link>https://twitter.com/sockcymbal/status/1742120465110610398</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Brace: Working on a project which requires local LLMs (via @OLLAMA & @LangChainAI) and JSON responses. It looks like Mixtral does very well with re...]]></title>
-            <description><![CDATA[RT Brace<br>Working on a project which requires local LLMs (via @OLLAMA &amp; @LangChainAI) and JSON responses. It looks like Mixtral does very well with returning simple, valid JSON responses (86/86 when asking for single key JSON responses).<br><br>Here's the system prompt I used:<br><img style="" src="https://pbs.twimg.com/media/GCuMSjjbYAAbJqi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 01 Jan 2024 01:58:59 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1741640130375610757</guid>
-            <link>https://twitter.com/BraceSproul/status/1741640130375610757</link>
             
             
             
