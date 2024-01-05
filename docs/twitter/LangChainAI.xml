@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 05 Jan 2024 22:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 20:03:53 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Paul Bratslavsky | codingafterthirty: Got tired manually creating YouTube description so started to build this with @nextjs @strapijs and @LangChai...]]></title>
-            <description><![CDATA[RT Paul Bratslavsky | codingafterthirty<br>Got tired manually creating YouTube description so started to build this with @nextjs @strapijs and @LangChainAI you had find repo here 👉🏼 https://github.com/PaulBratslavsky/next-js-strapi-open-ai  #buildinginpublic<br><video src="https://video.twimg.com/ext_tw_video/1743329021390192640/pu/vid/avc1/1920x1080/JuLnVVajN_M8JiHj.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1743329021390192640/pu/img/UdnZAFauzcZPCT1c.jpg"></video>]]></description>
-            <pubDate>Fri, 05 Jan 2024 17:56:11 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/codingthirty/status/1743330567532240935</guid>
-            <link>https://twitter.com/codingthirty/status/1743330567532240935</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Pontus Abrahamsson — oss/acc: Magic Inbox ✨ Automatically match your receipts against transactions for seamless accounting! * Unique email provid...]]></title>
-            <description><![CDATA[RT Pontus Abrahamsson — oss/acc<br>Magic Inbox ✨<br><br>Automatically match your receipts against transactions for seamless accounting!<br><br>* Unique email provided by @postmarkapp 📥<br>* PDFs are parsed with @LangChainAI 📄<br>* Data is embedded in @supabase and updated in realtime 💫<br><br>Also @shadcn was here 🖤<br><video src="https://video.twimg.com/ext_tw_video/1743327714226982912/pu/vid/avc1/1218x720/yOfgotsaal9WqiEC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1743327714226982912/pu/img/WgnlieeAztLwflDa.jpg"></video>]]></description>
-            <pubDate>Fri, 05 Jan 2024 17:44:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/pontusab/status/1743327738193134032</guid>
-            <link>https://twitter.com/pontusab/status/1743327738193134032</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[🤖Auto-Prompt Builder (with Hosted LangServe) In this new YouTube video we will use the recent prompting guide that OpenAI released to build a chain...]]></title>
@@ -321,6 +289,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 03 Jan 2024 06:46:28 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/realwasmedge/status/1742437253107130552</guid>
             <link>https://twitter.com/realwasmedge/status/1742437253107130552</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: Unlock API intelligence! Muhammad Haider Raza explains how @MuleSoft's Anypoint & Flex Gateway integrated with @LangChainAi & @OpenAI...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>Unlock API intelligence!<br>Muhammad Haider Raza explains how @MuleSoft's Anypoint &amp; Flex Gateway integrated with @LangChainAi &amp; @OpenAI / Llama #LLMs enable secure, governed &amp; selective API access for advanced natural language capabilities. https://buff.ly/3vm2AZx<br><img style="" src="https://pbs.twimg.com/media/GC4DJbHXgAA-UMT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 02 Jan 2024 23:54:28 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1742333568901132437</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1742333568901132437</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Riad: "OpenGPTs" from @LangChainAI seems to be the closest to what I was looking for Thanks @gilhildebrand for letting me know about it]]></title>
+            <description><![CDATA[RT Riad<br>"OpenGPTs" from @LangChainAI seems to be the closest to what I was looking for<br><br>Thanks @gilhildebrand for letting me know about it<div class="rsshub-quote"><br><br>Riad: Does anyone know if such a tool exists? <br><br>I'd like to create custom GPTs augmented with files and/or vector databases, and I'd like it to work with any OS LLM I choose, all this in local on my own GPU<br></div>]]></description>
+            <pubDate>Tue, 02 Jan 2024 23:24:59 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/RiadEtm/status/1742326149353468239</guid>
+            <link>https://twitter.com/RiadEtm/status/1742326149353468239</link>
             
             
             
