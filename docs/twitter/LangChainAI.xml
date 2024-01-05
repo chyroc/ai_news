@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 05 Jan 2024 02:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 00:31:19 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🦜🏗️Building an OpenAI Custom RAG with LangChain: 📹The Ultimate Tutorial to Chat with your Videos!📹 Awesome tutorial by @austinbv on how t...]]></title>
-            <description><![CDATA[🦜🏗️Building an OpenAI Custom RAG with LangChain: 📹The Ultimate Tutorial to Chat with your Videos!📹<br><br>Awesome tutorial by @austinbv on how to use Whisper + OpenAI + LangChain to talk to your videos<br><br>Shows off transcription, LCEL, streaming⭐️<br><br>https://www.youtube.com/watch?v=DTjj50mfEP8]]></description>
-            <pubDate>Fri, 05 Jan 2024 00:40:59 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1743070051991998842</guid>
-            <link>https://twitter.com/LangChainAI/status/1743070051991998842</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Want to use ColBERT with LangChain? This is the easiest way we know of]]></title>
@@ -337,6 +321,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 02 Jan 2024 16:43:45 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/TiernanRayTech/status/1742225174101967360</guid>
             <link>https://twitter.com/TiernanRayTech/status/1742225174101967360</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🧱Can LLMs Replace Data Analysts? Getting Answers Using SQL This is an involved *31 minute read* on how to create a custom data science agent by Mar...]]></title>
+            <description><![CDATA[🧱Can LLMs Replace Data Analysts? Getting Answers Using SQL<br><br>This is an involved *31 minute read* on how to create a custom data science agent by Mariya Mansurova<br><br>A great read for custom tools and custom agents (almost all production agents are custom)<br><br>https://towardsdatascience.com/can-llms-replace-data-analysts-getting-answers-using-sql-8cf7da132259<br><img style="" src="https://pbs.twimg.com/media/GCz5L3RboAAR4Ku?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 02 Jan 2024 16:33:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742222469166252485</guid>
+            <link>https://twitter.com/LangChainAI/status/1742222469166252485</link>
             
             
             
