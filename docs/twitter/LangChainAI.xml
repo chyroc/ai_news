@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 05 Jan 2024 17:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 16:58:00 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🤖Auto-Prompt Builder (with Hosted LangServe) In this new YouTube video we will use the recent prompting guide that OpenAI released to build a chain...]]></title>
-            <description><![CDATA[🤖Auto-Prompt Builder (with Hosted LangServe)<br><br>In this new YouTube video we will use the recent prompting guide that OpenAI released to build a chain that will take in an objective and then write a good prompt for that objective.   <br><br>https://www.youtube.com/watch?v=mmBo8nlu2j0<br><br>Things we will cover:… https://twitter.com/i/web/status/1743319684735434965<br><img style="" src="https://pbs.twimg.com/media/GDGD1BKbYAA38hX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 05 Jan 2024 17:12:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1743319684735434965</guid>
-            <link>https://twitter.com/LangChainAI/status/1743319684735434965</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[🦜🏗️Building an OpenAI Custom RAG with LangChain: 📹The Ultimate Tutorial to Chat with your Videos!📹 Awesome tutorial by @austinbv on how t...]]></title>
@@ -321,6 +305,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 02 Jan 2024 23:24:59 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/RiadEtm/status/1742326149353468239</guid>
             <link>https://twitter.com/RiadEtm/status/1742326149353468239</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: ✨ Cohere Beta Chat models ✨ You can now use @cohere’s beta chat interface with @LangChainAI JS/TS via a new langchain/cohere package!...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>✨&nbsp;Cohere Beta Chat models ✨<br><br>You can now use @cohere’s beta chat interface with @LangChainAI JS/TS via a new langchain/cohere package!<br><br>It supports streaming and their completions + embeddings models too.<br><br>Why not kick off 2024 with a new model:<br><br>https://js.langchain.com/docs/integrations/chat/cohere<br><img style="" src="https://pbs.twimg.com/media/GC2gcEpXQAIHzdk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 02 Jan 2024 16:44:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1742225382651150560</guid>
+            <link>https://twitter.com/Hacubu/status/1742225382651150560</link>
             
             
             
