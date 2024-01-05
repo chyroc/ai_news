@@ -15,8 +15,56 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 05 Jan 2024 05:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:28:26 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Learning the 3D Fauna of the Web]]></title>
+            <description><![CDATA[Learning 3D models of all animals on the Earth requires massively scaling up existing solutions. With this ultimate goal in mind, we develop 3D-Fauna, an approach that learns a pan-category deformable 3D animal model for more than 100 animal species jointly. One crucial bottleneck of modeling animals is the limited availability of training data, which we overcome by simply learning from 2D Internet images. We show that prior category-specific attempts fail to generalize to rare species with limited training images. We address this challenge by introducing the Semantic Bank of Skinned Models (SBSM), which automatically discovers a small set of base animal shapes by combining geometric inductive priors with semantic knowledge implicitly captured by an off-the-shelf self-supervised feature extractor. To train such a model, we also contribute a new large-scale dataset of diverse animal species. At inference time, given a single image of any quadruped animal, our model reconstructs an articulated 3D mesh in a feed-forward fashion within seconds.]]></description>
+            <pubDate>Fri, 05 Jan 2024 06:03:30 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02400</guid>
+            <link>https://arxiv.org/abs/2401.02400</link>
+            
+            
+            
+            <author><![CDATA[Zizhang Li, Dor Litvak, Ruining Li, Yunzhi Zhang, Tomas Jakab, Christian Rupprecht, Shangzhe Wu, Andrea Vedaldi, Jiajun Wu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation]]></title>
+            <description><![CDATA[Imitation learning from human demonstrations has shown impressive performance in robotics. However, most results focus on table-top manipulation, lacking the mobility and dexterity necessary for generally useful tasks. In this work, we develop a system for imitating mobile manipulation tasks that are bimanual and require whole-body control. We first present Mobile ALOHA, a low-cost and whole-body teleoperation system for data collection. It augments the ALOHA system with a mobile base, and a whole-body teleoperation interface. Using data collected with Mobile ALOHA, we then perform supervised behavior cloning and find that co-training with existing static ALOHA datasets boosts performance on mobile manipulation tasks. With 50 demonstrations for each task, co-training can increase success rates by up to 90%, allowing Mobile ALOHA to autonomously complete complex mobile manipulation tasks such as sauteing and serving a piece of shrimp, opening a two-door wall cabinet to store heavy cooking pots, calling and entering an elevator, and lightly rinsing a used pan using a kitchen faucet. Project website: https://mobile-aloha.github.io]]></description>
+            <pubDate>Fri, 05 Jan 2024 05:59:50 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02117</guid>
+            <link>https://arxiv.org/abs/2401.02117</link>
+            
+            
+            
+            <author><![CDATA[Zipeng Fu, Tony Z. Zhao, Chelsea Finn]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Improving Diffusion-Based Image Synthesis with Context Prediction]]></title>
+            <description><![CDATA[Diffusion models are a new class of generative models, and have dramatically promoted image generation with unprecedented quality and diversity. Existing diffusion models mainly try to reconstruct input image from a corrupted one with a pixel-wise or feature-wise constraint along spatial axes. However, such point-based reconstruction may fail to make each predicted pixel/feature fully preserve its neighborhood context, impairing diffusion-based image synthesis. As a powerful source of automatic supervisory signal, context has been well studied for learning representations. Inspired by this, we for the first time propose ConPreDiff to improve diffusion-based image synthesis with context prediction. We explicitly reinforce each point to predict its neighborhood context (i.e., multi-stride features/tokens/pixels) with a context decoder at the end of diffusion denoising blocks in training stage, and remove the decoder for inference. In this way, each point can better reconstruct itself by preserving its semantic connections with neighborhood context. This new paradigm of ConPreDiff can generalize to arbitrary discrete and continuous diffusion backbones without introducing extra parameters in sampling procedure. Extensive experiments are conducted on unconditional image generation, text-to-image generation and image inpainting tasks. Our ConPreDiff consistently outperforms previous methods and achieves a new SOTA text-to-image generation results on MS-COCO, with a zero-shot FID score of 6.21.]]></description>
+            <pubDate>Fri, 05 Jan 2024 05:50:57 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02015</guid>
+            <link>https://arxiv.org/abs/2401.02015</link>
+            
+            
+            
+            <author><![CDATA[Ling Yang, Jingwei Liu, Shenda Hong, Zhilong Zhang, Zhilin Huang, Zheming Cai, Wentao Zhang, Bin Cui]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[LLaMA Pro: Progressive LLaMA with Block Expansion]]></title>
