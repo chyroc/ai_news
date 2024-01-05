@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 05 Jan 2024 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 01:17:31 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[LLM Augmented LLMs: Expanding Capabilities through Composition]]></title>
-            <description><![CDATA[Foundational models with billions of parameters which have been trained on large corpora of data have demonstrated non-trivial skills in a variety of domains. However, due to their monolithic structure, it is challenging and expensive to augment them or impart new skills. On the other hand, due to their adaptation abilities, several new instances of these models are being trained towards new domains and tasks. In this work, we study the problem of efficient and practical composition of existing foundation models with more specific models to enable newer capabilities. To this end, we propose CALM -- Composition to Augment Language Models -- which introduces cross-attention between models to compose their representations and enable new capabilities. Salient features of CALM are: (i) Scales up LLMs on new tasks by 're-using' existing LLMs along with a few additional parameters and data, (ii) Existing model weights are kept intact, and hence preserves existing capabilities, and (iii) Applies to diverse domains and settings. We illustrate that augmenting PaLM2-S with a smaller model trained on low-resource languages results in an absolute improvement of up to 13\% on tasks like translation into English and arithmetic reasoning for low-resource languages. Similarly, when PaLM2-S is augmented with a code-specific model, we see a relative improvement of 40\% over the base model for code generation and explanation tasks -- on-par with fully fine-tuned counterparts.]]></description>
-            <pubDate>Fri, 05 Jan 2024 03:21:16 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02412</guid>
-            <link>https://arxiv.org/abs/2401.02412</link>
+            <title><![CDATA[Efficient Hybrid Zoom using Camera Fusion on Mobile Phones]]></title>
+            <description><![CDATA[DSLR cameras can achieve multiple zoom levels via shifting lens distances or swapping lens types. However, these techniques are not possible on smartphone devices due to space constraints. Most smartphone manufacturers adopt a hybrid zoom system: commonly a Wide (W) camera at a low zoom level and a Telephoto (T) camera at a high zoom level. To simulate zoom levels between W and T, these systems crop and digitally upsample images from W, leading to significant detail loss. In this paper, we propose an efficient system for hybrid zoom super-resolution on mobile devices, which captures a synchronous pair of W and T shots and leverages machine learning models to align and transfer details from T to W. We further develop an adaptive blending method that accounts for depth-of-field mismatches, scene occlusion, flow uncertainty, and alignment errors. To minimize the domain gap, we design a dual-phone camera rig to capture real-world inputs and ground-truths for supervised training. Our method generates a 12-megapixel image in 500ms on a mobile platform and compares favorably against state-of-the-art methods under extensive evaluation on real-world scenarios.]]></description>
+            <pubDate>Thu, 04 Jan 2024 04:11:56 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01461</guid>
+            <link>https://arxiv.org/abs/2401.01461</link>
             
             
             
-            <author><![CDATA[Rachit Bansal, Bidisha Samanta, Siddharth Dalmia, Nitish Gupta, Shikhar Vashishth, Sriram Ganapathy, Abhishek Bapna, Prateek Jain, Partha Talukdar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ODIN: A Single Model for 2D and 3D Perception]]></title>
-            <description><![CDATA[State-of-the-art models on contemporary 3D perception benchmarks like ScanNet consume and label dataset-provided 3D point clouds, obtained through post processing of sensed multiview RGB-D images. They are typically trained in-domain, forego large-scale 2D pre-training and outperform alternatives that featurize the posed RGB-D multiview images instead. The gap in performance between methods that consume posed images versus post-processed 3D point clouds has fueled the belief that 2D and 3D perception require distinct model architectures. In this paper, we challenge this view and propose ODIN (Omni-Dimensional INstance segmentation), a model that can segment and label both 2D RGB images and 3D point clouds, using a transformer architecture that alternates between 2D within-view and 3D cross-view information fusion. Our model differentiates 2D and 3D feature operations through the positional encodings of the tokens involved, which capture pixel coordinates for 2D patch tokens and 3D coordinates for 3D feature tokens. ODIN achieves state-of-the-art performance on ScanNet200, Matterport3D and AI2THOR 3D instance segmentation benchmarks, and competitive performance on ScanNet, S3DIS and COCO. It outperforms all previous works by a wide margin when the sensed 3D point cloud is used in place of the point cloud sampled from 3D mesh. When used as the 3D perception engine in an instructable embodied agent architecture, it sets a new state-of-the-art on the TEACh action-from-dialogue benchmark. Our code and checkpoints can be found at the project website: https://odin-seg.github.io.]]></description>
-            <pubDate>Fri, 05 Jan 2024 03:17:24 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02416</guid>
-            <link>https://arxiv.org/abs/2401.02416</link>
-            
-            
-            
-            <author><![CDATA[Ayush Jain, Pushkal Katara, Nikolaos Gkanatsios, Adam W. Harley, Gabriel Sarch, Kriti Aggarwal, Vishrav Chaudhary, Katerina Fragkiadaki]]></author>
+            <author><![CDATA[Xiaotong Wu, Wei-Sheng Lai, YiChang Shih, Charles Herrmann, Michael Krainin, Deqing Sun, Chia-Kai Liang]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Instruct-Imagen: Image Generation with Multi-modal Instruction]]></title>
-            <description><![CDATA[This paper presents instruct-imagen, a model that tackles heterogeneous image generation tasks and generalizes across unseen tasks. We introduce *multi-modal instruction* for image generation, a task representation articulating a range of generation intents with precision. It uses natural language to amalgamate disparate modalities (e.g., text, edge, style, subject, etc.), such that abundant generation intents can be standardized in a uniform format.   We then build instruct-imagen by fine-tuning a pre-trained text-to-image diffusion model with a two-stage framework. First, we adapt the model using the retrieval-augmented training, to enhance model's capabilities to ground its generation on external multimodal context. Subsequently, we fine-tune the adapted model on diverse image generation tasks that requires vision-language understanding (e.g., subject-driven generation, etc.), each paired with a multi-modal instruction encapsulating the task's essence. Human evaluation on various image generation datasets reveals that instruct-imagen matches or surpasses prior task-specific models in-domain and demonstrates promising generalization to unseen and more complex tasks.]]></description>
-            <pubDate>Fri, 05 Jan 2024 03:09:43 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.01952</guid>
-            <link>https://arxiv.org/abs/2401.01952</link>
+            <title><![CDATA[Incremental FastPitch: Chunk-based High Quality Text to Speech]]></title>
+            <description><![CDATA[Parallel text-to-speech models have been widely applied for real-time speech synthesis, and they offer more controllability and a much faster synthesis process compared with conventional auto-regressive models. Although parallel models have benefits in many aspects, they become naturally unfit for incremental synthesis due to their fully parallel architecture such as transformer. In this work, we propose Incremental FastPitch, a novel FastPitch variant capable of incrementally producing high-quality Mel chunks by improving the architecture with chunk-based FFT blocks, training with receptive-field constrained chunk attention masks, and inference with fixed size past model states. Experimental results show that our proposal can produce speech quality comparable to the parallel FastPitch, with a significant lower latency that allows even lower response time for real-time speech applications.]]></description>
+            <pubDate>Thu, 04 Jan 2024 03:57:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01755</guid>
+            <link>https://arxiv.org/abs/2401.01755</link>
             
             
             
-            <author><![CDATA[Hexiang Hu, Kelvin C. K. Chan, Yu-Chuan Su, Wenhu Chen, Yandong Li, Kihyuk Sohn, Yang Zhao, Xue Ben, Boqing Gong, William Cohen, Ming-Wei Chang, Xuhui Jia]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers]]></title>
-            <description><![CDATA[The emergence of Large Language Models (LLMs) such as ChatGPT and LLaMA encounter limitations in domain-specific tasks, with these models often lacking depth and accuracy in specialized areas, and exhibiting a decrease in general capabilities when fine-tuned, particularly analysis ability in small sized models. To address these gaps, we introduce ICE-GRT, utilizing Reinforcement Learning from Human Feedback (RLHF) grounded in Proximal Policy Optimization (PPO), demonstrating remarkable ability in in-domain scenarios without compromising general task performance. Our exploration of ICE-GRT highlights its understanding and reasoning ability to not only generate robust answers but also to provide detailed analyses of the reasons behind the answer. This capability marks a significant progression beyond the scope of Supervised Fine-Tuning models. The success of ICE-GRT is dependent on several crucial factors, including Appropriate Data, Reward Size Scaling, KL-Control, Advantage Normalization, etc. The ICE-GRT model exhibits state-of-the-art performance in domain-specific tasks and across 12 general Language tasks against equivalent size and even larger size LLMs, highlighting the effectiveness of our approach. We provide a comprehensive analysis of the ICE-GRT, underscoring the significant advancements it brings to the field of LLM.]]></description>
-            <pubDate>Fri, 05 Jan 2024 03:06:23 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02072</guid>
-            <link>https://arxiv.org/abs/2401.02072</link>
-            
-            
-            
-            <author><![CDATA[Chen Zheng, Ke Sun, Da Tang, Yukun Ma, Yuyu Zhang, Chenguang Xi, Xun Zhou]]></author>
+            <author><![CDATA[Muyang Du, Chuan Liu, Junjie Lai]]></author>
             
                 
             
@@ -83,15 +51,159 @@
         </item>
         
         <item>
-            <title><![CDATA[Understanding LLMs: A Comprehensive Overview from Training to Inference]]></title>
-            <description><![CDATA[The introduction of ChatGPT has led to a significant increase in the utilization of Large Language Models (LLMs) for addressing downstream tasks. There's an increasing focus on cost-efficient training and deployment within this context. Low-cost training and deployment of LLMs represent the future development trend. This paper reviews the evolution of large language model training techniques and inference deployment technologies aligned with this emerging trend. The discussion on training includes various aspects, including data preprocessing, training architecture, pre-training tasks, parallel training, and relevant content related to model fine-tuning. On the inference side, the paper covers topics such as model compression, parallel computation, memory scheduling, and structural optimization. It also explores LLMs' utilization and provides insights into their future development.]]></description>
-            <pubDate>Fri, 05 Jan 2024 03:00:58 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02038</guid>
-            <link>https://arxiv.org/abs/2401.02038</link>
+            <title><![CDATA[CoMoSVC: Consistency Model-based Singing Voice Conversion]]></title>
+            <description><![CDATA[The diffusion-based Singing Voice Conversion (SVC) methods have achieved remarkable performances, producing natural audios with high similarity to the target timbre. However, the iterative sampling process results in slow inference speed, and acceleration thus becomes crucial. In this paper, we propose CoMoSVC, a consistency model-based SVC method, which aims to achieve both high-quality generation and high-speed sampling. A diffusion-based teacher model is first specially designed for SVC, and a student model is further distilled under self-consistency properties to achieve one-step sampling. Experiments on a single NVIDIA GTX4090 GPU reveal that although CoMoSVC has a significantly faster inference speed than the state-of-the-art (SOTA) diffusion-based SVC system, it still achieves comparable or superior conversion performance based on both subjective and objective metrics. Audio samples and codes are available at https://comosvc.github.io/.]]></description>
+            <pubDate>Thu, 04 Jan 2024 03:53:56 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01792</guid>
+            <link>https://arxiv.org/abs/2401.01792</link>
             
             
             
-            <author><![CDATA[Yiheng Liu, Hao He, Tianle Han, Xu Zhang, Mengyuan Liu, Jiaming Tian, Yutong Zhang, Jiaqi Wang, Xiaohui Gao, Tianyang Zhong, Yi Pan, Shaochen Xu, Zihao Wu, Zhengliang Liu, Xin Zhang, Shu Zhang, Xintao Hu, Tuo Zhang, Ning Qiang, Tianming Liu, Bao Ge]]></author>
+            <author><![CDATA[Yiwen Lu, Zhen Ye, Wei Xue, Xu Tan, Qifeng Liu, Yike Guo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SIGNeRF: Scene Integrated Generation for Neural Radiance Fields]]></title>
+            <description><![CDATA[Advances in image diffusion models have recently led to notable improvements in the generation of high-quality images. In combination with Neural Radiance Fields (NeRFs), they enabled new opportunities in 3D generation. However, most generative 3D approaches are object-centric and applying them to editing existing photorealistic scenes is not trivial. We propose SIGNeRF, a novel approach for fast and controllable NeRF scene editing and scene-integrated object generation. A new generative update strategy ensures 3D consistency across the edited images, without requiring iterative optimization. We find that depth-conditioned diffusion models inherently possess the capability to generate 3D consistent views by requesting a grid of images instead of single views. Based on these insights, we introduce a multi-view reference sheet of modified images. Our method updates an image collection consistently based on the reference sheet and refines the original NeRF with the newly generated image set in one go. By exploiting the depth conditioning mechanism of the image diffusion model, we gain fine control over the spatial location of the edit and enforce shape guidance by a selected region or an external mesh.]]></description>
+            <pubDate>Thu, 04 Jan 2024 03:38:00 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01647</guid>
+            <link>https://arxiv.org/abs/2401.01647</link>
+            
+            
+            
+            <author><![CDATA[Jan-Niklas Dihlmann, Andreas Engelhardt, Hendrik Lensch]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations]]></title>
+            <description><![CDATA[We present a framework for generating full-bodied photorealistic avatars that gesture according to the conversational dynamics of a dyadic interaction. Given speech audio, we output multiple possibilities of gestural motion for an individual, including face, body, and hands. The key behind our method is in combining the benefits of sample diversity from vector quantization with the high-frequency details obtained through diffusion to generate more dynamic, expressive motion. We visualize the generated motion using highly photorealistic avatars that can express crucial nuances in gestures (e.g. sneers and smirks). To facilitate this line of research, we introduce a first-of-its-kind multi-view conversational dataset that allows for photorealistic reconstruction. Experiments show our model generates appropriate and diverse gestures, outperforming both diffusion- and VQ-only methods. Furthermore, our perceptual evaluation highlights the importance of photorealism (vs. meshes) in accurately assessing subtle motion details in conversational gestures. Code and dataset available online.]]></description>
+            <pubDate>Thu, 04 Jan 2024 03:06:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01885</guid>
+            <link>https://arxiv.org/abs/2401.01885</link>
+            
+            
+            
+            <author><![CDATA[Evonne Ng, Javier Romero, Timur Bagautdinov, Shaojie Bai, Trevor Darrell, Angjoo Kanazawa, Alexander Richard]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[aMUSEd: An Open MUSE Reproduction]]></title>
+            <description><![CDATA[We present aMUSEd, an open-source, lightweight masked image model (MIM) for text-to-image generation based on MUSE. With 10 percent of MUSE's parameters, aMUSEd is focused on fast image generation. We believe MIM is under-explored compared to latent diffusion, the prevailing approach for text-to-image generation. Compared to latent diffusion, MIM requires fewer inference steps and is more interpretable. Additionally, MIM can be fine-tuned to learn additional styles with only a single image. We hope to encourage further exploration of MIM by demonstrating its effectiveness on large-scale text-to-image generation and releasing reproducible training code. We also release checkpoints for two models which directly produce images at 256x256 and 512x512 resolutions.]]></description>
+            <pubDate>Thu, 04 Jan 2024 02:52:19 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01808</guid>
+            <link>https://arxiv.org/abs/2401.01808</link>
+            
+            
+            
+            <author><![CDATA[Suraj Patil, William Berman, Robin Rombach, Patrick von Platen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Image Sculpting: Precise Object Editing with 3D Geometry Control]]></title>
+            <description><![CDATA[We present Image Sculpting, a new framework for editing 2D images by incorporating tools from 3D geometry and graphics. This approach differs markedly from existing methods, which are confined to 2D spaces and typically rely on textual instructions, leading to ambiguity and limited control. Image Sculpting converts 2D objects into 3D, enabling direct interaction with their 3D geometry. Post-editing, these objects are re-rendered into 2D, merging into the original image to produce high-fidelity results through a coarse-to-fine enhancement process. The framework supports precise, quantifiable, and physically-plausible editing options such as pose editing, rotation, translation, 3D composition, carving, and serial addition. It marks an initial step towards combining the creative freedom of generative models with the precision of graphics pipelines.]]></description>
+            <pubDate>Thu, 04 Jan 2024 02:47:50 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01702</guid>
+            <link>https://arxiv.org/abs/2401.01702</link>
+            
+            
+            
+            <author><![CDATA[Jiraphon Yenphraphai, Xichen Pan, Sainan Liu, Daniele Panozzo, Saining Xie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A Vision Check-up for Language Models]]></title>
+            <description><![CDATA[What does learning to model relationships between strings teach large language models (LLMs) about the visual world? We systematically evaluate LLMs' abilities to generate and recognize an assortment of visual concepts of increasing complexity and then demonstrate how a preliminary visual representation learning system can be trained using models of text. As language models lack the ability to consume or output visual information as pixels, we use code to represent images in our study. Although LLM-generated images do not look like natural images, results on image generation and the ability of models to correct these generated images indicate that precise modeling of strings can teach language models about numerous aspects of the visual world. Furthermore, experiments on self-supervised visual representation learning, utilizing images generated with text models, highlight the potential to train vision models capable of making semantic assessments of natural images using just LLMs.]]></description>
+            <pubDate>Thu, 04 Jan 2024 02:20:21 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01862</guid>
+            <link>https://arxiv.org/abs/2401.01862</link>
+            
+            
+            
+            <author><![CDATA[Pratyusha Sharma, Tamar Rott Shaham, Manel Baradad, Stephanie Fu, Adrian Rodriguez-Munoz, Shivam Duggal, Phillip Isola, Antonio Torralba]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Multilingual Instruction Tuning With Just a Pinch of Multilinguality]]></title>
+            <description><![CDATA[As instruction-tuned large language models (LLMs) gain global adoption, their ability to follow instructions in multiple languages becomes increasingly crucial. One promising approach is cross-lingual transfer, where a model acquires specific functionality on some language by finetuning on another language. In this work, we investigate how multilinguality during instruction tuning of a multilingual LLM affects instruction-following across languages. We first show that many languages transfer some instruction-following capabilities to other languages from even monolingual tuning. Furthermore, we find that only 40 multilingual examples in an English tuning set substantially improve multilingual instruction-following, both in seen and unseen languages during tuning. In general, we observe that models tuned on multilingual mixtures exhibit comparable or superior performance in several languages compared to monolingually tuned models, despite training on 10x fewer examples in those languages. Finally, we find that increasing the number of languages in the instruction tuning set from 1 to only 2, 3, or 4 increases cross-lingual generalization. Our results suggest that building massively multilingual instruction-tuned models can be done with only a very small set of multilingual instruction-responses.]]></description>
+            <pubDate>Thu, 04 Jan 2024 02:15:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01854</guid>
+            <link>https://arxiv.org/abs/2401.01854</link>
+            
+            
+            
+            <author><![CDATA[Uri Shaham, Jonathan Herzig, Roee Aharoni, Idan Szpektor, Reut Tsarfaty, Matan Eyal]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WordArt Designer API: User-Driven Artistic Typography Synthesis with Large Language Models on ModelScope]]></title>
+            <description><![CDATA[This paper introduces the WordArt Designer API, a novel framework for user-driven artistic typography synthesis utilizing Large Language Models (LLMs) on ModelScope. We address the challenge of simplifying artistic typography for non-professionals by offering a dynamic, adaptive, and computationally efficient alternative to traditional rigid templates. Our approach leverages the power of LLMs to understand and interpret user input, facilitating a more intuitive design process. We demonstrate through various case studies how users can articulate their aesthetic preferences and functional requirements, which the system then translates into unique and creative typographic designs. Our evaluations indicate significant improvements in user satisfaction, design flexibility, and creative expression over existing systems. The WordArt Designer API not only democratizes the art of typography but also opens up new possibilities for personalized digital communication and design.]]></description>
+            <pubDate>Thu, 04 Jan 2024 02:13:02 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01699</guid>
+            <link>https://arxiv.org/abs/2401.01699</link>
+            
+            
+            
+            <author><![CDATA[Jun-Yan He, Zhi-Qi Cheng, Chenyang Li, Jingdong Sun, Wangmeng Xiang, Yusen Hu, Xianhui Lin, Xiaoyang Kang, Zengke Jin, Bin Luo, Yifeng Geng, Xuansong Xie, Jingren Zhou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions]]></title>
+            <description><![CDATA[Most existing video diffusion models (VDMs) are limited to mere text conditions. Thereby, they are usually lacking in control over visual appearance and geometry structure of the generated videos. This work presents Moonshot, a new video generation model that conditions simultaneously on multimodal inputs of image and text. The model builts upon a core module, called multimodal video block (MVB), which consists of conventional spatialtemporal layers for representing video features, and a decoupled cross-attention layer to address image and text inputs for appearance conditioning. In addition, we carefully design the model architecture such that it can optionally integrate with pre-trained image ControlNet modules for geometry visual conditions, without needing of extra training overhead as opposed to prior methods. Experiments show that with versatile multimodal conditioning mechanisms, Moonshot demonstrates significant improvement on visual quality and temporal consistency compared to existing models. In addition, the model can be easily repurposed for a variety of generative applications, such as personalized video generation, image animation and video editing, unveiling its potential to serve as a fundamental architecture for controllable video generation. Models will be made public on https://github.com/salesforce/LAVIS.]]></description>
+            <pubDate>Thu, 04 Jan 2024 01:54:52 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01827</guid>
+            <link>https://arxiv.org/abs/2401.01827</link>
+            
+            
+            
+            <author><![CDATA[David Junhao Zhang, Dongxu Li, Hung Le, Mike Zheng Shou, Caiming Xiong, Doyen Sahoo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GPT-4V(ision) is a Generalist Web Agent, if Grounded]]></title>
+            <description><![CDATA[The recent development on large multimodal models (LMMs), especially GPT-4V(ision) and Gemini, has been quickly expanding the capability boundaries of multimodal models beyond traditional tasks like image captioning and visual question answering. In this work, we explore the potential of LMMs like GPT-4V as a generalist web agent that can follow natural language instructions to complete tasks on any given website. We propose SEEACT, a generalist web agent that harnesses the power of LMMs for integrated visual understanding and acting on the web. We evaluate on the recent MIND2WEB benchmark. In addition to standard offline evaluation on cached websites, we enable a new online evaluation setting by developing a tool that allows running web agents on live websites. We show that GPT-4V presents a great potential for web agents - it can successfully complete 50% of the tasks on live websites if we manually ground its textual plans into actions on the websites. This substantially outperforms text-only LLMs like GPT-4 or smaller models (FLAN-T5 and BLIP-2) specifically fine-tuned for web agents. However, grounding still remains a major challenge. Existing LMM grounding strategies like set-of-mark prompting turns out not effective for web agents, and the best grounding strategy we develop in this paper leverages both the HTML text and visuals. Yet, there is still a substantial gap with oracle grounding, leaving ample room for further improvement.]]></description>
+            <pubDate>Thu, 04 Jan 2024 01:47:00 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01614</guid>
+            <link>https://arxiv.org/abs/2401.01614</link>
+            
+            
+            
+            <author><![CDATA[Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su]]></author>
             
                 
             
