@@ -15,8 +15,104 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 05 Jan 2024 03:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:22:50 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[LLaMA Pro: Progressive LLaMA with Block Expansion]]></title>
+            <description><![CDATA[Humans generally acquire new skills without compromising the old; however, the opposite holds for Large Language Models (LLMs), e.g., from LLaMA to CodeLLaMA. To this end, we propose a new post-pretraining method for LLMs with an expansion of Transformer blocks. We tune the expanded blocks using only new corpus, efficiently and effectively improving the model's knowledge without catastrophic forgetting. In this paper, we experiment on the corpus of code and math, yielding LLaMA Pro-8.3B, a versatile foundation model initialized from LLaMA2-7B, excelling in general tasks, programming, and mathematics. LLaMA Pro and its instruction-following counterpart (LLaMA Pro-Instruct) achieve advanced performance among various benchmarks, demonstrating superiority over existing open models in the LLaMA family and the immense potential of reasoning and addressing diverse tasks as an intelligent agent. Our findings provide valuable insights into integrating natural and programming languages, laying a solid foundation for developing advanced language agents that operate effectively in various environments.]]></description>
+            <pubDate>Fri, 05 Jan 2024 05:01:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02415</guid>
+            <link>https://arxiv.org/abs/2401.02415</link>
+            
+            
+            
+            <author><![CDATA[Chengyue Wu, Yukang Gan, Yixiao Ge, Zeyu Lu, Jiahao Wang, Ye Feng, Ping Luo, Ying Shan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model]]></title>
+            <description><![CDATA[In this paper, we introduce LLaVA-phi (LLaVA-Phi), an efficient multi-modal assistant that harnesses the power of the recently advanced small language model, Phi-2, to facilitate multi-modal dialogues. LLaVA-Phi marks a notable advancement in the realm of compact multi-modal models. It demonstrates that even smaller language models, with as few as 2.7B parameters, can effectively engage in intricate dialogues that integrate both textual and visual elements, provided they are trained with high-quality corpora. Our model delivers commendable performance on publicly available benchmarks that encompass visual comprehension, reasoning, and knowledge-based perception. Beyond its remarkable performance in multi-modal dialogue tasks, our model opens new avenues for applications in time-sensitive environments and systems that require real-time interaction, such as embodied agents. It highlights the potential of smaller language models to achieve sophisticated levels of understanding and interaction, while maintaining greater resource efficiency.The project is available at {https://github.com/zhuyiche/llava-phi}.]]></description>
+            <pubDate>Fri, 05 Jan 2024 04:57:04 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02330</guid>
+            <link>https://arxiv.org/abs/2401.02330</link>
+            
+            
+            
+            <author><![CDATA[Yichen Zhu, Minjie Zhu, Ning Liu, Zhicai Ou, Xiaofeng Mou, Jian Tang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Towards Truly Zero-shot Compositional Visual Reasoning with LLMs as Programmers]]></title>
+            <description><![CDATA[Visual reasoning is dominated by end-to-end neural networks scaled to billions of model parameters and training examples. However, even the largest models struggle with compositional reasoning, generalization, fine-grained spatial and temporal reasoning, and counting. Visual reasoning with large language models (LLMs) as controllers can, in principle, address these limitations by decomposing the task and solving subtasks by orchestrating a set of (visual) tools. Recently, these models achieved great performance on tasks such as compositional visual question answering, visual grounding, and video temporal reasoning. Nevertheless, in their current form, these models heavily rely on human engineering of in-context examples in the prompt, which are often dataset- and task-specific and require significant labor by highly skilled programmers. In this work, we present a framework that mitigates these issues by introducing spatially and temporally abstract routines and by leveraging a small number of labeled examples to automatically generate in-context examples, thereby avoiding human-created in-context examples. On a number of visual reasoning tasks, we show that our framework leads to consistent gains in performance, makes LLMs as controllers setup more robust, and removes the need for human engineering of in-context examples.]]></description>
+            <pubDate>Fri, 05 Jan 2024 04:08:40 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01974</guid>
+            <link>https://arxiv.org/abs/2401.01974</link>
+            
+            
+            
+            <author><![CDATA[Aleksandar Stanić, Sergi Caelles, Michael Tschannen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding]]></title>
+            <description><![CDATA[Precisely perceiving the geometric and semantic properties of real-world 3D objects is crucial for the continued evolution of augmented reality and robotic applications. To this end, we present  (), which incorporates vision-language embeddings of foundation models into 3D Gaussian Splatting (GS). The key contribution of this work is an efficient method to reconstruct and represent 3D vision-language models. This is achieved by distilling feature maps generated from image-based foundation models into those rendered from our 3D model. To ensure high-quality rendering and fast training, we introduce a novel scene representation by integrating strengths from both GS and multi-resolution hash encodings (MHE). Our effective training procedure also introduces a pixel alignment loss that makes the rendered feature distance of same semantic entities close, following the pixel-level semantic boundaries. Our results demonstrate remarkable multi-view semantic consistency, facilitating diverse downstream tasks, beating state-of-the-art methods by 10.2 percent on open-vocabulary language-based object detection, despite that we are 851times faster for inference. This research explores the intersection of vision, language, and 3D scene representation, paving the way for enhanced scene understanding in uncontrolled real-world environments. We plan to release the code upon paper acceptance.]]></description>
+            <pubDate>Fri, 05 Jan 2024 04:05:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.01970</guid>
+            <link>https://arxiv.org/abs/2401.01970</link>
+            
+            
+            
+            <author><![CDATA[Xingxing Zuo, Pouya Samangouei, Yunwen Zhou, Yan Di, Mingyang Li]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TinyLlama: An Open-Source Small Language Model]]></title>
+            <description><![CDATA[We present TinyLlama, a compact 1.1B language model pretrained on around 1 trillion tokens for approximately 3 epochs. Building on the architecture and tokenizer of Llama 2, TinyLlama leverages various advances contributed by the open-source community (e.g., FlashAttention), achieving better computational efficiency. Despite its relatively small size, TinyLlama demonstrates remarkable performance in a series of downstream tasks. It significantly outperforms existing open-source language models with comparable sizes. Our model checkpoints and code are publicly available on GitHub at https://github.com/jzhang38/TinyLlama.]]></description>
+            <pubDate>Fri, 05 Jan 2024 04:02:04 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02385</guid>
+            <link>https://arxiv.org/abs/2401.02385</link>
+            
+            
+            
+            <author><![CDATA[Peiyuan Zhang, Guangtao Zeng, Tianduo Wang, Wei Lu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs]]></title>
+            <description><![CDATA[3D-aware Generative Adversarial Networks (GANs) have shown remarkable progress in learning to generate multi-view-consistent images and 3D geometries of scenes from collections of 2D images via neural volume rendering. Yet, the significant memory and computational costs of dense sampling in volume rendering have forced 3D GANs to adopt patch-based training or employ low-resolution rendering with post-processing 2D super resolution, which sacrifices multiview consistency and the quality of resolved geometry. Consequently, 3D GANs have not yet been able to fully resolve the rich 3D geometry present in 2D images. In this work, we propose techniques to scale neural volume rendering to the much higher resolution of native 2D images, thereby resolving fine-grained 3D geometry with unprecedented detail. Our approach employs learning-based samplers for accelerating neural rendering for 3D GAN training using up to 5 times fewer depth samples. This enables us to explicitly "render every pixel" of the full-resolution image during training and inference without post-processing superresolution in 2D. Together with our strategy to learn high-quality surface geometry, our method synthesizes high-resolution 3D geometry and strictly view-consistent images while maintaining image quality on par with baselines relying on post-processing super resolution. We demonstrate state-of-the-art 3D gemetric quality on FFHQ and AFHQ, setting a new standard for unsupervised learning of 3D shapes in 3D GANs.]]></description>
+            <pubDate>Fri, 05 Jan 2024 03:32:35 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02411</guid>
+            <link>https://arxiv.org/abs/2401.02411</link>
+            
+            
+            
+            <author><![CDATA[Alex Trevithick, Matthew Chan, Towaki Takikawa, Umar Iqbal, Shalini De Mello, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[LLM Augmented LLMs: Expanding Capabilities through Composition]]></title>
