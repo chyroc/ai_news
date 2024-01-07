@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 07 Jan 2024 20:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 18:43:51 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🐀Improved RAGatouille <> LangChain Integration We really enjoyed @bclavie's new RAGatouille library. It makes advanced retrieval techniques (like C...]]></title>
-            <description><![CDATA[🐀Improved RAGatouille &lt;&gt; LangChain Integration<br><br>We really enjoyed @bclavie's new RAGatouille library. It makes advanced retrieval techniques (like ColBERT - more on that below) really easy to use<br><br>We've worked on a tighter integration to make it *super simple* to use RAGatouille… https://twitter.com/i/web/status/1744080648481260015<br><img style="" src="https://pbs.twimg.com/media/GDQ4ElpagAAY6dN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDQ4FbObMAALB4G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 07 Jan 2024 19:36:44 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744080648481260015</guid>
-            <link>https://twitter.com/LangChainAI/status/1744080648481260015</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Our friends at @UnstructuredIO are a great way to ingest unstructured data @Dev__Digest recently made an awesome tutorial showing how to us them with ...]]></title>
@@ -81,22 +65,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 07 Jan 2024 16:35:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744034911793619242</guid>
             <link>https://twitter.com/LangChainAI/status/1744034911793619242</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT João Moura: 🤖 AI Agents create Instagram post using crewAI FOR FREE ✨🚣 This runs entirely on OpenHermes 2.5 from @Teknium1 and @NousResearc...]]></title>
-            <description><![CDATA[RT João Moura<br>🤖 AI Agents create Instagram post using crewAI FOR FREE ✨🚣<br><br>This runs entirely on OpenHermes 2.5 from @Teknium1 and @NousResearch  using @OLLAMA<br><br>If you like this follow me for more on AI Agents and all things LLM<br><br>crewAI, is an AI Agent framework built on top of @LangChainAI<br><video src="https://video.twimg.com/ext_tw_video/1744029937223237632/pu/vid/avc1/1920x1080/L5aNnN7jqkEYSpQQ.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1744029937223237632/pu/img/J51Z93gGamS3sa8b.jpg"></video>]]></description>
-            <pubDate>Sun, 07 Jan 2024 16:20:16 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/joaomdmoura/status/1744031203995316712</guid>
-            <link>https://twitter.com/joaomdmoura/status/1744031203995316712</link>
             
             
             
@@ -337,6 +305,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 04 Jan 2024 12:13:44 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/DataCamp/status/1742881998941646975</guid>
             <link>https://twitter.com/DataCamp/status/1742881998941646975</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT DataCamp: New year, new (AI) skills: Learn everything you need to get started with AI—for free—in 1–2 hour sessions. 💸 In partnership with @M...]]></title>
+            <description><![CDATA[RT DataCamp<br>New year, new (AI) skills: Learn everything you need to get started with AI—for free—in 1–2 hour sessions. 💸<br><br>In partnership with @Microsoft, @Pinecone, @Fidelity, and more—the AI Developer code-along series is an opportunity to develop vital generative AI skills for 2024.<br><img style="" src="https://pbs.twimg.com/media/GC8GvWSXkAIELmF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GC8GxsNXEAAnNVG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GC8GyWFXcAA8gzr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GC8Gy_SXgAAM7IY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 03 Jan 2024 18:58:09 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/DataCamp/status/1742621387829789147</guid>
+            <link>https://twitter.com/DataCamp/status/1742621387829789147</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Pulumi: Did you know Pulumi has a 🤖 AI / ML Essentials playlist? You can watch videos on how to create a chatbot, using @OpenAI, @huggingface, a...]]></title>
+            <description><![CDATA[RT Pulumi<br>Did you know Pulumi has a 🤖 AI / ML Essentials playlist? You can watch videos on how to create a chatbot, using @OpenAI, @huggingface, and also presentations and workshops on topics including @LangChainAI, @pinecone, @Docker and others.<br><br>Watch it at https://hubs.ly/Q02dCLTL0<br><img style="" src="https://pbs.twimg.com/media/GC7vBQsWwAEuHz7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 03 Jan 2024 17:05:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/PulumiCorp/status/1742592912746029421</guid>
+            <link>https://twitter.com/PulumiCorp/status/1742592912746029421</link>
             
             
             
