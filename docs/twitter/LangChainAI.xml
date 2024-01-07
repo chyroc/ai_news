@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 07 Jan 2024 16:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 14:37:25 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🎅Santa <> GenAI: Deciphering Handwritten Christmas Letters with LangChain and Elasticsearch Great tutorial from @alexsalgadoprof that: 1. Uses GPT-...]]></title>
-            <description><![CDATA[🎅Santa &lt;&gt; GenAI: Deciphering Handwritten Christmas Letters with LangChain and Elasticsearch<br><br>Great tutorial from @alexsalgadoprof that:<br><br>1. Uses GPT-4V to analyze an image an say whats in it<br>2. Extracts structured information as JSON from that analysis<br><br>https://discuss.elastic.co/t/dec-22nd-2023-en-santa-claus-meets-genai-deciphering-handwritten-christmas-letters-with-llm-langchain-and-elasticsearch/347311<br><img style="" src="https://pbs.twimg.com/media/GDLExkDakAED1rE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 07 Jan 2024 16:35:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744034911793619242</guid>
-            <link>https://twitter.com/LangChainAI/status/1744034911793619242</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[This is a really cool project Uses LangChain to parse PDFs so that you can match receipts against transactions for seamless accounting Good to way to ...]]></title>
@@ -321,6 +305,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 03 Jan 2024 18:00:12 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1742606802586566849</guid>
             <link>https://twitter.com/BraceSproul/status/1742606802586566849</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🌐 Tavily Search Tool for Agents 🌐 You can now use @tavilyai, a search engine built specifically for AI agents, as a tool in @LangC...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🌐&nbsp;Tavily Search Tool for Agents 🌐<br><br>You can now use @tavilyai, a search engine built specifically for AI agents, as a tool in @LangChainAI JS/TS community 0.0.13!<br><br>Try for free and give your agents the most up-to-date information possible:<br><br>https://js.langchain.com/docs/integrations/tools/tavily_search<br><img style="" src="https://pbs.twimg.com/media/GC7wLBrWkAA5Vi3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 03 Jan 2024 17:10:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1742594380450365544</guid>
+            <link>https://twitter.com/Hacubu/status/1742594380450365544</link>
             
             
             
