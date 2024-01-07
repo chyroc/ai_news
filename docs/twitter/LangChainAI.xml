@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 07 Jan 2024 18:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 16:37:27 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Our friends at @UnstructuredIO are a great way to ingest unstructured data @Dev__Digest recently made an awesome tutorial showing how to us them with ...]]></title>
-            <description><![CDATA[Our friends at @UnstructuredIO are a great way to ingest unstructured data<br><br>@Dev__Digest recently made an awesome tutorial showing how to us them with LangChain.js. Shows how to do question-answering over third party data<br><br>Check it out!<br><br>https://www.youtube.com/watch?v=2B161Dpvyxw<br><img style="" src="https://pbs.twimg.com/media/GDLDZt_aUAAu8Th?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 07 Jan 2024 18:27:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744063097390964879</guid>
-            <link>https://twitter.com/LangChainAI/status/1744063097390964879</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤖✂️How to Web Scrape Wikipedia with LLM Agents We ♥️ this tutorial by Kenneth Leung. It shows how to take a CSV of entities and then use an age...]]></title>
-            <description><![CDATA[🤖✂️How to Web Scrape Wikipedia with LLM Agents<br><br>We ♥️ this tutorial by Kenneth Leung. It shows how to take a CSV of entities and then use an agent to populate information about those entities by looking things up on Wikipedia<br><br>Many real-world use cases!<br><br>https://medium.datadriveninvestor.com/how-to-web-scrape-wikipedia-using-llm-agents-f0dba8400692<br><img style="" src="https://pbs.twimg.com/media/GDLGBzRbAAA1REg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDLGCngacAAMgUA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 07 Jan 2024 17:19:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744045984727081141</guid>
-            <link>https://twitter.com/LangChainAI/status/1744045984727081141</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[🎅Santa <> GenAI: Deciphering Handwritten Christmas Letters with LangChain and Elasticsearch Great tutorial from @alexsalgadoprof that: 1. Uses GPT-...]]></title>
@@ -321,6 +289,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 03 Jan 2024 18:58:09 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/DataCamp/status/1742621387829789147</guid>
             <link>https://twitter.com/DataCamp/status/1742621387829789147</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[📰New Paper Alert: Breast Ultrasound Report Generation using LangChain This recent paper out of Korea Advanced Institute of Science and Technology u...]]></title>
+            <description><![CDATA[📰New Paper Alert: Breast Ultrasound Report Generation using LangChain<br><br>This recent paper out of Korea Advanced Institute of Science and Technology uses LangChain and classical image classification models to help with medical report generation<br><br>https://arxiv.org/pdf/2312.03013.pdf<br><img style="" src="https://pbs.twimg.com/media/GC78bu3awAABB3c?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 03 Jan 2024 18:05:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742608009799356563</guid>
+            <link>https://twitter.com/LangChainAI/status/1742608009799356563</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Brace: 🧥 Cohere RAG Chat API 🧥 Cohere's API with built in support for RAG is now in @LangChainAI JS! Their chat API comes with out of the box...]]></title>
+            <description><![CDATA[RT Brace<br>🧥 Cohere RAG Chat API 🧥<br><br>Cohere's API with built in support for RAG is now in @LangChainAI JS! Their chat API comes with out of the box support for RAG and searching the web with zero extra configuration necessary!<br><br>You can download this standalone package to interact with… https://twitter.com/i/web/status/1742606802586566849<br><img style="" src="https://pbs.twimg.com/media/GC77frfaAAANUZQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 03 Jan 2024 18:00:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1742606802586566849</guid>
+            <link>https://twitter.com/BraceSproul/status/1742606802586566849</link>
             
             
             
