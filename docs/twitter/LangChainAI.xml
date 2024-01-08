@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 08 Jan 2024 04:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 06:55:39 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Tomaz Bratanic: Built a @LangChainAI template that demonstrates a semantic layer on top of @neo4j and a dedicated repository that with a Streamlit ...]]></title>
+            <description><![CDATA[RT Tomaz Bratanic<br>Built a @LangChainAI  template that demonstrates a semantic layer on top of @neo4j  and a dedicated repository that with a Streamlit interface. The semantic layer equips the agent with a suite of robust tools, allowing it to interact with the graph  based on the user's intent.<br><img style="" src="https://pbs.twimg.com/media/GDRaKwpWYAALFOl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 07 Jan 2024 22:05:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/tb_tomaz/status/1744118103317897409</guid>
+            <link>https://twitter.com/tb_tomaz/status/1744118103317897409</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🐀Improved RAGatouille <> LangChain Integration We really enjoyed @bclavie's new RAGatouille library. It makes advanced retrieval techniques (like C...]]></title>
@@ -97,6 +113,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 07 Jan 2024 16:20:16 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/joaomdmoura/status/1744031203995316712</guid>
             <link>https://twitter.com/joaomdmoura/status/1744031203995316712</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Dialoqbase ⚡: Here's an example of chatting with a PDF fully locally using Ollama and Ollama embedding! 📄💬 Powered by @LangChainAI Repo: htt...]]></title>
+            <description><![CDATA[RT Dialoqbase ⚡<br>Here's an example of chatting with a PDF fully locally using Ollama and Ollama embedding! 📄💬<br><br>Powered by @LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1743972223365652480/pu/vid/avc1/1280x720/RjvS7PaTDlqWMitM.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1743972223365652480/pu/img/b-cxc2dNsAYve5rN.jpg"></video>]]></description>
+            <pubDate>Sun, 07 Jan 2024 14:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/dialoqbase/status/1743995911775392088</guid>
+            <link>https://twitter.com/dialoqbase/status/1743995911775392088</link>
             
             
             
@@ -305,38 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 04 Jan 2024 17:00:01 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742954042899169600</guid>
             <link>https://twitter.com/LangChainAI/status/1742954042899169600</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Our community is awesome! Incredible to see this animation of the LangChain GitHub repository over time Thank you to everyone who shows up!! Can you s...]]></title>
-            <description><![CDATA[Our community is awesome!<br><br>Incredible to see this animation of the LangChain GitHub repository over time<br><br>Thank you to everyone who shows up!! Can you spot yourself?<div class="rsshub-quote"><br><br>Bassem Dghaidi: It's fascinating to see how the @LangChainAI / langchain GitHub repository evolved over time. The power of open source communities is mind boggling. You can also see the explosion in contributions when LLMs became mainstream in 2023.<br><br>I generated this with the awesome gource… https://twitter.com/i/web/status/1742544697027862947<br><br><video src="https://video.twimg.com/ext_tw_video/1742541649736011777/pu/vid/avc1/1280x720/jkEOFYjLrBtGoYf1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1742541649736011777/pu/img/sx3b5OmNg3T8TjTx.jpg"></video></div>]]></description>
-            <pubDate>Thu, 04 Jan 2024 16:40:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1742949006286967151</guid>
-            <link>https://twitter.com/LangChainAI/status/1742949006286967151</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT DataCamp: A key application of large language models (LLMs) is the ability to answer questions about specific documents and datasets. In this code-...]]></title>
-            <description><![CDATA[RT DataCamp<br>A key application of large language models (LLMs) is the ability to answer questions about specific documents and datasets.<br><br>In this code-along, Andrea Valenzuela, Computing Engineer at @CERN, and Josep Ferrer Sanchez, Data Scientist at the @Catalonia_BNL, explore building an AI… https://twitter.com/i/web/status/1742881998941646975<br><img style="" src="https://pbs.twimg.com/media/GC_1yyrXAAAP3f2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 04 Jan 2024 12:13:44 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/DataCamp/status/1742881998941646975</guid>
-            <link>https://twitter.com/DataCamp/status/1742881998941646975</link>
             
             
             
