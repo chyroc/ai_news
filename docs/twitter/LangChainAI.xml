@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 08 Jan 2024 19:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 22:01:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🦙Local Model Quickstart One big point of feedback we've gotten is people want more documentation for how to use local models in chains As part of v...]]></title>
+            <description><![CDATA[🦙Local Model Quickstart<br><br>One big point of feedback we've gotten is people want more documentation for how to use local models in chains<br><br>As part of v0.1.0 we've updated our getting started to now highlight running OSS models!<br><br>We also have a section on RAG with local models,… https://twitter.com/i/web/status/1744456737678397920<br><img style="" src="https://pbs.twimg.com/media/GDWN0MpaQAADQkP?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDWOJBvbQAAGbOc?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 08 Jan 2024 20:31:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744456737678397920</guid>
+            <link>https://twitter.com/LangChainAI/status/1744456737678397920</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT João Moura: Re @LangChainAI was one of the first libs to build abstractions around LLMs, it had to expand fast, great to see it now reorganize its...]]></title>
@@ -273,22 +289,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 07 Jan 2024 18:27:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744063097390964879</guid>
             <link>https://twitter.com/LangChainAI/status/1744063097390964879</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤖✂️How to Web Scrape Wikipedia with LLM Agents We ♥️ this tutorial by Kenneth Leung. It shows how to take a CSV of entities and then use an age...]]></title>
-            <description><![CDATA[🤖✂️How to Web Scrape Wikipedia with LLM Agents<br><br>We ♥️ this tutorial by Kenneth Leung. It shows how to take a CSV of entities and then use an agent to populate information about those entities by looking things up on Wikipedia<br><br>Many real-world use cases!<br><br>https://medium.datadriveninvestor.com/how-to-web-scrape-wikipedia-using-llm-agents-f0dba8400692<br><img style="" src="https://pbs.twimg.com/media/GDLGBzRbAAA1REg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDLGCngacAAMgUA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 07 Jan 2024 17:19:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744045984727081141</guid>
-            <link>https://twitter.com/LangChainAI/status/1744045984727081141</link>
             
             
             
