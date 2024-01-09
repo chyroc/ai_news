@@ -15,115 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 09 Jan 2024 01:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 03:07:32 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[DocGraphLM: Documental Graph Language Model for Information Extraction]]></title>
-            <description><![CDATA[Advances in Visually Rich Document Understanding (VrDU) have enabled information extraction and question answering over documents with complex layouts. Two tropes of architectures have emerged -- transformer-based models inspired by LLMs, and Graph Neural Networks. In this paper, we introduce DocGraphLM, a novel framework that combines pre-trained language models with graph semantics. To achieve this, we propose 1) a joint encoder architecture to represent documents, and 2) a novel link prediction approach to reconstruct document graphs. DocGraphLM predicts both directions and distances between nodes using a convergent joint loss function that prioritizes neighborhood restoration and downweighs distant node detection. Our experiments on three SotA datasets show consistent improvement on IE and QA tasks with the adoption of graph features. Moreover, we report that adopting the graph features accelerates convergence in the learning process during training, despite being solely constructed through link prediction.]]></description>
-            <pubDate>Mon, 08 Jan 2024 03:23:50 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02823</guid>
-            <link>https://arxiv.org/abs/2401.02823</link>
+            <title><![CDATA[Mixtral of Experts]]></title>
+            <description><![CDATA[We introduce Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model. Mixtral has the same architecture as Mistral 7B, with the difference that each layer is composed of 8 feedforward blocks (i.e. experts). For every token, at each layer, a router network selects two experts to process the current state and combine their outputs. Even though each token only sees two experts, the selected experts can be different at each timestep. As a result, each token has access to 47B parameters, but only uses 13B active parameters during inference. Mixtral was trained with a context size of 32k tokens and it outperforms or matches Llama 2 70B and GPT-3.5 across all evaluated benchmarks. In particular, Mixtral vastly outperforms Llama 2 70B on mathematics, code generation, and multilingual benchmarks. We also provide a model fine-tuned to follow instructions, Mixtral 8x7B - Instruct, that surpasses GPT-3.5 Turbo, Claude-2.1, Gemini Pro, and Llama 2 70B - chat model on human benchmarks. Both the base and instruct models are released under the Apache 2.0 license.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:04:12 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04088</guid>
+            <link>https://arxiv.org/abs/2401.04088</link>
             
             
             
-            <author><![CDATA[Dongsheng Wang, Zhiqiang Ma, Armineh Nourbakhsh, Kang Gu, Sameena Shah]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Denoising Vision Transformers]]></title>
-            <description><![CDATA[We delve into a nuanced but significant challenge inherent to Vision Transformers (ViTs): feature maps of these models exhibit grid-like artifacts, which detrimentally hurt the performance of ViTs in downstream tasks. Our investigations trace this fundamental issue down to the positional embeddings at the input stage. To address this, we propose a novel noise model, which is universally applicable to all ViTs. Specifically, the noise model dissects ViT outputs into three components: a semantics term free from noise artifacts and two artifact-related terms that are conditioned on pixel locations. Such a decomposition is achieved by enforcing cross-view feature consistency with neural fields in a per-image basis. This per-image optimization process extracts artifact-free features from raw ViT outputs, providing clean features for offline applications. Expanding the scope of our solution to support online functionality, we introduce a learnable denoiser to predict artifact-free features directly from unprocessed ViT outputs, which shows remarkable generalization capabilities to novel data without the need for per-image optimization. Our two-stage approach, termed Denoising Vision Transformers (DVT), does not require re-training existing pre-trained ViTs and is immediately applicable to any Transformer-based architecture. We evaluate our method on a variety of representative ViTs (DINO, MAE, DeiT-III, EVA02, CLIP, DINOv2, DINOv2-reg). Extensive evaluations demonstrate that our DVT consistently and significantly improves existing state-of-the-art general-purpose models in semantic and geometric tasks across multiple datasets (e.g., +3.84 mIoU). We hope our study will encourage a re-evaluation of ViT design, especially regarding the naive use of positional embeddings.]]></description>
-            <pubDate>Mon, 08 Jan 2024 03:06:55 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02957</guid>
-            <link>https://arxiv.org/abs/2401.02957</link>
-            
-            
-            
-            <author><![CDATA[Jiawei Yang, Katie Z Luo, Jiefeng Li, Kilian Q Weinberger, Yonglong Tian, Yue Wang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Progressive Knowledge Distillation Of Stable Diffusion XL Using Layer Level Loss]]></title>
-            <description><![CDATA[Stable Diffusion XL (SDXL) has become the best open source text-to-image model (T2I) for its versatility and top-notch image quality. Efficiently addressing the computational demands of SDXL models is crucial for wider reach and applicability. In this work, we introduce two scaled-down variants, Segmind Stable Diffusion (SSD-1B) and Segmind-Vega, with 1.3B and 0.74B parameter UNets, respectively, achieved through progressive removal using layer-level losses focusing on reducing the model size while preserving generative quality. We release these models weights at https://hf.co/Segmind. Our methodology involves the elimination of residual networks and transformer blocks from the U-Net structure of SDXL, resulting in significant reductions in parameters, and latency. Our compact models effectively emulate the original SDXL by capitalizing on transferred knowledge, achieving competitive results against larger multi-billion parameter SDXL. Our work underscores the efficacy of knowledge distillation coupled with layer-level losses in reducing model size while preserving the high-quality generative capabilities of SDXL, thus facilitating more accessible deployment in resource-constrained environments.]]></description>
-            <pubDate>Mon, 08 Jan 2024 02:52:12 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02677</guid>
-            <link>https://arxiv.org/abs/2401.02677</link>
-            
-            
-            
-            <author><![CDATA[Yatharth Gupta, Vishnu V. Jaddipal, Harish Prabhala, Sayak Paul, Patrick Von Platen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively]]></title>
-            <description><![CDATA[The CLIP and Segment Anything Model (SAM) are remarkable vision foundation models (VFMs). SAM excels in segmentation tasks across diverse domains, while CLIP is renowned for its zero-shot recognition capabilities. This paper presents an in-depth exploration of integrating these two models into a unified framework. Specifically, we introduce the Open-Vocabulary SAM, a SAM-inspired model designed for simultaneous interactive segmentation and recognition, leveraging two unique knowledge transfer modules: SAM2CLIP and CLIP2SAM. The former adapts SAM's knowledge into the CLIP via distillation and learnable transformer adapters, while the latter transfers CLIP knowledge into SAM, enhancing its recognition capabilities. Extensive experiments on various datasets and detectors show the effectiveness of Open-Vocabulary SAM in both segmentation and recognition tasks, significantly outperforming the naive baselines of simply combining SAM and CLIP. Furthermore, aided with image classification data training, our method can segment and recognize approximately 22,000 classes.]]></description>
-            <pubDate>Mon, 08 Jan 2024 02:48:03 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02955</guid>
-            <link>https://arxiv.org/abs/2401.02955</link>
-            
-            
-            
-            <author><![CDATA[Haobo Yuan, Xiangtai Li, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Pheme: Efficient and Conversational Speech Generation]]></title>
-            <description><![CDATA[In recent years, speech generation has seen remarkable progress, now achieving one-shot generation capability that is often virtually indistinguishable from real human voice. Integrating such advancements in speech generation with large language models might revolutionize a wide range of applications. However, certain applications, such as assistive conversational systems, require natural and conversational speech generation tools that also operate efficiently in real time. Current state-of-the-art models like VALL-E and SoundStorm, powered by hierarchical neural audio codecs, require large neural components and extensive training data to work well. In contrast, MQTTS aims to build more compact conversational TTS models while capitalizing on smaller-scale real-life conversational speech data. However, its autoregressive nature yields high inference latency and thus limits its real-time usage. In order to mitigate the current limitations of the state-of-the-art TTS models while capitalizing on their strengths, in this work we introduce the Pheme model series that 1) offers compact yet high-performing models, 2) allows for parallel speech generation of 3) natural conversational speech, and 4) it can be trained efficiently on smaller-scale conversational data, cutting data demands by more than 10x but still matching the quality of the autoregressive TTS models. We also show that through simple teacher-student distillation we can meet significant improvements in voice quality for single-speaker setups on top of pretrained Pheme checkpoints, relying solely on synthetic speech generated by much larger teacher models. Audio samples and pretrained models are available online.]]></description>
-            <pubDate>Mon, 08 Jan 2024 02:40:07 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02839</guid>
-            <link>https://arxiv.org/abs/2401.02839</link>
-            
-            
-            
-            <author><![CDATA[Paweł Budzianowski, Taras Sereda, Tomasz Cichy, Ivan Vulić]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DeepSeek LLM: Scaling Open-Source Language Models with Longtermism]]></title>
-            <description><![CDATA[The rapid development of open-source large language models (LLMs) has been truly remarkable. However, the scaling law described in previous literature presents varying conclusions, which casts a dark cloud over scaling LLMs. We delve into the study of scaling laws and present our distinctive findings that facilitate scaling of large scale models in two commonly used open-source configurations, 7B and 67B. Guided by the scaling laws, we introduce DeepSeek LLM, a project dedicated to advancing open-source language models with a long-term perspective. To support the pre-training phase, we have developed a dataset that currently consists of 2 trillion tokens and is continuously expanding. We further conduct supervised fine-tuning (SFT) and Direct Preference Optimization (DPO) on DeepSeek LLM Base models, resulting in the creation of DeepSeek Chat models. Our evaluation results demonstrate that DeepSeek LLM 67B surpasses LLaMA-2 70B on various benchmarks, particularly in the domains of code, mathematics, and reasoning. Furthermore, open-ended evaluations reveal that DeepSeek LLM 67B Chat exhibits superior performance compared to GPT-3.5.]]></description>
-            <pubDate>Mon, 08 Jan 2024 02:34:54 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02954</guid>
-            <link>https://arxiv.org/abs/2401.02954</link>
-            
-            
-            
-            <author><![CDATA[DeepSeek-AI, Xiao Bi, Deli Chen, Guanting Chen, Shanhuang Chen, Damai Dai, Chengqi Deng, Honghui Ding, Kai Dong, Qiushi Du, Zhe Fu, Huazuo Gao, Kaige Gao, Wenjun Gao, Ruiqi Ge, Kang Guan, Daya Guo, Jianzhong Guo, Guangbo Hao, Zhewen Hao, Ying He, Wenjie Hu, Panpan Huang, Erhang Li, Guowei Li, Jiashi Li, Yao Li, Y. K. Li, Wenfeng Liang, Fangyun Lin, A. X. Liu, Bo Liu, Wen Liu, Xiaodong Liu, Xin Liu, Yiyuan Liu, Haoyu Lu, Shanghao Lu, Fuli Luo, Shirong Ma, Xiaotao Nie, Tian Pei, Yishi Piao, Junjie Qiu, Hui Qu, Tongzheng Ren, Zehui Ren, Chong Ruan, Zhangli Sha, Zhihong Shao, Junxiao Song, Xuecheng Su, Jingxiang Sun, Yaofeng Sun, Minghui Tang, Bingxuan Wang, Peiyi Wang, Shiyu Wang, Yaohui Wang, Yongji Wang, Tong Wu, Y. Wu, Xin Xie, Zhenda Xie, Ziwei Xie, Yiliang Xiong, Hanwei Xu, R. X. Xu, Yanhong Xu, Dejian Yang, Yuxiang You, Shuiping Yu, Xingkai Yu, B. Zhang, Haowei Zhang, Lecong Zhang, Liyue Zhang, Mingchuan Zhang, Minghua Zhang, Wentao Zhang, Yichao Zhang, Chenggang Zhao, Yao Zhao, Shangyan Zhou, Shunfeng Zhou, Qihao Zhu, Yuheng Zou]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache]]></title>
-            <description><![CDATA[The rapid proliferation of Large Language Models (LLMs) has been a driving force in the growth of cloud-based LLM services, which are now integral to advancing AI applications. However, the dynamic auto-regressive nature of LLM service, along with the need to support exceptionally long context lengths, demands the flexible allocation and release of substantial resources. This presents considerable challenges in designing cloud-based LLM service systems, where inefficient management can lead to performance degradation or resource wastage. In response to these challenges, this work introduces DistAttention, a novel distributed attention algorithm that segments the KV Cache into smaller, manageable units, enabling distributed processing and storage of the attention module. Based on that, we propose DistKV-LLM, a distributed LLM serving system that dynamically manages KV Cache and effectively orchestrates all accessible GPU and CPU memories spanning across the data center. This ensures a high-performance LLM service on the cloud, adaptable to a broad range of context lengths. Validated in a cloud environment with 32 NVIDIA A100 GPUs in configurations from 2 to 32 instances, our system exhibited 1.03-2.4x end-to-end throughput improvements and supported context lengths 2-19x longer than current state-of-the-art LLM service systems, as evidenced by extensive testing across 18 datasets with context lengths up to 1,900K.]]></description>
-            <pubDate>Mon, 08 Jan 2024 02:13:45 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.02669</guid>
-            <link>https://arxiv.org/abs/2401.02669</link>
-            
-            
-            
-            <author><![CDATA[Bin Lin, Tao Peng, Chen Zhang, Minmin Sun, Lanbo Li, Hanyu Zhao, Wencong Xiao, Qi Xu, Xiafei Qiu, Shen Li, Zhigang Ji, Yong Li, Wei Lin]]></author>
+            <author><![CDATA[Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, Gianna Lengyel, Guillaume Bour, Guillaume Lample, Lélio Renard Lavaud, Lucile Saulnier, Marie-Anne Lachaux, Pierre Stock, Sandeep Subramanian, Sophia Yang, Szymon Antoniak, Teven Le Scao, Théophile Gervet, Thibaut Lavril, Thomas Wang, Timothée Lacroix, William El Sayed]]></author>
             
                 
             
