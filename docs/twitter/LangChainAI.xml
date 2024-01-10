@@ -24,8 +24,56 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 10 Jan 2024 18:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 20:33:45 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[LangChain v0.1.0 Highlight: 🎏Streaming Streaming is an important UX consideration - both of LLM tokens, as well as intermediate steps. All chains a...]]></title>
+            <description><![CDATA[LangChain v0.1.0 Highlight:<br><br>🎏Streaming<br><br>Streaming is an important UX consideration - both of LLM tokens, as well as intermediate steps. All chains and agents come with built in streaming, making it easy to convey what is happening to end users<br><br>YouTube: https://www.youtube.com/watch?v=gr5CGL4_jpY<br><img style="" src="https://pbs.twimg.com/media/GDgEf_vbMAEonBH?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 10 Jan 2024 19:59:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745173413403283470</guid>
+            <link>https://twitter.com/LangChainAI/status/1745173413403283470</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🚀New LangChain reranker ColBERT via @bclavie's RAGatouille framework]]></title>
+            <description><![CDATA[🚀New LangChain reranker<br><br>ColBERT via @bclavie's RAGatouille framework<div class="rsshub-quote"><br><br>Harrison Chase: This is a great addition - ColBERT as a reranker<br><br>Makes it really easy to get some of the benefits from ColBERT but in a way where you don't have to update your indexing pipeline<br><br>Seamlessly integrates as a LangChain reranker!<br><br>https://python.langchain.com/docs/integrations/providers/ragatouille<br><br><img style="" src="https://pbs.twimg.com/media/GDgYmXEbUAAfRZ4?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 10 Jan 2024 19:55:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745172545396211983</guid>
+            <link>https://twitter.com/LangChainAI/status/1745172545396211983</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: This is a great addition - ColBERT as a reranker Makes it really easy to get some of the benefits from ColBERT but in a way where y...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>This is a great addition - ColBERT as a reranker<br><br>Makes it really easy to get some of the benefits from ColBERT but in a way where you don't have to update your indexing pipeline<br><br>Seamlessly integrates as a LangChain reranker!<br><br>https://python.langchain.com/docs/integrations/providers/ragatouille<br><img style="" src="https://pbs.twimg.com/media/GDgYmXEbUAAfRZ4?format=png&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Benjamin Clavié: "I wish I could use the best retrieval model as a reranker in my RAG pipeline, but I don't have time to redesign it!" <br><br>We've all been there and thought that, right?<br><br>🪤RAGatouille now lets you do it effortlessly! Retrieve docs as usual&amp;let ColBERT rerank them in a single line⬇️<br><br><img style="" src="https://pbs.twimg.com/media/GDfTglbXQAAK6e4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 10 Jan 2024 19:53:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1745171912358060124</guid>
+            <link>https://twitter.com/hwchase17/status/1745171912358060124</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[LangChain v0.1.0 Highlight: 🔗Composability A big part of LangChain v0.1.0 is composability. We achieve this by using LangChain Expression Language ...]]></title>
@@ -252,38 +300,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
-            <title><![CDATA[🎏🕸️Streaming with LangGraph Yesterday, we introduced LangGraph as way to construct language agents as graphs Because this is built on LangChain...]]></title>
-            <description><![CDATA[🎏🕸️Streaming with LangGraph<br><br>Yesterday, we introduced LangGraph as way to construct language agents as graphs<br><br>Because this is built on LangChain, it comes with the ability to stream intermediate steps as well as tokens<br><br>Check it out: https://github.com/langchain-ai/langgraph<br><img style="" src="https://pbs.twimg.com/media/GDaxyuibYAAoUid?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDaxzlTagAAipd4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 09 Jan 2024 17:46:21 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744777644284219862</guid>
-            <link>https://twitter.com/LangChainAI/status/1744777644284219862</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Taranjeet: 👀 @embedchain now supports vLLM via @LangChainAI 👇🏻 code snippet below]]></title>
-            <description><![CDATA[RT Taranjeet<br>👀 @embedchain now supports vLLM<br>via @LangChainAI<br><br>👇🏻 code snippet below]]></description>
-            <pubDate>Tue, 09 Jan 2024 17:25:14 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/taranjeetio/status/1744772330629579104</guid>
-            <link>https://twitter.com/taranjeetio/status/1744772330629579104</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Nat Guy: .@LangChainAI announces an early peak at LangGraph for cyclic (looping), state-full agent workflows. To define: Hey ai agent, do x with th...]]></title>
             <description><![CDATA[RT Nat Guy<br>.@LangChainAI announces an early peak at LangGraph for cyclic (looping), state-full agent workflows.<br><br>To define: Hey ai agent, do x with this tool until you’re done. Then do something else. Then stop.<br><br>https://github.com/langchain-ai/langgraph <br><br>@DavidKPiano thoughts?]]></description>
             <pubDate>Tue, 09 Jan 2024 16:40:02 GMT</pubDate>
@@ -305,22 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 09 Jan 2024 16:33:53 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/austinbv/status/1744759409186607262</guid>
             <link>https://twitter.com/austinbv/status/1744759409186607262</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Hard Kothari: After making it easy to build orchestrated steps (chains) easy using LCEL, @LangChainAI has once again introduced new feature of Lang...]]></title>
-            <description><![CDATA[RT Hard Kothari<br>After making it easy to build orchestrated steps (chains) easy using LCEL, @LangChainAI  has once again introduced new feature of LangGraphs to make it easy to work with agents.<br><br>The idea behind is to make it more modular and easy to work with agents and building them with more… https://twitter.com/i/web/status/1744735659846438921<br><img style="" src="https://pbs.twimg.com/media/GDaLt19akAAwKg1?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 09 Jan 2024 14:59:31 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/HardKothari/status/1744735659846438921</guid>
-            <link>https://twitter.com/HardKothari/status/1744735659846438921</link>
             
             
             
