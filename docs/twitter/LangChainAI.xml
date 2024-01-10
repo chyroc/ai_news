@@ -24,136 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 10 Jan 2024 18:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 16:27:21 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[LangChain v0.1.0 Highlight: 🔗Composability A big part of LangChain v0.1.0 is composability. We achieve this by using LangChain Expression Language ...]]></title>
-            <description><![CDATA[LangChain v0.1.0 Highlight:<br><br>🔗Composability<br><br>A big part of LangChain v0.1.0 is composability. We achieve this by using LangChain Expression Language - which we've been working on for the past six months<br><br>This allows you to compose arbitrary sequences of LLM calls, function… https://twitter.com/i/web/status/1745149486576644197<br><img style="" src="https://pbs.twimg.com/media/GDgEBQ2agAAmqQa?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 10 Jan 2024 18:23:55 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745149486576644197</guid>
-            <link>https://twitter.com/LangChainAI/status/1745149486576644197</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜LangChain <> DSPy🧩 DSPy is a fantastic framework that **compiles** your LLM program Specifically, the DSPy compiler will internally trace your ...]]></title>
-            <description><![CDATA[🦜LangChain &lt;&gt; DSPy🧩<br><br>DSPy is a fantastic framework that **compiles** your LLM program<br><br>Specifically, the DSPy compiler will internally trace your program and then craft high-quality prompts for large LMs to teach them the steps of your task.<br><br>Thanks to @lateinteraction we have… https://twitter.com/i/web/status/1745138590429163941<br><img style="" src="https://pbs.twimg.com/media/GDfzqW1bMAITU1I?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDfzrEObMAI20_0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 10 Jan 2024 17:40:37 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745138590429163941</guid>
-            <link>https://twitter.com/LangChainAI/status/1745138590429163941</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Kpolley: Since this post, I learned about @LangChainAI and turned this POC notebook into a web chat UI interface, GitChat. demo: https://gitchat.kp...]]></title>
-            <description><![CDATA[RT Kpolley<br>Since this post, I learned about @LangChainAI and turned this POC notebook into a web chat UI interface, GitChat. <br><br>demo: https://gitchat.kpolley.com<br>demo share: https://gitchat.kpolley.com/share/FrAT0ak<br><br>The goal is for GitChat to be deployed internally at organizations as a helpful, secure,… https://twitter.com/i/web/status/1745138173846385107<br><img style="" src="https://pbs.twimg.com/media/GDf3AlbWYAA8IM8?format=png&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Kpolley: I created a chatbot that can search and understand @runpanther's public threat detection repo. It was wildly easier to do than I expected!<br><br>Every DevX team should be exploring how fine-tuned, internally-facing AIs can improve the engineering and operations experience. This is so… https://twitter.com/i/web/status/1730314234246865209<br><br><img style="" src="https://pbs.twimg.com/media/GANOrl0WwAA5pOw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GANOw2BXQAA18lB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 10 Jan 2024 17:38:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/kplley/status/1745138173846385107</guid>
-            <link>https://twitter.com/kplley/status/1745138173846385107</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Awni Hannun: Another fun example using the MLX Whisper + @LangChainAI to speak with an LLM. This one is in Chinese. Someone please do an English ve...]]></title>
-            <description><![CDATA[RT Awni Hannun<br>Another fun example using the MLX Whisper + @LangChainAI to speak with an LLM.<br><br>This one is in Chinese. Someone please do an English version so I can try it 🙏 !<br><br>Code: https://github.com/linyiLYi/voice-assistant]]></description>
-            <pubDate>Wed, 10 Jan 2024 17:10:47 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/awnihannun/status/1745131080422949289</guid>
-            <link>https://twitter.com/awnihannun/status/1745131080422949289</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Andrew Ng: Our first Generative AI short course in JavaScript! GitHub recently reported that JavaScript is again the world’s most popular programm...]]></title>
-            <description><![CDATA[RT Andrew Ng<br>Our first Generative AI short course in JavaScript!<br><br>GitHub recently reported that JavaScript is again the world’s most popular programming language. To support web developers exploring and developing with generative AI, we just launched a new short course in JavaScript taught by… https://twitter.com/i/web/status/1745127613742657887<br><video src="https://video.twimg.com/ext_tw_video/1745126331132882946/pu/vid/avc1/1280x720/hC4O-NmS-yqV9VGP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745126331132882946/pu/img/TaMVsXSyl3ChTRcQ.jpg"></video>]]></description>
-            <pubDate>Wed, 10 Jan 2024 16:57:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/AndrewYNg/status/1745127613742657887</guid>
-            <link>https://twitter.com/AndrewYNg/status/1745127613742657887</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT DeepLearning.AI: New short course with @LangChainAI: Build LLM Apps with LangChain.js. Explore LangChain.js, a top JavaScript framework for buildin...]]></title>
-            <description><![CDATA[RT DeepLearning.AI<br>New short course with @LangChainAI: Build LLM Apps with LangChain.js.<br><br>Explore LangChain.js, a top JavaScript framework for building with LLMs, learn to retrieve and present data to the LLM for a conversational retrieval chain, and more.<br><br>Sign up for free: https://hubs.la/Q02f-f7M0<br><video src="https://video.twimg.com/ext_tw_video/1745120820832145408/pu/vid/avc1/1280x720/6aGseXOgJX_Xup9A.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745120820832145408/pu/img/H9JG94nSK2N5NvTd.jpg"></video>]]></description>
-            <pubDate>Wed, 10 Jan 2024 16:30:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/DeepLearningAI/status/1745120890776441250</guid>
-            <link>https://twitter.com/DeepLearningAI/status/1745120890776441250</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 🧱 Structured Output LCEL Chains 🧱 Getting LLMs emit consistent, structured output like JSON is the key to letting them interact wi...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>🧱&nbsp;Structured Output LCEL Chains 🧱<br><br>Getting LLMs emit consistent, structured output like JSON is the key to letting them interact with many other systems.<br><br>Following on the new, stable release, @LangChainAI 🦜🔗 JS/TS 0.1.2 includes new high-level LCEL chains (with built-in… https://twitter.com/i/web/status/1745120186343059516<br><img style="" src="https://pbs.twimg.com/media/GDfpZYjXcAA7mt6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 10 Jan 2024 16:27:29 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1745120186343059516</guid>
-            <link>https://twitter.com/Hacubu/status/1745120186343059516</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Tomaz Bratanic: The @neo4j semantic layer backend example of a movie agent is now available as @LangChainAI template. https://github.com/langchain-...]]></title>
-            <description><![CDATA[RT Tomaz Bratanic<br>The @neo4j  semantic layer backend example of a movie agent is now available as @LangChainAI template.<br><br>https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-layer]]></description>
-            <pubDate>Wed, 10 Jan 2024 07:06:32 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/tb_tomaz/status/1744979018691031211</guid>
-            <link>https://twitter.com/tb_tomaz/status/1744979018691031211</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Mo Gharabat 🦇: OpenCopilot is at 4.2K GitHub stars! ⭐⭐ https://github.com/openchatai/OpenCopilot It's a way to let your product's users chat w...]]></title>
@@ -284,6 +156,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[LangChain v0.1.0 Highlight: 👀Observability ⭐️free LangSmith access code for first 500 redemptions, read below⭐️ When building complex LLM appli...]]></title>
+            <description><![CDATA[LangChain v0.1.0 Highlight:<br><br>👀Observability<br><br>⭐️free LangSmith access code for first 500 redemptions, read below⭐️<br><br>When building complex LLM applications, you're application logic now contains a non-deterministic model at the center of it, often heavily controlling the flow of… https://twitter.com/i/web/status/1744767270654726640<br><img style="" src="https://pbs.twimg.com/media/GDaoVLiaEAAN8ra?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 09 Jan 2024 17:05:08 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744767270654726640</guid>
+            <link>https://twitter.com/LangChainAI/status/1744767270654726640</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Nat Guy: .@LangChainAI announces an early peak at LangGraph for cyclic (looping), state-full agent workflows. To define: Hey ai agent, do x with th...]]></title>
             <description><![CDATA[RT Nat Guy<br>.@LangChainAI announces an early peak at LangGraph for cyclic (looping), state-full agent workflows.<br><br>To define: Hey ai agent, do x with this tool until you’re done. Then do something else. Then stop.<br><br>https://github.com/langchain-ai/langgraph <br><br>@DavidKPiano thoughts?]]></description>
             <pubDate>Tue, 09 Jan 2024 16:40:02 GMT</pubDate>
@@ -337,6 +225,118 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 09 Jan 2024 12:22:19 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/MichaelNStruwig/status/1744696099141517752</guid>
             <link>https://twitter.com/MichaelNStruwig/status/1744696099141517752</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜📹LangChain v0.1.0 YouTube Series We released a series of videos walking through the seven main components of our new v0.1.0 release We also add...]]></title>
+            <description><![CDATA[🦜📹LangChain v0.1.0 YouTube Series<br><br>We released a series of videos walking through the seven main components of our new v0.1.0 release<br><br>We also added notebooks (in both Python and JS) for a hands-on coding experience for all of them<br><br>YouTube playlist: https://www.youtube.com/playlist?list=PLfaIDFEXuae0gBSJ9T0w7cu7iJZbH3T31… https://twitter.com/i/web/status/1744523182554660916<br><img style="" src="https://pbs.twimg.com/media/GDXKjvBbIAA9v6Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 09 Jan 2024 00:55:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744523182554660916</guid>
+            <link>https://twitter.com/LangChainAI/status/1744523182554660916</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @DavidFSWD @virattt Yup!]]></title>
+            <description><![CDATA[Re @DavidFSWD @virattt Yup!]]></description>
+            <pubDate>Mon, 08 Jan 2024 23:56:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744480232487211513</guid>
+            <link>https://twitter.com/LangChainAI/status/1744480232487211513</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @evil_genius_v12 Please share!]]></title>
+            <description><![CDATA[Re @evil_genius_v12 Please share!]]></description>
+            <pubDate>Mon, 08 Jan 2024 23:56:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744419476882473391</guid>
+            <link>https://twitter.com/LangChainAI/status/1744419476882473391</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Juri Wiens 🇺🇦: Great, LangGraph finally offers an API that makes it possible to define custom cyclic @LangChainAI powered workflows such as a...]]></title>
+            <description><![CDATA[RT Juri Wiens 🇺🇦<br>Great, LangGraph finally offers an API that makes it possible to define custom cyclic @LangChainAI powered workflows such as agent loops.<br><br>https://x.com/LangChainAI/status/1744419476882473391?s=20<div class="rsshub-quote"><br><br>LangChain: 🦜🕸️LangGraph<br><br>⚡ Building language agents as graphs ⚡<br><br>https://github.com/langchain-ai/langgraph<br><br>The "one more thing" from our LangChain v0.1.0 announcement is introducing LangGraph to the world<br><br>🤖We've been alpha testing this over the past six months as a better way to create LLM agents… https://twitter.com/i/web/status/1744419476882473391<br><br><img style="" src="https://pbs.twimg.com/media/GDVr81RbUAMR5O6?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 08 Jan 2024 22:41:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/JuriWiens/status/1744489415638921346</guid>
+            <link>https://twitter.com/JuriWiens/status/1744489415638921346</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Dentro: Re @LangChainAI tl;dr cycles for LCEL chains what struck me to most: already used within openGPTs for the last few months 👀]]></title>
+            <description><![CDATA[RT Dentro<br>Re @LangChainAI tl;dr<br>cycles for LCEL chains<br><br>what struck me to most: already used within openGPTs for the last few months 👀]]></description>
+            <pubDate>Mon, 08 Jan 2024 19:29:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/dentro__ai/status/1744419476882473391</guid>
+            <link>https://twitter.com/dentro__ai/status/1744419476882473391</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Julia Schottenstein: 📢 Announcing LangChain 0.1 With leaner packages, fewer dependencies, and a more mature versioning system, users can trust i...]]></title>
+            <description><![CDATA[RT Julia Schottenstein<br>📢 Announcing LangChain 0.1<br><br>With leaner packages, fewer dependencies, and a more mature versioning system, users can trust in the foundation and the future of @LangChainAI. <br><br>(obligatory🚀🚀🚀 rocket emojis)<br><br>https://blog.langchain.dev/langchain-v0-1-0/]]></description>
+            <pubDate>Mon, 08 Jan 2024 19:07:20 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/j_schottenstein/status/1744435638559265198</guid>
+            <link>https://twitter.com/j_schottenstein/status/1744435638559265198</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Brace: Super excited for this! 🚀 🚀 0.1.0 is only the beginning. I know with the support from our amazing community and contributors, this ver...]]></title>
+            <description><![CDATA[RT Brace<br>Super excited for this! 🚀 🚀 <br><br>0.1.0 is only the beginning. I know with the support from our amazing community and contributors, this version and the followings will continue to make major impacts on the LLM ecosystem!<div class="rsshub-quote"><br><br>LangChain: 🦜🚀LangChain v0.1.0<br><br>After a year of development, we've released LangChain v0.1.0<br><br>Read the full blog here: https://blog.langchain.dev/langchain-v0-1-0/<br><br>After talking with the users and developers, we released this stable version and focused the library on a few core areas:<br><br>👀Observability:… https://twitter.com/i/web/status/1744411643482951829<br><br><img style="" src="https://pbs.twimg.com/media/GDVlFzqbUAMS6os?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 08 Jan 2024 18:54:42 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1744432457494253821</guid>
+            <link>https://twitter.com/BraceSproul/status/1744432457494253821</link>
             
             
             
