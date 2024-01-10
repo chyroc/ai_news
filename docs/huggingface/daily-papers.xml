@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 10 Jan 2024 04:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 02:07:17 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Masked Audio Generation using a Single Non-Autoregressive Transformer]]></title>
-            <description><![CDATA[We introduce MAGNeT, a masked generative sequence modeling method that operates directly over several streams of audio tokens. Unlike prior work, MAGNeT is comprised of a single-stage, non-autoregressive transformer. During training, we predict spans of masked tokens obtained from a masking scheduler, while during inference we gradually construct the output sequence using several decoding steps. To further enhance the quality of the generated audio, we introduce a novel rescoring method in which, we leverage an external pre-trained model to rescore and rank predictions from MAGNeT, which will be then used for later decoding steps. Lastly, we explore a hybrid version of MAGNeT, in which we fuse between autoregressive and non-autoregressive models to generate the first few seconds in an autoregressive manner while the rest of the sequence is being decoded in parallel. We demonstrate the efficiency of MAGNeT for the task of text-to-music and text-to-audio generation and conduct an extensive empirical evaluation, considering both objective metrics and human studies. The proposed approach is comparable to the evaluated baselines, while being significantly faster (x7 faster than the autoregressive baseline). Through ablation studies and analysis, we shed light on the importance of each of the components comprising MAGNeT, together with pointing to the trade-offs between autoregressive and non-autoregressive modeling, considering latency, throughput, and generation quality. Samples are available on our demo page https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT.]]></description>
-            <pubDate>Wed, 10 Jan 2024 03:29:48 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04577</guid>
-            <link>https://arxiv.org/abs/2401.04577</link>
+            <title><![CDATA[AGG: Amortized Generative 3D Gaussians for Single Image to 3D]]></title>
+            <description><![CDATA[Given the growing need for automatic 3D content creation pipelines, various 3D representations have been studied to generate 3D objects from a single image. Due to its superior rendering efficiency, 3D Gaussian splatting-based models have recently excelled in both 3D reconstruction and generation. 3D Gaussian splatting approaches for image to 3D generation are often optimization-based, requiring many computationally expensive score-distillation steps. To overcome these challenges, we introduce an Amortized Generative 3D Gaussian framework (AGG) that instantly produces 3D Gaussians from a single image, eliminating the need for per-instance optimization. Utilizing an intermediate hybrid representation, AGG decomposes the generation of 3D Gaussian locations and other appearance attributes for joint optimization. Moreover, we propose a cascaded pipeline that first generates a coarse representation of the 3D data and later upsamples it with a 3D Gaussian super-resolution module. Our method is evaluated against existing optimization-based 3D Gaussian frameworks and sampling-based pipelines utilizing other 3D representations, where AGG showcases competitive generation abilities both qualitatively and quantitatively while being several orders of magnitude faster. Project page: https://ir1d.github.io/AGG/]]></description>
+            <pubDate>Tue, 09 Jan 2024 04:39:01 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04099</guid>
+            <link>https://arxiv.org/abs/2401.04099</link>
             
             
             
-            <author><![CDATA[Alon Ziv, Itai Gat, Gael Le Lan, Tal Remez, Felix Kreuk, Alexandre Défossez, Jade Copet, Gabriel Synnaeve, Yossi Adi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding]]></title>
-            <description><![CDATA[Vision and vision-language applications of neural networks, such as image classification and captioning, rely on large-scale annotated datasets that require non-trivial data-collecting processes. This time-consuming endeavor hinders the emergence of large-scale datasets, limiting researchers and practitioners to a small number of choices. Therefore, we seek more efficient ways to collect and annotate images. Previous initiatives have gathered captions from HTML alt-texts and crawled social media postings, but these data sources suffer from noise, sparsity, or subjectivity. For this reason, we turn to commercial shopping websites whose data meet three criteria: cleanliness, informativeness, and fluency. We introduce the Let's Go Shopping (LGS) dataset, a large-scale public dataset with 15 million image-caption pairs from publicly available e-commerce websites. When compared with existing general-domain datasets, the LGS images focus on the foreground object and have less complex backgrounds. Our experiments on LGS show that the classifiers trained on existing benchmark datasets do not readily generalize to e-commerce data, while specific self-supervised visual feature extractors can better generalize. Furthermore, LGS's high-quality e-commerce-focused images and bimodal nature make it advantageous for vision-language bi-modal tasks: LGS enables image-captioning models to generate richer captions and helps text-to-image generation models achieve e-commerce style transfer.]]></description>
-            <pubDate>Wed, 10 Jan 2024 03:22:18 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04575</guid>
-            <link>https://arxiv.org/abs/2401.04575</link>
-            
-            
-            
-            <author><![CDATA[Yatong Bai, Utsav Garg, Apaar Shanker, Haoming Zhang, Samyak Parajuli, Erhan Bas, Isidora Filipovic, Amelia N. Chu, Eugenia D Fomitcheva, Elliot Branson, Aerin Kim, Somayeh Sojoudi, Kyunghyun Cho]]></author>
+            <author><![CDATA[Dejia Xu, Ye Yuan, Morteza Mardani, Sifei Liu, Jiaming Song, Zhangyang Wang, Arash Vahdat]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers]]></title>
-            <description><![CDATA[Factual questions typically can be answered correctly at different levels of granularity. For example, both ``August 4, 1961'' and ``1961'' are correct answers to the question ``When was Barack Obama born?''. Standard question answering (QA) evaluation protocols, however, do not explicitly take this into account and compare a predicted answer against answers of a single granularity level. In this work, we propose GRANOLA QA, a novel evaluation setting where a predicted answer is evaluated in terms of accuracy and informativeness against a set of multi-granularity answers. We present a simple methodology for enriching existing datasets with multi-granularity answers, and create GRANOLA-EQ, a multi-granularity version of the EntityQuestions dataset. We evaluate a range of decoding methods on GRANOLA-EQ, including a new algorithm, called Decoding with Response Aggregation (DRAG), that is geared towards aligning the response granularity with the model's uncertainty. Our experiments show that large language models with standard decoding tend to generate specific answers, which are often incorrect. In contrast, when evaluated on multi-granularity answers, DRAG yields a nearly 20 point increase in accuracy on average, which further increases for rare entities. Overall, this reveals that standard evaluation and decoding schemes may significantly underestimate the knowledge encapsulated in LMs.]]></description>
-            <pubDate>Wed, 10 Jan 2024 03:12:03 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04695</guid>
-            <link>https://arxiv.org/abs/2401.04695</link>
+            <title><![CDATA[MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts]]></title>
+            <description><![CDATA[State Space Models (SSMs) have become serious contenders in the field of sequential modeling, challenging the dominance of Transformers. At the same time, Mixture of Experts (MoE) has significantly improved Transformer-based LLMs, including recent state-of-the-art open-source models. We propose that to unlock the potential of SSMs for scaling, they should be combined with MoE. We showcase this on Mamba, a recent SSM-based model that achieves remarkable, Transformer-like performance. Our model, MoE-Mamba, outperforms both Mamba and Transformer-MoE. In particular, MoE-Mamba reaches the same performance as Mamba in 2.2x less training steps while preserving the inference performance gains of Mamba against the Transformer.]]></description>
+            <pubDate>Tue, 09 Jan 2024 04:27:05 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04081</guid>
+            <link>https://arxiv.org/abs/2401.04081</link>
             
             
             
-            <author><![CDATA[Gal Yona, Roee Aharoni, Mor Geva]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models]]></title>
-            <description><![CDATA[Linear attention is an efficient attention mechanism that has recently emerged as a promising alternative to conventional softmax attention. With its ability to process tokens in linear computational complexities, linear attention, in theory, can handle sequences of unlimited length without sacrificing speed, i.e., maintaining a constant training speed for various sequence lengths with a fixed memory consumption. However, due to the issue with cumulative summation (cumsum), current linear attention algorithms cannot demonstrate their theoretical advantage in a causal setting. In this paper, we present Lightning Attention-2, the first linear attention implementation that enables linear attention to realize its theoretical computational benefits. To achieve this, we leverage the thought of tiling, separately handling the intra-block and inter-block components in linear attention calculation. Specifically, we utilize the conventional attention computation mechanism for the intra-blocks and apply linear attention kernel tricks for the inter-blocks. A tiling technique is adopted through both forward and backward procedures to take full advantage of the GPU hardware. We implement our algorithm in Triton to make it IO-aware and hardware-friendly. Various experiments are conducted on different model sizes and sequence lengths. Lightning Attention-2 retains consistent training and inference speed regardless of input sequence length and is significantly faster than other attention mechanisms. The source code is available at https://github.com/OpenNLPLab/lightning-attention.]]></description>
-            <pubDate>Wed, 10 Jan 2024 03:06:44 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04658</guid>
-            <link>https://arxiv.org/abs/2401.04658</link>
-            
-            
-            
-            <author><![CDATA[Zhen Qin, Weigao Sun, Dong Li, Xuyang Shen, Weixuan Sun, Yiran Zhong]]></author>
+            <author><![CDATA[Maciej Pióro, Kamil Ciebiera, Krystian Król, Jan Ludziejewski, Sebastian Jaszczur]]></author>
             
                 
             
@@ -83,15 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding]]></title>
-            <description><![CDATA[Table-based reasoning with large language models (LLMs) is a promising direction to tackle many table understanding tasks, such as table-based question answering and fact verification. Compared with generic reasoning, table-based reasoning requires the extraction of underlying semantics from both free-form questions and semi-structured tabular data. Chain-of-Thought and its similar approaches incorporate the reasoning chain in the form of textual context, but it is still an open question how to effectively leverage tabular data in the reasoning chain. We propose the Chain-of-Table framework, where tabular data is explicitly used in the reasoning chain as a proxy for intermediate thoughts. Specifically, we guide LLMs using in-context learning to iteratively generate operations and update the table to represent a tabular reasoning chain. LLMs can therefore dynamically plan the next operation based on the results of the previous ones. This continuous evolution of the table forms a chain, showing the reasoning process for a given tabular problem. The chain carries structured information of the intermediate results, enabling more accurate and reliable predictions. Chain-of-Table achieves new state-of-the-art performance on WikiTQ, FeTaQA, and TabFact benchmarks across multiple LLM choices.]]></description>
-            <pubDate>Wed, 10 Jan 2024 02:59:48 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04398</guid>
-            <link>https://arxiv.org/abs/2401.04398</link>
+            <title><![CDATA[DiarizationLM: Speaker Diarization Post-Processing with Large Language Models]]></title>
+            <description><![CDATA[In this paper, we introduce DiarizationLM, a framework to leverage large language models (LLM) to post-process the outputs from a speaker diarization system. Various goals can be achieved with the proposed framework, such as improving the readability of the diarized transcript, or reducing the word diarization error rate (WDER). In this framework, the outputs of the automatic speech recognition (ASR) and speaker diarization systems are represented as a compact textual format, which is included in the prompt to an optionally finetuned LLM. The outputs of the LLM can be used as the refined diarization results with the desired enhancement. As a post-processing step, this framework can be easily applied to any off-the-shelf ASR and speaker diarization systems without retraining existing components. Our experiments show that a finetuned PaLM 2-S model can reduce the WDER by rel. 25.9% on the Fisher telephone conversation dataset, and rel. 31% on the Callhome English dataset.]]></description>
+            <pubDate>Tue, 09 Jan 2024 04:17:25 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.03506</guid>
+            <link>https://arxiv.org/abs/2401.03506</link>
             
             
             
-            <author><![CDATA[Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister]]></author>
+            <author><![CDATA[Quan Wang, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao]]></author>
             
                 
             
@@ -99,15 +67,127 @@
         </item>
         
         <item>
-            <title><![CDATA[MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation]]></title>
-            <description><![CDATA[The growing demand for high-fidelity video generation from textual descriptions has catalyzed significant research in this field. In this work, we introduce MagicVideo-V2 that integrates the text-to-image model, video motion generator, reference image embedding module and frame interpolation module into an end-to-end video generation pipeline. Benefiting from these architecture designs, MagicVideo-V2 can generate an aesthetically pleasing, high-resolution video with remarkable fidelity and smoothness. It demonstrates superior performance over leading Text-to-Video systems such as Runway, Pika 1.0, Morph, Moon Valley and Stable Video Diffusion model via user evaluation at large scale.]]></description>
-            <pubDate>Wed, 10 Jan 2024 02:46:38 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04468</guid>
-            <link>https://arxiv.org/abs/2401.04468</link>
+            <title><![CDATA[TeleChat Technical Report]]></title>
+            <description><![CDATA[In this technical report, we present TeleChat, a collection of large language models (LLMs) with parameters of 3 billion, 7 billion and 12 billion. It includes pretrained language models as well as fine-tuned chat models that is aligned with human preferences. TeleChat is initially pretrained on an extensive corpus containing a diverse collection of texts from both English and Chinese languages, including trillions of tokens. Subsequently, the model undergoes fine-tuning to align with human preferences, following a detailed methodology that we describe. We evaluate the performance of TeleChat on various tasks, including language understanding, mathematics, reasoning, code generation, and knowledge-based question answering. Our findings indicate that TeleChat achieves comparable performance to other open-source models of similar size across a wide range of public benchmarks. To support future research and applications utilizing LLMs, we release the fine-tuned model checkpoints of TeleChat's 7B and 12B variant, along with code and a portion of our pretraining data, to the public community.]]></description>
+            <pubDate>Tue, 09 Jan 2024 04:10:53 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.03804</guid>
+            <link>https://arxiv.org/abs/2401.03804</link>
             
             
             
-            <author><![CDATA[Weimin Wang, Jiawei Liu, Zhijie Lin, Jiangqiao Yan, Shuo Chen, Chetwin Low, Tuyen Hoang, Jie Wu, Jun Hao Liew, Hanshu Yan, Daquan Zhou, Jiashi Feng]]></author>
+            <author><![CDATA[Zihan Wang, Xinzhang Liu, Shixuan Liu, Yitong Yao, Yuyao Huang, Zhongjiang He, Xuelong Li, Yongxiang Li, Zhonghao Che, Zhaoxi Zhang, Yan Wang, Xin Wang, Luwen Pu, Huihan Xu, Ruiyu Fang, Yu Zhao, Jie Zhang, Xiaomeng Huang, Zhilong Lu, Jiaxin Peng, Wenjun Zheng, Shiquan Wang, Bingkai Yang, Xuewei he, Zhuoru Jiang, Qiyi Xie, Yanhan Zhang, Zhongqiu Li, Lingling Shi, Weiwei Fu, Yin Zhang, Zilu Huang, Sishi Xiong, Yuxiang Zhang, Chao Wang, Shuangyong Song]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon]]></title>
+            <description><![CDATA[The utilization of long contexts poses a big challenge for large language models due to their limited context window length. Although the context window can be extended through fine-tuning, it will result in a considerable cost at both training and inference time, and exert an unfavorable impact to the LLM's original capabilities. In this work, we propose Activation Beacon, which condenses LLM's raw activations into more compact forms such that it can perceive a much longer context with a limited context window. Activation Beacon is introduced as a plug-and-play module for the LLM. It fully preserves the LLM's original capability on short contexts while extending the new capability on processing longer contexts. Besides, it works with short sliding windows to process the long context, which achieves a competitive memory and time efficiency in both training and inference. Activation Beacon is learned by the auto-regression task conditioned on a mixture of beacons with diversified condensing ratios. Thanks to such a treatment, it can be efficiently trained purely with short-sequence data in just 10K steps, which consumes less than 9 hours on a single 8xA800 GPU machine. The experimental studies show that Activation Beacon is able to extend Llama-2-7B's context length by times100 times (from 4K to 400K), meanwhile achieving a superior result on both long-context generation and understanding tasks. Our model and code will be available at the BGE repository.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:48:33 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.03462</guid>
+            <link>https://arxiv.org/abs/2401.03462</link>
+            
+            
+            
+            <author><![CDATA[Peitian Zhang, Zheng Liu, Shitao Xiao, Ninglu Shao, Qiwei Ye, Zhicheng Dou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AST-T5: Structure-Aware Pretraining for Code Generation and Understanding]]></title>
+            <description><![CDATA[Large language models (LLMs) have made significant advancements in code-related tasks, yet many LLMs treat code as simple sequences, neglecting its structured nature. We introduce AST-T5, a novel pretraining paradigm that leverages the Abstract Syntax Tree (AST) for enhanced code generation, transpilation, and understanding. Using dynamic programming, our AST-Aware Segmentation retains code structure, while our AST-Aware Span Corruption objective equips the model to reconstruct various code structures. Unlike other models, AST-T5 avoids intricate program analyses or architectural changes, so it integrates seamlessly with any encoder-decoder Transformer. Evaluations show that AST-T5 consistently outperforms similar-sized LMs across various code-related tasks. Structure-awareness makes AST-T5 particularly powerful in code-to-code tasks, surpassing CodeT5 by 2 points in exact match score for the Bugs2Fix task and by 3 points in exact match score for Java-C# Transpilation in CodeXGLUE. Our code and model are publicly available at https://github.com/gonglinyuan/ast_t5.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:37:19 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.03003</guid>
+            <link>https://arxiv.org/abs/2401.03003</link>
+            
+            
+            
+            <author><![CDATA[Linyuan Gong, Mostafa Elhoushi, Alvin Cheung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Has Your Pretrained Model Improved? A Multi-head Posterior Based Approach]]></title>
+            <description><![CDATA[The emergence of pretrained models has significantly impacted from Natural Language Processing (NLP) and Computer Vision to relational datasets. Traditionally, these models are assessed through fine-tuned downstream tasks. However, this raises the question of how to evaluate these models more efficiently and more effectively. In this study, we explore a novel approach where we leverage the meta features associated with each entity as a source of worldly knowledge and employ entity representations from the models. We propose using the consistency between these representations and the meta features as a metric for evaluating pretrained models. Our method's effectiveness is demonstrated across various domains, including models with relational datasets, large language models and images models.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:32:24 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02987</guid>
+            <link>https://arxiv.org/abs/2401.02987</link>
+            
+            
+            
+            <author><![CDATA[Prince Aboagye, Yan Zheng, Junpeng Wang, Uday Singh Saini, Xin Dai, Michael Yeh, Yujie Fan, Zhongfang Zhuang, Shubham Jain, Liang Wang, Wei Zhang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM]]></title>
+            <description><![CDATA[In conversational AI research, there's a noticeable trend towards developing models with a larger number of parameters, exemplified by models like ChatGPT. While these expansive models tend to generate increasingly better chat responses, they demand significant computational resources and memory. This study explores a pertinent question: Can a combination of smaller models collaboratively achieve comparable or enhanced performance relative to a singular large model? We introduce an approach termed "blending", a straightforward yet effective method of integrating multiple chat AIs. Our empirical evidence suggests that when specific smaller models are synergistically blended, they can potentially outperform or match the capabilities of much larger counterparts. For instance, integrating just three models of moderate size (6B/13B paramaeters) can rival or even surpass the performance metrics of a substantially larger model like ChatGPT (175B+ paramaters). This hypothesis is rigorously tested using A/B testing methodologies with a large user base on the Chai research platform over a span of thirty days. The findings underscore the potential of the "blending" strategy as a viable approach for enhancing chat AI efficacy without a corresponding surge in computational demands.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:25:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.02994</guid>
+            <link>https://arxiv.org/abs/2401.02994</link>
+            
+            
+            
+            <author><![CDATA[Xiaoding Lu, Adian Liusie, Vyas Raina, Yuwen Zhang, William Beauchamp]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation]]></title>
+            <description><![CDATA[Despite recent advances in text-to-3D generative methods, there is a notable absence of reliable evaluation metrics. Existing metrics usually focus on a single criterion each, such as how well the asset aligned with the input text. These metrics lack the flexibility to generalize to different evaluation criteria and might not align well with human preferences. Conducting user preference studies is an alternative that offers both adaptability and human-aligned results. User studies, however, can be very expensive to scale. This paper presents an automatic, versatile, and human-aligned evaluation metric for text-to-3D generative models. To this end, we first develop a prompt generator using GPT-4V to generate evaluating prompts, which serve as input to compare text-to-3D models. We further design a method instructing GPT-4V to compare two 3D assets according to user-defined criteria. Finally, we use these pairwise comparison results to assign these models Elo ratings. Experimental results suggest our metric strongly align with human preference across different evaluation criteria.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:16:54 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04092</guid>
+            <link>https://arxiv.org/abs/2401.04092</link>
+            
+            
+            
+            <author><![CDATA[Tong Wu, Guandao Yang, Zhibing Li, Kai Zhang, Ziwei Liu, Leonidas Guibas, Dahua Lin, Gordon Wetzstein]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution]]></title>
+            <description><![CDATA[We present CRUXEval (Code Reasoning, Understanding, and eXecution Evaluation), a benchmark consisting of 800 Python functions (3-13 lines). Each function comes with an input-output pair, leading to two natural tasks: input prediction and output prediction. First, we propose a generic recipe for generating our execution benchmark which can be used to create future variation of the benchmark. Second, we evaluate twenty code models on our benchmark and discover that many recent high-scoring models on HumanEval do not show the same improvements on our benchmark. Third, we show that simple CoT and fine-tuning schemes can improve performance on our benchmark but remain far from solving it. The best setup, GPT-4 with chain of thought (CoT), achieves a pass@1 of 75% and 81% on input and output prediction, respectively. In contrast, Code Llama 34B achieves a pass@1 of 50% and 46% on input and output prediction, highlighting the gap between open and closed source models. As no model is close to acing CRUXEval, we provide examples of consistent GPT-4 failures on simple programs as a lens into its code reasoning capabilities and areas for improvement.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:11:04 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.03065</guid>
+            <link>https://arxiv.org/abs/2401.03065</link>
+            
+            
+            
+            <author><![CDATA[Alex Gu, Baptiste Rozière, Hugh Leather, Armando Solar-Lezama, Gabriel Synnaeve, Sida I. Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mixtral of Experts]]></title>
+            <description><![CDATA[We introduce Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model. Mixtral has the same architecture as Mistral 7B, with the difference that each layer is composed of 8 feedforward blocks (i.e. experts). For every token, at each layer, a router network selects two experts to process the current state and combine their outputs. Even though each token only sees two experts, the selected experts can be different at each timestep. As a result, each token has access to 47B parameters, but only uses 13B active parameters during inference. Mixtral was trained with a context size of 32k tokens and it outperforms or matches Llama 2 70B and GPT-3.5 across all evaluated benchmarks. In particular, Mixtral vastly outperforms Llama 2 70B on mathematics, code generation, and multilingual benchmarks. We also provide a model fine-tuned to follow instructions, Mixtral 8x7B - Instruct, that surpasses GPT-3.5 Turbo, Claude-2.1, Gemini Pro, and Llama 2 70B - chat model on human benchmarks. Both the base and instruct models are released under the Apache 2.0 license.]]></description>
+            <pubDate>Tue, 09 Jan 2024 03:04:12 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04088</guid>
+            <link>https://arxiv.org/abs/2401.04088</link>
+            
+            
+            
+            <author><![CDATA[Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, Gianna Lengyel, Guillaume Bour, Guillaume Lample, Lélio Renard Lavaud, Lucile Saulnier, Marie-Anne Lachaux, Pierre Stock, Sandeep Subramanian, Sophia Yang, Szymon Antoniak, Teven Le Scao, Théophile Gervet, Thibaut Lavril, Thomas Wang, Timothée Lacroix, William El Sayed]]></author>
             
                 
             
