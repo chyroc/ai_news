@@ -15,40 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 10 Jan 2024 06:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 04:11:00 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Jump Cut Smoothing for Talking Heads]]></title>
-            <description><![CDATA[A jump cut offers an abrupt, sometimes unwanted change in the viewing experience. We present a novel framework for smoothing these jump cuts, in the context of talking head videos. We leverage the appearance of the subject from the other source frames in the video, fusing it with a mid-level representation driven by DensePose keypoints and face landmarks. To achieve motion, we interpolate the keypoints and landmarks between the end frames around the cut. We then use an image translation network from the keypoints and source frames, to synthesize pixels. Because keypoints can contain errors, we propose a cross-modal attention scheme to select and pick the most appropriate source amongst multiple options for each key point. By leveraging this mid-level representation, our method can achieve stronger results than a strong video interpolation baseline. We demonstrate our method on various jump cuts in the talking head videos, such as cutting filler words, pauses, and even random cuts. Our experiments show that we can achieve seamless transitions, even in the challenging cases where the talking head rotates or moves drastically in the jump cut.]]></description>
-            <pubDate>Wed, 10 Jan 2024 04:42:14 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04718</guid>
-            <link>https://arxiv.org/abs/2401.04718</link>
-            
-            
-            
-            <author><![CDATA[Xiaojuan Wang, Taesung Park, Yang Zhou, Eli Shechtman, Richard Zhang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FADI-AEC: Fast Score Based Diffusion Model Guided by Far-end Signal for Acoustic Echo Cancellation]]></title>
-            <description><![CDATA[Despite the potential of diffusion models in speech enhancement, their deployment in Acoustic Echo Cancellation (AEC) has been restricted. In this paper, we propose DI-AEC, pioneering a diffusion-based stochastic regeneration approach dedicated to AEC. Further, we propose FADI-AEC, fast score-based diffusion AEC framework to save computational demands, making it favorable for edge devices. It stands out by running the score model once per frame, achieving a significant surge in processing efficiency. Apart from that, we introduce a novel noise generation technique where far-end signals are utilized, incorporating both far-end and near-end signals to refine the score model's accuracy. We test our proposed method on the ICASSP2023 Microsoft deep echo cancellation challenge evaluation dataset, where our method outperforms some of the end-to-end methods and other diffusion based echo cancellation methods.]]></description>
-            <pubDate>Wed, 10 Jan 2024 04:26:59 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04283</guid>
-            <link>https://arxiv.org/abs/2401.04283</link>
-            
-            
-            
-            <author><![CDATA[Yang Liu, Li Wan, Yun Li, Yiteng Huang, Ming Sun, James Luan, Yangyang Shi, Xin Lei]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Masked Audio Generation using a Single Non-Autoregressive Transformer]]></title>
