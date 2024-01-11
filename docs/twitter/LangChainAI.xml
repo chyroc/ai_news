@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 10 Jan 2024 22:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 00:41:49 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[LangChain v0.1.0 Highlight 🧱Output Parsing A big use case of LangChain is connecting it to downstream actions. In order to properly do that, you ne...]]></title>
+            <description><![CDATA[LangChain v0.1.0 Highlight<br><br>🧱Output Parsing<br><br>A big use case of LangChain is connecting it to downstream actions. In order to properly do that, you need to structure LLM outputs in specific ways<br><br>Output parsing helps accomplish exactly that!<br><br>YouTube: https://www.youtube.com/watch?v=dbjmhCWPKow<br><img style="" src="https://pbs.twimg.com/media/GDgE5p3bMAEGbfv?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 10 Jan 2024 23:26:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745225506843496474</guid>
+            <link>https://twitter.com/LangChainAI/status/1745225506843496474</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[LangChain v0.1.0 Highlight: 🎏Streaming Streaming is an important UX consideration - both of LLM tokens, as well as intermediate steps. All chains a...]]></title>
@@ -273,22 +289,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 09 Jan 2024 19:02:27 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/attila_ibs/status/1744735659846438921</guid>
             <link>https://twitter.com/attila_ibs/status/1744735659846438921</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LangChain v0.1.0 Highlight: ↔️Integrations With nearly 700 integrations, LangChain makes it easy to get started no matter your tech stack As part of...]]></title>
-            <description><![CDATA[LangChain v0.1.0 Highlight:  <br><br>↔️Integrations<br><br>With nearly 700 integrations, LangChain makes it easy to get started no matter your tech stack<br><br>As part of v0.1.0, we've made some changes to the package architecture to make our partnerships more stable and production ready<br><br>🫂We… https://twitter.com/i/web/status/1744793334772818355]]></description>
-            <pubDate>Tue, 09 Jan 2024 18:48:42 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744793334772818355</guid>
-            <link>https://twitter.com/LangChainAI/status/1744793334772818355</link>
             
             
             
