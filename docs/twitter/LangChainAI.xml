@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 11 Jan 2024 17:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 19:26:46 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[👨‍👩‍👧‍👦 @togethercompute Embeddings ↗️ Today we’re excited to announce the new langchain-together Python package, which has connecti...]]></title>
+            <description><![CDATA[👨‍👩‍👧‍👦&nbsp;@togethercompute Embeddings ↗️<br><br>Today we’re excited to announce the new langchain-together Python package, which has connections to Together’s LLM and Embeddings endpoints. This is the easiest way to access the next-gen embedding models their team has been developing. Learn… https://twitter.com/i/web/status/1745508818442969156<div class="rsshub-quote"><br><br>Together AI: We are thrilled to announce the Together Embeddings endpoint! 🚀<br><br>Higher quality than OpenAI or Cohere in the MTEB benchmark. ✅<br>State of the art M2-Retrieval models with up to 32k context length. ✅<br>Up to 4x lower price. ✅<br><br>https://together.ai/blog/embeddings-endpoint-release<br><br>Details👇<br><br><img style="" src="https://pbs.twimg.com/media/GDk-jf5a4AIQdui?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Thu, 11 Jan 2024 18:11:46 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745508818442969156</guid>
+            <link>https://twitter.com/LangChainAI/status/1745508818442969156</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re @Ally and @LangChainAI collaborate 🤝to bring PII masking to the LangChain typescript package -- paving the path for more genAI adoption, in a co...]]></title>
@@ -321,22 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 10 Jan 2024 01:28:06 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/ikbenbasha/status/1744893848634171404</guid>
             <link>https://twitter.com/ikbenbasha/status/1744893848634171404</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Access code all used up If you missed out, no worries - we're letting more people off the waitlist every day and targeting a public beta soon]]></title>
-            <description><![CDATA[Access code all used up<br><br>If you missed out, no worries - we're letting more people off the waitlist every day and targeting a public beta soon<div class="rsshub-quote"><br><br>LangChain: LangChain v0.1.0 Highlight:<br><br>👀Observability<br><br>⭐️free LangSmith access code for first 500 redemptions, read below⭐️<br><br>When building complex LLM applications, you're application logic now contains a non-deterministic model at the center of it, often heavily controlling the flow of… https://twitter.com/i/web/status/1744767270654726640<br><br><img style="" src="https://pbs.twimg.com/media/GDaoVLiaEAAN8ra?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Tue, 09 Jan 2024 23:49:23 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744869002894303363</guid>
-            <link>https://twitter.com/LangChainAI/status/1744869002894303363</link>
             
             
             
