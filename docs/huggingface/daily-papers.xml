@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 11 Jan 2024 04:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 02:54:08 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video]]></title>
-            <description><![CDATA[The Internet's wealth of content, with up to 60% published in English, starkly contrasts the global population, where only 18.8% are English speakers, and just 5.1% consider it their native language, leading to disparities in online information access. Unfortunately, automated processes for dubbing of video - replacing the audio track of a video with a translated alternative - remains a complex and challenging task due to pipelines, necessitating precise timing, facial movement synchronization, and prosody matching. While end-to-end dubbing offers a solution, data scarcity continues to impede the progress of both end-to-end and pipeline-based methods. In this work, we introduce Anim-400K, a comprehensive dataset of over 425K aligned animated video segments in Japanese and English supporting various video-related tasks, including automated dubbing, simultaneous translation, guided video summarization, and genre/theme/style classification. Our dataset is made publicly available for research purposes at https://github.com/davidmchan/Anim400K.]]></description>
-            <pubDate>Thu, 11 Jan 2024 04:34:06 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05314</guid>
-            <link>https://arxiv.org/abs/2401.05314</link>
+            <title><![CDATA[Jump Cut Smoothing for Talking Heads]]></title>
+            <description><![CDATA[A jump cut offers an abrupt, sometimes unwanted change in the viewing experience. We present a novel framework for smoothing these jump cuts, in the context of talking head videos. We leverage the appearance of the subject from the other source frames in the video, fusing it with a mid-level representation driven by DensePose keypoints and face landmarks. To achieve motion, we interpolate the keypoints and landmarks between the end frames around the cut. We then use an image translation network from the keypoints and source frames, to synthesize pixels. Because keypoints can contain errors, we propose a cross-modal attention scheme to select and pick the most appropriate source amongst multiple options for each key point. By leveraging this mid-level representation, our method can achieve stronger results than a strong video interpolation baseline. We demonstrate our method on various jump cuts in the talking head videos, such as cutting filler words, pauses, and even random cuts. Our experiments show that we can achieve seamless transitions, even in the challenging cases where the talking head rotates or moves drastically in the jump cut.]]></description>
+            <pubDate>Wed, 10 Jan 2024 04:42:14 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04718</guid>
+            <link>https://arxiv.org/abs/2401.04718</link>
             
             
             
-            <author><![CDATA[Kevin Cai, Chonghua Liu, David M. Chan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Score Distillation Sampling with Learned Manifold Corrective]]></title>
-            <description><![CDATA[Score Distillation Sampling (SDS) is a recent but already widely popular method that relies on an image diffusion model to control optimization problems using text prompts. In this paper, we conduct an in-depth analysis of the SDS loss function, identify an inherent problem with its formulation, and propose a surprisingly easy but effective fix. Specifically, we decompose the loss into different factors and isolate the component responsible for noisy gradients. In the original formulation, high text guidance is used to account for the noise, leading to unwanted side effects. Instead, we train a shallow network mimicking the timestep-dependent denoising deficiency of the image diffusion model in order to effectively factor it out. We demonstrate the versatility and the effectiveness of our novel loss formulation through several qualitative and quantitative experiments, including optimization-based image synthesis and editing, zero-shot image translation network training, and text-to-3D synthesis.]]></description>
-            <pubDate>Thu, 11 Jan 2024 04:02:45 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05293</guid>
-            <link>https://arxiv.org/abs/2401.05293</link>
-            
-            
-            
-            <author><![CDATA[Thiemo Alldieck, Nikos Kolotouros, Cristian Sminchisescu]]></author>
+            <author><![CDATA[Xiaojuan Wang, Taesung Park, Yang Zhou, Eli Shechtman, Richard Zhang]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes]]></title>
-            <description><![CDATA[We introduce InseRF, a novel method for generative object insertion in the NeRF reconstructions of 3D scenes. Based on a user-provided textual description and a 2D bounding box in a reference viewpoint, InseRF generates new objects in 3D scenes. Recently, methods for 3D scene editing have been profoundly transformed, owing to the use of strong priors of text-to-image diffusion models in 3D generative modeling. Existing methods are mostly effective in editing 3D scenes via style and appearance changes or removing existing objects. Generating new objects, however, remains a challenge for such methods, which we address in this study. Specifically, we propose grounding the 3D object insertion to a 2D object insertion in a reference view of the scene. The 2D edit is then lifted to 3D using a single-view object reconstruction method. The reconstructed object is then inserted into the scene, guided by the priors of monocular depth estimation methods. We evaluate our method on various 3D scenes and provide an in-depth analysis of the proposed components. Our experiments with generative insertion of objects in several 3D scenes indicate the effectiveness of our method compared to the existing methods. InseRF is capable of controllable and 3D-consistent object insertion without requiring explicit 3D information as input. Please visit our project page at https://mohamad-shahbazi.github.io/inserf.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:54:00 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05335</guid>
-            <link>https://arxiv.org/abs/2401.05335</link>
+            <title><![CDATA[FADI-AEC: Fast Score Based Diffusion Model Guided by Far-end Signal for Acoustic Echo Cancellation]]></title>
+            <description><![CDATA[Despite the potential of diffusion models in speech enhancement, their deployment in Acoustic Echo Cancellation (AEC) has been restricted. In this paper, we propose DI-AEC, pioneering a diffusion-based stochastic regeneration approach dedicated to AEC. Further, we propose FADI-AEC, fast score-based diffusion AEC framework to save computational demands, making it favorable for edge devices. It stands out by running the score model once per frame, achieving a significant surge in processing efficiency. Apart from that, we introduce a novel noise generation technique where far-end signals are utilized, incorporating both far-end and near-end signals to refine the score model's accuracy. We test our proposed method on the ICASSP2023 Microsoft deep echo cancellation challenge evaluation dataset, where our method outperforms some of the end-to-end methods and other diffusion based echo cancellation methods.]]></description>
+            <pubDate>Wed, 10 Jan 2024 04:26:59 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04283</guid>
+            <link>https://arxiv.org/abs/2401.04283</link>
             
             
             
-            <author><![CDATA[Mohamad Shahbazi, Liesbeth Claessens, Michael Niemeyer, Edo Collins, Alessio Tonioni, Luc Van Gool, Federico Tombari]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models]]></title>
-            <description><![CDATA[This technical report introduces PIXART-{\delta}, a text-to-image synthesis framework that integrates the Latent Consistency Model (LCM) and ControlNet into the advanced PIXART-{\alpha} model. PIXART-{\alpha} is recognized for its ability to generate high-quality images of 1024px resolution through a remarkably efficient training process. The integration of LCM in PIXART-{\delta} significantly accelerates the inference speed, enabling the production of high-quality images in just 2-4 steps. Notably, PIXART-{\delta} achieves a breakthrough 0.5 seconds for generating 1024x1024 pixel images, marking a 7x improvement over the PIXART-{\alpha}. Additionally, PIXART-{\delta} is designed to be efficiently trainable on 32GB V100 GPUs within a single day. With its 8-bit inference capability (von Platen et al., 2023), PIXART-{\delta} can synthesize 1024px images within 8GB GPU memory constraints, greatly enhancing its usability and accessibility. Furthermore, incorporating a ControlNet-like module enables fine-grained control over text-to-image diffusion models. We introduce a novel ControlNet-Transformer architecture, specifically tailored for Transformers, achieving explicit controllability alongside high-quality image generation. As a state-of-the-art, open-source image generation model, PIXART-{\delta} offers a promising alternative to the Stable Diffusion family of models, contributing significantly to text-to-image synthesis.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:19:58 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05252</guid>
-            <link>https://arxiv.org/abs/2401.05252</link>
-            
-            
-            
-            <author><![CDATA[Junsong Chen, Yue Wu, Simian Luo, Enze Xie, Sayak Paul, Ping Luo, Hang Zhao, Zhenguo Li]]></author>
+            <author><![CDATA[Yang Liu, Li Wan, Yun Li, Yiteng Huang, Ming Sun, James Luan, Yangyang Shi, Xin Lei]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[URHand: Universal Relightable Hands]]></title>
-            <description><![CDATA[Existing photorealistic relightable hand models require extensive identity-specific observations in different views, poses, and illuminations, and face challenges in generalizing to natural illuminations and novel identities. To bridge this gap, we present URHand, the first universal relightable hand model that generalizes across viewpoints, poses, illuminations, and identities. Our model allows few-shot personalization using images captured with a mobile phone, and is ready to be photorealistically rendered under novel illuminations. To simplify the personalization process while retaining photorealism, we build a powerful universal relightable prior based on neural relighting from multi-view images of hands captured in a light stage with hundreds of identities. The key challenge is scaling the cross-identity training while maintaining personalized fidelity and sharp details without compromising generalization under natural illuminations. To this end, we propose a spatially varying linear lighting model as the neural renderer that takes physics-inspired shading as input feature. By removing non-linear activations and bias, our specifically designed lighting model explicitly keeps the linearity of light transport. This enables single-stage training from light-stage data while generalizing to real-time rendering under arbitrary continuous illuminations across diverse identities. In addition, we introduce the joint learning of a physically based model and our neural relighting model, which further improves fidelity and generalization. Extensive experiments show that our approach achieves superior performance over existing methods in terms of both quality and generalizability. We also demonstrate quick personalization of URHand from a short phone scan of an unseen identity.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:14:07 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05334</guid>
-            <link>https://arxiv.org/abs/2401.05334</link>
+            <title><![CDATA[Masked Audio Generation using a Single Non-Autoregressive Transformer]]></title>
+            <description><![CDATA[We introduce MAGNeT, a masked generative sequence modeling method that operates directly over several streams of audio tokens. Unlike prior work, MAGNeT is comprised of a single-stage, non-autoregressive transformer. During training, we predict spans of masked tokens obtained from a masking scheduler, while during inference we gradually construct the output sequence using several decoding steps. To further enhance the quality of the generated audio, we introduce a novel rescoring method in which, we leverage an external pre-trained model to rescore and rank predictions from MAGNeT, which will be then used for later decoding steps. Lastly, we explore a hybrid version of MAGNeT, in which we fuse between autoregressive and non-autoregressive models to generate the first few seconds in an autoregressive manner while the rest of the sequence is being decoded in parallel. We demonstrate the efficiency of MAGNeT for the task of text-to-music and text-to-audio generation and conduct an extensive empirical evaluation, considering both objective metrics and human studies. The proposed approach is comparable to the evaluated baselines, while being significantly faster (x7 faster than the autoregressive baseline). Through ablation studies and analysis, we shed light on the importance of each of the components comprising MAGNeT, together with pointing to the trade-offs between autoregressive and non-autoregressive modeling, considering latency, throughput, and generation quality. Samples are available on our demo page https://pages.cs.huji.ac.il/adiyoss-lab/MAGNeT.]]></description>
+            <pubDate>Wed, 10 Jan 2024 03:29:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04577</guid>
+            <link>https://arxiv.org/abs/2401.04577</link>
             
             
             
-            <author><![CDATA[Zhaoxi Chen, Gyeongsik Moon, Kaiwen Guo, Chen Cao, Stanislav Pidhorskyi, Tomas Simon, Rohan Joshi, Yuan Dong, Yichen Xu, Bernardo Pires, He Wen, Lucas Evans, Bo Peng, Julia Buffalini, Autumn Trimble, Kevyn McPhail, Melissa Schoeller, Shoou-I Yu, Javier Romero, Michael Zollhöfer, Yaser Sheikh, Ziwei Liu, Shunsuke Saito]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Impact of Reasoning Step Length on Large Language Models]]></title>
-            <description><![CDATA[Chain of Thought (CoT) is significant in improving the reasoning abilities of large language models (LLMs). However, the correlation between the effectiveness of CoT and the length of reasoning steps in prompts remains largely unknown. To shed light on this, we have conducted several empirical experiments to explore the relations. Specifically, we design experiments that expand and compress the rationale reasoning steps within CoT demonstrations, while keeping all other factors constant. We have the following key findings. First, the results indicate that lengthening the reasoning steps in prompts, even without adding new information into the prompt, considerably enhances LLMs' reasoning abilities across multiple datasets. Alternatively, shortening the reasoning steps, even while preserving the key information, significantly diminishes the reasoning abilities of models. This finding highlights the importance of the number of steps in CoT prompts and provides practical guidance to make better use of LLMs' potential in complex problem-solving scenarios. Second, we also investigated the relationship between the performance of CoT and the rationales used in demonstrations. Surprisingly, the result shows that even incorrect rationales can yield favorable outcomes if they maintain the requisite length of inference. Third, we observed that the advantages of increasing reasoning steps are task-dependent: simpler tasks require fewer steps, whereas complex tasks gain significantly from longer inference sequences.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:05:39 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04925</guid>
-            <link>https://arxiv.org/abs/2401.04925</link>
-            
-            
-            
-            <author><![CDATA[Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du]]></author>
+            <author><![CDATA[Alon Ziv, Itai Gat, Gael Le Lan, Tal Remez, Felix Kreuk, Alexandre Défossez, Jade Copet, Gabriel Synnaeve, Yossi Adi]]></author>
             
                 
             
@@ -115,15 +67,79 @@
         </item>
         
         <item>
-            <title><![CDATA[Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk]]></title>
-            <description><![CDATA[Large language models (LLMs) are powerful dialogue agents, but specializing them towards fulfilling a specific function can be challenging. Instructing tuning, i.e. tuning models on instruction and sample responses generated by humans (Ouyang et al., 2022), has proven as an effective method to do so, yet requires a number of data samples that a) might not be available or b) costly to generate. Furthermore, this cost increases when the goal is to make the LLM follow a specific workflow within a dialogue instead of single instructions. Inspired by the self-play technique in reinforcement learning and the use of LLMs to simulate human agents, we propose a more effective method for data collection through LLMs engaging in a conversation in various roles. This approach generates a training data via "self-talk" of LLMs that can be refined and utilized for supervised fine-tuning. We introduce an automated way to measure the (partial) success of a dialogue. This metric is used to filter the generated conversational data that is fed back in LLM for training. Based on our automated and human evaluations of conversation quality, we demonstrate that such self-talk data improves results. In addition, we examine the various characteristics that showcase the quality of generated dialogues and how they can be connected to their potential utility as training data.]]></description>
-            <pubDate>Thu, 11 Jan 2024 02:57:54 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05033</guid>
-            <link>https://arxiv.org/abs/2401.05033</link>
+            <title><![CDATA[Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding]]></title>
+            <description><![CDATA[Vision and vision-language applications of neural networks, such as image classification and captioning, rely on large-scale annotated datasets that require non-trivial data-collecting processes. This time-consuming endeavor hinders the emergence of large-scale datasets, limiting researchers and practitioners to a small number of choices. Therefore, we seek more efficient ways to collect and annotate images. Previous initiatives have gathered captions from HTML alt-texts and crawled social media postings, but these data sources suffer from noise, sparsity, or subjectivity. For this reason, we turn to commercial shopping websites whose data meet three criteria: cleanliness, informativeness, and fluency. We introduce the Let's Go Shopping (LGS) dataset, a large-scale public dataset with 15 million image-caption pairs from publicly available e-commerce websites. When compared with existing general-domain datasets, the LGS images focus on the foreground object and have less complex backgrounds. Our experiments on LGS show that the classifiers trained on existing benchmark datasets do not readily generalize to e-commerce data, while specific self-supervised visual feature extractors can better generalize. Furthermore, LGS's high-quality e-commerce-focused images and bimodal nature make it advantageous for vision-language bi-modal tasks: LGS enables image-captioning models to generate richer captions and helps text-to-image generation models achieve e-commerce style transfer.]]></description>
+            <pubDate>Wed, 10 Jan 2024 03:22:18 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04575</guid>
+            <link>https://arxiv.org/abs/2401.04575</link>
             
             
             
-            <author><![CDATA[Dennis Ulmer, Elman Mansimov, Kaixiang Lin, Justin Sun, Xibin Gao, Yi Zhang]]></author>
+            <author><![CDATA[Yatong Bai, Utsav Garg, Apaar Shanker, Haoming Zhang, Samyak Parajuli, Erhan Bas, Isidora Filipovic, Amelia N. Chu, Eugenia D Fomitcheva, Elliot Branson, Aerin Kim, Somayeh Sojoudi, Kyunghyun Cho]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers]]></title>
+            <description><![CDATA[Factual questions typically can be answered correctly at different levels of granularity. For example, both ``August 4, 1961'' and ``1961'' are correct answers to the question ``When was Barack Obama born?''. Standard question answering (QA) evaluation protocols, however, do not explicitly take this into account and compare a predicted answer against answers of a single granularity level. In this work, we propose GRANOLA QA, a novel evaluation setting where a predicted answer is evaluated in terms of accuracy and informativeness against a set of multi-granularity answers. We present a simple methodology for enriching existing datasets with multi-granularity answers, and create GRANOLA-EQ, a multi-granularity version of the EntityQuestions dataset. We evaluate a range of decoding methods on GRANOLA-EQ, including a new algorithm, called Decoding with Response Aggregation (DRAG), that is geared towards aligning the response granularity with the model's uncertainty. Our experiments show that large language models with standard decoding tend to generate specific answers, which are often incorrect. In contrast, when evaluated on multi-granularity answers, DRAG yields a nearly 20 point increase in accuracy on average, which further increases for rare entities. Overall, this reveals that standard evaluation and decoding schemes may significantly underestimate the knowledge encapsulated in LMs.]]></description>
+            <pubDate>Wed, 10 Jan 2024 03:12:03 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04695</guid>
+            <link>https://arxiv.org/abs/2401.04695</link>
+            
+            
+            
+            <author><![CDATA[Gal Yona, Roee Aharoni, Mor Geva]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models]]></title>
+            <description><![CDATA[Linear attention is an efficient attention mechanism that has recently emerged as a promising alternative to conventional softmax attention. With its ability to process tokens in linear computational complexities, linear attention, in theory, can handle sequences of unlimited length without sacrificing speed, i.e., maintaining a constant training speed for various sequence lengths with a fixed memory consumption. However, due to the issue with cumulative summation (cumsum), current linear attention algorithms cannot demonstrate their theoretical advantage in a causal setting. In this paper, we present Lightning Attention-2, the first linear attention implementation that enables linear attention to realize its theoretical computational benefits. To achieve this, we leverage the thought of tiling, separately handling the intra-block and inter-block components in linear attention calculation. Specifically, we utilize the conventional attention computation mechanism for the intra-blocks and apply linear attention kernel tricks for the inter-blocks. A tiling technique is adopted through both forward and backward procedures to take full advantage of the GPU hardware. We implement our algorithm in Triton to make it IO-aware and hardware-friendly. Various experiments are conducted on different model sizes and sequence lengths. Lightning Attention-2 retains consistent training and inference speed regardless of input sequence length and is significantly faster than other attention mechanisms. The source code is available at https://github.com/OpenNLPLab/lightning-attention.]]></description>
+            <pubDate>Wed, 10 Jan 2024 03:06:44 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04658</guid>
+            <link>https://arxiv.org/abs/2401.04658</link>
+            
+            
+            
+            <author><![CDATA[Zhen Qin, Weigao Sun, Dong Li, Xuyang Shen, Weixuan Sun, Yiran Zhong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding]]></title>
+            <description><![CDATA[Table-based reasoning with large language models (LLMs) is a promising direction to tackle many table understanding tasks, such as table-based question answering and fact verification. Compared with generic reasoning, table-based reasoning requires the extraction of underlying semantics from both free-form questions and semi-structured tabular data. Chain-of-Thought and its similar approaches incorporate the reasoning chain in the form of textual context, but it is still an open question how to effectively leverage tabular data in the reasoning chain. We propose the Chain-of-Table framework, where tabular data is explicitly used in the reasoning chain as a proxy for intermediate thoughts. Specifically, we guide LLMs using in-context learning to iteratively generate operations and update the table to represent a tabular reasoning chain. LLMs can therefore dynamically plan the next operation based on the results of the previous ones. This continuous evolution of the table forms a chain, showing the reasoning process for a given tabular problem. The chain carries structured information of the intermediate results, enabling more accurate and reliable predictions. Chain-of-Table achieves new state-of-the-art performance on WikiTQ, FeTaQA, and TabFact benchmarks across multiple LLM choices.]]></description>
+            <pubDate>Wed, 10 Jan 2024 02:59:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04398</guid>
+            <link>https://arxiv.org/abs/2401.04398</link>
+            
+            
+            
+            <author><![CDATA[Zilong Wang, Hao Zhang, Chun-Liang Li, Julian Martin Eisenschlos, Vincent Perot, Zifeng Wang, Lesly Miculicich, Yasuhisa Fujii, Jingbo Shang, Chen-Yu Lee, Tomas Pfister]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation]]></title>
+            <description><![CDATA[The growing demand for high-fidelity video generation from textual descriptions has catalyzed significant research in this field. In this work, we introduce MagicVideo-V2 that integrates the text-to-image model, video motion generator, reference image embedding module and frame interpolation module into an end-to-end video generation pipeline. Benefiting from these architecture designs, MagicVideo-V2 can generate an aesthetically pleasing, high-resolution video with remarkable fidelity and smoothness. It demonstrates superior performance over leading Text-to-Video systems such as Runway, Pika 1.0, Morph, Moon Valley and Stable Video Diffusion model via user evaluation at large scale.]]></description>
+            <pubDate>Wed, 10 Jan 2024 02:46:38 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.04468</guid>
+            <link>https://arxiv.org/abs/2401.04468</link>
+            
+            
+            
+            <author><![CDATA[Weimin Wang, Jiawei Liu, Zhijie Lin, Jiangqiao Yan, Shuo Chen, Chetwin Low, Tuyen Hoang, Jie Wu, Jun Hao Liew, Hanshu Yan, Daquan Zhou, Jiashi Feng]]></author>
             
                 
             
