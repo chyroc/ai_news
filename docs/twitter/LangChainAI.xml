@@ -24,104 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 11 Jan 2024 17:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 15:16:02 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Re @Ally and @LangChainAI collaborate 🤝to bring PII masking to the LangChain typescript package -- paving the path for more genAI adoption, in a co...]]></title>
-            <description><![CDATA[Re @Ally and @LangChainAI collaborate 🤝to bring PII masking to the LangChain typescript package -- paving the path for more genAI adoption, in a compliant and safe manner. Read more on the blog!<br><br>https://blog.langchain.dev/ally-financial-collaborates-with-langchain-to-deliver-critical-coding-module-to-mask-personal-identifying-information-in-a-compliant-and-safe-manner/]]></description>
-            <pubDate>Thu, 11 Jan 2024 16:42:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745486234284347540</guid>
-            <link>https://twitter.com/LangChainAI/status/1745486234284347540</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LangChain v0.1.0 Highlight ⭐️Retrieval⭐️ One of the main use cases for LangChain is retrieval. Our v0.1.0 release highlights this with: ✂️Large ...]]></title>
-            <description><![CDATA[LangChain v0.1.0 Highlight<br><br>⭐️Retrieval⭐️<br><br>One of the main use cases for LangChain is retrieval. Our v0.1.0 release highlights this with:<br><br>✂️Large selection of text splitters<br>🧪Myriad of advanced retrieval techniques<br>👪Support for multi-tenancy<br>🏡Indexing pipeline… https://twitter.com/i/web/status/1745485078283858057<br><img style="" src="https://pbs.twimg.com/media/GDk1KXfawAAYykK?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDk1Nh7aYAAbjC5?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDk1SasasAAUy3f?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDk1YoPaoAACAG_?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 11 Jan 2024 16:37:26 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745485078283858057</guid>
-            <link>https://twitter.com/LangChainAI/status/1745485078283858057</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[✂️Semantic Chunking In case you missed it, @GregKamradt is doing a great series on the "5 Levels of Text Splitting" One of the more interesting idea...]]></title>
-            <description><![CDATA[✂️Semantic Chunking<br><br>In case you missed it, @GregKamradt is doing a great series on the "5 Levels of Text Splitting"<br><br>One of the more interesting ideas he introduces is "Semantic Chunking", where you use embedding distance to split text into chunks<br><br>Now in langchain-experimental!… https://twitter.com/i/web/status/1745483297365578199]]></description>
-            <pubDate>Thu, 11 Jan 2024 16:30:22 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745483297365578199</guid>
-            <link>https://twitter.com/LangChainAI/status/1745483297365578199</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Harrison Chase: I thought this was a really creative new way of splitting text So we added it to `langchain_experimental`🦜🧪 Check it out here...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>I thought this was a really creative new way of splitting text <br><br>So we added it to `langchain_experimental`🦜🧪<br><br>Check it out here: https://python.langchain.com/docs/modules/data_connection/document_transformers/semantic-chunker<br><br>And watch @GregKamradt's excellent video below to better understand it!<div class="rsshub-quote"><br><br>Greg Kamradt: 5 Levels Of Text Splitting: Semantic Splitting<br><br>Goal: Use embeddings to find chunks in our raw text<br><br>Experimental method using embedding distances between sequential sentences to tease out 'breakpoints'<br><br>If we find a good breakpoint, make a chunk<br><br>Check out the full video on YT<br><br><video src="https://video.twimg.com/amplify_video/1745241380958724096/vid/avc1/1280x720/nBuI4RJ6qr8T8300.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GDkLvwpagAA_5IT?format=jpg&amp;name=orig"></video></div>]]></description>
-            <pubDate>Thu, 11 Jan 2024 16:27:22 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1745482544920076430</guid>
-            <link>https://twitter.com/hwchase17/status/1745482544920076430</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 🪵🎲 Using OpenAI Logprobs 🎲🪵 Did you know OpenAI can return the generation probability of individual tokens? You can even see...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>🪵🎲&nbsp;Using OpenAI Logprobs 🎲🪵<br><br>Did you know OpenAI can return the generation probability of individual tokens?<br><br>You can even see odds for top alternatives - sort of like how "confident" the LLM is in a response vs. other options!<br><br>Bump to @LangChainAI 🦜🔗 JS/TS OpenAI 0.0.11… https://twitter.com/i/web/status/1745476164825563533<br><img style="" src="https://pbs.twimg.com/media/GDkrIGEXYAANe_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDksI8lWMAAANRC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 11 Jan 2024 16:02:01 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1745476164825563533</guid>
-            <link>https://twitter.com/Hacubu/status/1745476164825563533</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Greg Kamradt: 5 Levels Of Text Splitting: Semantic Splitting Goal: Use embeddings to find chunks in our raw text Experimental method using embeddin...]]></title>
-            <description><![CDATA[RT Greg Kamradt<br>5 Levels Of Text Splitting: Semantic Splitting<br><br>Goal: Use embeddings to find chunks in our raw text<br><br>Experimental method using embedding distances between sequential sentences to tease out 'breakpoints'<br><br>If we find a good breakpoint, make a chunk<br><br>Check out the full video on YT<br><video src="https://video.twimg.com/amplify_video/1745241380958724096/vid/avc1/1280x720/nBuI4RJ6qr8T8300.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GDkLvwpagAA_5IT?format=jpg&amp;name=orig"></video>]]></description>
-            <pubDate>Thu, 11 Jan 2024 15:29:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GregKamradt/status/1745467853799874969</guid>
-            <link>https://twitter.com/GregKamradt/status/1745467853799874969</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[LangChain v0.1.0 Highlight 🧱Output Parsing A big use case of LangChain is connecting it to downstream actions. In order to properly do that, you ne...]]></title>
@@ -337,6 +241,102 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 09 Jan 2024 23:49:23 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744869002894303363</guid>
             <link>https://twitter.com/LangChainAI/status/1744869002894303363</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @amadad examples coming monday :)]]></title>
+            <description><![CDATA[Re @amadad examples coming monday :)]]></description>
+            <pubDate>Tue, 09 Jan 2024 23:47:10 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1744805130166321311</guid>
+            <link>https://twitter.com/LangChainAI/status/1744805130166321311</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jordan Gilliam: ✅Cult dev tools. Generate full stack features for your SaaS. cult stack: 🗂️ @supabase 🎁 @shadcn 🦜 @LangChainAI 🚀 @nex...]]></title>
+            <description><![CDATA[RT Jordan Gilliam<br>✅Cult dev tools. Generate full stack features for your SaaS.<br><br>cult stack:<br>🗂️ @supabase <br>🎁 @shadcn <br>🦜 @LangChainAI <br>🚀 @nextjs <br><br>http://newcult.co<br><video src="https://video.twimg.com/ext_tw_video/1744798237997838337/pu/vid/avc1/1280x720/TFF-GcumVJjgK6Re.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1744798237997838337/pu/img/1kMoybduccT-cmMK.jpg"></video>]]></description>
+            <pubDate>Tue, 09 Jan 2024 19:14:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/nolansym/status/1744799812313059621</guid>
+            <link>https://twitter.com/nolansym/status/1744799812313059621</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Attila-IBS: Re @HardKothari @LangChainAI Can we say it's easier to create unique cognitive architectures with LangGraph? I think so...]]></title>
+            <description><![CDATA[RT Attila-IBS<br>Re @HardKothari @LangChainAI Can we say it's easier to create unique cognitive architectures with LangGraph? <br>I think so...]]></description>
+            <pubDate>Tue, 09 Jan 2024 19:02:27 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/attila_ibs/status/1744735659846438921</guid>
+            <link>https://twitter.com/attila_ibs/status/1744735659846438921</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Nat Guy: .@LangChainAI announces an early peak at LangGraph for cyclic (looping), state-full agent workflows. To define: Hey ai agent, do x with th...]]></title>
+            <description><![CDATA[RT Nat Guy<br>.@LangChainAI announces an early peak at LangGraph for cyclic (looping), state-full agent workflows.<br><br>To define: Hey ai agent, do x with this tool until you’re done. Then do something else. Then stop.<br><br>https://github.com/langchain-ai/langgraph <br><br>@DavidKPiano thoughts?]]></description>
+            <pubDate>Tue, 09 Jan 2024 16:40:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/natguy/status/1744760953470644733</guid>
+            <link>https://twitter.com/natguy/status/1744760953470644733</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Austin Vance: New tutorial, this time not from me from one of our badass AI devs @curious_kaylynn on how to debug your @LangChainAI LCEL applicatio...]]></title>
+            <description><![CDATA[RT Austin Vance<br>New tutorial, this time not from me from one of our badass AI devs @curious_kaylynn on how to debug your @LangChainAI LCEL applications even if you're not one of the lucky ones with a LangSmith integration!<br><br>It's just too easy and so fun on @LangChainAI!<br><br>https://youtu.be/l1JRl3Mvln0]]></description>
+            <pubDate>Tue, 09 Jan 2024 16:33:53 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/austinbv/status/1744759409186607262</guid>
+            <link>https://twitter.com/austinbv/status/1744759409186607262</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Michael Struwig 🦋: The most interesting thing about the @LangChainAI v0.1 announcement is the release of `langgraph` (https://github.com/langcha...]]></title>
+            <description><![CDATA[RT Michael Struwig 🦋<br>The most interesting thing about the @LangChainAI  v0.1 announcement is the release of `langgraph` (https://github.com/langchain-ai/langgraph), which allows you to compose reasoning "workflows" in a graph-like fashion, where the agent is able to make decisions on which steps to take next.<br><br>If… https://twitter.com/i/web/status/1744696099141517752]]></description>
+            <pubDate>Tue, 09 Jan 2024 12:22:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/MichaelNStruwig/status/1744696099141517752</guid>
+            <link>https://twitter.com/MichaelNStruwig/status/1744696099141517752</link>
             
             
             
