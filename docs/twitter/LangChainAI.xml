@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 11 Jan 2024 19:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 21:50:13 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[LangChain v0.1.0 Highlights ⭐️Agents⭐️ As part of v0.1.0, we: 🖼️Added documentation on the seven different agent types (and when to use each o...]]></title>
+            <description><![CDATA[LangChain v0.1.0 Highlights<br><br>⭐️Agents⭐️<br><br>As part of v0.1.0, we:<br><br>🖼️Added documentation on the seven different agent types (and when to use each one)<br>🔗Rewrote agents in LCEL for improved ability to customize<br><br>Agent Types: https://python.langchain.com/docs/modules/agents/agent_types/<br><br>YouTube: https://www.youtube.com/watch?v=08qXj9w-CG4]]></description>
+            <pubDate>Thu, 11 Jan 2024 19:41:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745531271554466212</guid>
+            <link>https://twitter.com/LangChainAI/status/1745531271554466212</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[👨‍👩‍👧‍👦 @togethercompute Embeddings ↗️ Today we’re excited to announce the new langchain-together Python package, which has connecti...]]></title>
@@ -321,22 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 10 Jan 2024 07:06:32 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/tb_tomaz/status/1744979018691031211</guid>
             <link>https://twitter.com/tb_tomaz/status/1744979018691031211</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Mo Gharabat 🦇: OpenCopilot is at 4.2K GitHub stars! ⭐⭐ https://github.com/openchatai/OpenCopilot It's a way to let your product's users chat w...]]></title>
-            <description><![CDATA[RT Mo Gharabat 🦇<br>OpenCopilot is at 4.2K GitHub stars! ⭐⭐<br><br>https://github.com/openchatai/OpenCopilot<br><br>It's a way to let your product's users chat with your product functionality and execute stuff by text, a kind of custom AI copilot.  &amp; We released a lot of cool things.<br><br>Mostly, The could version now is much more… https://twitter.com/i/web/status/1744893848634171404]]></description>
-            <pubDate>Wed, 10 Jan 2024 01:28:06 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/ikbenbasha/status/1744893848634171404</guid>
-            <link>https://twitter.com/ikbenbasha/status/1744893848634171404</link>
             
             
             
