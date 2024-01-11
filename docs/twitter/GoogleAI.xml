@@ -21,8 +21,24 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Thu, 11 Jan 2024 20:53:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 22:57:49 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Outside of the mathematical setting, large language models can be prone to making logical mistakes. Today we present an evaluation benchmark for mista...]]></title>
+            <description><![CDATA[Outside of the mathematical setting, large language models can be prone to making logical mistakes. Today we present an evaluation benchmark for mistake identification across settings and examine how LLMs might learn to correct their own logical errors. →https://goo.gle/48Ox58T<br><img style="" src="https://pbs.twimg.com/media/GDmKh0YXoAEcFLw?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 11 Jan 2024 22:49:37 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745578738933190771</guid>
+            <link>https://twitter.com/GoogleAI/status/1745578738933190771</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Can AI decode the music you’re listening to? Learn how Google Research reconstructed music from brain scans using deep neural networks in partnership...]]></title>
@@ -286,22 +302,6 @@
             <pubDate>Mon, 18 Dec 2023 17:30:11 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1736801044095807635</guid>
             <link>https://twitter.com/GoogleAI/status/1736801044095807635</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Read all about recent advances in using ML to improve efficiency of ML workloads — including TpuGraphs, a performance prediction dataset on large ten...]]></title>
-            <description><![CDATA[Read all about recent advances in using ML to improve efficiency of ML workloads — including TpuGraphs, a performance prediction dataset on large tensor computational graphs, and Graph Segment Training, a novel method to scale graph neural networks →https://goo.gle/3RrnQUZ<br><img style="" src="https://pbs.twimg.com/media/GBbIjGyaoAAkps4?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 15 Dec 2023 22:53:52 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1735795339024834580</guid>
-            <link>https://twitter.com/GoogleAI/status/1735795339024834580</link>
             
             
             
