@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 12 Jan 2024 01:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 04:04:43 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video]]></title>
-            <description><![CDATA[The Internet's wealth of content, with up to 60% published in English, starkly contrasts the global population, where only 18.8% are English speakers, and just 5.1% consider it their native language, leading to disparities in online information access. Unfortunately, automated processes for dubbing of video - replacing the audio track of a video with a translated alternative - remains a complex and challenging task due to pipelines, necessitating precise timing, facial movement synchronization, and prosody matching. While end-to-end dubbing offers a solution, data scarcity continues to impede the progress of both end-to-end and pipeline-based methods. In this work, we introduce Anim-400K, a comprehensive dataset of over 425K aligned animated video segments in Japanese and English supporting various video-related tasks, including automated dubbing, simultaneous translation, guided video summarization, and genre/theme/style classification. Our dataset is made publicly available for research purposes at https://github.com/davidmchan/Anim400K.]]></description>
-            <pubDate>Thu, 11 Jan 2024 04:34:06 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05314</guid>
-            <link>https://arxiv.org/abs/2401.05314</link>
+            <title><![CDATA[TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering]]></title>
+            <description><![CDATA[Point-based radiance field rendering has demonstrated impressive results for novel view synthesis, offering a compelling blend of rendering quality and computational efficiency. However, also latest approaches in this domain are not without their shortcomings. 3D Gaussian Splatting [Kerbl and Kopanas et al. 2023] struggles when tasked with rendering highly detailed scenes, due to blurring and cloudy artifacts. On the other hand, ADOP [R\"uckert et al. 2022] can accommodate crisper images, but the neural reconstruction network decreases performance, it grapples with temporal instability and it is unable to effectively address large gaps in the point cloud.   In this paper, we present TRIPS (Trilinear Point Splatting), an approach that combines ideas from both Gaussian Splatting and ADOP. The fundamental concept behind our novel technique involves rasterizing points into a screen-space image pyramid, with the selection of the pyramid layer determined by the projected point size. This approach allows rendering arbitrarily large points using a single trilinear write. A lightweight neural network is then used to reconstruct a hole-free image including detail beyond splat resolution. Importantly, our render pipeline is entirely differentiable, allowing for automatic optimization of both point sizes and positions.   Our evaluation demonstrate that TRIPS surpasses existing state-of-the-art methods in terms of rendering quality while maintaining a real-time frame rate of 60 frames per second on readily available hardware. This performance extends to challenging scenarios, such as scenes featuring intricate geometry, expansive landscapes, and auto-exposed footage.]]></description>
+            <pubDate>Fri, 12 Jan 2024 03:21:07 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06003</guid>
+            <link>https://arxiv.org/abs/2401.06003</link>
             
             
             
-            <author><![CDATA[Kevin Cai, Chonghua Liu, David M. Chan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Score Distillation Sampling with Learned Manifold Corrective]]></title>
-            <description><![CDATA[Score Distillation Sampling (SDS) is a recent but already widely popular method that relies on an image diffusion model to control optimization problems using text prompts. In this paper, we conduct an in-depth analysis of the SDS loss function, identify an inherent problem with its formulation, and propose a surprisingly easy but effective fix. Specifically, we decompose the loss into different factors and isolate the component responsible for noisy gradients. In the original formulation, high text guidance is used to account for the noise, leading to unwanted side effects. Instead, we train a shallow network mimicking the timestep-dependent denoising deficiency of the image diffusion model in order to effectively factor it out. We demonstrate the versatility and the effectiveness of our novel loss formulation through several qualitative and quantitative experiments, including optimization-based image synthesis and editing, zero-shot image translation network training, and text-to-3D synthesis.]]></description>
-            <pubDate>Thu, 11 Jan 2024 04:02:45 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05293</guid>
-            <link>https://arxiv.org/abs/2401.05293</link>
-            
-            
-            
-            <author><![CDATA[Thiemo Alldieck, Nikos Kolotouros, Cristian Sminchisescu]]></author>
+            <author><![CDATA[Linus Franke, Darius Rückert, Laura Fink, Marc Stamminger]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes]]></title>
-            <description><![CDATA[We introduce InseRF, a novel method for generative object insertion in the NeRF reconstructions of 3D scenes. Based on a user-provided textual description and a 2D bounding box in a reference viewpoint, InseRF generates new objects in 3D scenes. Recently, methods for 3D scene editing have been profoundly transformed, owing to the use of strong priors of text-to-image diffusion models in 3D generative modeling. Existing methods are mostly effective in editing 3D scenes via style and appearance changes or removing existing objects. Generating new objects, however, remains a challenge for such methods, which we address in this study. Specifically, we propose grounding the 3D object insertion to a 2D object insertion in a reference view of the scene. The 2D edit is then lifted to 3D using a single-view object reconstruction method. The reconstructed object is then inserted into the scene, guided by the priors of monocular depth estimation methods. We evaluate our method on various 3D scenes and provide an in-depth analysis of the proposed components. Our experiments with generative insertion of objects in several 3D scenes indicate the effectiveness of our method compared to the existing methods. InseRF is capable of controllable and 3D-consistent object insertion without requiring explicit 3D information as input. Please visit our project page at https://mohamad-shahbazi.github.io/inserf.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:54:00 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05335</guid>
-            <link>https://arxiv.org/abs/2401.05335</link>
+            <title><![CDATA[Diffusion Priors for Dynamic View Synthesis from Monocular Videos]]></title>
+            <description><![CDATA[Dynamic novel view synthesis aims to capture the temporal evolution of visual content within videos. Existing methods struggle to distinguishing between motion and structure, particularly in scenarios where camera poses are either unknown or constrained compared to object motion. Furthermore, with information solely from reference images, it is extremely challenging to hallucinate unseen regions that are occluded or partially observed in the given videos. To address these issues, we first finetune a pretrained RGB-D diffusion model on the video frames using a customization technique. Subsequently, we distill the knowledge from the finetuned model to a 4D representations encompassing both dynamic and static Neural Radiance Fields (NeRF) components. The proposed pipeline achieves geometric consistency while preserving the scene identity. We perform thorough experiments to evaluate the efficacy of the proposed method qualitatively and quantitatively. Our results demonstrate the robustness and utility of our approach in challenging cases, further advancing dynamic novel view synthesis.]]></description>
+            <pubDate>Fri, 12 Jan 2024 03:16:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05583</guid>
+            <link>https://arxiv.org/abs/2401.05583</link>
             
             
             
-            <author><![CDATA[Mohamad Shahbazi, Liesbeth Claessens, Michael Niemeyer, Edo Collins, Alessio Tonioni, Luc Van Gool, Federico Tombari]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models]]></title>
-            <description><![CDATA[This technical report introduces PIXART-{\delta}, a text-to-image synthesis framework that integrates the Latent Consistency Model (LCM) and ControlNet into the advanced PIXART-{\alpha} model. PIXART-{\alpha} is recognized for its ability to generate high-quality images of 1024px resolution through a remarkably efficient training process. The integration of LCM in PIXART-{\delta} significantly accelerates the inference speed, enabling the production of high-quality images in just 2-4 steps. Notably, PIXART-{\delta} achieves a breakthrough 0.5 seconds for generating 1024x1024 pixel images, marking a 7x improvement over the PIXART-{\alpha}. Additionally, PIXART-{\delta} is designed to be efficiently trainable on 32GB V100 GPUs within a single day. With its 8-bit inference capability (von Platen et al., 2023), PIXART-{\delta} can synthesize 1024px images within 8GB GPU memory constraints, greatly enhancing its usability and accessibility. Furthermore, incorporating a ControlNet-like module enables fine-grained control over text-to-image diffusion models. We introduce a novel ControlNet-Transformer architecture, specifically tailored for Transformers, achieving explicit controllability alongside high-quality image generation. As a state-of-the-art, open-source image generation model, PIXART-{\delta} offers a promising alternative to the Stable Diffusion family of models, contributing significantly to text-to-image synthesis.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:19:58 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05252</guid>
-            <link>https://arxiv.org/abs/2401.05252</link>
-            
-            
-            
-            <author><![CDATA[Junsong Chen, Yue Wu, Simian Luo, Enze Xie, Sayak Paul, Ping Luo, Hang Zhao, Zhenguo Li]]></author>
+            <author><![CDATA[Chaoyang Wang, Peiye Zhuang, Aliaksandr Siarohin, Junli Cao, Guocheng Qian, Hsin-Ying Lee, Sergey Tulyakov]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[URHand: Universal Relightable Hands]]></title>
-            <description><![CDATA[Existing photorealistic relightable hand models require extensive identity-specific observations in different views, poses, and illuminations, and face challenges in generalizing to natural illuminations and novel identities. To bridge this gap, we present URHand, the first universal relightable hand model that generalizes across viewpoints, poses, illuminations, and identities. Our model allows few-shot personalization using images captured with a mobile phone, and is ready to be photorealistically rendered under novel illuminations. To simplify the personalization process while retaining photorealism, we build a powerful universal relightable prior based on neural relighting from multi-view images of hands captured in a light stage with hundreds of identities. The key challenge is scaling the cross-identity training while maintaining personalized fidelity and sharp details without compromising generalization under natural illuminations. To this end, we propose a spatially varying linear lighting model as the neural renderer that takes physics-inspired shading as input feature. By removing non-linear activations and bias, our specifically designed lighting model explicitly keeps the linearity of light transport. This enables single-stage training from light-stage data while generalizing to real-time rendering under arbitrary continuous illuminations across diverse identities. In addition, we introduce the joint learning of a physically based model and our neural relighting model, which further improves fidelity and generalization. Extensive experiments show that our approach achieves superior performance over existing methods in terms of both quality and generalizability. We also demonstrate quick personalization of URHand from a short phone scan of an unseen identity.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:14:07 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05334</guid>
-            <link>https://arxiv.org/abs/2401.05334</link>
+            <title><![CDATA[Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation]]></title>
+            <description><![CDATA[Recent works demonstrate that using reinforcement learning (RL) with quality rewards can enhance the quality of generated images in text-to-image (T2I) generation. However, a simple aggregation of multiple rewards may cause over-optimization in certain metrics and degradation in others, and it is challenging to manually find the optimal weights. An effective strategy to jointly optimize multiple rewards in RL for T2I generation is highly desirable. This paper introduces Parrot, a novel multi-reward RL framework for T2I generation. Through the use of the batch-wise Pareto optimal selection, Parrot automatically identifies the optimal trade-off among different rewards during the RL optimization of the T2I generation. Additionally, Parrot employs a joint optimization approach for the T2I model and the prompt expansion network, facilitating the generation of quality-aware text prompts, thus further enhancing the final image quality. To counteract the potential catastrophic forgetting of the original user prompt due to prompt expansion, we introduce original prompt centered guidance at inference time, ensuring that the generated image remains faithful to the user input. Extensive experiments and a user study demonstrate that Parrot outperforms several baseline methods across various quality criteria, including aesthetics, human preference, image sentiment, and text-image alignment.]]></description>
+            <pubDate>Fri, 12 Jan 2024 03:09:14 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05675</guid>
+            <link>https://arxiv.org/abs/2401.05675</link>
             
             
             
-            <author><![CDATA[Zhaoxi Chen, Gyeongsik Moon, Kaiwen Guo, Chen Cao, Stanislav Pidhorskyi, Tomas Simon, Rohan Joshi, Yuan Dong, Yichen Xu, Bernardo Pires, He Wen, Lucas Evans, Bo Peng, Julia Buffalini, Autumn Trimble, Kevyn McPhail, Melissa Schoeller, Shoou-I Yu, Javier Romero, Michael Zollhöfer, Yaser Sheikh, Ziwei Liu, Shunsuke Saito]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Impact of Reasoning Step Length on Large Language Models]]></title>
-            <description><![CDATA[Chain of Thought (CoT) is significant in improving the reasoning abilities of large language models (LLMs). However, the correlation between the effectiveness of CoT and the length of reasoning steps in prompts remains largely unknown. To shed light on this, we have conducted several empirical experiments to explore the relations. Specifically, we design experiments that expand and compress the rationale reasoning steps within CoT demonstrations, while keeping all other factors constant. We have the following key findings. First, the results indicate that lengthening the reasoning steps in prompts, even without adding new information into the prompt, considerably enhances LLMs' reasoning abilities across multiple datasets. Alternatively, shortening the reasoning steps, even while preserving the key information, significantly diminishes the reasoning abilities of models. This finding highlights the importance of the number of steps in CoT prompts and provides practical guidance to make better use of LLMs' potential in complex problem-solving scenarios. Second, we also investigated the relationship between the performance of CoT and the rationales used in demonstrations. Surprisingly, the result shows that even incorrect rationales can yield favorable outcomes if they maintain the requisite length of inference. Third, we observed that the advantages of increasing reasoning steps are task-dependent: simpler tasks require fewer steps, whereas complex tasks gain significantly from longer inference sequences.]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:05:39 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.04925</guid>
-            <link>https://arxiv.org/abs/2401.04925</link>
-            
-            
-            
-            <author><![CDATA[Mingyu Jin, Qinkai Yu, Dong shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du]]></author>
+            <author><![CDATA[Seung Hyun Lee, Yinxiao Li, Junjie Ke, Innfarn Yoo, Han Zhang, Jiahui Yu, Qifei Wang, Fei Deng, Glenn Entis, Junfeng He, Gang Li, Sangpil Kim, Irfan Essa, Feng Yang]]></author>
             
                 
             
@@ -115,15 +67,207 @@
         </item>
         
         <item>
-            <title><![CDATA[Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk]]></title>
-            <description><![CDATA[Large language models (LLMs) are powerful dialogue agents, but specializing them towards fulfilling a specific function can be challenging. Instructing tuning, i.e. tuning models on instruction and sample responses generated by humans (Ouyang et al., 2022), has proven as an effective method to do so, yet requires a number of data samples that a) might not be available or b) costly to generate. Furthermore, this cost increases when the goal is to make the LLM follow a specific workflow within a dialogue instead of single instructions. Inspired by the self-play technique in reinforcement learning and the use of LLMs to simulate human agents, we propose a more effective method for data collection through LLMs engaging in a conversation in various roles. This approach generates a training data via "self-talk" of LLMs that can be refined and utilized for supervised fine-tuning. We introduce an automated way to measure the (partial) success of a dialogue. This metric is used to filter the generated conversational data that is fed back in LLM for training. Based on our automated and human evaluations of conversation quality, we demonstrate that such self-talk data improves results. In addition, we examine the various characteristics that showcase the quality of generated dialogues and how they can be connected to their potential utility as training data.]]></description>
-            <pubDate>Thu, 11 Jan 2024 02:57:54 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05033</guid>
-            <link>https://arxiv.org/abs/2401.05033</link>
+            <title><![CDATA[TOFU: A Task of Fictitious Unlearning for LLMs]]></title>
+            <description><![CDATA[Large language models trained on massive corpora of data from the web can memorize and reproduce sensitive or private data raising both legal and ethical concerns. Unlearning, or tuning models to forget information present in their training data, provides us with a way to protect private data after training. Although several methods exist for such unlearning, it is unclear to what extent they result in models equivalent to those where the data to be forgotten was never learned in the first place. To address this challenge, we present TOFU, a Task of Fictitious Unlearning, as a benchmark aimed at helping deepen our understanding of unlearning. We offer a dataset of 200 diverse synthetic author profiles, each consisting of 20 question-answer pairs, and a subset of these profiles called the forget set that serves as the target for unlearning. We compile a suite of metrics that work together to provide a holistic picture of unlearning efficacy. Finally, we provide a set of baseline results from existing unlearning algorithms. Importantly, none of the baselines we consider show effective unlearning motivating continued efforts to develop approaches for unlearning that effectively tune models so that they truly behave as if they were never trained on the forget data at all.]]></description>
+            <pubDate>Fri, 12 Jan 2024 03:03:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06121</guid>
+            <link>https://arxiv.org/abs/2401.06121</link>
             
             
             
-            <author><![CDATA[Dennis Ulmer, Elman Mansimov, Kaixiang Lin, Justin Sun, Xibin Gao, Yi Zhang]]></author>
+            <author><![CDATA[Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary C. Lipton, J. Zico Kolter]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models]]></title>
+            <description><![CDATA[Inspecting the information encoded in hidden representations of large language models (LLMs) can explain models' behavior and verify their alignment with human values. Given the capabilities of LLMs in generating human-understandable text, we propose leveraging the model itself to explain its internal representations in natural language. We introduce a framework called Patchscopes and show how it can be used to answer a wide range of research questions about an LLM's computation. We show that prior interpretability methods based on projecting representations into the vocabulary space and intervening on the LLM computation, can be viewed as special instances of this framework. Moreover, several of their shortcomings such as failure in inspecting early layers or lack of expressivity can be mitigated by a Patchscope. Beyond unifying prior inspection techniques, Patchscopes also opens up new possibilities such as using a more capable model to explain the representations of a smaller model, and unlocks new applications such as self-correction in multi-hop reasoning.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:49:19 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06102</guid>
+            <link>https://arxiv.org/abs/2401.06102</link>
+            
+            
+            
+            <author><![CDATA[Asma Ghandeharioun, Avi Caciularu, Adam Pearce, Lucas Dixon, Mor Geva]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Secrets of RLHF in Large Language Models Part II: Reward Modeling]]></title>
+            <description><![CDATA[Reinforcement Learning from Human Feedback (RLHF) has become a crucial technology for aligning language models with human values and intentions, enabling models to produce more helpful and harmless responses. Reward models are trained as proxies for human preferences to drive reinforcement learning optimization. While reward models are often considered central to achieving high performance, they face the following challenges in practical applications: (1) Incorrect and ambiguous preference pairs in the dataset may hinder the reward model from accurately capturing human intent. (2) Reward models trained on data from a specific distribution often struggle to generalize to examples outside that distribution and are not suitable for iterative RLHF training.   In this report, we attempt to address these two issues. (1) From a data perspective, we propose a method to measure the strength of preferences within the data, based on a voting mechanism of multiple reward models. Experimental results confirm that data with varying preference strengths have different impacts on reward model performance. We introduce a series of novel methods to mitigate the influence of incorrect and ambiguous preferences in the dataset and fully leverage high-quality preference data. (2) From an algorithmic standpoint, we introduce contrastive learning to enhance the ability of reward models to distinguish between chosen and rejected responses, thereby improving model generalization. Furthermore, we employ meta-learning to enable the reward model to maintain the ability to differentiate subtle differences in out-of-distribution samples, and this approach can be utilized for iterative RLHF optimization.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:47:15 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06080</guid>
+            <link>https://arxiv.org/abs/2401.06080</link>
+            
+            
+            
+            <author><![CDATA[Binghai Wang, Rui Zheng, Lu Chen, Yan Liu, Shihan Dou, Caishuang Huang, Wei Shen, Senjie Jin, Enyu Zhou, Chenyu Shi, Songyang Gao, Nuo Xu, Yuhao Zhou, Xiaoran Fan, Zhiheng Xi, Jun Zhao, Xiao Wang, Tao Ji, Hang Yan, Lixing Shen, Zhan Chen, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LEGO:Language Enhanced Multi-modal Grounding Model]]></title>
+            <description><![CDATA[Multi-modal large language models have demonstrated impressive performance across various tasks in different modalities. However, existing multi-modal models primarily emphasize capturing global information within each modality while neglecting the importance of perceiving local information across modalities. Consequently, these models lack the ability to effectively understand the fine-grained details of input data, limiting their performance in tasks that require a more nuanced understanding. To address this limitation, there is a compelling need to develop models that enable fine-grained understanding across multiple modalities, thereby enhancing their applicability to a wide range of tasks. In this paper, we propose LEGO, a language enhanced multi-modal grounding model. Beyond capturing global information like other multi-modal models, our proposed model excels at tasks demanding a detailed understanding of local information within the input. It demonstrates precise identification and localization of specific regions in images or moments in videos. To achieve this objective, we design a diversified dataset construction pipeline, resulting in a multi-modal, multi-granularity dataset for model training. The code, dataset, and demo of our model can be found at https: //github.com/lzw-lzw/LEGO.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:42:58 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06071</guid>
+            <link>https://arxiv.org/abs/2401.06071</link>
+            
+            
+            
+            <author><![CDATA[Zhaowei Li, Qi Xu, Dong Zhang, Hang Song, Yiqing Cai, Qi Qi, Ran Zhou, Junting Pan, Zefeng Li, Van Tu Vu, Zhida Huang, Tao Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models]]></title>
+            <description><![CDATA[In the era of large language models, Mixture-of-Experts (MoE) is a promising architecture for managing computational costs when scaling up model parameters. However, conventional MoE architectures like GShard, which activate the top-K out of N experts, face challenges in ensuring expert specialization, i.e. each expert acquires non-overlapping and focused knowledge. In response, we propose the DeepSeekMoE architecture towards ultimate expert specialization. It involves two principal strategies: (1) finely segmenting the experts into mN ones and activating mK from them, allowing for a more flexible combination of activated experts; (2) isolating K_s experts as shared ones, aiming at capturing common knowledge and mitigating redundancy in routed experts. Starting from a modest scale with 2B parameters, we demonstrate that DeepSeekMoE 2B achieves comparable performance with GShard 2.9B, which has 1.5 times the expert parameters and computation. In addition, DeepSeekMoE 2B nearly approaches the performance of its dense counterpart with the same number of total parameters, which set the upper bound of MoE models. Subsequently, we scale up DeepSeekMoE to 16B parameters and show that it achieves comparable performance with LLaMA2 7B, with only about 40% of computations. Further, our preliminary efforts to scale up DeepSeekMoE to 145B parameters consistently validate its substantial advantages over the GShard architecture, and show its performance comparable with DeepSeek 67B, using only 28.5% (maybe even 18.2%) of computations.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:40:21 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06066</guid>
+            <link>https://arxiv.org/abs/2401.06066</link>
+            
+            
+            
+            <author><![CDATA[Damai Dai, Chengqi Deng, Chenggang Zhao, R. X. Xu, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y. Wu, Zhenda Xie, Y. K. Li, Panpan Huang, Fuli Luo, Chong Ruan, Zhifang Sui, Wenfeng Liang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Tuning LLMs with Contrastive Alignment Instructions for Machine Translation in Unseen, Low-resource Languages]]></title>
+            <description><![CDATA[This article introduces contrastive alignment instructions (AlignInstruct) to address two challenges in machine translation (MT) on large language models (LLMs). One is the expansion of supported languages to previously unseen ones. The second relates to the lack of data in low-resource languages. Model fine-tuning through MT instructions (MTInstruct) is a straightforward approach to the first challenge. However, MTInstruct is limited by weak cross-lingual signals inherent in the second challenge. AlignInstruct emphasizes cross-lingual supervision via a cross-lingual discriminator built using statistical word alignments. Our results based on fine-tuning the BLOOMZ models (1b1, 3b, and 7b1) in up to 24 unseen languages showed that: (1) LLMs can effectively translate unseen languages using MTInstruct; (2) AlignInstruct led to consistent improvements in translation quality across 48 translation directions involving English; (3) Discriminator-based instructions outperformed their generative counterparts as cross-lingual instructions; (4) AlignInstruct improved performance in 30 zero-shot directions.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:37:26 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05811</guid>
+            <link>https://arxiv.org/abs/2401.05811</link>
+            
+            
+            
+            <author><![CDATA[Zhuoyuan Mao, Yen Yu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[A Shocking Amount of the Web is Machine Translated: Insights from Multi-Way Parallelism]]></title>
+            <description><![CDATA[We show that content on the web is often translated into many languages, and the low quality of these multi-way translations indicates they were likely created using Machine Translation (MT). Multi-way parallel, machine generated content not only dominates the translations in lower resource languages; it also constitutes a large fraction of the total web content in those languages. We also find evidence of a selection bias in the type of content which is translated into many languages, consistent with low quality English content being translated en masse into many lower resource languages, via MT. Our work raises serious concerns about training models such as multilingual large language models on both monolingual and bilingual data scraped from the web.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:34:30 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05749</guid>
+            <link>https://arxiv.org/abs/2401.05749</link>
+            
+            
+            
+            <author><![CDATA[Brian Thompson, Mehak Preet Dhaliwal, Peter Frisch, Tobias Domhan, Marcello Federico]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Towards Conversational Diagnostic AI]]></title>
+            <description><![CDATA[At the heart of medicine lies the physician-patient dialogue, where skillful history-taking paves the way for accurate diagnosis, effective management, and enduring trust. Artificial Intelligence (AI) systems capable of diagnostic dialogue could increase accessibility, consistency, and quality of care. However, approximating clinicians' expertise is an outstanding grand challenge. Here, we introduce AMIE (Articulate Medical Intelligence Explorer), a Large Language Model (LLM) based AI system optimized for diagnostic dialogue.   AMIE uses a novel self-play based simulated environment with automated feedback mechanisms for scaling learning across diverse disease conditions, specialties, and contexts. We designed a framework for evaluating clinically-meaningful axes of performance including history-taking, diagnostic accuracy, management reasoning, communication skills, and empathy. We compared AMIE's performance to that of primary care physicians (PCPs) in a randomized, double-blind crossover study of text-based consultations with validated patient actors in the style of an Objective Structured Clinical Examination (OSCE). The study included 149 case scenarios from clinical providers in Canada, the UK, and India, 20 PCPs for comparison with AMIE, and evaluations by specialist physicians and patient actors. AMIE demonstrated greater diagnostic accuracy and superior performance on 28 of 32 axes according to specialist physicians and 24 of 26 axes according to patient actors. Our research has several limitations and should be interpreted with appropriate caution. Clinicians were limited to unfamiliar synchronous text-chat which permits large-scale LLM-patient interactions but is not representative of usual clinical practice. While further research is required before AMIE could be translated to real-world settings, the results represent a milestone towards conversational diagnostic AI.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:31:37 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05654</guid>
+            <link>https://arxiv.org/abs/2401.05654</link>
+            
+            
+            
+            <author><![CDATA[Tao Tu, Anil Palepu, Mike Schaekermann, Khaled Saab, Jan Freyberg, Ryutaro Tanno, Amy Wang, Brenna Li, Mohamed Amin, Nenad Tomasev, Shekoofeh Azizi, Karan Singhal, Yong Cheng, Le Hou, Albert Webson, Kavita Kulkarni, S Sara Mahdavi, Christopher Semturs, Juraj Gottweis, Joelle Barral, Katherine Chou, Greg S Corrado, Yossi Matias, Alan Karthikesalingam, Vivek Natarajan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Transformers are Multi-State RNNs]]></title>
+            <description><![CDATA[Transformers are considered conceptually different compared to the previous generation of state-of-the-art NLP models - recurrent neural networks (RNNs). In this work, we demonstrate that decoder-only transformers can in fact be conceptualized as infinite multi-state RNNs - an RNN variant with unlimited hidden state size. We further show that pretrained transformers can be converted into finite multi-state RNNs by fixing the size of their hidden state. We observe that several existing transformers cache compression techniques can be framed as such conversion policies, and introduce a novel policy, TOVA, which is simpler compared to these policies. Our experiments with several long range tasks indicate that TOVA outperforms all other baseline policies, while being nearly on par with the full (infinite) model, and using in some cases only 1{8} of the original cache size. Our results indicate that transformer decoder LLMs often behave in practice as RNNs. They also lay out the option of mitigating one of their most painful computational bottlenecks - the size of their cache memory. We publicly release our code at https://github.com/schwartz-lab-NLP/TOVA.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:28:43 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06104</guid>
+            <link>https://arxiv.org/abs/2401.06104</link>
+            
+            
+            
+            <author><![CDATA[Matanel Oren, Michael Hassid, Yossi Adi, Roy Schwartz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training]]></title>
+            <description><![CDATA[Humans are capable of strategically deceptive behavior: behaving helpfully in most situations, but then behaving very differently in order to pursue alternative objectives when given the opportunity. If an AI system learned such a deceptive strategy, could we detect it and remove it using current state-of-the-art safety training techniques? To study this question, we construct proof-of-concept examples of deceptive behavior in large language models (LLMs). For example, we train models that write secure code when the prompt states that the year is 2023, but insert exploitable code when the stated year is 2024. We find that such backdoored behavior can be made persistent, so that it is not removed by standard safety training techniques, including supervised fine-tuning, reinforcement learning, and adversarial training (eliciting unsafe behavior and then training to remove it). The backdoored behavior is most persistent in the largest models and in models trained to produce chain-of-thought reasoning about deceiving the training process, with the persistence remaining even when the chain-of-thought is distilled away. Furthermore, rather than removing backdoors, we find that adversarial training can teach models to better recognize their backdoor triggers, effectively hiding the unsafe behavior. Our results suggest that, once a model exhibits deceptive behavior, standard techniques could fail to remove such deception and create a false impression of safety.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:27:13 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05566</guid>
+            <link>https://arxiv.org/abs/2401.05566</link>
+            
+            
+            
+            <author><![CDATA[Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert, Meg Tong, Monte MacDiarmid, Tamera Lanham, Daniel M. Ziegler, Tim Maxwell, Newton Cheng, Adam Jermyn, Amanda Askell, Ansh Radhakrishnan, Cem Anil, David Duvenaud, Deep Ganguli, Fazl Barez, Jack Clark, Kamal Ndousse, Kshitij Sachan, Michael Sellitto, Mrinank Sharma, Nova DasSarma, Roger Grosse, Shauna Kravec, Yuntao Bai, Zachary Witten, Marina Favaro, Jan Brauner, Holden Karnofsky, Paul Christiano, Samuel R. Bowman, Logan Graham, Jared Kaplan, Sören Mindermann, Ryan Greenblatt, Buck Shlegeris, Nicholas Schiefer, Ethan Perez]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Distilling Vision-Language Models on Millions of Videos]]></title>
+            <description><![CDATA[The recent advance in vision-language models is largely attributed to the abundance of image-text data. We aim to replicate this success for video-language models, but there simply is not enough human-curated video-text data available. We thus resort to fine-tuning a video-language model from a strong image-language baseline with synthesized instructional data. The resulting video-language model is then used to auto-label millions of videos to generate high-quality captions. We show the adapted video-language model performs well on a wide range of video-language benchmarks. For instance, it surpasses the best prior result on open-ended NExT-QA by 2.8%. Besides, our model generates detailed descriptions for previously unseen videos, which provide better textual supervision than existing methods. Experiments show that a video-language dual-encoder model contrastively trained on these auto-generated captions is 3.8% better than the strongest baseline that also leverages vision-language models. Our best model outperforms state-of-the-art methods on MSR-VTT zero-shot text-to-video retrieval by 6%.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:21:40 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06129</guid>
+            <link>https://arxiv.org/abs/2401.06129</link>
+            
+            
+            
+            <author><![CDATA[Yue Zhao, Long Zhao, Xingyi Zhou, Jialin Wu, Chun-Te Chu, Hui Miao, Florian Schroff, Hartwig Adam, Ting Liu, Boqing Gong, Philipp Krähenbühl, Liangzhe Yuan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Efficient LLM inference solution on Intel GPU]]></title>
+            <description><![CDATA[Transformer based Large Language Models (LLMs) have been widely used in many fields, and the efficiency of LLM inference becomes hot topic in real applications. However, LLMs are usually complicatedly designed in model structure with massive operations and perform inference in the auto-regressive mode, making it a challenging task to design a system with high efficiency.   In this paper, we propose an efficient LLM inference solution with low latency and high throughput. Firstly, we simplify the LLM decoder layer by fusing data movement and element-wise operations to reduce the memory access frequency and lower system latency. We also propose a segment KV cache policy to keep key/value of the request and response tokens in separate physical memory for effective device memory management, helping enlarge the runtime batch size and improve system throughput. A customized Scaled-Dot-Product-Attention kernel is designed to match our fusion policy based on the segment KV cache solution. We implement our LLM inference solution on Intel GPU and publish it publicly. Compared with the standard HuggingFace implementation, the proposed solution achieves up to 7x lower token latency and 27x higher throughput for some popular LLMs on Intel GPU.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:04:21 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05391</guid>
+            <link>https://arxiv.org/abs/2401.05391</link>
+            
+            
+            
+            <author><![CDATA[Hui Wu, Yi Gan, Feng Yuan, Jing Ma, Wei Zhu, Yutao Xu, Hong Zhu, Yuhua Zhu, Xiaoli Liu, Jinghui Gu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TrustLLM: Trustworthiness in Large Language Models]]></title>
+            <description><![CDATA[Large language models (LLMs), exemplified by ChatGPT, have gained considerable attention for their excellent natural language processing capabilities. Nonetheless, these LLMs present many challenges, particularly in the realm of trustworthiness. Therefore, ensuring the trustworthiness of LLMs emerges as an important topic. This paper introduces TrustLLM, a comprehensive study of trustworthiness in LLMs, including principles for different dimensions of trustworthiness, established benchmark, evaluation, and analysis of trustworthiness for mainstream LLMs, and discussion of open challenges and future directions. Specifically, we first propose a set of principles for trustworthy LLMs that span eight different dimensions. Based on these principles, we further establish a benchmark across six dimensions including truthfulness, safety, fairness, robustness, privacy, and machine ethics. We then present a study evaluating 16 mainstream LLMs in TrustLLM, consisting of over 30 datasets. Our findings firstly show that in general trustworthiness and utility (i.e., functional effectiveness) are positively related. Secondly, our observations reveal that proprietary LLMs generally outperform most open-source counterparts in terms of trustworthiness, raising concerns about the potential risks of widely accessible open-source LLMs. However, a few open-source LLMs come very close to proprietary ones. Thirdly, it is important to note that some LLMs may be overly calibrated towards exhibiting trustworthiness, to the extent that they compromise their utility by mistakenly treating benign prompts as harmful and consequently not responding. Finally, we emphasize the importance of ensuring transparency not only in the models themselves but also in the technologies that underpin trustworthiness. Knowing the specific trustworthy technologies that have been employed is crucial for analyzing their effectiveness.]]></description>
+            <pubDate>Fri, 12 Jan 2024 02:01:16 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.05561</guid>
+            <link>https://arxiv.org/abs/2401.05561</link>
+            
+            
+            
+            <author><![CDATA[Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, Qihui Zhang, Chujie Gao, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, Chao Zhang, Chaowei Xiao, Chunyuan Li, Eric Xing, Furong Huang, Hao Liu, Heng Ji, Hongyi Wang, Huan Zhang, Huaxiu Yao, Manolis Kellis, Marinka Zitnik, Meng Jiang, Mohit Bansal, James Zou, Jian Pei, Jian Liu, Jianfeng Gao, Jiawei Han, Jieyu Zhao, Jiliang Tang, Jindong Wang, John Mitchell, Kai Shu, Kaidi Xu, Kai-Wei Chang, Lifang He, Lifu Huang, Michael Backes, Neil Zhenqiang Gong, Philip S. Yu, Pin-Yu Chen, Quanquan Gu, Ran Xu, Rex Ying, Shuiwang Ji, Suman Jana, Tianlong Chen, Tianming Liu, Tianyi Zhou, Willian Wang, Xiang Li, Xiangliang Zhang, Xiao Wang, Xing Xie, Xun Chen, Xuyu Wang, Yan Liu, Yanfang Ye, Yinzhi Cao, Yue Zhao]]></author>
             
                 
             
