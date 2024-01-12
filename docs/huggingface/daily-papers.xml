@@ -15,40 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 12 Jan 2024 06:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 04:04:43 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[PALP: Prompt Aligned Personalization of Text-to-Image Models]]></title>
-            <description><![CDATA[Content creators often aim to create personalized images using personal subjects that go beyond the capabilities of conventional text-to-image models. Additionally, they may want the resulting image to encompass a specific location, style, ambiance, and more. Existing personalization methods may compromise personalization ability or the alignment to complex textual prompts. This trade-off can impede the fulfillment of user prompts and subject fidelity. We propose a new approach focusing on personalization methods for a single prompt to address this issue. We term our approach prompt-aligned personalization. While this may seem restrictive, our method excels in improving text alignment, enabling the creation of images with complex and intricate prompts, which may pose a challenge for current techniques. In particular, our method keeps the personalized model aligned with a target prompt using an additional score distillation sampling term. We demonstrate the versatility of our method in multi- and single-shot settings and further show that it can compose multiple subjects or use inspiration from reference images, such as artworks. We compare our approach quantitatively and qualitatively with existing baselines and state-of-the-art techniques.]]></description>
-            <pubDate>Fri, 12 Jan 2024 04:18:04 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.06105</guid>
-            <link>https://arxiv.org/abs/2401.06105</link>
-            
-            
-            
-            <author><![CDATA[Moab Arar, Andrey Voynov, Amir Hertz, Omri Avrahami, Shlomi Fruchter, Yael Pritch, Daniel Cohen-Or, Ariel Shamir]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Object-Centric Diffusion for Efficient Video Editing]]></title>
-            <description><![CDATA[Diffusion-based video editing have reached impressive quality and can transform either the global style, local structure, and attributes of given video inputs, following textual edit prompts. However, such solutions typically incur heavy memory and computational costs to generate temporally-coherent frames, either in the form of diffusion inversion and/or cross-frame attention. In this paper, we conduct an analysis of such inefficiencies, and suggest simple yet effective modifications that allow significant speed-ups whilst maintaining quality. Moreover, we introduce Object-Centric Diffusion, coined as OCD, to further reduce latency by allocating computations more towards foreground edited regions that are arguably more important for perceptual quality. We achieve this by two novel proposals: i) Object-Centric Sampling, decoupling the diffusion steps spent on salient regions or background, allocating most of the model capacity to the former, and ii) Object-Centric 3D Token Merging, which reduces cost of cross-frame attention by fusing redundant tokens in unimportant background regions. Both techniques are readily applicable to a given video editing model without retraining, and can drastically reduce its memory and computational cost. We evaluate our proposals on inversion-based and control-signal-based editing pipelines, and show a latency reduction up to 10x for a comparable synthesis quality.]]></description>
-            <pubDate>Fri, 12 Jan 2024 04:04:54 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.05735</guid>
-            <link>https://arxiv.org/abs/2401.05735</link>
-            
-            
-            
-            <author><![CDATA[Kumara Kahatapitiya, Adil Karjauv, Davide Abati, Fatih Porikli, Yuki M. Asano, Amirhossein Habibian]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering]]></title>
