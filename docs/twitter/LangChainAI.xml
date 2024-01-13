@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 13 Jan 2024 17:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 15:25:44 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 👪 TogetherAI Embeddings 👪 @togethercompute just launched hosted OSS embeddings! Swap it into your JS RAG pipelines in @LangChainAI...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>👪 TogetherAI Embeddings 👪<br><br>@togethercompute just launched hosted OSS embeddings! Swap it into your JS RAG pipelines in @LangChainAI 🦜🔗 JS/TS community 0.0.17.<br><br>The # of dimensions varies by model, so you may need to set up your vectorstore to match:<br><br>https://js.langchain.com/docs/integrations/text_embedding/togetherai<br><img style="" src="https://pbs.twimg.com/media/GDvOJPCXsAAiCnz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 13 Jan 2024 17:06:55 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1746217270525800716</guid>
-            <link>https://twitter.com/Hacubu/status/1746217270525800716</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜🚀Deploy LangChain Apps Over the past few months we've worked on LangServe - an easy way to deploy LangChain apps Check out this YouTube video b...]]></title>
-            <description><![CDATA[🦜🚀Deploy LangChain Apps<br><br>Over the past few months we've worked on LangServe - an easy way to deploy LangChain apps<br><br>Check out this YouTube video by Ugo Osuji that goes over how to deploy them:<br><br>🌎Locally<br>🏃On Google Cloud Run<br>🏠On Hosted Langserve<br><br>https://www.youtube.com/watch?v=uubXeNyAbPY]]></description>
-            <pubDate>Sat, 13 Jan 2024 16:31:34 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746208374558228911</guid>
-            <link>https://twitter.com/LangChainAI/status/1746208374558228911</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[🚀Build a Conversational RAG with Mistral-7B and LangChain This post by Madhav Thaker covers three important topics: 🦋How to get started with RAG...]]></title>
@@ -337,6 +305,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 10 Jan 2024 17:38:58 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/kplley/status/1745138173846385107</guid>
             <link>https://twitter.com/kplley/status/1745138173846385107</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Awni Hannun: Another fun example using the MLX Whisper + @LangChainAI to speak with an LLM. This one is in Chinese. Someone please do an English ve...]]></title>
+            <description><![CDATA[RT Awni Hannun<br>Another fun example using the MLX Whisper + @LangChainAI to speak with an LLM.<br><br>This one is in Chinese. Someone please do an English version so I can try it 🙏 !<br><br>Code: https://github.com/linyiLYi/voice-assistant]]></description>
+            <pubDate>Wed, 10 Jan 2024 17:10:47 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/awnihannun/status/1745131080422949289</guid>
+            <link>https://twitter.com/awnihannun/status/1745131080422949289</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Tomaz Bratanic: The @neo4j semantic layer backend example of a movie agent is now available as @LangChainAI template. https://github.com/langchain-...]]></title>
+            <description><![CDATA[RT Tomaz Bratanic<br>The @neo4j  semantic layer backend example of a movie agent is now available as @LangChainAI template.<br><br>https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-semantic-layer]]></description>
+            <pubDate>Wed, 10 Jan 2024 07:06:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/tb_tomaz/status/1744979018691031211</guid>
+            <link>https://twitter.com/tb_tomaz/status/1744979018691031211</link>
             
             
             
