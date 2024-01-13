@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 13 Jan 2024 21:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 23:53:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🦜Topic Modelling in production https://towardsdatascience.com/topic-modelling-in-production-e3b3e99e4fca This great article by Mariya Mansurova goe...]]></title>
+            <description><![CDATA[🦜Topic Modelling in production<br><br>https://towardsdatascience.com/topic-modelling-in-production-e3b3e99e4fca<br><br>This great article by Mariya Mansurova goes over:<br><br>🧱How to build a production-ready pipeline for tagging topics and sentiment of documents<br><br>👨‍⚖️How to evaluate how that pipeline is doing<br><br>A good mix of both building and… https://twitter.com/i/web/status/1746312250619781307<br><img style="" src="https://pbs.twimg.com/media/GDwluIHboAAX0fE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 13 Jan 2024 23:24:20 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746312250619781307</guid>
+            <link>https://twitter.com/LangChainAI/status/1746312250619781307</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: 👪 TogetherAI Embeddings 👪 @togethercompute just launched hosted OSS embeddings! Swap it into your JS RAG pipelines in @LangChainAI...]]></title>
@@ -140,6 +156,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Together AI: Re We’re also excited to integrate with @LangChainAI! Build RAG applications with any of over 65 different vector stores. https://www...]]></title>
+            <description><![CDATA[RT Together AI<br>Re We’re also excited to integrate with @LangChainAI! Build RAG applications with any of over 65 different vector stores.<br><br>https://www.together.ai/blog/rag-tutorial-langchain<br><img style="" src="https://pbs.twimg.com/media/GDlDEK1aoAA_k9Y?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 11 Jan 2024 17:37:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/togethercompute/status/1745500191103553794</guid>
+            <link>https://twitter.com/togethercompute/status/1745500191103553794</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[Re @Ally and @LangChainAI collaborate 🤝to bring PII masking to the LangChain typescript package -- paving the path for more genAI adoption, in a co...]]></title>
             <description><![CDATA[Re @Ally and @LangChainAI collaborate 🤝to bring PII masking to the LangChain typescript package -- paving the path for more genAI adoption, in a compliant and safe manner. Read more on the blog!<br><br>https://blog.langchain.dev/ally-financial-collaborates-with-langchain-to-deliver-critical-coding-module-to-mask-personal-identifying-information-in-a-compliant-and-safe-manner/]]></description>
             <pubDate>Thu, 11 Jan 2024 16:42:02 GMT</pubDate>
@@ -236,6 +268,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT TonyMo: 🚀 Just playing with chatbot for @Decentraland, powered by LLM! 🤖 Fully localized with @OLLAMA , @LangChainAI , and @MistralAI, plus #...]]></title>
+            <description><![CDATA[RT TonyMo<br>🚀 Just playing with chatbot for @Decentraland, powered by LLM! 🤖 Fully localized with @OLLAMA , @LangChainAI , and @MistralAI, plus #RAG integration for PDF and web page. <br><br>Check out this video showcasing bot in action, inspired by @DecentralGames ' documentation. #AI + #web3<br><video src="https://video.twimg.com/ext_tw_video/1745379816965300224/pu/vid/avc1/1296x720/Pejy3OrQp7A_uINj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745379816965300224/pu/img/GuB4CUtS_gnaYxa9.jpg"></video>]]></description>
+            <pubDate>Thu, 11 Jan 2024 09:41:49 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/TonyMo74/status/1745380483389956509</guid>
+            <link>https://twitter.com/TonyMo74/status/1745380483389956509</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Daniel San: Create React components with GPT-4-vision within VSCode 😱 Simply take a screenshot of any graphical interface and the chat will gene...]]></title>
+            <description><![CDATA[RT Daniel San<br>Create React components with GPT-4-vision within VSCode 😱<br><br>Simply take a screenshot of any graphical interface and the chat will generate the corresponding React component for seamless integration into VSCode.<br><br>Download CodeGPT extension: https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt…<br><br>Sign up for a… https://twitter.com/i/web/status/1745290557516075171<br><video src="https://video.twimg.com/ext_tw_video/1745290323301949440/pu/vid/avc1/1280x720/CtktI01SZU0KrOZD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745290323301949440/pu/img/Amw5MCsYoUqvZt3k.jpg"></video>]]></description>
+            <pubDate>Thu, 11 Jan 2024 03:44:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/dani_avila7/status/1745290557516075171</guid>
+            <link>https://twitter.com/dani_avila7/status/1745290557516075171</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[LangChain v0.1.0 Highlight 🧱Output Parsing A big use case of LangChain is connecting it to downstream actions. In order to properly do that, you ne...]]></title>
             <description><![CDATA[LangChain v0.1.0 Highlight<br><br>🧱Output Parsing<br><br>A big use case of LangChain is connecting it to downstream actions. In order to properly do that, you need to structure LLM outputs in specific ways<br><br>Output parsing helps accomplish exactly that!<br><br>YouTube: https://www.youtube.com/watch?v=dbjmhCWPKow<br><img style="" src="https://pbs.twimg.com/media/GDgE5p3bMAEGbfv?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 10 Jan 2024 23:26:00 GMT</pubDate>
@@ -273,70 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 10 Jan 2024 19:55:33 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745172545396211983</guid>
             <link>https://twitter.com/LangChainAI/status/1745172545396211983</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Harrison Chase: This is a great addition - ColBERT as a reranker Makes it really easy to get some of the benefits from ColBERT but in a way where y...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>This is a great addition - ColBERT as a reranker<br><br>Makes it really easy to get some of the benefits from ColBERT but in a way where you don't have to update your indexing pipeline<br><br>Seamlessly integrates as a LangChain reranker!<br><br>https://python.langchain.com/docs/integrations/providers/ragatouille<br><img style="" src="https://pbs.twimg.com/media/GDgYmXEbUAAfRZ4?format=png&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Benjamin Clavié: "I wish I could use the best retrieval model as a reranker in my RAG pipeline, but I don't have time to redesign it!" <br><br>We've all been there and thought that, right?<br><br>🪤RAGatouille now lets you do it effortlessly! Retrieve docs as usual&amp;let ColBERT rerank them in a single line⬇️<br><br><img style="" src="https://pbs.twimg.com/media/GDfTglbXQAAK6e4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 10 Jan 2024 19:53:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1745171912358060124</guid>
-            <link>https://twitter.com/hwchase17/status/1745171912358060124</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LangChain v0.1.0 Highlight: 🔗Composability A big part of LangChain v0.1.0 is composability. We achieve this by using LangChain Expression Language ...]]></title>
-            <description><![CDATA[LangChain v0.1.0 Highlight:<br><br>🔗Composability<br><br>A big part of LangChain v0.1.0 is composability. We achieve this by using LangChain Expression Language - which we've been working on for the past six months<br><br>This allows you to compose arbitrary sequences of LLM calls, function… https://twitter.com/i/web/status/1745149486576644197<br><img style="" src="https://pbs.twimg.com/media/GDgEBQ2agAAmqQa?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 10 Jan 2024 18:23:55 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745149486576644197</guid>
-            <link>https://twitter.com/LangChainAI/status/1745149486576644197</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜LangChain <> DSPy🧩 DSPy is a fantastic framework that **compiles** your LLM program Specifically, the DSPy compiler will internally trace your ...]]></title>
-            <description><![CDATA[🦜LangChain &lt;&gt; DSPy🧩<br><br>DSPy is a fantastic framework that **compiles** your LLM program<br><br>Specifically, the DSPy compiler will internally trace your program and then craft high-quality prompts for large LMs to teach them the steps of your task.<br><br>Thanks to @lateinteraction we have… https://twitter.com/i/web/status/1745138590429163941<br><img style="" src="https://pbs.twimg.com/media/GDfzqW1bMAITU1I?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDfzrEObMAI20_0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 10 Jan 2024 17:40:37 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745138590429163941</guid>
-            <link>https://twitter.com/LangChainAI/status/1745138590429163941</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Kpolley: Since this post, I learned about @LangChainAI and turned this POC notebook into a web chat UI interface, GitChat. demo: https://gitchat.kp...]]></title>
-            <description><![CDATA[RT Kpolley<br>Since this post, I learned about @LangChainAI and turned this POC notebook into a web chat UI interface, GitChat. <br><br>demo: https://gitchat.kpolley.com<br>demo share: https://gitchat.kpolley.com/share/FrAT0ak<br><br>The goal is for GitChat to be deployed internally at organizations as a helpful, secure,… https://twitter.com/i/web/status/1745138173846385107<br><img style="" src="https://pbs.twimg.com/media/GDf3AlbWYAA8IM8?format=png&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Kpolley: I created a chatbot that can search and understand @runpanther's public threat detection repo. It was wildly easier to do than I expected!<br><br>Every DevX team should be exploring how fine-tuned, internally-facing AIs can improve the engineering and operations experience. This is so… https://twitter.com/i/web/status/1730314234246865209<br><br><img style="" src="https://pbs.twimg.com/media/GANOrl0WwAA5pOw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GANOw2BXQAA18lB?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 10 Jan 2024 17:38:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/kplley/status/1745138173846385107</guid>
-            <link>https://twitter.com/kplley/status/1745138173846385107</link>
             
             
             
