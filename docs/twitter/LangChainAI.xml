@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 14 Jan 2024 19:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 17:36:41 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🦜👪LangChain JS Tutorial Leon van Zyl (@leonvz) released an excellent tutorial on how to get started with LangChain JS If you are a web dev looki...]]></title>
-            <description><![CDATA[🦜👪LangChain JS Tutorial<br><br>Leon van Zyl (@leonvz) released an excellent tutorial on how to get started with LangChain JS<br><br>If you are a web dev looking to get started, definitely check this out!<br><br>https://www.youtube.com/watch?v=MaSynwSIty4]]></description>
-            <pubDate>Sun, 14 Jan 2024 19:19:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746612898825199781</guid>
-            <link>https://twitter.com/LangChainAI/status/1746612898825199781</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜🧠Adding conversational memory to your RAG app The main UX for LLM applications is chat. That makes it important to know how to add conversation...]]></title>
-            <description><![CDATA[🦜🧠Adding conversational memory to your RAG app<br><br>The main UX for LLM applications is chat. That makes it important to know how to add conversational memory to your apps - including you RAG apps!<br><br>@curious_kaylynn walks through how to do exactly that!<br><br>https://www.youtube.com/watch?v=l1JRl3Mvln0]]></description>
-            <pubDate>Sun, 14 Jan 2024 18:17:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746597295909433696</guid>
-            <link>https://twitter.com/LangChainAI/status/1746597295909433696</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[👨‍💻GitChat The goal is for GitChat to be deployed internally at organizations as a helpful, secure, internally-facing AI with knowledge unique ...]]></title>
@@ -300,6 +268,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Jacob Lee: 🪵🎲 Using OpenAI Logprobs 🎲🪵 Did you know OpenAI can return the generation probability of individual tokens? You can even see...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🪵🎲&nbsp;Using OpenAI Logprobs 🎲🪵<br><br>Did you know OpenAI can return the generation probability of individual tokens?<br><br>You can even see odds for top alternatives - sort of like how "confident" the LLM is in a response vs. other options!<br><br>Bump to @LangChainAI 🦜🔗 JS/TS OpenAI 0.0.11… https://twitter.com/i/web/status/1745476164825563533<br><img style="" src="https://pbs.twimg.com/media/GDkrIGEXYAANe_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDksI8lWMAAANRC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 11 Jan 2024 16:02:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1745476164825563533</guid>
+            <link>https://twitter.com/Hacubu/status/1745476164825563533</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Greg Kamradt: 5 Levels Of Text Splitting: Semantic Splitting Goal: Use embeddings to find chunks in our raw text Experimental method using embeddin...]]></title>
             <description><![CDATA[RT Greg Kamradt<br>5 Levels Of Text Splitting: Semantic Splitting<br><br>Goal: Use embeddings to find chunks in our raw text<br><br>Experimental method using embedding distances between sequential sentences to tease out 'breakpoints'<br><br>If we find a good breakpoint, make a chunk<br><br>Check out the full video on YT<br><video src="https://video.twimg.com/amplify_video/1745241380958724096/vid/avc1/1280x720/nBuI4RJ6qr8T8300.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GDkLvwpagAA_5IT?format=jpg&amp;name=orig"></video>]]></description>
             <pubDate>Thu, 11 Jan 2024 15:29:00 GMT</pubDate>
@@ -337,6 +321,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 11 Jan 2024 03:44:29 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/dani_avila7/status/1745290557516075171</guid>
             <link>https://twitter.com/dani_avila7/status/1745290557516075171</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LangChain v0.1.0 Highlight 🧱Output Parsing A big use case of LangChain is connecting it to downstream actions. In order to properly do that, you ne...]]></title>
+            <description><![CDATA[LangChain v0.1.0 Highlight<br><br>🧱Output Parsing<br><br>A big use case of LangChain is connecting it to downstream actions. In order to properly do that, you need to structure LLM outputs in specific ways<br><br>Output parsing helps accomplish exactly that!<br><br>YouTube: https://www.youtube.com/watch?v=dbjmhCWPKow<br><img style="" src="https://pbs.twimg.com/media/GDgE5p3bMAEGbfv?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 10 Jan 2024 23:26:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745225506843496474</guid>
+            <link>https://twitter.com/LangChainAI/status/1745225506843496474</link>
             
             
             
