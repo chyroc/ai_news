@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 14 Jan 2024 15:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 17:36:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[👨‍💻GitChat The goal is for GitChat to be deployed internally at organizations as a helpful, secure, internally-facing AI with knowledge unique ...]]></title>
+            <description><![CDATA[👨‍💻GitChat<br><br>The goal is for GitChat to be deployed internally at organizations as a helpful, secure, internally-facing AI with knowledge unique to each organization.<br><br>This OSS project by @kplley exposes a chat interface for a given GitHub repo<br><br>Here's why it's awesome:<br><br>💯Is a… https://twitter.com/i/web/status/1746571111922610415<br><img style="" src="https://pbs.twimg.com/media/GD0PxPBaMAApRu_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 14 Jan 2024 16:32:57 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746571111922610415</guid>
+            <link>https://twitter.com/LangChainAI/status/1746571111922610415</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The demo below is really interesting for a few reasons: 🦜Uses local LLMs (seems like @MistralAI via @ollama) 🌲RAG integration for PDFs and web p...]]></title>
+            <description><![CDATA[The demo below is really interesting for a few reasons:<br><br>🦜Uses local LLMs (seems like @MistralAI via @ollama)<br>🌲RAG integration for PDFs and web pages<br><br>Even more exciting to us though... it changes up the UX! It's not just simply a chat text box<br><br>Super creative and practical<div class="rsshub-quote"><br><br>TonyMo: 🚀 Just playing with chatbot for @Decentraland, powered by LLM! 🤖 Fully localized with @OLLAMA , @LangChainAI , and @MistralAI, plus #RAG integration for PDF and web page. <br><br>Check out this video showcasing bot in action, inspired by @DecentralGames ' documentation. #AI + #web3<br><br><video src="https://video.twimg.com/ext_tw_video/1745379816965300224/pu/vid/avc1/1296x720/Pejy3OrQp7A_uINj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745379816965300224/pu/img/GuB4CUtS_gnaYxa9.jpg"></video></div>]]></description>
+            <pubDate>Sun, 14 Jan 2024 16:25:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746569216239808885</guid>
+            <link>https://twitter.com/LangChainAI/status/1746569216239808885</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🦜Topic Modelling in production https://towardsdatascience.com/topic-modelling-in-production-e3b3e99e4fca This great article by Mariya Mansurova goe...]]></title>
@@ -305,38 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 10 Jan 2024 23:26:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745225506843496474</guid>
             <link>https://twitter.com/LangChainAI/status/1745225506843496474</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LangChain v0.1.0 Highlight: 🎏Streaming Streaming is an important UX consideration - both of LLM tokens, as well as intermediate steps. All chains a...]]></title>
-            <description><![CDATA[LangChain v0.1.0 Highlight:<br><br>🎏Streaming<br><br>Streaming is an important UX consideration - both of LLM tokens, as well as intermediate steps. All chains and agents come with built in streaming, making it easy to convey what is happening to end users<br><br>YouTube: https://www.youtube.com/watch?v=gr5CGL4_jpY<br><img style="" src="https://pbs.twimg.com/media/GDgEf_vbMAEonBH?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 10 Jan 2024 19:59:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745173413403283470</guid>
-            <link>https://twitter.com/LangChainAI/status/1745173413403283470</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🚀New LangChain reranker ColBERT via @bclavie's RAGatouille framework]]></title>
-            <description><![CDATA[🚀New LangChain reranker<br><br>ColBERT via @bclavie's RAGatouille framework<div class="rsshub-quote"><br><br>Harrison Chase: This is a great addition - ColBERT as a reranker<br><br>Makes it really easy to get some of the benefits from ColBERT but in a way where you don't have to update your indexing pipeline<br><br>Seamlessly integrates as a LangChain reranker!<br><br>https://python.langchain.com/docs/integrations/providers/ragatouille<br><br><img style="" src="https://pbs.twimg.com/media/GDgYmXEbUAAfRZ4?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 10 Jan 2024 19:55:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745172545396211983</guid>
-            <link>https://twitter.com/LangChainAI/status/1745172545396211983</link>
             
             
             
