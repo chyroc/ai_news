@@ -24,56 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 15 Jan 2024 17:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 15:15:43 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Good quick overview of how to build a question/answering app over audio data!]]></title>
-            <description><![CDATA[Good quick overview of how to build a question/answering app over audio data!<div class="rsshub-quote"><br><br>Afiz ⚡️: Build Question Answering AI App for Audio Data!<br><br>Today, we will see how we can build QnA AI app for Audio Data using @AssemblyAI, @LangChainAI and @OpenAI <br><br>In just 3 simple steps, we can achieve this. <br><br>Let's get started 🚀<br><br><img style="" src="https://pbs.twimg.com/media/GDzcmUmaoAAJMoI?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Mon, 15 Jan 2024 16:15:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746929024604287037</guid>
-            <link>https://twitter.com/LangChainAI/status/1746929024604287037</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[👨‍💻codeqai 100% local code search and chat powered by vector embeddings and LLMs Uses a lot of awesome tech to accomplish this! 🌲Tree sitter...]]></title>
-            <description><![CDATA[👨‍💻codeqai<br><br>100% local code search and chat powered by vector embeddings and LLMs<br><br>Uses a lot of awesome tech to accomplish this!<br><br>🌲Tree sitter (for splitting code files)<br>🧱Sentence Transformers and Instructor embeddings<br>🌎FAISS<br>🦙Llama Cpp and @ollama <br><br>https://github.com/fynnfluegge/codeqai<br><video src="https://video.twimg.com/ext_tw_video/1746928796752875520/pu/vid/avc1/876x720/rDHeK7W_YgBRvBHa.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1746928796752875520/pu/img/zSNDQdAslPJSKKLb.jpg"></video>]]></description>
-            <pubDate>Mon, 15 Jan 2024 16:14:24 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746928832974881079</guid>
-            <link>https://twitter.com/LangChainAI/status/1746928832974881079</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Tomaz Bratanic: Just a couple of days ago, @LangChainAI released a 0.1.0 version ago with some package and syntax changes. To make it easier for yo...]]></title>
-            <description><![CDATA[RT Tomaz Bratanic<br>Just a couple of days ago, @LangChainAI  released a 0.1.0 version ago with some package and syntax changes. To make it easier for you to integrate @neo4j  with LangChain, I have updated my LLM notebooks to follow the new syntax and package structure.<br><br>https://github.com/tomasonjo/blogs/tree/master/llm<br><img style="" src="https://pbs.twimg.com/media/GD4vYreXIAENnRe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 15 Jan 2024 13:23:28 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/tb_tomaz/status/1746885815639093754</guid>
-            <link>https://twitter.com/tb_tomaz/status/1746885815639093754</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[🦜👪LangChain JS Tutorial Leon van Zyl (@leonvz) released an excellent tutorial on how to get started with LangChain JS If you are a web dev looki...]]></title>
@@ -129,22 +81,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 14 Jan 2024 16:25:25 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746569216239808885</guid>
             <link>https://twitter.com/LangChainAI/status/1746569216239808885</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Afiz ⚡️: Build Question Answering AI App for Audio Data! Today, we will see how we can build QnA AI app for Audio Data using @AssemblyAI, @LangCh...]]></title>
-            <description><![CDATA[RT Afiz ⚡️<br>Build Question Answering AI App for Audio Data!<br><br>Today, we will see how we can build QnA AI app for Audio Data using @AssemblyAI, @LangChainAI and @OpenAI <br><br>In just 3 simple steps, we can achieve this. <br><br>Let's get started 🚀<br><img style="" src="https://pbs.twimg.com/media/GDzcmUmaoAAJMoI?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 14 Jan 2024 15:24:26 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/itsafiz/status/1746553869994480021</guid>
-            <link>https://twitter.com/itsafiz/status/1746553869994480021</link>
             
             
             
@@ -305,6 +241,70 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Thu, 11 Jan 2024 16:42:02 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745486234284347540</guid>
             <link>https://twitter.com/LangChainAI/status/1745486234284347540</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LangChain v0.1.0 Highlight ⭐️Retrieval⭐️ One of the main use cases for LangChain is retrieval. Our v0.1.0 release highlights this with: ✂️Large ...]]></title>
+            <description><![CDATA[LangChain v0.1.0 Highlight<br><br>⭐️Retrieval⭐️<br><br>One of the main use cases for LangChain is retrieval. Our v0.1.0 release highlights this with:<br><br>✂️Large selection of text splitters<br>🧪Myriad of advanced retrieval techniques<br>👪Support for multi-tenancy<br>🏡Indexing pipeline… https://twitter.com/i/web/status/1745485078283858057<br><img style="" src="https://pbs.twimg.com/media/GDk1KXfawAAYykK?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDk1Nh7aYAAbjC5?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDk1SasasAAUy3f?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GDk1YoPaoAACAG_?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 11 Jan 2024 16:37:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745485078283858057</guid>
+            <link>https://twitter.com/LangChainAI/status/1745485078283858057</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[✂️Semantic Chunking In case you missed it, @GregKamradt is doing a great series on the "5 Levels of Text Splitting" One of the more interesting idea...]]></title>
+            <description><![CDATA[✂️Semantic Chunking<br><br>In case you missed it, @GregKamradt is doing a great series on the "5 Levels of Text Splitting"<br><br>One of the more interesting ideas he introduces is "Semantic Chunking", where you use embedding distance to split text into chunks<br><br>Now in langchain-experimental!… https://twitter.com/i/web/status/1745483297365578199]]></description>
+            <pubDate>Thu, 11 Jan 2024 16:30:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745483297365578199</guid>
+            <link>https://twitter.com/LangChainAI/status/1745483297365578199</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: I thought this was a really creative new way of splitting text So we added it to `langchain_experimental`🦜🧪 Check it out here...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>I thought this was a really creative new way of splitting text <br><br>So we added it to `langchain_experimental`🦜🧪<br><br>Check it out here: https://python.langchain.com/docs/modules/data_connection/document_transformers/semantic-chunker<br><br>And watch @GregKamradt's excellent video below to better understand it!<div class="rsshub-quote"><br><br>Greg Kamradt: 5 Levels Of Text Splitting: Semantic Splitting<br><br>Goal: Use embeddings to find chunks in our raw text<br><br>Experimental method using embedding distances between sequential sentences to tease out 'breakpoints'<br><br>If we find a good breakpoint, make a chunk<br><br>Check out the full video on YT<br><br><video src="https://video.twimg.com/amplify_video/1745241380958724096/vid/avc1/1280x720/nBuI4RJ6qr8T8300.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GDkLvwpagAA_5IT?format=jpg&amp;name=orig"></video></div>]]></description>
+            <pubDate>Thu, 11 Jan 2024 16:27:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/hwchase17/status/1745482544920076430</guid>
+            <link>https://twitter.com/hwchase17/status/1745482544920076430</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Greg Kamradt: 5 Levels Of Text Splitting: Semantic Splitting Goal: Use embeddings to find chunks in our raw text Experimental method using embeddin...]]></title>
+            <description><![CDATA[RT Greg Kamradt<br>5 Levels Of Text Splitting: Semantic Splitting<br><br>Goal: Use embeddings to find chunks in our raw text<br><br>Experimental method using embedding distances between sequential sentences to tease out 'breakpoints'<br><br>If we find a good breakpoint, make a chunk<br><br>Check out the full video on YT<br><video src="https://video.twimg.com/amplify_video/1745241380958724096/vid/avc1/1280x720/nBuI4RJ6qr8T8300.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GDkLvwpagAA_5IT?format=jpg&amp;name=orig"></video>]]></description>
+            <pubDate>Thu, 11 Jan 2024 15:29:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GregKamradt/status/1745467853799874969</guid>
+            <link>https://twitter.com/GregKamradt/status/1745467853799874969</link>
             
             
             
