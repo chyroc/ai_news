@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 16 Jan 2024 15:04:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 17:16:12 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RAG with Pinecone Serverless Congrats to our friends at @pinecone for the recent launch of Pinecone Serverless! This has a few benefits for developers...]]></title>
+            <description><![CDATA[RAG with Pinecone Serverless<br><br>Congrats to our friends at @pinecone for the recent launch of Pinecone Serverless!<br><br>This has a few benefits for developers, including usage-base-pricing (&gt;10x lower costs), improved latency, and effortless scaling (no more pods or storage limits).… https://twitter.com/i/web/status/1747304822280491273<br><img style="" src="https://pbs.twimg.com/media/GD-sDEPagAAj45-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 17:08:27 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747304822280491273</guid>
+            <link>https://twitter.com/LangChainAI/status/1747304822280491273</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🌤️💥 Cloudflare integration package 💥🌤️ We’ve created a new package for building with the @Cloudflare ecosystem + @LangCha...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🌤️💥&nbsp;Cloudflare integration package 💥🌤️<br><br>We’ve created a new package for building with the @Cloudflare ecosystem + @LangChainAI! It's got:<br><br>🔨 Workers AI LLMs and embeddings<br>🔱 Vectorize vectorstores<br>📑 D1 message history<br>💿 KV caches<br><br>s/o @kristianf_!<br><br>https://js.langchain.com/docs/integrations/vectorstores/cloudflare_vectorize<br><img style="" src="https://pbs.twimg.com/media/GD-flV4XYAAoYqB?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 16:14:49 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1747291325915865256</guid>
+            <link>https://twitter.com/Hacubu/status/1747291325915865256</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🕸️Graph QnA with LangChain v0.1 @tb_tomaz has some of the best content out there on how to use LLMs to interact with graphs 🚀Over the weekend, ...]]></title>
@@ -257,38 +289,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Fri, 12 Jan 2024 16:47:09 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745849908706558149</guid>
             <link>https://twitter.com/LangChainAI/status/1745849908706558149</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Plotly: Excited to announce our upcoming webinar on building Data Apps with @LangChainAI and Dash! 🚀 Join us on January 30, 1pm EST for an insig...]]></title>
-            <description><![CDATA[RT Plotly<br>Excited to announce our upcoming webinar on building  Data Apps with @LangChainAI and Dash!&nbsp;🚀 <br><br>Join us on January 30, 1pm EST for an insightful session with LangChain's founding engineer, @eyfriis, and Plotly Community Manager, @CharmingData. You'll learn how to create the… https://twitter.com/i/web/status/1745594671932539150<br><img style="" src="https://pbs.twimg.com/media/GDmYvC_bMAAKqba?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 11 Jan 2024 23:52:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/plotlygraphs/status/1745594671932539150</guid>
-            <link>https://twitter.com/plotlygraphs/status/1745594671932539150</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LangChain v0.1.0 Highlights ⭐️Agents⭐️ As part of v0.1.0, we: 🖼️Added documentation on the seven different agent types (and when to use each o...]]></title>
-            <description><![CDATA[LangChain v0.1.0 Highlights<br><br>⭐️Agents⭐️<br><br>As part of v0.1.0, we:<br><br>🖼️Added documentation on the seven different agent types (and when to use each one)<br>🔗Rewrote agents in LCEL for improved ability to customize<br><br>Agent Types: https://python.langchain.com/docs/modules/agents/agent_types/<br><br>YouTube: https://www.youtube.com/watch?v=08qXj9w-CG4]]></description>
-            <pubDate>Thu, 11 Jan 2024 19:41:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745531271554466212</guid>
-            <link>https://twitter.com/LangChainAI/status/1745531271554466212</link>
             
             
             
