@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 16 Jan 2024 19:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 21:22:52 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Lance Martin: Converting LLM chains to web endpoints Turning a LLM chain prototype into an web service can be a challenge. LangServe was designed t...]]></title>
+            <description><![CDATA[RT Lance Martin<br>Converting LLM chains to web endpoints <br><br>Turning a LLM chain prototype into an web service can be a challenge. LangServe was designed to enable this w/ minimal effort.<br><br>I made two code walk-through videos that show how to do this from scratch w/ LangServe for (1) a custom RAG… https://twitter.com/i/web/status/1747325957378330725<br><img style="" src="https://pbs.twimg.com/media/GD-3etZawAAScOq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 18:32:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/RLanceMartin/status/1747325957378330725</guid>
+            <link>https://twitter.com/RLanceMartin/status/1747325957378330725</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Rapid deployment of LangServe templates: Neo4J Support for production has been one of the biggest needs we've heard consistently from developers. We'v...]]></title>
@@ -273,22 +289,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 13 Jan 2024 16:31:34 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746208374558228911</guid>
             <link>https://twitter.com/LangChainAI/status/1746208374558228911</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🚀Build a Conversational RAG with Mistral-7B and LangChain This post by Madhav Thaker covers three important topics: 🦋How to get started with RAG...]]></title>
-            <description><![CDATA[🚀Build a Conversational RAG with Mistral-7B and LangChain<br><br>This post by Madhav Thaker covers three important topics:<br><br>🦋How to get started with RAG<br>💬How to build a chatbot<br>🦙How to use open source models<br><br>Highly recommend reading!<br><br>https://medium.com/@thakermadhav/part-2-build-a-conversational-rag-with-langchain-and-mistral-7b-6a4ebe497185<br><img style="" src="https://pbs.twimg.com/media/GDqBt4fbgAEQLhg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 12 Jan 2024 17:49:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1745865473672315316</guid>
-            <link>https://twitter.com/LangChainAI/status/1745865473672315316</link>
             
             
             
