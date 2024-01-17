@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 17 Jan 2024 14:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 16:40:36 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps. But for common use-cases like RAG, it uses ~3.6% of a f...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps.<br><br>But for common use-cases like RAG, it uses ~3.6% of a free-tier @vercel function's max size (37.32 KB/1 MB)!<br><br>Similar cost to using @supabase or overhead from @nextjs itself:<br><br>https://github.com/langchain-ai/langchain-nextjs-template?tab=readme-ov-file#-bundle-size<br><img style="" src="https://pbs.twimg.com/media/GEDpqdlW4AAaaJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEDprKQXoAAubrS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 17 Jan 2024 16:34:04 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1747658556139016323</guid>
+            <link>https://twitter.com/Hacubu/status/1747658556139016323</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[It's easy to get a prototype of a RAG app up and running... but going to production is a lot harder ❓Is the retrieval step messing up? Does the promp...]]></title>
@@ -321,22 +337,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 13 Jan 2024 23:24:20 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746312250619781307</guid>
             <link>https://twitter.com/LangChainAI/status/1746312250619781307</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Daniel San: Create React components with GPT-4-vision within VSCode 😱 Simply take a screenshot of any graphical interface and the chat will gene...]]></title>
-            <description><![CDATA[RT Daniel San<br>Create React components with GPT-4-vision within VSCode 😱<br><br>Simply take a screenshot of any graphical interface and the chat will generate the corresponding React component for seamless integration into VSCode.<br><br>Download CodeGPT extension: https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt…<br><br>Sign up for a… https://twitter.com/i/web/status/1745290557516075171<br><video src="https://video.twimg.com/ext_tw_video/1745290323301949440/pu/vid/avc1/1280x720/CtktI01SZU0KrOZD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745290323301949440/pu/img/Amw5MCsYoUqvZt3k.jpg"></video>]]></description>
-            <pubDate>Thu, 11 Jan 2024 03:44:29 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/dani_avila7/status/1745290557516075171</guid>
-            <link>https://twitter.com/dani_avila7/status/1745290557516075171</link>
             
             
             
