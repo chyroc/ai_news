@@ -24,8 +24,40 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 17 Jan 2024 20:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 23:10:00 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT DataStax: LIVE DEMO! 💻⚡️Learn how to build a real-time RAG app on Wikipedia with LangChainJS, @Vercel, and Astra DB. Join our livestream with ...]]></title>
+            <description><![CDATA[RT DataStax<br>LIVE DEMO! 💻⚡️Learn how to build a real-time RAG app on Wikipedia with LangChainJS, @Vercel, and Astra DB.<br><br>Join our livestream with @LangChainAI on Jan 24. Save your spot: https://dtsx.io/3SnIkQu<br><br>#DataStax #VectorDB #RAG]]></description>
+            <pubDate>Wed, 17 Jan 2024 20:00:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/DataStax/status/1747710590032748971</guid>
+            <link>https://twitter.com/DataStax/status/1747710590032748971</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Pontus Abrahamsson — oss/acc: Magic inbox done ✨ Match incoming invoices against transactions automatically for seamless accounting! * Use your u...]]></title>
+            <description><![CDATA[RT Pontus Abrahamsson — oss/acc<br>Magic inbox done ✨<br><br>Match incoming invoices against transactions automatically for seamless accounting! <br><br>* Use your unique email 📫 from @postmarkapp <br>* Invoice parsed and matched with @LangChainAI <br>* Matching job runs by @triggerdotdev <br>* Updated in realtime with @supabase<br><video src="https://video.twimg.com/ext_tw_video/1747707478836404224/pu/vid/avc1/1174x720/mgBSt7tnYO29G-Gh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1747707478836404224/pu/img/Sjqeiqx4_2ipKKRD.jpg"></video>]]></description>
+            <pubDate>Wed, 17 Jan 2024 19:48:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/pontusab/status/1747707510633484446</guid>
+            <link>https://twitter.com/pontusab/status/1747707510633484446</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🦜🕸️LangGraph We introduced LangGraph last week, but are excited to launch it more officially today (blog and YouTube series). It includes: 🤖...]]></title>
@@ -44,11 +76,43 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Roger Taylor: (1/3)Generate AI powered insights for Amazon Security Lake 🚨 Security teams face threats that move faster than investigations. �...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>(1/3)Generate AI powered insights for Amazon Security Lake<br><br>🚨 Security teams face threats that move faster than investigations.<br><br>🤔 Can you ask questions in plain language &amp; get rapid insights?<br><br>🔎@LangChainAI's conversational AI agents to the rescue!<br><br>https://aws.amazon.com/blogs/security/generate-ai-powered-insights-for-amazon-security-lake-using-amazon-sagemaker-studio-and-amazon-bedrock/]]></description>
+            <pubDate>Wed, 17 Jan 2024 16:40:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1747660194757095486</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1747660194757095486</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Jacob Lee: 🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps. But for common use-cases like RAG, it uses ~3.6% of a f...]]></title>
             <description><![CDATA[RT Jacob Lee<br>🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps.<br><br>But for common use-cases like RAG, it uses ~3.6% of a free-tier @vercel function's max size (37.32 KB/1 MB)!<br><br>Similar cost to using @supabase or overhead from @nextjs itself:<br><br>https://github.com/langchain-ai/langchain-nextjs-template?tab=readme-ov-file#-bundle-size<br><img style="" src="https://pbs.twimg.com/media/GEDpqdlW4AAaaJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEDprKQXoAAubrS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 17 Jan 2024 16:34:04 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/Hacubu/status/1747658556139016323</guid>
             <link>https://twitter.com/Hacubu/status/1747658556139016323</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Lizzie Siegle: Evaluating OpenAI assistants vs openai RAG w/ ragas + @LangChainAI + @zilliz_universe at sf unstructured data meetup w/ @craigsdenni...]]></title>
+            <description><![CDATA[RT Lizzie Siegle<br>Evaluating OpenAI assistants vs openai RAG w/ ragas + @LangChainAI + @zilliz_universe at sf unstructured data meetup w/ @craigsdennis<br><img style="" src="https://pbs.twimg.com/media/GEA0Fn0aYAAjztL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 17 Jan 2024 03:00:58 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/lizziepika/status/1747453934019702827</guid>
+            <link>https://twitter.com/lizziepika/status/1747453934019702827</link>
             
             
             
@@ -257,70 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 15 Jan 2024 13:15:58 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/trippy_hustler/status/1746883926055100709</guid>
             <link>https://twitter.com/trippy_hustler/status/1746883926055100709</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜👪LangChain JS Tutorial Leon van Zyl (@leonvz) released an excellent tutorial on how to get started with LangChain JS If you are a web dev looki...]]></title>
-            <description><![CDATA[🦜👪LangChain JS Tutorial<br><br>Leon van Zyl (@leonvz) released an excellent tutorial on how to get started with LangChain JS<br><br>If you are a web dev looking to get started, definitely check this out!<br><br>https://www.youtube.com/watch?v=MaSynwSIty4]]></description>
-            <pubDate>Sun, 14 Jan 2024 19:19:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746612898825199781</guid>
-            <link>https://twitter.com/LangChainAI/status/1746612898825199781</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜🧠Adding conversational memory to your RAG app The main UX for LLM applications is chat. That makes it important to know how to add conversation...]]></title>
-            <description><![CDATA[🦜🧠Adding conversational memory to your RAG app<br><br>The main UX for LLM applications is chat. That makes it important to know how to add conversational memory to your apps - including you RAG apps!<br><br>@curious_kaylynn walks through how to do exactly that!<br><br>https://www.youtube.com/watch?v=l1JRl3Mvln0]]></description>
-            <pubDate>Sun, 14 Jan 2024 18:17:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746597295909433696</guid>
-            <link>https://twitter.com/LangChainAI/status/1746597295909433696</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[👨‍💻GitChat The goal is for GitChat to be deployed internally at organizations as a helpful, secure, internally-facing AI with knowledge unique ...]]></title>
-            <description><![CDATA[👨‍💻GitChat<br><br>The goal is for GitChat to be deployed internally at organizations as a helpful, secure, internally-facing AI with knowledge unique to each organization.<br><br>This OSS project by @kplley exposes a chat interface for a given GitHub repo<br><br>Here's why it's awesome:<br><br>💯Is a… https://twitter.com/i/web/status/1746571111922610415<br><img style="" src="https://pbs.twimg.com/media/GD0PxPBaMAApRu_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 14 Jan 2024 16:32:57 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746571111922610415</guid>
-            <link>https://twitter.com/LangChainAI/status/1746571111922610415</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The demo below is really interesting for a few reasons: 🦜Uses local LLMs (seems like @MistralAI via @ollama) 🌲RAG integration for PDFs and web p...]]></title>
-            <description><![CDATA[The demo below is really interesting for a few reasons:<br><br>🦜Uses local LLMs (seems like @MistralAI via @ollama)<br>🌲RAG integration for PDFs and web pages<br><br>Even more exciting to us though... it changes up the UX! It's not just simply a chat text box<br><br>Super creative and practical<div class="rsshub-quote"><br><br>TonyMo: 🚀 Just playing with chatbot for @Decentraland, powered by LLM! 🤖 Fully localized with @OLLAMA , @LangChainAI , and @MistralAI, plus #RAG integration for PDF and web page. <br><br>Check out this video showcasing bot in action, inspired by @DecentralGames ' documentation. #AI + #web3<br><br><video src="https://video.twimg.com/ext_tw_video/1745379816965300224/pu/vid/avc1/1296x720/Pejy3OrQp7A_uINj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745379816965300224/pu/img/GuB4CUtS_gnaYxa9.jpg"></video></div>]]></description>
-            <pubDate>Sun, 14 Jan 2024 16:25:25 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746569216239808885</guid>
-            <link>https://twitter.com/LangChainAI/status/1746569216239808885</link>
             
             
             
