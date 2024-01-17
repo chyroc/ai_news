@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 17 Jan 2024 18:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 16:40:36 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[🦜🕸️LangGraph We introduced LangGraph last week, but are excited to launch it more officially today (blog and YouTube series). It includes: 🤖...]]></title>
-            <description><![CDATA[🦜🕸️LangGraph<br><br>We introduced LangGraph last week, but are excited to launch it more officially today (blog and YouTube series). It includes:<br><br>🤖Example of replicating the LangChain AgentExecutor<br>💬A chat agent executor (aimed specifically at chat models)<br><br>LangGraph makes it easy… https://twitter.com/i/web/status/1747679001915908224<br><img style="" src="https://pbs.twimg.com/media/GEEAkosacAEqYHT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 17 Jan 2024 17:55:19 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747679001915908224</guid>
-            <link>https://twitter.com/LangChainAI/status/1747679001915908224</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: 🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps. But for common use-cases like RAG, it uses ~3.6% of a f...]]></title>
@@ -337,6 +321,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sun, 14 Jan 2024 15:24:26 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/itsafiz/status/1746553869994480021</guid>
             <link>https://twitter.com/itsafiz/status/1746553869994480021</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜Topic Modelling in production https://towardsdatascience.com/topic-modelling-in-production-e3b3e99e4fca This great article by Mariya Mansurova goe...]]></title>
+            <description><![CDATA[🦜Topic Modelling in production<br><br>https://towardsdatascience.com/topic-modelling-in-production-e3b3e99e4fca<br><br>This great article by Mariya Mansurova goes over:<br><br>🧱How to build a production-ready pipeline for tagging topics and sentiment of documents<br><br>👨‍⚖️How to evaluate how that pipeline is doing<br><br>A good mix of both building and… https://twitter.com/i/web/status/1746312250619781307<br><img style="" src="https://pbs.twimg.com/media/GDwluIHboAAX0fE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 13 Jan 2024 23:24:20 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746312250619781307</guid>
+            <link>https://twitter.com/LangChainAI/status/1746312250619781307</link>
             
             
             
