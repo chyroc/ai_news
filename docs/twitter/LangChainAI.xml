@@ -24,40 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 17 Jan 2024 01:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 23:28:54 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[It's easy to get a prototype of a RAG app up and running... but going to production is a lot harder ❓Is the retrieval step messing up? Does the promp...]]></title>
-            <description><![CDATA[It's easy to get a prototype of a RAG app up and running... but going to production is a lot harder<br><br>❓Is the retrieval step messing up? Does the prompt need to be improved?<br><br>Debugging RAG apps can be complicated. @curious_kaylynn just published a great video on how to do it more… https://twitter.com/i/web/status/1747410933444698308]]></description>
-            <pubDate>Wed, 17 Jan 2024 00:10:06 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747410933444698308</guid>
-            <link>https://twitter.com/LangChainAI/status/1747410933444698308</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Austin Vance: New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. Use @LangChainAI & @UnstructuredIO to process PowerPoint ...]]></title>
-            <description><![CDATA[RT Austin Vance<br>New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. <br><br>Use @LangChainAI &amp; @UnstructuredIO to process PowerPoint decks into a RAG. <br><br>Most importantly some tips on debugging and testing when you don't have access to the LangSmith yet!<br><br>https://www.youtube.com/watch?v=TTjWVj5dA1U&amp;ab_channel=FocusedLabs]]></description>
-            <pubDate>Tue, 16 Jan 2024 23:35:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/austinbv/status/1747402238715126085</guid>
-            <link>https://twitter.com/austinbv/status/1747402238715126085</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Lance Martin: Converting LLM chains to web endpoints Turning a LLM chain prototype into an web service can be a challenge. LangServe was designed t...]]></title>
@@ -289,6 +257,38 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 13 Jan 2024 23:24:20 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746312250619781307</guid>
             <link>https://twitter.com/LangChainAI/status/1746312250619781307</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 👪 TogetherAI Embeddings 👪 @togethercompute just launched hosted OSS embeddings! Swap it into your JS RAG pipelines in @LangChainAI...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>👪 TogetherAI Embeddings 👪<br><br>@togethercompute just launched hosted OSS embeddings! Swap it into your JS RAG pipelines in @LangChainAI 🦜🔗 JS/TS community 0.0.17.<br><br>The # of dimensions varies by model, so you may need to set up your vectorstore to match:<br><br>https://js.langchain.com/docs/integrations/text_embedding/togetherai<br><img style="" src="https://pbs.twimg.com/media/GDvOJPCXsAAiCnz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 13 Jan 2024 17:06:55 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1746217270525800716</guid>
+            <link>https://twitter.com/Hacubu/status/1746217270525800716</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🚀Deploy LangChain Apps Over the past few months we've worked on LangServe - an easy way to deploy LangChain apps Check out this YouTube video b...]]></title>
+            <description><![CDATA[🦜🚀Deploy LangChain Apps<br><br>Over the past few months we've worked on LangServe - an easy way to deploy LangChain apps<br><br>Check out this YouTube video by Ugo Osuji that goes over how to deploy them:<br><br>🌎Locally<br>🏃On Google Cloud Run<br>🏠On Hosted Langserve<br><br>https://www.youtube.com/watch?v=uubXeNyAbPY]]></description>
+            <pubDate>Sat, 13 Jan 2024 16:31:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746208374558228911</guid>
+            <link>https://twitter.com/LangChainAI/status/1746208374558228911</link>
             
             
             
