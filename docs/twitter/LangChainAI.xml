@@ -24,7 +24,7 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 17 Jan 2024 01:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 03:35:45 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -44,11 +44,43 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT eimen: Find and cite relevant academic sources for a text passage from within your editor. Built using @LangChainAI and @SemanticScholar.]]></title>
+            <description><![CDATA[RT eimen<br>Find and cite relevant academic sources for a text passage from within your editor. Built using @LangChainAI and @SemanticScholar.<br><video src="https://video.twimg.com/ext_tw_video/1747406973102862336/pu/vid/avc1/1288x720/BHB2DRdsc5Kkceh5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1747406973102862336/pu/img/LqMdj8maPQ4v9HOk.jpg"></video>]]></description>
+            <pubDate>Tue, 16 Jan 2024 23:54:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/eimenxyz/status/1747407002089779304</guid>
+            <link>https://twitter.com/eimenxyz/status/1747407002089779304</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Austin Vance: New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. Use @LangChainAI & @UnstructuredIO to process PowerPoint ...]]></title>
             <description><![CDATA[RT Austin Vance<br>New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. <br><br>Use @LangChainAI &amp; @UnstructuredIO to process PowerPoint decks into a RAG. <br><br>Most importantly some tips on debugging and testing when you don't have access to the LangSmith yet!<br><br>https://www.youtube.com/watch?v=TTjWVj5dA1U&amp;ab_channel=FocusedLabs]]></description>
             <pubDate>Tue, 16 Jan 2024 23:35:33 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/austinbv/status/1747402238715126085</guid>
             <link>https://twitter.com/austinbv/status/1747402238715126085</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Plotly: Did you know: you can build highly complex AI applications with @LangChainAI + Dash. 🤖 On January 30th, we'll explore three outstanding ...]]></title>
+            <description><![CDATA[RT Plotly<br>Did you know: you can build highly complex AI applications with @LangChainAI  + Dash.&nbsp;🤖<br><br>On January 30th, we'll explore three outstanding examples of data applications that utilize LangChain and Dash across industries such as Finance, Biotechnology, and Economics.<br><br>You'll hear… https://twitter.com/i/web/status/1747355743660228851<br><img style="" src="https://pbs.twimg.com/media/GD_asnPbUAASXbu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 20:30:48 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/plotlygraphs/status/1747355743660228851</guid>
+            <link>https://twitter.com/plotlygraphs/status/1747355743660228851</link>
             
             
             
@@ -289,38 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Sat, 13 Jan 2024 23:24:20 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746312250619781307</guid>
             <link>https://twitter.com/LangChainAI/status/1746312250619781307</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Together AI: Re We’re also excited to integrate with @LangChainAI! Build RAG applications with any of over 65 different vector stores. https://www...]]></title>
-            <description><![CDATA[RT Together AI<br>Re We’re also excited to integrate with @LangChainAI! Build RAG applications with any of over 65 different vector stores.<br><br>https://www.together.ai/blog/rag-tutorial-langchain<br><img style="" src="https://pbs.twimg.com/media/GDlDEK1aoAA_k9Y?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 11 Jan 2024 17:37:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/togethercompute/status/1745500191103553794</guid>
-            <link>https://twitter.com/togethercompute/status/1745500191103553794</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT TonyMo: 🚀 Just playing with chatbot for @Decentraland, powered by LLM! 🤖 Fully localized with @OLLAMA , @LangChainAI , and @MistralAI, plus #...]]></title>
-            <description><![CDATA[RT TonyMo<br>🚀 Just playing with chatbot for @Decentraland, powered by LLM! 🤖 Fully localized with @OLLAMA , @LangChainAI , and @MistralAI, plus #RAG integration for PDF and web page. <br><br>Check out this video showcasing bot in action, inspired by @DecentralGames ' documentation. #AI + #web3<br><video src="https://video.twimg.com/ext_tw_video/1745379816965300224/pu/vid/avc1/1296x720/Pejy3OrQp7A_uINj.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1745379816965300224/pu/img/GuB4CUtS_gnaYxa9.jpg"></video>]]></description>
-            <pubDate>Thu, 11 Jan 2024 09:41:49 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/TonyMo74/status/1745380483389956509</guid>
-            <link>https://twitter.com/TonyMo74/status/1745380483389956509</link>
             
             
             
