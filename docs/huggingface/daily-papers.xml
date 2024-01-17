@@ -15,8 +15,56 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 17 Jan 2024 06:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 08:37:17 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Extending LLMs' Context Window with 100 Samples]]></title>
+            <description><![CDATA[Large Language Models (LLMs) are known to have limited extrapolation ability beyond their pre-trained context window, constraining their application in downstream tasks with lengthy inputs. Recent studies have sought to extend LLMs' context window by modifying rotary position embedding (RoPE), a popular position encoding method adopted by well-known LLMs such as LLaMA, PaLM, and GPT-NeoX. However, prior works like Position Interpolation (PI) and YaRN are resource-intensive and lack comparative experiments to assess their applicability. In this work, we identify the inherent need for LLMs' attention entropy (i.e. the information entropy of attention scores) to maintain stability and introduce a novel extension to RoPE which combines adjusting RoPE's base frequency and scaling the attention logits to help LLMs efficiently adapt to a larger context window. We validate the superiority of our method in both fine-tuning performance and robustness across different context window sizes on various context-demanding tasks. Notably, our method extends the context window of LLaMA-2-7B-Chat to 16,384 with only 100 samples and 6 training steps, showcasing extraordinary efficiency. Finally, we also explore how data compositions and training curricula affect context window extension for specific downstream tasks, suggesting fine-tuning LLMs with lengthy conversations as a good starting point. We release our code and SFT data at https://github.com/GAIR-NLP/Entropy-ABF.]]></description>
+            <pubDate>Wed, 17 Jan 2024 07:05:15 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.07004</guid>
+            <link>https://arxiv.org/abs/2401.07004</link>
+            
+            
+            
+            <author><![CDATA[Yikai Zhang, Junlong Li, Pengfei Liu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[E^2-LLM: Efficient and Extreme Length Extension of Large Language Models]]></title>
+            <description><![CDATA[Typically, training LLMs with long context sizes is computationally expensive, requiring extensive training hours and GPU resources. Existing long-context extension methods usually need additional training procedures to support corresponding long-context windows, where the long-context training data (e.g., 32k) is needed, and high GPU training costs are assumed. To address the aforementioned issues, we propose an Efficient and Extreme length extension method for Large Language Models, called E 2 -LLM, with only one training procedure and dramatically reduced computation cost, which also removes the need to collect long-context data. Concretely, first, the training data of our E 2 -LLM only requires a short length (e.g., 4k), which reduces the tuning cost greatly. Second, the training procedure on the short training context window is performed only once time, and we can support different evaluation context windows at inference. Third, in E 2 - LLM, based on RoPE position embeddings, we introduce two different augmentation methods on the scale and position index parameters for different samples in training. It aims to make the model more robust to the different relative differences when directly interpolating the arbitrary context length at inference. Comprehensive experimental results on multiple benchmark datasets demonstrate the effectiveness of our E 2 -LLM on challenging long-context tasks.]]></description>
+            <pubDate>Wed, 17 Jan 2024 07:02:28 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.06951</guid>
+            <link>https://arxiv.org/abs/2401.06951</link>
+            
+            
+            
+            <author><![CDATA[Jiaheng Liu, Zhiqi Bai, Yuanxing Zhang, Chenchen Zhang, Yu Zhang, Ge Zhang, Jiakai Wang, Haoran Que, Yukang Chen, Wenbo Su, Tiezheng Ge, Jie Fu, Wenhu Chen, Bo Zheng]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation]]></title>
+            <description><![CDATA[Moderate-sized large language models (LLMs) -- those with 7B or 13B parameters -- exhibit promising machine translation (MT) performance. However, even the top-performing 13B LLM-based translation models, like ALMA, does not match the performance of state-of-the-art conventional encoder-decoder translation models or larger-scale LLMs such as GPT-4. In this study, we bridge this performance gap. We first assess the shortcomings of supervised fine-tuning for LLMs in the MT task, emphasizing the quality issues present in the reference data, despite being human-generated. Then, in contrast to SFT which mimics reference translations, we introduce Contrastive Preference Optimization (CPO), a novel approach that trains models to avoid generating adequate but not perfect translations. Applying CPO to ALMA models with only 22K parallel sentences and 12M parameters yields significant improvements. The resulting model, called ALMA-R, can match or exceed the performance of the WMT competition winners and GPT-4 on WMT'21, WMT'22 and WMT'23 test datasets.]]></description>
+            <pubDate>Wed, 17 Jan 2024 06:40:35 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.08417</guid>
+            <link>https://arxiv.org/abs/2401.08417</link>
+            
+            
+            
+            <author><![CDATA[Haoran Xu, Amr Sharaf, Yunmo Chen, Weiting Tan, Lingfeng Shen, Benjamin Van Durme, Kenton Murray, Young Jin Kim]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Scalable Pre-training of Large Autoregressive Image Models]]></title>
