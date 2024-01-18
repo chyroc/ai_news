@@ -1,9 +1,351 @@
-<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}img{filter:grayscale(1)}</style></head><body><div class="content"><p><img src="/logo.png" alt="RSSHub" width="120" loading="lazy"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /twitter/user/LangChainAI</pre><pre class="message">Error message: Cannot read properties of undefined (reading 'match')</pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /twitter/user/LangChainAI
-Node version: v20.11.0
-Git Hash: 6d901cb
-        </pre><pre class="message">
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-如果您认为 RSSHub 导致了该错误，请在 GitHub 按照模版，复制本页面信息进行 <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">汇报</a>
-        </pre><div style="margin:50px 0"><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p><p>在线文档与支持，请访问 <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p></div></div></body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Twitter @LangChain]]></title>
+        <link>https://twitter.com/LangChainAI</link>
+        <atom:link href="https://rsshub.app/twitter/user/LangChainAI" rel="self" type="application/rss+xml" />
+        <description><![CDATA[⚡ Build context-aware, reasoning applications ⚡
+
+GitHub:  https://t.co/JEkNFrIbFj
+Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://pbs.twimg.com/profile_images/1589007733226844160/i5-iIoSc.jpg</url>
+            <title><![CDATA[Twitter @LangChain]]></title>
+            <link>https://twitter.com/LangChainAI</link>
+        </image>
+        
+        <lastBuildDate>Thu, 18 Jan 2024 12:54:18 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[We've added eight videos to help get started building with LangGraph 🎤Intro video to discuss what and why LangGraph is 🤖Two different common age...]]></title>
+            <description><![CDATA[We've added eight videos to help get started building with LangGraph<br><br>🎤Intro video to discuss what and why LangGraph is<br>🤖Two different common agent run times<br>⚒️Five different examples of modifications to those agent runtimes<br><br>https://www.youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg]]></description>
+            <pubDate>Wed, 17 Jan 2024 23:56:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747769771578314895</guid>
+            <link>https://twitter.com/LangChainAI/status/1747769771578314895</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT DataStax: LIVE DEMO! 💻⚡️Learn how to build a real-time RAG app on Wikipedia with LangChainJS, @Vercel, and Astra DB. Join our livestream with ...]]></title>
+            <description><![CDATA[RT DataStax<br>LIVE DEMO! 💻⚡️Learn how to build a real-time RAG app on Wikipedia with LangChainJS, @Vercel, and Astra DB.<br><br>Join our livestream with @LangChainAI on Jan 24. Save your spot: https://dtsx.io/3SnIkQu<br><br>#DataStax #VectorDB #RAG]]></description>
+            <pubDate>Wed, 17 Jan 2024 20:00:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/DataStax/status/1747710590032748971</guid>
+            <link>https://twitter.com/DataStax/status/1747710590032748971</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Pontus Abrahamsson — oss/acc: Magic inbox done ✨ Match incoming invoices against transactions automatically for seamless accounting! * Use your u...]]></title>
+            <description><![CDATA[RT Pontus Abrahamsson — oss/acc<br>Magic inbox done ✨<br><br>Match incoming invoices against transactions automatically for seamless accounting! <br><br>* Use your unique email 📫 from @postmarkapp <br>* Invoice parsed and matched with @LangChainAI <br>* Matching job runs by @triggerdotdev <br>* Updated in realtime with @supabase<br><video src="https://video.twimg.com/ext_tw_video/1747707478836404224/pu/vid/avc1/1174x720/mgBSt7tnYO29G-Gh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1747707478836404224/pu/img/Sjqeiqx4_2ipKKRD.jpg"></video>]]></description>
+            <pubDate>Wed, 17 Jan 2024 19:48:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/pontusab/status/1747707510633484446</guid>
+            <link>https://twitter.com/pontusab/status/1747707510633484446</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🕸️LangGraph We introduced LangGraph last week, but are excited to launch it more officially today (blog and YouTube series). It includes: 🤖...]]></title>
+            <description><![CDATA[🦜🕸️LangGraph<br><br>We introduced LangGraph last week, but are excited to launch it more officially today (blog and YouTube series). It includes:<br><br>🤖Example of replicating the LangChain AgentExecutor<br>💬A chat agent executor (aimed specifically at chat models)<br><br>LangGraph makes it easy… https://twitter.com/i/web/status/1747679001915908224<br><img style="" src="https://pbs.twimg.com/media/GEEAkosacAEqYHT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 17 Jan 2024 17:55:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747679001915908224</guid>
+            <link>https://twitter.com/LangChainAI/status/1747679001915908224</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: (1/3)Generate AI powered insights for Amazon Security Lake 🚨 Security teams face threats that move faster than investigations. �...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>(1/3)Generate AI powered insights for Amazon Security Lake<br><br>🚨 Security teams face threats that move faster than investigations.<br><br>🤔 Can you ask questions in plain language &amp; get rapid insights?<br><br>🔎@LangChainAI's conversational AI agents to the rescue!<br><br>https://aws.amazon.com/blogs/security/generate-ai-powered-insights-for-amazon-security-lake-using-amazon-sagemaker-studio-and-amazon-bedrock/]]></description>
+            <pubDate>Wed, 17 Jan 2024 16:40:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Roger_M_Taylor/status/1747660194757095486</guid>
+            <link>https://twitter.com/Roger_M_Taylor/status/1747660194757095486</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps. But for common use-cases like RAG, it uses ~3.6% of a f...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps.<br><br>But for common use-cases like RAG, it uses ~3.6% of a free-tier @vercel function's max size (37.32 KB/1 MB)!<br><br>Similar cost to using @supabase or overhead from @nextjs itself:<br><br>https://github.com/langchain-ai/langchain-nextjs-template?tab=readme-ov-file#-bundle-size<br><img style="" src="https://pbs.twimg.com/media/GEDpqdlW4AAaaJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEDprKQXoAAubrS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 17 Jan 2024 16:34:04 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1747658556139016323</guid>
+            <link>https://twitter.com/Hacubu/status/1747658556139016323</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Lizzie Siegle: Evaluating OpenAI assistants vs openai RAG w/ ragas + @LangChainAI + @zilliz_universe at sf unstructured data meetup w/ @craigsdenni...]]></title>
+            <description><![CDATA[RT Lizzie Siegle<br>Evaluating OpenAI assistants vs openai RAG w/ ragas + @LangChainAI + @zilliz_universe at sf unstructured data meetup w/ @craigsdennis<br><img style="" src="https://pbs.twimg.com/media/GEA0Fn0aYAAjztL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 17 Jan 2024 03:00:58 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/lizziepika/status/1747453934019702827</guid>
+            <link>https://twitter.com/lizziepika/status/1747453934019702827</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[It's easy to get a prototype of a RAG app up and running... but going to production is a lot harder ❓Is the retrieval step messing up? Does the promp...]]></title>
+            <description><![CDATA[It's easy to get a prototype of a RAG app up and running... but going to production is a lot harder<br><br>❓Is the retrieval step messing up? Does the prompt need to be improved?<br><br>Debugging RAG apps can be complicated. @curious_kaylynn just published a great video on how to do it more… https://twitter.com/i/web/status/1747410933444698308]]></description>
+            <pubDate>Wed, 17 Jan 2024 00:10:06 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747410933444698308</guid>
+            <link>https://twitter.com/LangChainAI/status/1747410933444698308</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT eimen: Find and cite relevant academic sources for a text passage from within your editor. Built using @LangChainAI and @SemanticScholar.]]></title>
+            <description><![CDATA[RT eimen<br>Find and cite relevant academic sources for a text passage from within your editor. Built using @LangChainAI and @SemanticScholar.<br><video src="https://video.twimg.com/ext_tw_video/1747406973102862336/pu/vid/avc1/1288x720/BHB2DRdsc5Kkceh5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1747406973102862336/pu/img/LqMdj8maPQ4v9HOk.jpg"></video>]]></description>
+            <pubDate>Tue, 16 Jan 2024 23:54:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/eimenxyz/status/1747407002089779304</guid>
+            <link>https://twitter.com/eimenxyz/status/1747407002089779304</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Austin Vance: New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. Use @LangChainAI & @UnstructuredIO to process PowerPoint ...]]></title>
+            <description><![CDATA[RT Austin Vance<br>New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. <br><br>Use @LangChainAI &amp; @UnstructuredIO to process PowerPoint decks into a RAG. <br><br>Most importantly some tips on debugging and testing when you don't have access to the LangSmith yet!<br><br>https://www.youtube.com/watch?v=TTjWVj5dA1U&amp;ab_channel=FocusedLabs]]></description>
+            <pubDate>Tue, 16 Jan 2024 23:35:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/austinbv/status/1747402238715126085</guid>
+            <link>https://twitter.com/austinbv/status/1747402238715126085</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Plotly: Did you know: you can build highly complex AI applications with @LangChainAI + Dash. 🤖 On January 30th, we'll explore three outstanding ...]]></title>
+            <description><![CDATA[RT Plotly<br>Did you know: you can build highly complex AI applications with @LangChainAI  + Dash.&nbsp;🤖<br><br>On January 30th, we'll explore three outstanding examples of data applications that utilize LangChain and Dash across industries such as Finance, Biotechnology, and Economics.<br><br>You'll hear… https://twitter.com/i/web/status/1747355743660228851<br><img style="" src="https://pbs.twimg.com/media/GD_asnPbUAASXbu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 20:30:48 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/plotlygraphs/status/1747355743660228851</guid>
+            <link>https://twitter.com/plotlygraphs/status/1747355743660228851</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Lance Martin: Converting LLM chains to web endpoints Turning a LLM chain prototype into an web service can be a challenge. LangServe was designed t...]]></title>
+            <description><![CDATA[RT Lance Martin<br>Converting LLM chains to web endpoints <br><br>Turning a LLM chain prototype into an web service can be a challenge. LangServe was designed to enable this w/ minimal effort.<br><br>I made two code walk-through videos that show how to do this from scratch w/ LangServe for (1) a custom RAG… https://twitter.com/i/web/status/1747325957378330725<br><img style="" src="https://pbs.twimg.com/media/GD-3etZawAAScOq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 18:32:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/RLanceMartin/status/1747325957378330725</guid>
+            <link>https://twitter.com/RLanceMartin/status/1747325957378330725</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rapid deployment of LangServe templates: Neo4J Support for production has been one of the biggest needs we've heard consistently from developers. We'v...]]></title>
+            <description><![CDATA[Rapid deployment of LangServe templates: Neo4J <br><br>Support for production has been one of the biggest needs we've heard consistently from developers.<br><br>We've added ~100 templates that work out-of-the-box as deployable apps using LangServe.<br><br>Today, we're releasing a hands-on video… https://twitter.com/i/web/status/1747311634878717995<br><img style="" src="https://pbs.twimg.com/media/GD-uBAObsAAdbX3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 17:35:31 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747311634878717995</guid>
+            <link>https://twitter.com/LangChainAI/status/1747311634878717995</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RAG with Pinecone Serverless Congrats to our friends at @pinecone for the recent launch of Pinecone Serverless! This has a few benefits for developers...]]></title>
+            <description><![CDATA[RAG with Pinecone Serverless<br><br>Congrats to our friends at @pinecone for the recent launch of Pinecone Serverless!<br><br>This has a few benefits for developers, including usage-base-pricing (&gt;10x lower costs), improved latency, and effortless scaling (no more pods or storage limits).… https://twitter.com/i/web/status/1747304822280491273<br><img style="" src="https://pbs.twimg.com/media/GD-sDEPagAAj45-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 17:08:27 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747304822280491273</guid>
+            <link>https://twitter.com/LangChainAI/status/1747304822280491273</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🌤️💥 Cloudflare integration package 💥🌤️ We’ve created a new package for building with the @Cloudflare ecosystem + @LangCha...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🌤️💥&nbsp;Cloudflare integration package 💥🌤️<br><br>We’ve created a new package for building with the @Cloudflare ecosystem + @LangChainAI! It's got:<br><br>🔨 Workers AI LLMs and embeddings<br>🔱 Vectorize vectorstores<br>📑 D1 message history<br>💿 KV caches<br><br>s/o @kristianf_!<br><br>https://js.langchain.com/docs/integrations/vectorstores/cloudflare_vectorize<br><img style="" src="https://pbs.twimg.com/media/GD-flV4XYAAoYqB?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 16:14:49 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1747291325915865256</guid>
+            <link>https://twitter.com/Hacubu/status/1747291325915865256</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🕸️Graph QnA with LangChain v0.1 @tb_tomaz has some of the best content out there on how to use LLMs to interact with graphs 🚀Over the weekend, ...]]></title>
+            <description><![CDATA[🕸️Graph QnA with LangChain v0.1<br><br>@tb_tomaz has some of the best content out there on how to use LLMs to interact with graphs<br><br>🚀Over the weekend, he updated all his content to use LangChain v0.1<br><br>Perfect opportunity to jump in and start learning<br><br>https://github.com/tomasonjo/blogs/tree/master/llm<br><img style="" src="https://pbs.twimg.com/media/GD5XE1xb0AAVElo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 15 Jan 2024 18:16:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746959432112820401</guid>
+            <link>https://twitter.com/LangChainAI/status/1746959432112820401</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Good quick overview of how to build a question/answering app over audio data!]]></title>
+            <description><![CDATA[Good quick overview of how to build a question/answering app over audio data!<div class="rsshub-quote"><br><br>Afiz ⚡️: Build Question Answering AI App for Audio Data!<br><br>Today, we will see how we can build QnA AI app for Audio Data using @AssemblyAI, @LangChainAI and @OpenAI <br><br>In just 3 simple steps, we can achieve this. <br><br>Let's get started 🚀<br><br><img style="" src="https://pbs.twimg.com/media/GDzcmUmaoAAJMoI?format=png&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 15 Jan 2024 16:15:10 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746929024604287037</guid>
+            <link>https://twitter.com/LangChainAI/status/1746929024604287037</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Tomaz Bratanic: Just a couple of days ago, @LangChainAI released a 0.1.0 version ago with some package and syntax changes. To make it easier for yo...]]></title>
+            <description><![CDATA[RT Tomaz Bratanic<br>Just a couple of days ago, @LangChainAI  released a 0.1.0 version ago with some package and syntax changes. To make it easier for you to integrate @neo4j  with LangChain, I have updated my LLM notebooks to follow the new syntax and package structure.<br><br>https://github.com/tomasonjo/blogs/tree/master/llm<br><img style="" src="https://pbs.twimg.com/media/GD4vYreXIAENnRe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 15 Jan 2024 13:23:28 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/tb_tomaz/status/1746885815639093754</guid>
+            <link>https://twitter.com/tb_tomaz/status/1746885815639093754</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Sankeerth: Excited to share 𝐆𝐞𝐭𝐖𝐞𝐛𝐬𝐢𝐭𝐞. 𝐑𝐞𝐩𝐨𝐫𝐭 -A comprehensive webpage audit tool to maximize the ...]]></title>
+            <description><![CDATA[RT Sankeerth<br>Excited to share 𝐆𝐞𝐭𝐖𝐞𝐛𝐬𝐢𝐭𝐞. 𝐑𝐞𝐩𝐨𝐫𝐭   -A comprehensive webpage audit tool to maximize the conversion of your website ⚡<br><br>Get Personalized &amp; Tailor-made insights to improve Usability, Brand Messaging, SEO &amp; Conversion<br><br>Link👇<br><br>Built using @LangChainAI @supabase… https://twitter.com/i/web/status/1746883926055100709<br><video src="https://video.twimg.com/ext_tw_video/1746847712799277056/pu/vid/avc1/892x720/0M5JEvdlijykFx80.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1746847712799277056/pu/img/uMCxCywbUVqplBjm.jpg"></video>]]></description>
+            <pubDate>Mon, 15 Jan 2024 13:15:58 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/trippy_hustler/status/1746883926055100709</guid>
+            <link>https://twitter.com/trippy_hustler/status/1746883926055100709</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Afiz ⚡️: Build Question Answering AI App for Audio Data! Today, we will see how we can build QnA AI app for Audio Data using @AssemblyAI, @LangCh...]]></title>
+            <description><![CDATA[RT Afiz ⚡️<br>Build Question Answering AI App for Audio Data!<br><br>Today, we will see how we can build QnA AI app for Audio Data using @AssemblyAI, @LangChainAI and @OpenAI <br><br>In just 3 simple steps, we can achieve this. <br><br>Let's get started 🚀<br><img style="" src="https://pbs.twimg.com/media/GDzcmUmaoAAJMoI?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 14 Jan 2024 15:24:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/itsafiz/status/1746553869994480021</guid>
+            <link>https://twitter.com/itsafiz/status/1746553869994480021</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
