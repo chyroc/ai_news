@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 18 Jan 2024 01:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 23:10:00 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[We've added eight videos to help get started building with LangGraph 🎤Intro video to discuss what and why LangGraph is 🤖Two different common age...]]></title>
-            <description><![CDATA[We've added eight videos to help get started building with LangGraph<br><br>🎤Intro video to discuss what and why LangGraph is<br>🤖Two different common agent run times<br>⚒️Five different examples of modifications to those agent runtimes<br><br>https://www.youtube.com/playlist?list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg]]></description>
-            <pubDate>Wed, 17 Jan 2024 23:56:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747769771578314895</guid>
-            <link>https://twitter.com/LangChainAI/status/1747769771578314895</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT DataStax: LIVE DEMO! 💻⚡️Learn how to build a real-time RAG app on Wikipedia with LangChainJS, @Vercel, and Astra DB. Join our livestream with ...]]></title>
@@ -289,6 +273,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Mon, 15 Jan 2024 16:15:10 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746929024604287037</guid>
             <link>https://twitter.com/LangChainAI/status/1746929024604287037</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[👨‍💻codeqai 100% local code search and chat powered by vector embeddings and LLMs Uses a lot of awesome tech to accomplish this! 🌲Tree sitter...]]></title>
+            <description><![CDATA[👨‍💻codeqai<br><br>100% local code search and chat powered by vector embeddings and LLMs<br><br>Uses a lot of awesome tech to accomplish this!<br><br>🌲Tree sitter (for splitting code files)<br>🧱Sentence Transformers and Instructor embeddings<br>🌎FAISS<br>🦙Llama Cpp and @ollama <br><br>https://github.com/fynnfluegge/codeqai<br><video src="https://video.twimg.com/ext_tw_video/1746928796752875520/pu/vid/avc1/876x720/rDHeK7W_YgBRvBHa.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1746928796752875520/pu/img/zSNDQdAslPJSKKLb.jpg"></video>]]></description>
+            <pubDate>Mon, 15 Jan 2024 16:14:24 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1746928832974881079</guid>
+            <link>https://twitter.com/LangChainAI/status/1746928832974881079</link>
             
             
             
