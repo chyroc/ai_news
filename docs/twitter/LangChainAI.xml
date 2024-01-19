@@ -24,8 +24,24 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 19 Jan 2024 03:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 05:48:13 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Richard Socher: Some open source examples for how to make your own LLM be more accurate, up-to-date and verifiable. Awesome to see these integratio...]]></title>
+            <description><![CDATA[RT Richard Socher<br>Some open source examples for how to make your own LLM be more accurate, up-to-date and verifiable.<br><br>Awesome to see these integrations with @pinecone @LangChainAI @togethercompute <br><br>Link in the follow-up tweet.<br><img style="" src="https://pbs.twimg.com/media/GEKTSbvaYAAQd26?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 18 Jan 2024 23:19:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/RichardSocher/status/1748122877931761755</guid>
+            <link>https://twitter.com/RichardSocher/status/1748122877931761755</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🦜🕸️LangGraph JS The JavaScript version of LangGraph is now live! Same interface and concepts as the python version Repo: https://github.com/lan...]]></title>
@@ -305,22 +321,6 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Tue, 16 Jan 2024 23:54:29 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/eimenxyz/status/1747407002089779304</guid>
             <link>https://twitter.com/eimenxyz/status/1747407002089779304</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Austin Vance: New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. Use @LangChainAI & @UnstructuredIO to process PowerPoint ...]]></title>
-            <description><![CDATA[RT Austin Vance<br>New Tutorial Alert by @curious_kaylynn! Learn to debug your LCEL pipelines. <br><br>Use @LangChainAI &amp; @UnstructuredIO to process PowerPoint decks into a RAG. <br><br>Most importantly some tips on debugging and testing when you don't have access to the LangSmith yet!<br><br>https://www.youtube.com/watch?v=TTjWVj5dA1U&amp;ab_channel=FocusedLabs]]></description>
-            <pubDate>Tue, 16 Jan 2024 23:35:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/austinbv/status/1747402238715126085</guid>
-            <link>https://twitter.com/austinbv/status/1747402238715126085</link>
             
             
             
