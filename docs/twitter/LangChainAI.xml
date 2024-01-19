@@ -24,56 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 19 Jan 2024 18:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 16:47:41 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Agent Toolkits: MultiON MultiON recently came out of stealth, and has shown impressive long-horizon agent planning / execution: https://x.com/DivGarg9...]]></title>
-            <description><![CDATA[Agent Toolkits: MultiON<br><br>MultiON recently came out of stealth, and has shown impressive long-horizon agent planning / execution:<br><br>https://x.com/DivGarg9/status/1747683043446579416?s=20<br><br>It's absolutely worth trying as an agent that can perform open-ended tasks. And if you already have workflows using LangChain… https://twitter.com/i/web/status/1748404710686785629<br><video src="https://video.twimg.com/ext_tw_video/1748403736131862528/pu/vid/avc1/1654x720/dmH4bLJ1VFflwSvf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1748403736131862528/pu/img/wwEAAh-MORZKZ5CV.jpg"></video><div class="rsshub-quote"><br><br>Div Garg: We just solved the long-horizon planning &amp; execution issue with Agents 🤯!<br><br>Excited to announce that @MultiON_AI can now take actions well over 500+ steps without loosing context &amp; cross-operate on 10+ websites as part of a single task 🤩!!<br><br>Our latest upgrade cracks the goal… https://twitter.com/i/web/status/1747683043446579416<br><br><video src="https://video.twimg.com/ext_tw_video/1747677524342300673/pu/vid/avc1/1728x1080/-sDzAtsAEvLaTPn6.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1747677524342300673/pu/img/QpybdLd357Ynb3v9.jpg"></video></div>]]></description>
-            <pubDate>Fri, 19 Jan 2024 17:59:01 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748404710686785629</guid>
-            <link>https://twitter.com/LangChainAI/status/1748404710686785629</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Check it out here: https://python.langchain.com/docs/integrations/chat/google_vertex_ai_palm#function-calling-with-gemini]]></title>
-            <description><![CDATA[Re Check it out here: https://python.langchain.com/docs/integrations/chat/google_vertex_ai_palm#function-calling-with-gemini]]></description>
-            <pubDate>Fri, 19 Jan 2024 17:54:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748403680423117309</guid>
-            <link>https://twitter.com/LangChainAI/status/1748403680423117309</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🔎 Structured Outputs with Google Gemini One of the killer features of OpenAI models is function calling - which allows you to structure the respons...]]></title>
-            <description><![CDATA[🔎 Structured Outputs with Google Gemini<br><br>One of the killer features of OpenAI models is function calling - which allows you to structure the responses of the LLM.<br><br>Google Gemini supports the same type of function calling - and we've now added a chain to make it super easy in… https://twitter.com/i/web/status/1748403680423117309]]></description>
-            <pubDate>Fri, 19 Jan 2024 17:54:55 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748403680423117309</guid>
-            <link>https://twitter.com/LangChainAI/status/1748403680423117309</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: 🌲 Pinecone Serverless 🤝 LangChain JS 🌲 You can now use brand new @pinecone serverless vectorstores with @LangChainAI 🦜🔗 J...]]></title>
@@ -332,11 +284,59 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
         </item>
         
         <item>
+            <title><![CDATA[RT Jacob Lee: 🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps. But for common use-cases like RAG, it uses ~3.6% of a f...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🤔 A common misconception is that @LangChainAI JS/TS will bloat your web apps.<br><br>But for common use-cases like RAG, it uses ~3.6% of a free-tier @vercel function's max size (37.32 KB/1 MB)!<br><br>Similar cost to using @supabase or overhead from @nextjs itself:<br><br>https://github.com/langchain-ai/langchain-nextjs-template?tab=readme-ov-file#-bundle-size<br><img style="" src="https://pbs.twimg.com/media/GEDpqdlW4AAaaJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEDprKQXoAAubrS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 17 Jan 2024 16:34:04 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1747658556139016323</guid>
+            <link>https://twitter.com/Hacubu/status/1747658556139016323</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Lizzie Siegle: Evaluating OpenAI assistants vs openai RAG w/ ragas + @LangChainAI + @zilliz_universe at sf unstructured data meetup w/ @craigsdenni...]]></title>
             <description><![CDATA[RT Lizzie Siegle<br>Evaluating OpenAI assistants vs openai RAG w/ ragas + @LangChainAI + @zilliz_universe at sf unstructured data meetup w/ @craigsdennis<br><img style="" src="https://pbs.twimg.com/media/GEA0Fn0aYAAjztL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 17 Jan 2024 03:00:58 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/lizziepika/status/1747453934019702827</guid>
             <link>https://twitter.com/lizziepika/status/1747453934019702827</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT eimen: Find and cite relevant academic sources for a text passage from within your editor. Built using @LangChainAI and @SemanticScholar.]]></title>
+            <description><![CDATA[RT eimen<br>Find and cite relevant academic sources for a text passage from within your editor. Built using @LangChainAI and @SemanticScholar.<br><video src="https://video.twimg.com/ext_tw_video/1747406973102862336/pu/vid/avc1/1288x720/BHB2DRdsc5Kkceh5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1747406973102862336/pu/img/LqMdj8maPQ4v9HOk.jpg"></video>]]></description>
+            <pubDate>Tue, 16 Jan 2024 23:54:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/eimenxyz/status/1747407002089779304</guid>
+            <link>https://twitter.com/eimenxyz/status/1747407002089779304</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Plotly: Did you know: you can build highly complex AI applications with @LangChainAI + Dash. 🤖 On January 30th, we'll explore three outstanding ...]]></title>
+            <description><![CDATA[RT Plotly<br>Did you know: you can build highly complex AI applications with @LangChainAI  + Dash.&nbsp;🤖<br><br>On January 30th, we'll explore three outstanding examples of data applications that utilize LangChain and Dash across industries such as Finance, Biotechnology, and Economics.<br><br>You'll hear… https://twitter.com/i/web/status/1747355743660228851<br><img style="" src="https://pbs.twimg.com/media/GD_asnPbUAASXbu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 16 Jan 2024 20:30:48 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/plotlygraphs/status/1747355743660228851</guid>
+            <link>https://twitter.com/plotlygraphs/status/1747355743660228851</link>
             
             
             
