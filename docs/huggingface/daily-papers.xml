@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 19 Jan 2024 03:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 01:37:16 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[VMamba: Visual State Space Model]]></title>
-            <description><![CDATA[Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) stand as the two most popular foundation models for visual representation learning. While CNNs exhibit remarkable scalability with linear complexity w.r.t. image resolution, ViTs surpass them in fitting capabilities despite contending with quadratic complexity. A closer inspection reveals that ViTs achieve superior visual modeling performance through the incorporation of global receptive fields and dynamic weights. This observation motivates us to propose a novel architecture that inherits these components while enhancing computational efficiency. To this end, we draw inspiration from the recently introduced state space model and propose the Visual State Space Model (VMamba), which achieves linear complexity without sacrificing global receptive fields. To address the encountered direction-sensitive issue, we introduce the Cross-Scan Module (CSM) to traverse the spatial domain and convert any non-causal visual image into order patch sequences. Extensive experimental results substantiate that VMamba not only demonstrates promising capabilities across various visual perception tasks, but also exhibits more pronounced advantages over established benchmarks as the image resolution increases. Source code has been available at https://github.com/MzeroMiko/VMamba.]]></description>
-            <pubDate>Fri, 19 Jan 2024 03:24:26 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10166</guid>
-            <link>https://arxiv.org/abs/2401.10166</link>
+            <title><![CDATA[GARField: Group Anything with Radiance Fields]]></title>
+            <description><![CDATA[Grouping is inherently ambiguous due to the multiple levels of granularity in which one can decompose a scene -- should the wheels of an excavator be considered separate or part of the whole? We present Group Anything with Radiance Fields (GARField), an approach for decomposing 3D scenes into a hierarchy of semantically meaningful groups from posed image inputs. To do this we embrace group ambiguity through physical scale: by optimizing a scale-conditioned 3D affinity feature field, a point in the world can belong to different groups of different sizes. We optimize this field from a set of 2D masks provided by Segment Anything (SAM) in a way that respects coarse-to-fine hierarchy, using scale to consistently fuse conflicting masks from different viewpoints. From this field we can derive a hierarchy of possible groupings via automatic tree construction or user interaction. We evaluate GARField on a variety of in-the-wild scenes and find it effectively extracts groups at many levels: clusters of objects, objects, and various subparts. GARField inherently represents multi-view consistent groupings and produces higher fidelity groups than the input SAM masks. GARField's hierarchical grouping could have exciting downstream applications such as 3D asset extraction or dynamic scene understanding. See the project website at https://www.garfield.studio/]]></description>
+            <pubDate>Thu, 18 Jan 2024 06:07:44 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09419</guid>
+            <link>https://arxiv.org/abs/2401.09419</link>
             
             
             
-            <author><![CDATA[Yue Liu, Yunjie Tian, Yuzhong Zhao, Hongtian Yu, Lingxi Xie, Yaowei Wang, Qixiang Ye, Yunfan Liu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[FreGrad: Lightweight and Fast Frequency-aware Diffusion Vocoder]]></title>
-            <description><![CDATA[The goal of this paper is to generate realistic audio with a lightweight and fast diffusion-based vocoder, named FreGrad. Our framework consists of the following three key components: (1) We employ discrete wavelet transform that decomposes a complicated waveform into sub-band wavelets, which helps FreGrad to operate on a simple and concise feature space, (2) We design a frequency-aware dilated convolution that elevates frequency awareness, resulting in generating speech with accurate frequency information, and (3) We introduce a bag of tricks that boosts the generation quality of the proposed model. In our experiments, FreGrad achieves 3.7 times faster training time and 2.2 times faster inference speed compared to our baseline while reducing the model size by 0.6 times (only 1.78M parameters) without sacrificing the output quality. Audio samples are available at: https://mm.kaist.ac.kr/projects/FreGrad.]]></description>
-            <pubDate>Fri, 19 Jan 2024 03:14:46 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10032</guid>
-            <link>https://arxiv.org/abs/2401.10032</link>
-            
-            
-            
-            <author><![CDATA[Tan Dat Nguyen, Ji-Hoon Kim, Youngjoon Jang, Jaehun Kim, Joon Son Chung]]></author>
+            <author><![CDATA[Chung Min Kim, Mingxuan Wu, Justin Kerr, Ken Goldberg, Matthew Tancik, Angjoo Kanazawa]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects]]></title>
-            <description><![CDATA[Customized text-to-video generation aims to generate high-quality videos guided by text prompts and subject references. Current approaches designed for single subjects suffer from tackling multiple subjects, which is a more challenging and practical scenario. In this work, we aim to promote multi-subject guided text-to-video customization. We propose CustomVideo, a novel framework that can generate identity-preserving videos with the guidance of multiple subjects. To be specific, firstly, we encourage the co-occurrence of multiple subjects via composing them in a single image. Further, upon a basic text-to-video diffusion model, we design a simple yet effective attention control strategy to disentangle different subjects in the latent space of diffusion model. Moreover, to help the model focus on the specific object area, we segment the object from given reference images and provide a corresponding object mask for attention learning. Also, we collect a multi-subject text-to-video generation dataset as a comprehensive benchmark, with 69 individual subjects and 57 meaningful pairs. Extensive qualitative, quantitative, and user study results demonstrate the superiority of our method, compared with the previous state-of-the-art approaches.]]></description>
-            <pubDate>Fri, 19 Jan 2024 03:07:37 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.09962</guid>
-            <link>https://arxiv.org/abs/2401.09962</link>
+            <title><![CDATA[SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding]]></title>
+            <description><![CDATA[3D vision-language grounding, which focuses on aligning language with the 3D physical environment, stands as a cornerstone in the development of embodied agents. In comparison to recent advancements in the 2D domain, grounding language in 3D scenes faces several significant challenges: (i) the inherent complexity of 3D scenes due to the diverse object configurations, their rich attributes, and intricate relationships; (ii) the scarcity of paired 3D vision-language data to support grounded learning; and (iii) the absence of a unified learning framework to distill knowledge from grounded 3D data. In this work, we aim to address these three major challenges in 3D vision-language by examining the potential of systematically upscaling 3D vision-language learning in indoor environments. We introduce the first million-scale 3D vision-language dataset, SceneVerse, encompassing about 68K 3D indoor scenes and comprising 2.5M vision-language pairs derived from both human annotations and our scalable scene-graph-based generation approach. We demonstrate that this scaling allows for a unified pre-training framework, Grounded Pre-training for Scenes (GPS), for 3D vision-language learning. Through extensive experiments, we showcase the effectiveness of GPS by achieving state-of-the-art performance on all existing 3D visual grounding benchmarks. The vast potential of SceneVerse and GPS is unveiled through zero-shot transfer experiments in the challenging 3D vision-language tasks. Project website: https://scene-verse.github.io .]]></description>
+            <pubDate>Thu, 18 Jan 2024 06:04:59 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09340</guid>
+            <link>https://arxiv.org/abs/2401.09340</link>
             
             
             
-            <author><![CDATA[Zhao Wang, Aoxue Li, Enze Xie, Lingting Zhu, Yong Guo, Qi Dou, Zhenguo Li]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Rethinking FID: Towards a Better Evaluation Metric for Image Generation]]></title>
-            <description><![CDATA[As with many machine learning problems, the progress of image generation methods hinges on good evaluation metrics. One of the most popular is the Frechet Inception Distance (FID). FID estimates the distance between a distribution of Inception-v3 features of real images, and those of images generated by the algorithm. We highlight important drawbacks of FID: Inception's poor representation of the rich and varied content generated by modern text-to-image models, incorrect normality assumptions, and poor sample complexity. We call for a reevaluation of FID's use as the primary quality metric for generated images. We empirically demonstrate that FID contradicts human raters, it does not reflect gradual improvement of iterative text-to-image models, it does not capture distortion levels, and that it produces inconsistent results when varying the sample size. We also propose an alternative new metric, CMMD, based on richer CLIP embeddings and the maximum mean discrepancy distance with the Gaussian RBF kernel. It is an unbiased estimator that does not make any assumptions on the probability distribution of the embeddings and is sample efficient. Through extensive experiments and analysis, we demonstrate that FID-based evaluations of text-to-image models may be unreliable, and that CMMD offers a more robust and reliable assessment of image quality.]]></description>
-            <pubDate>Fri, 19 Jan 2024 03:01:44 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.09603</guid>
-            <link>https://arxiv.org/abs/2401.09603</link>
-            
-            
-            
-            <author><![CDATA[Sadeep Jayasumana, Srikumar Ramalingam, Andreas Veit, Daniel Glasner, Ayan Chakrabarti, Sanjiv Kumar]]></author>
+            <author><![CDATA[Baoxiong Jia, Yixin Chen, Huangyue Yu, Yan Wang, Xuesong Niu, Tengyu Liu, Qing Li, Siyuan Huang]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DiffusionGPT: LLM-Driven Text-to-Image Generation System]]></title>
-            <description><![CDATA[Diffusion models have opened up new avenues for the field of image generation, resulting in the proliferation of high-quality models shared on open-source platforms. However, a major challenge persists in current text-to-image systems are often unable to handle diverse inputs, or are limited to single model results. Current unified attempts often fall into two orthogonal aspects: i) parse Diverse Prompts in input stage; ii) activate expert model to output. To combine the best of both worlds, we propose DiffusionGPT, which leverages Large Language Models (LLM) to offer a unified generation system capable of seamlessly accommodating various types of prompts and integrating domain-expert models. DiffusionGPT constructs domain-specific Trees for various generative models based on prior knowledge. When provided with an input, the LLM parses the prompt and employs the Trees-of-Thought to guide the selection of an appropriate model, thereby relaxing input constraints and ensuring exceptional performance across diverse domains. Moreover, we introduce Advantage Databases, where the Tree-of-Thought is enriched with human feedback, aligning the model selection process with human preferences. Through extensive experiments and comparisons, we demonstrate the effectiveness of DiffusionGPT, showcasing its potential for pushing the boundaries of image synthesis in diverse domains.]]></description>
-            <pubDate>Fri, 19 Jan 2024 02:44:47 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10061</guid>
-            <link>https://arxiv.org/abs/2401.10061</link>
+            <title><![CDATA[Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis]]></title>
+            <description><![CDATA[Addressing the limitations of text as a source of accurate layout representation in text-conditional diffusion models, many works incorporate additional signals to condition certain attributes within a generated image. Although successful, previous works do not account for the specific localization of said attributes extended into the three dimensional plane. In this context, we present a conditional diffusion model that integrates control over three-dimensional object placement with disentangled representations of global stylistic semantics from multiple exemplar images. Specifically, we first introduce depth disentanglement training to leverage the relative depth of objects as an estimator, allowing the model to identify the absolute positions of unseen objects through the use of synthetic image triplets. We also introduce soft guidance, a method for imposing global semantics onto targeted regions without the use of any additional localization cues. Our integrated framework, Compose and Conquer (CnC), unifies these techniques to localize multiple conditions in a disentangled manner. We demonstrate that our approach allows perception of objects at varying depths while offering a versatile framework for composing localized objects with different global semantics. Code: https://github.com/tomtom1103/compose-and-conquer/]]></description>
+            <pubDate>Thu, 18 Jan 2024 05:44:24 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09048</guid>
+            <link>https://arxiv.org/abs/2401.09048</link>
             
             
             
-            <author><![CDATA[Jie Qin, Jie Wu, Weifeng Chen, Yuxi Ren, Huixia Li, Hefeng Wu, Xuefeng Xiao, Rui Wang, Shilei Wen]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Improving fine-grained understanding in image-text pre-training]]></title>
-            <description><![CDATA[We introduce SPARse Fine-grained Contrastive Alignment (SPARC), a simple method for pretraining more fine-grained multimodal representations from image-text pairs. Given that multiple image patches often correspond to single words, we propose to learn a grouping of image patches for every token in the caption. To achieve this, we use a sparse similarity metric between image patches and language tokens and compute for each token a language-grouped vision embedding as the weighted average of patches. The token and language-grouped vision embeddings are then contrasted through a fine-grained sequence-wise loss that only depends on individual samples and does not require other batch samples as negatives. This enables more detailed information to be learned in a computationally inexpensive manner. SPARC combines this fine-grained loss with a contrastive loss between global image and text embeddings to learn representations that simultaneously encode global and local information. We thoroughly evaluate our proposed method and show improved performance over competing approaches both on image-level tasks relying on coarse-grained information, e.g. classification, as well as region-level tasks relying on fine-grained information, e.g. retrieval, object detection, and segmentation. Moreover, SPARC improves model faithfulness and captioning in foundational vision-language models.]]></description>
-            <pubDate>Fri, 19 Jan 2024 02:36:27 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.09865</guid>
-            <link>https://arxiv.org/abs/2401.09865</link>
-            
-            
-            
-            <author><![CDATA[Ioana Bica, Anastasija Ilić, Matthias Bauer, Goker Erdogan, Matko Bošnjak, Christos Kaplanis, Alexey A. Gritsenko, Matthias Minderer, Charles Blundell, Razvan Pascanu, Jovana Mitrović]]></author>
+            <author><![CDATA[Jonghyun Lee, Hansam Cho, Youngjoon Yoo, Seoung Bum Kim, Yonghyun Jeong]]></author>
             
                 
             
@@ -115,31 +67,15 @@
         </item>
         
         <item>
-            <title><![CDATA[ChatQA: Building GPT-4 Level Conversational QA Models]]></title>
-            <description><![CDATA[In this work, we introduce ChatQA, a family of conversational question answering (QA) models, that obtain GPT-4 level accuracies. Specifically, we propose a two-stage instruction tuning method that can significantly improve the zero-shot conversational QA results from large language models (LLMs). To handle retrieval in conversational QA, we fine-tune a dense retriever on a multi-turn QA dataset, which provides comparable results to using the state-of-the-art query rewriting model while largely reducing deployment cost. Notably, our ChatQA-70B can outperform GPT-4 in terms of average score on 10 conversational QA datasets (54.14 vs. 53.90), without relying on any synthetic data from OpenAI GPT models.]]></description>
-            <pubDate>Fri, 19 Jan 2024 02:20:30 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10225</guid>
-            <link>https://arxiv.org/abs/2401.10225</link>
+            <title><![CDATA[SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers]]></title>
+            <description><![CDATA[We present Scalable Interpolant Transformers (SiT), a family of generative models built on the backbone of Diffusion Transformers (DiT). The interpolant framework, which allows for connecting two distributions in a more flexible way than standard diffusion models, makes possible a modular study of various design choices impacting generative models built on dynamical transport: using discrete vs. continuous time learning, deciding the objective for the model to learn, choosing the interpolant connecting the distributions, and deploying a deterministic or stochastic sampler. By carefully introducing the above ingredients, SiT surpasses DiT uniformly across model sizes on the conditional ImageNet 256x256 benchmark using the exact same backbone, number of parameters, and GFLOPs. By exploring various diffusion coefficients, which can be tuned separately from learning, SiT achieves an FID-50K score of 2.06.]]></description>
+            <pubDate>Thu, 18 Jan 2024 04:58:01 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.08740</guid>
+            <link>https://arxiv.org/abs/2401.08740</link>
             
             
             
-            <author><![CDATA[Zihan Liu, Wei Ping, Rajarshi Roy, Peng Xu, Mohammad Shoeybi, Bryan Catanzaro]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Self-Rewarding Language Models]]></title>
-            <description><![CDATA[We posit that to achieve superhuman agents, future models require superhuman feedback in order to provide an adequate training signal. Current approaches commonly train reward models from human preferences, which may then be bottlenecked by human performance level, and secondly these separate frozen reward models cannot then learn to improve during LLM training. In this work, we study Self-Rewarding Language Models, where the language model itself is used via LLM-as-a-Judge prompting to provide its own rewards during training. We show that during Iterative DPO training that not only does instruction following ability improve, but also the ability to provide high-quality rewards to itself. Fine-tuning Llama 2 70B on three iterations of our approach yields a model that outperforms many existing systems on the AlpacaEval 2.0 leaderboard, including Claude 2, Gemini Pro, and GPT-4 0613. While only a preliminary study, this work opens the door to the possibility of models that can continually improve in both axes.]]></description>
-            <pubDate>Fri, 19 Jan 2024 02:10:35 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10020</guid>
-            <link>https://arxiv.org/abs/2401.10020</link>
-            
-            
-            
-            <author><![CDATA[Weizhe Yuan, Richard Yuanzhe Pang, Kyunghyun Cho, Sainbayar Sukhbaatar, Jing Xu, Jason Weston]]></author>
+            <author><![CDATA[Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, Saining Xie]]></author>
             
                 
             
@@ -147,15 +83,127 @@
         </item>
         
         <item>
-            <title><![CDATA[WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens]]></title>
-            <description><![CDATA[World models play a crucial role in understanding and predicting the dynamics of the world, which is essential for video generation. However, existing world models are confined to specific scenarios such as gaming or driving, limiting their ability to capture the complexity of general world dynamic environments. Therefore, we introduce WorldDreamer, a pioneering world model to foster a comprehensive comprehension of general world physics and motions, which significantly enhances the capabilities of video generation. Drawing inspiration from the success of large language models, WorldDreamer frames world modeling as an unsupervised visual sequence modeling challenge. This is achieved by mapping visual inputs to discrete tokens and predicting the masked ones. During this process, we incorporate multi-modal prompts to facilitate interaction within the world model. Our experiments show that WorldDreamer excels in generating videos across different scenarios, including natural scenes and driving environments. WorldDreamer showcases versatility in executing tasks such as text-to-video conversion, image-tovideo synthesis, and video editing. These results underscore WorldDreamer's effectiveness in capturing dynamic elements within diverse general world environments.]]></description>
-            <pubDate>Fri, 19 Jan 2024 02:05:33 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.09985</guid>
-            <link>https://arxiv.org/abs/2401.09985</link>
+            <title><![CDATA[ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization]]></title>
+            <description><![CDATA[Neural Radiance Fields (NeRF) exhibit remarkable performance for Novel View Synthesis (NVS) given a set of 2D images. However, NeRF training requires accurate camera pose for each input view, typically obtained by Structure-from-Motion (SfM) pipelines. Recent works have attempted to relax this constraint, but they still often rely on decent initial poses which they can refine. Here we aim at removing the requirement for pose initialization. We present Incremental CONfidence (ICON), an optimization procedure for training NeRFs from 2D video frames. ICON only assumes smooth camera motion to estimate initial guess for poses. Further, ICON introduces ``confidence": an adaptive measure of model quality used to dynamically reweight gradients. ICON relies on high-confidence poses to learn NeRF, and high-confidence 3D structure (as encoded by NeRF) to learn poses. We show that ICON, without prior pose initialization, achieves superior performance in both CO3D and HO3D versus methods which use SfM pose.]]></description>
+            <pubDate>Thu, 18 Jan 2024 04:38:35 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.08937</guid>
+            <link>https://arxiv.org/abs/2401.08937</link>
             
             
             
-            <author><![CDATA[Xiaofeng Wang, Zheng Zhu, Guan Huang, Boyuan Wang, Xinze Chen, Jiwen Lu]]></author>
+            <author><![CDATA[Weiyao Wang, Pierre Gleize, Hao Tang, Xingyu Chen, Kevin J Liang, Matt Feiszli]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model]]></title>
+            <description><![CDATA[Recently the state space models (SSMs) with efficient hardware-aware designs, i.e., Mamba, have shown great potential for long sequence modeling. Building efficient and generic vision backbones purely upon SSMs is an appealing direction. However, representing visual data is challenging for SSMs due to the position-sensitivity of visual data and the requirement of global context for visual understanding. In this paper, we show that the reliance of visual representation learning on self-attention is not necessary and propose a new generic vision backbone with bidirectional Mamba blocks (Vim), which marks the image sequences with position embeddings and compresses the visual representation with bidirectional state space models. On ImageNet classification, COCO object detection, and ADE20k semantic segmentation tasks, Vim achieves higher performance compared to well-established vision transformers like DeiT, while also demonstrating significantly improved computation &amp; memory efficiency. For example, Vim is 2.8times faster than DeiT and saves 86.8% GPU memory when performing batch inference to extract features on images with a resolution of 1248times1248. The results demonstrate that Vim is capable of overcoming the computation &amp; memory constraints on performing Transformer-style understanding for high-resolution images and it has great potential to become the next-generation backbone for vision foundation models. Code is available at https://github.com/hustvl/Vim.]]></description>
+            <pubDate>Thu, 18 Jan 2024 04:35:42 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09417</guid>
+            <link>https://arxiv.org/abs/2401.09417</link>
+            
+            
+            
+            <author><![CDATA[Lianghui Zhu, Bencheng Liao, Qian Zhang, Xinlong Wang, Wenyu Liu, Xinggang Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion]]></title>
+            <description><![CDATA[We present TextureDreamer, a novel image-guided texture synthesis method to transfer relightable textures from a small number of input images (3 to 5) to target 3D shapes across arbitrary categories. Texture creation is a pivotal challenge in vision and graphics. Industrial companies hire experienced artists to manually craft textures for 3D assets. Classical methods require densely sampled views and accurately aligned geometry, while learning-based methods are confined to category-specific shapes within the dataset. In contrast, TextureDreamer can transfer highly detailed, intricate textures from real-world environments to arbitrary objects with only a few casually captured images, potentially significantly democratizing texture creation. Our core idea, personalized geometry-aware score distillation (PGSD), draws inspiration from recent advancements in diffuse models, including personalized modeling for texture information extraction, variational score distillation for detailed appearance synthesis, and explicit geometry guidance with ControlNet. Our integration and several essential modifications substantially improve the texture quality. Experiments on real images spanning different categories show that TextureDreamer can successfully transfer highly realistic, semantic meaningful texture to arbitrary objects, surpassing the visual quality of previous state-of-the-art.]]></description>
+            <pubDate>Thu, 18 Jan 2024 04:33:57 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09416</guid>
+            <link>https://arxiv.org/abs/2401.09416</link>
+            
+            
+            
+            <author><![CDATA[Yu-Ying Yeh, Jia-Bin Huang, Changil Kim, Lei Xiao, Thu Nguyen-Phuoc, Numair Khan, Cheng Zhang, Manmohan Chandraker, Carl S Marshall, Zhao Dong, Zhengqin Li]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Asynchronous Local-SGD Training for Language Modeling]]></title>
+            <description><![CDATA[Local stochastic gradient descent (Local-SGD), also referred to as federated averaging, is an approach to distributed optimization where each device performs more than one SGD update per communication. This work presents an empirical study of {\it asynchronous} Local-SGD for training language models; that is, each worker updates the global parameters as soon as it has finished its SGD steps. We conduct a comprehensive investigation by examining how worker hardware heterogeneity, model size, number of workers, and optimizer could impact the learning performance. We find that with naive implementations, asynchronous Local-SGD takes more iterations to converge than its synchronous counterpart despite updating the (global) model parameters more frequently. We identify momentum acceleration on the global parameters when worker gradients are stale as a key challenge. We propose a novel method that utilizes a delayed Nesterov momentum update and adjusts the workers' local training steps based on their computation speed. This approach, evaluated with models up to 150M parameters on the C4 dataset, matches the performance of synchronous Local-SGD in terms of perplexity per update step, and significantly surpasses it in terms of wall clock time.]]></description>
+            <pubDate>Thu, 18 Jan 2024 04:26:13 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09135</guid>
+            <link>https://arxiv.org/abs/2401.09135</link>
+            
+            
+            
+            <author><![CDATA[Bo Liu, Rachita Chhaparia, Arthur Douillard, Satyen Kale, Andrei A. Rusu, Jiajun Shen, Arthur Szlam, Marc&#39;Aurelio Ranzato]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ReFT: Reasoning with Reinforced Fine-Tuning]]></title>
+            <description><![CDATA[One way to enhance the reasoning capability of Large Language Models (LLMs) is to conduct Supervised Fine-Tuning (SFT) using Chain-of-Thought (CoT) annotations. This approach does not show sufficiently strong generalization ability, however, because the training only relies on the given CoT data. In math problem-solving, for example, there is usually only one annotated reasoning path for each question in the training data. Intuitively, it would be better for the algorithm to learn from multiple annotated reasoning paths given a question. To address this issue, we propose a simple yet effective approach called Reinforced Fine-Tuning (ReFT) to enhance the generalizability of learning LLMs for reasoning, with math problem-solving as an example. ReFT first warmups the model with SFT, and then employs on-line reinforcement learning, specifically the PPO algorithm in this paper, to further fine-tune the model, where an abundance of reasoning paths are automatically sampled given the question and the rewards are naturally derived from the ground-truth answers. Extensive experiments on GSM8K, MathQA, and SVAMP datasets show that ReFT significantly outperforms SFT, and the performance can be potentially further boosted by combining inference-time strategies such as majority voting and re-ranking. Note that ReFT obtains the improvement by learning from the same training questions as SFT, without relying on extra or augmented training questions. This indicates a superior generalization ability for ReFT.]]></description>
+            <pubDate>Thu, 18 Jan 2024 03:15:54 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.08967</guid>
+            <link>https://arxiv.org/abs/2401.08967</link>
+            
+            
+            
+            <author><![CDATA[Trung Quoc Luong, Xinbo Zhang, Zhanming Jie, Peng Sun, Xiaoran Jin, Hang Li]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference]]></title>
+            <description><![CDATA[The deployment and scaling of large language models (LLMs) have become critical as they permeate various applications, demanding high-throughput and low-latency serving systems. Existing frameworks struggle to balance these requirements, especially for workloads with long prompts. This paper introduces DeepSpeed-FastGen, a system that employs Dynamic SplitFuse, a novel prompt and generation composition strategy, to deliver up to 2.3x higher effective throughput, 2x lower latency on average, and up to 3.7x lower (token-level) tail latency, compared to state-of-the-art systems like vLLM. We leverage a synergistic combination of DeepSpeed-MII and DeepSpeed-Inference to provide an efficient and easy-to-use serving system for LLMs. DeepSpeed-FastGen's advanced implementation supports a range of models and offers both non-persistent and persistent deployment options, catering to diverse user scenarios from interactive sessions to long-running applications. We present a detailed benchmarking methodology, analyze the performance through latency-throughput curves, and investigate scalability via load balancing. Our evaluations demonstrate substantial improvements in throughput and latency across various models and hardware configurations. We discuss our roadmap for future enhancements, including broader model support and new hardware backends. The DeepSpeed-FastGen code is readily available for community engagement and contribution.]]></description>
+            <pubDate>Thu, 18 Jan 2024 03:11:16 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.08671</guid>
+            <link>https://arxiv.org/abs/2401.08671</link>
+            
+            
+            
+            <author><![CDATA[Connor Holmes, Masahiro Tanaka, Michael Wyatt, Ammar Ahmad Awan, Jeff Rasley, Samyam Rajbhandari, Reza Yazdani Aminabadi, Heyang Qin, Arash Bakhtiari, Lev Kurilenko, Yuxiong He]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[UniVG: Towards UNIfied-modal Video Generation]]></title>
+            <description><![CDATA[Diffusion based video generation has received extensive attention and achieved considerable success within both the academic and industrial communities. However, current efforts are mainly concentrated on single-objective or single-task video generation, such as generation driven by text, by image, or by a combination of text and image. This cannot fully meet the needs of real-world application scenarios, as users are likely to input images and text conditions in a flexible manner, either individually or in combination. To address this, we propose a Unified-modal Video Genearation system that is capable of handling multiple video generation tasks across text and image modalities. To this end, we revisit the various video generation tasks within our system from the perspective of generative freedom, and classify them into high-freedom and low-freedom video generation categories. For high-freedom video generation, we employ Multi-condition Cross Attention to generate videos that align with the semantics of the input images or text. For low-freedom video generation, we introduce Biased Gaussian Noise to replace the pure random Gaussian Noise, which helps to better preserve the content of the input conditions. Our method achieves the lowest Fr\'echet Video Distance (FVD) on the public academic benchmark MSR-VTT, surpasses the current open-source methods in human evaluations, and is on par with the current close-source method Gen2. For more samples, visit https://univg-baidu.github.io.]]></description>
+            <pubDate>Thu, 18 Jan 2024 03:04:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09084</guid>
+            <link>https://arxiv.org/abs/2401.09084</link>
+            
+            
+            
+            <author><![CDATA[Ludan Ruan, Lei Tian, Chuanwei Huang, Xu Zhang, Xinyan Xiao]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models]]></title>
+            <description><![CDATA[Text-to-video generation aims to produce a video based on a given prompt. Recently, several commercial video models have been able to generate plausible videos with minimal noise, excellent details, and high aesthetic scores. However, these models rely on large-scale, well-filtered, high-quality videos that are not accessible to the community. Many existing research works, which train models using the low-quality WebVid-10M dataset, struggle to generate high-quality videos because the models are optimized to fit WebVid-10M. In this work, we explore the training scheme of video models extended from Stable Diffusion and investigate the feasibility of leveraging low-quality videos and synthesized high-quality images to obtain a high-quality video model. We first analyze the connection between the spatial and temporal modules of video models and the distribution shift to low-quality videos. We observe that full training of all modules results in a stronger coupling between spatial and temporal modules than only training temporal modules. Based on this stronger coupling, we shift the distribution to higher quality without motion degradation by finetuning spatial modules with high-quality images, resulting in a generic high-quality video model. Evaluations are conducted to demonstrate the superiority of the proposed method, particularly in picture quality, motion, and concept composition.]]></description>
+            <pubDate>Thu, 18 Jan 2024 02:57:22 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.09047</guid>
+            <link>https://arxiv.org/abs/2401.09047</link>
+            
+            
+            
+            <author><![CDATA[Haoxin Chen, Yong Zhang, Xiaodong Cun, Menghan Xia, Xintao Wang, Chao Weng, Ying Shan]]></author>
             
                 
             
