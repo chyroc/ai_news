@@ -24,24 +24,8 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 19 Jan 2024 16:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 14:15:04 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 🌲 Pinecone Serverless 🤝 LangChain JS 🌲 You can now use brand new @pinecone serverless vectorstores with @LangChainAI 🦜🔗 J...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>🌲&nbsp;Pinecone Serverless 🤝 LangChain JS 🌲<br><br>You can now use brand new @pinecone serverless vectorstores with @LangChainAI 🦜🔗 JS/TS via a new integration package!<br><br>It supports all the latest features, plus existing indexes.<br><br>Thank you @zackproser:<br><br>https://js.langchain.com/docs/integrations/vectorstores/pinecone<br><img style="" src="https://pbs.twimg.com/media/GENzBpuWUAAtpWR?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 19 Jan 2024 16:17:48 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1748379237076140487</guid>
-            <link>https://twitter.com/Hacubu/status/1748379237076140487</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Richard Socher: Some open source examples for how to make your own LLM be more accurate, up-to-date and verifiable. Awesome to see these integratio...]]></title>
@@ -305,6 +289,22 @@ Discord:   https://t.co/Mri7TIT2kN - Made with love by RSSHub(https://github.com
             <pubDate>Wed, 17 Jan 2024 03:00:58 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/lizziepika/status/1747453934019702827</guid>
             <link>https://twitter.com/lizziepika/status/1747453934019702827</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[It's easy to get a prototype of a RAG app up and running... but going to production is a lot harder ❓Is the retrieval step messing up? Does the promp...]]></title>
+            <description><![CDATA[It's easy to get a prototype of a RAG app up and running... but going to production is a lot harder<br><br>❓Is the retrieval step messing up? Does the prompt need to be improved?<br><br>Debugging RAG apps can be complicated. @curious_kaylynn just published a great video on how to do it more… https://twitter.com/i/web/status/1747410933444698308]]></description>
+            <pubDate>Wed, 17 Jan 2024 00:10:06 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1747410933444698308</guid>
+            <link>https://twitter.com/LangChainAI/status/1747410933444698308</link>
             
             
             
