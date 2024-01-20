@@ -1,9 +1,348 @@
-<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}img{filter:grayscale(1)}</style></head><body><div class="content"><p><img src="/logo.png" alt="RSSHub" width="120" loading="lazy"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /twitter/user/LangChainAI</pre><pre class="message">Error message: this route is empty, please check the original site or <a href="https://github.com/DIYgod/RSSHub/issues/new/choose">create an issue</a></pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /twitter/user/LangChainAI
-Node version: v20.11.0
-Git Hash: 1574105
-        </pre><pre class="message">
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-如果您认为 RSSHub 导致了该错误，请在 GitHub 按照模版，复制本页面信息进行 <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">汇报</a>
-        </pre><div style="margin:50px 0"><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p><p>在线文档与支持，请访问 <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p></div></div></body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Twitter @LangChain]]></title>
+        <link>https://twitter.com/LangChainAI</link>
+        <atom:link href="https://rsshub.app/twitter/user/LangChainAI" rel="self" type="application/rss+xml" />
+        <description><![CDATA[⚡ Build context-aware, reasoning applications ⚡ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://pbs.twimg.com/profile_images/1748070853911388160/jW3A9KG3.jpg</url>
+            <title><![CDATA[Twitter @LangChain]]></title>
+            <link>https://twitter.com/LangChainAI</link>
+        </image>
+        
+        <lastBuildDate>Sat, 20 Jan 2024 01:07:45 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[LangDAO, How It Works🦜🔗 - Claim FREE $LANG now, registration LIMITED - Hold $LANG to join our DAO - DAO members make key project decisions - Get...]]></title>
+            <description><![CDATA[LangDAO, How It Works🦜🔗<br><br>- Claim FREE $LANG now, registration LIMITED<br>- Hold $LANG to join our DAO<br>- DAO members make key project decisions<br>- Get exclusive rewards &amp; content<br><br>Claim your share of $LANG, and your seat below 👇 https://langchain.fi]]></description>
+            <pubDate>Sat, 20 Jan 2024 00:27:41 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748502523621568728</guid>
+            <link>https://twitter.com/LangChainAI/status/1748502523621568728</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Get on board with LangDAO – we're quickly nearing full capacity!🔑 Take your chance join a thriving community at the crossroads of AI and web3. Wit...]]></title>
+            <description><![CDATA[Get on board with LangDAO – we're quickly nearing full capacity!🔑<br><br>Take your chance join a thriving community at the crossroads of AI and web3. With only a few spots left, time is of the essence<br><br>Claim your seat below 👇<br>https://langchain.fi]]></description>
+            <pubDate>Sat, 20 Jan 2024 00:13:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748498899596083549</guid>
+            <link>https://twitter.com/LangChainAI/status/1748498899596083549</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LangDAO's journey is racing ahead – our community is nearly at capacity! This is your moment to join a unique blend of AI and web3 worlds. With limit...]]></title>
+            <description><![CDATA[LangDAO's journey is racing ahead – our community is nearly at capacity! <br><br>This is your moment to join a unique blend of AI and web3 worlds. With limited spots, you'll want to jump in fast.<br><br>Join us, and claim your $LANG share below:<br>https://langchain.fi]]></description>
+            <pubDate>Fri, 19 Jan 2024 23:28:55 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748487734732185783</guid>
+            <link>https://twitter.com/LangChainAI/status/1748487734732185783</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LangDAO does not hesitate - It's filling up fast💨 Take this limited-time opportunity to be part of a dynamic blend of AI and web3 communities. Hurr...]]></title>
+            <description><![CDATA[LangDAO does not hesitate - It's filling up fast💨<br><br>Take this limited-time opportunity to be part of a dynamic blend of AI and web3 communities. Hurry, as spots are being snapped up quickly!<br><br>Claim your share of $LANG here:<br>https://langchain.fi]]></description>
+            <pubDate>Fri, 19 Jan 2024 23:09:55 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748482953183625501</guid>
+            <link>https://twitter.com/LangChainAI/status/1748482953183625501</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LangDAO is on fire – 65% of our DAO is already filled! 🧯🔥 This limited-time opportunity won't last, with only a few spots left. Join the exciti...]]></title>
+            <description><![CDATA[LangDAO is on fire – 65% of our DAO is already filled! 🧯🔥<br><br>This limited-time opportunity won't last, with only a few spots left. Join the exciting mix of AI and web3 communities now before it's too late!<br><br>Claim your share, and spot here:<br>https://langchain.fi]]></description>
+            <pubDate>Fri, 19 Jan 2024 22:58:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748480022887702888</guid>
+            <link>https://twitter.com/LangChainAI/status/1748480022887702888</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LangDAO, full speed ahead ➡ LangDAO's launch is a hit – we're excited to say we've already filled 50% of the DAO! It's a limited-time opportunity wi...]]></title>
+            <description><![CDATA[LangDAO, full speed ahead ➡<br><br>LangDAO's launch is a hit – we're excited to say we've already filled 50% of the DAO! It's a limited-time opportunity with limited spots available.<br><br>Claim your share below 👇<br>https://langchain.fi]]></description>
+            <pubDate>Fri, 19 Jan 2024 22:10:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748468034606416227</guid>
+            <link>https://twitter.com/LangChainAI/status/1748468034606416227</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The LangDAO launch is going great! 🎉 We've already filled up 30% of the DAO. It was a really good move to mix our AI community with the web3 folks....]]></title>
+            <description><![CDATA[The LangDAO launch is going great! 🎉<br><br>We've already filled up 30% of the DAO. It was a really good move to mix our AI community with the web3 folks.<br><br>You can claim your share of $LANG and your voting rights here:<br>https://langchain.fi]]></description>
+            <pubDate>Fri, 19 Jan 2024 21:55:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748464204971937797</guid>
+            <link>https://twitter.com/LangChainAI/status/1748464204971937797</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The LangDAO launch has been a success so far. Meeting new people and combining the web3 community with our AI community was the best decision ever! Yo...]]></title>
+            <description><![CDATA[The LangDAO launch has been a success so far. Meeting new people and combining the web3 community with our AI community was the best decision ever!<br><br>You can still claim your share of $LANG and your voting rights below 👇<br>https://langchain.fi]]></description>
+            <pubDate>Fri, 19 Jan 2024 21:33:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748458606163333422</guid>
+            <link>https://twitter.com/LangChainAI/status/1748458606163333422</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔎Introducing LangDAO: A community-driven DAO revolutionizing Web3 with AI! You can get involved for FREE. Secure your $LANG tokens and voting right...]]></title>
+            <description><![CDATA[🔎Introducing LangDAO:<br><br>A community-driven DAO revolutionizing Web3 with AI! You can get involved for FREE.<br><br>Secure your $LANG tokens and voting rights below👇<br>https://langchain.fi https://twitter.com/i/web/status/1748450583579594913]]></description>
+            <pubDate>Fri, 19 Jan 2024 21:01:18 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748450583579594913</guid>
+            <link>https://twitter.com/LangChainAI/status/1748450583579594913</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Agent Toolkits: MultiON MultiON recently came out of stealth, and has shown impressive long-horizon agent planning / execution: https://x.com/DivGarg9...]]></title>
+            <description><![CDATA[Agent Toolkits: MultiON<br><br>MultiON recently came out of stealth, and has shown impressive long-horizon agent planning / execution:<br><br>https://x.com/DivGarg9/status/1747683043446579416?s=20<br><br>It's absolutely worth trying as an agent that can perform open-ended tasks. And if you already have workflows using LangChain… https://twitter.com/i/web/status/1748404710686785629<br><video src="https://video.twimg.com/ext_tw_video/1748403736131862528/pu/vid/avc1/1654x720/dmH4bLJ1VFflwSvf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1748403736131862528/pu/img/wwEAAh-MORZKZ5CV.jpg"></video><div class="rsshub-quote"><br><br>Div Garg: We just solved the long-horizon planning &amp; execution issue with Agents 🤯!<br><br>Excited to announce that @MultiON_AI can now take actions well over 500+ steps without loosing context &amp; cross-operate on 10+ websites as part of a single task 🤩!!<br><br>Our latest upgrade cracks the goal… https://twitter.com/i/web/status/1747683043446579416<br><br><video src="https://video.twimg.com/ext_tw_video/1747677524342300673/pu/vid/avc1/1728x1080/-sDzAtsAEvLaTPn6.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1747677524342300673/pu/img/QpybdLd357Ynb3v9.jpg"></video></div>]]></description>
+            <pubDate>Fri, 19 Jan 2024 17:59:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748404710686785629</guid>
+            <link>https://twitter.com/LangChainAI/status/1748404710686785629</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re Check it out here: https://python.langchain.com/docs/integrations/chat/google_vertex_ai_palm#function-calling-with-gemini]]></title>
+            <description><![CDATA[Re Check it out here: https://python.langchain.com/docs/integrations/chat/google_vertex_ai_palm#function-calling-with-gemini]]></description>
+            <pubDate>Fri, 19 Jan 2024 17:54:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748403680423117309</guid>
+            <link>https://twitter.com/LangChainAI/status/1748403680423117309</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔎 Structured Outputs with Google Gemini One of the killer features of OpenAI models is function calling - which allows you to structure the respons...]]></title>
+            <description><![CDATA[🔎 Structured Outputs with Google Gemini<br><br>One of the killer features of OpenAI models is function calling - which allows you to structure the responses of the LLM.<br><br>Google Gemini supports the same type of function calling - and we've now added a chain to make it super easy in… https://twitter.com/i/web/status/1748403680423117309]]></description>
+            <pubDate>Fri, 19 Jan 2024 17:54:55 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748403680423117309</guid>
+            <link>https://twitter.com/LangChainAI/status/1748403680423117309</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🌲 Pinecone Serverless 🤝 LangChain JS 🌲 You can now use brand new @pinecone serverless vectorstores with @LangChainAI 🦜🔗 J...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🌲&nbsp;Pinecone Serverless 🤝 LangChain JS 🌲<br><br>You can now use brand new @pinecone serverless vectorstores with @LangChainAI 🦜🔗 JS/TS via a new integration package!<br><br>It supports all the latest features, plus existing indexes.<br><br>Thank you @zackproser:<br><br>https://js.langchain.com/docs/integrations/vectorstores/pinecone<br><img style="" src="https://pbs.twimg.com/media/GENzBpuWUAAtpWR?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 19 Jan 2024 16:17:48 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/Hacubu/status/1748379237076140487</guid>
+            <link>https://twitter.com/Hacubu/status/1748379237076140487</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT AI Makerspace: Are you ready to demystify evaluating RAG applications? Join us on Wed. Feb. 7 at 10 AM PT for the deep dive on the black art of RAG...]]></title>
+            <description><![CDATA[RT AI Makerspace<br>Are you ready to demystify evaluating RAG applications?<br><br>Join us on Wed. Feb. 7 at 10 AM PT for the deep dive on the black art of RAG eval you’ve been waiting for! <br><br>Special thanks to @LangChainAI and RAGAS for partnering with us on this event!<br><br>RSVP: https://bit.ly/4bgmLc3]]></description>
+            <pubDate>Fri, 19 Jan 2024 02:00:04 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/AIMakerspace/status/1748163383029907813</guid>
+            <link>https://twitter.com/AIMakerspace/status/1748163383029907813</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Richard Socher: Some open source examples for how to make your own LLM be more accurate, up-to-date and verifiable. Awesome to see these integratio...]]></title>
+            <description><![CDATA[RT Richard Socher<br>Some open source examples for how to make your own LLM be more accurate, up-to-date and verifiable.<br><br>Awesome to see these integrations with @pinecone @LangChainAI @togethercompute <br><br>Link in the follow-up tweet.<br><img style="" src="https://pbs.twimg.com/media/GEKTSbvaYAAQd26?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 18 Jan 2024 23:19:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/RichardSocher/status/1748122877931761755</guid>
+            <link>https://twitter.com/RichardSocher/status/1748122877931761755</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🕸️LangGraph JS The JavaScript version of LangGraph is now live! Same interface and concepts as the python version Repo: https://github.com/lan...]]></title>
+            <description><![CDATA[🦜🕸️LangGraph JS<br><br>The JavaScript version of LangGraph is now live! Same interface and concepts as the python version<br><br>Repo: https://github.com/langchain-ai/langgraphjs/<br><br>Blog: https://blog.langchain.dev/langgraph/<br><br>YouTube: https://www.youtube.com/watch?v=5h-JBkySK34&amp;list=PLfaIDFEXuae16n2TWUkKq5PgJ0w6Pkwtg]]></description>
+            <pubDate>Thu, 18 Jan 2024 21:10:16 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748090453940191728</guid>
+            <link>https://twitter.com/LangChainAI/status/1748090453940191728</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Brace: 🦜🕸️LangGraph JS Released LangGraph makes it easy to modify agent runtimes with @LangChainAI. So far in JS we have a couple examples t...]]></title>
+            <description><![CDATA[RT Brace<br>🦜🕸️LangGraph JS Released <br><br>LangGraph makes it easy to modify agent runtimes with @LangChainAI. So far in JS we have a couple examples to help you get started:<br><br>🤖Example of replicating the LangChain AgentExecutor<br>📷A chat agent executor (aimed specifically at chat models)<br><br>Super… https://twitter.com/i/web/status/1748085262218055790<br><img style="" src="https://pbs.twimg.com/media/GEJUyOBbAAAnmXD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 18 Jan 2024 20:49:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/BraceSproul/status/1748085262218055790</guid>
+            <link>https://twitter.com/BraceSproul/status/1748085262218055790</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Plotly: Congratulations to Troy Scribner, the first-place winner of the Plotly-LangChain Community App Challenge! 🥇 Troy created StockNews, comb...]]></title>
+            <description><![CDATA[RT Plotly<br>Congratulations to Troy Scribner, the first-place winner of the Plotly-LangChain Community App Challenge!&nbsp;🥇<br><br>Troy created StockNews, combining Plotly Dash with @LangChainAI  and @ChatGPTapp  to answer questions about current stock market news for companies in the S&amp;P500. The app… https://twitter.com/i/web/status/1748069001677402117<br><img style="" src="https://pbs.twimg.com/media/GEJjejGb0AABrR5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 18 Jan 2024 19:45:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/plotlygraphs/status/1748069001677402117</guid>
+            <link>https://twitter.com/plotlygraphs/status/1748069001677402117</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Tomaz Bratanic: LLMs can be brittle at generating Cypher, even if you use GPT-4. In my latest blog post, I have written about ensuring robustness o...]]></title>
+            <description><![CDATA[RT Tomaz Bratanic<br>LLMs can be brittle at generating Cypher, even if you use GPT-4. In my latest blog post, I have written about ensuring robustness of LLMs interacting with a knowledge graph through the implementation of semantic layers with @LangChainAI and @neo4j.<br><br>https://medium.com/towards-data-science/enhancing-interaction-between-language-models-and-graph-databases-via-a-semantic-layer-0a78ad3eba49]]></description>
+            <pubDate>Thu, 18 Jan 2024 19:15:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/tb_tomaz/status/1748061596784488845</guid>
+            <link>https://twitter.com/tb_tomaz/status/1748061596784488845</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[♠️SPADE: Synthesizing Assertions for Large Language Model Pipelines SPADE analyzes prompt version histories to create candidate assertion functions ...]]></title>
+            <description><![CDATA[♠️SPADE: Synthesizing Assertions for Large Language Model Pipelines<br><br>SPADE analyzes prompt version histories to create candidate assertion functions and then selects a minimal set that fulfills both coverage and accuracy requirements. <br><br>https://arxiv.org/abs/2401.03038<br><img style="" src="https://pbs.twimg.com/media/GEAOYSJbIAAB2BT?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 18 Jan 2024 17:18:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1748031999724683599</guid>
+            <link>https://twitter.com/LangChainAI/status/1748031999724683599</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
