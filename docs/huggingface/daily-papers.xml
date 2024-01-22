@@ -15,88 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 22 Jan 2024 04:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 02:37:17 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Zero Bubble Pipeline Parallelism]]></title>
-            <description><![CDATA[Pipeline parallelism is one of the key components for large-scale distributed training, yet its efficiency suffers from pipeline bubbles which were deemed inevitable. In this work, we introduce a scheduling strategy that, to our knowledge, is the first to successfully achieve zero pipeline bubbles under synchronous training semantics. The key idea behind this improvement is to split the backward computation into two parts, one that computes gradient for the input and another that computes for the parameters. Based on this idea, we handcraft novel pipeline schedules that significantly outperform the baseline methods. We further develop an algorithm that automatically finds an optimal schedule based on specific model configuration and memory limit. Additionally, to truly achieve zero bubble, we introduce a novel technique to bypass synchronizations during the optimizer step. Experimental evaluations show that our method outperforms the 1F1B schedule up to 23% in throughput under a similar memory limit. This number can be further pushed to 31% when the memory constraint is relaxed. We believe our results mark a major step forward in harnessing the true potential of pipeline parallelism. We open sourced our implementation based on the popular Megatron-LM repository on https://github.com/sail-sg/zero-bubble-pipeline-parallelism.]]></description>
-            <pubDate>Mon, 22 Jan 2024 04:35:19 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10241</guid>
-            <link>https://arxiv.org/abs/2401.10241</link>
-            
-            
-            
-            <author><![CDATA[Penghui Qi, Xinyi Wan, Guangxing Huang, Min Lin]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Understanding Video Transformers via Universal Concept Discovery]]></title>
-            <description><![CDATA[This paper studies the problem of concept-based interpretability of transformer representations for videos. Concretely, we seek to explain the decision-making process of video transformers based on high-level, spatiotemporal concepts that are automatically discovered. Prior research on concept-based interpretability has concentrated solely on image-level tasks. Comparatively, video models deal with the added temporal dimension, increasing complexity and posing challenges in identifying dynamic concepts over time. In this work, we systematically address these challenges by introducing the first Video Transformer Concept Discovery (VTCD) algorithm. To this end, we propose an efficient approach for unsupervised identification of units of video transformer representations - concepts, and ranking their importance to the output of a model. The resulting concepts are highly interpretable, revealing spatio-temporal reasoning mechanisms and object-centric representations in unstructured video models. Performing this analysis jointly over a diverse set of supervised and self-supervised representations, we discover that some of these mechanism are universal in video transformers. Finally, we demonstrate that VTCDcan be used to improve model performance for fine-grained tasks.]]></description>
-            <pubDate>Mon, 22 Jan 2024 04:32:44 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10831</guid>
-            <link>https://arxiv.org/abs/2401.10831</link>
-            
-            
-            
-            <author><![CDATA[Matthew Kowal, Achal Dave, Rares Ambrus, Adrien Gaidon, Konstantinos G. Derpanis, Pavel Tokmakov]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data]]></title>
-            <description><![CDATA[This work presents Depth Anything, a highly practical solution for robust monocular depth estimation. Without pursuing novel technical modules, we aim to build a simple yet powerful foundation model dealing with any images under any circumstances. To this end, we scale up the dataset by designing a data engine to collect and automatically annotate large-scale unlabeled data (~62M), which significantly enlarges the data coverage and thus is able to reduce the generalization error. We investigate two simple yet effective strategies that make data scaling-up promising. First, a more challenging optimization target is created by leveraging data augmentation tools. It compels the model to actively seek extra visual knowledge and acquire robust representations. Second, an auxiliary supervision is developed to enforce the model to inherit rich semantic priors from pre-trained encoders. We evaluate its zero-shot capabilities extensively, including six public datasets and randomly captured photos. It demonstrates impressive generalization ability. Further, through fine-tuning it with metric depth information from NYUv2 and KITTI, new SOTAs are set. Our better depth model also results in a better depth-conditioned ControlNet. Our models are released at https://github.com/LiheYoung/Depth-Anything.]]></description>
-            <pubDate>Mon, 22 Jan 2024 03:59:40 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10891</guid>
-            <link>https://arxiv.org/abs/2401.10891</link>
-            
-            
-            
-            <author><![CDATA[Lihe Yang, Bingyi Kang, Zilong Huang, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Synthesizing Moving People with 3D Control]]></title>
-            <description><![CDATA[In this paper, we present a diffusion model-based framework for animating people from a single image for a given target 3D motion sequence. Our approach has two core components: a) learning priors about invisible parts of the human body and clothing, and b) rendering novel body poses with proper clothing and texture. For the first part, we learn an in-filling diffusion model to hallucinate unseen parts of a person given a single image. We train this model on texture map space, which makes it more sample-efficient since it is invariant to pose and viewpoint. Second, we develop a diffusion-based rendering pipeline, which is controlled by 3D human poses. This produces realistic renderings of novel poses of the person, including clothing, hair, and plausible in-filling of unseen regions. This disentangled approach allows our method to generate a sequence of images that are faithful to the target motion in the 3D pose and, to the input image in terms of visual similarity. In addition to that, the 3D control allows various synthetic camera trajectories to render a person. Our experiments show that our method is resilient in generating prolonged motions and varied challenging and complex poses compared to prior methods. Please check our website for more details: https://boyiliee.github.io/3DHM.github.io/.]]></description>
-            <pubDate>Mon, 22 Jan 2024 03:43:23 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10889</guid>
-            <link>https://arxiv.org/abs/2401.10889</link>
-            
-            
-            
-            <author><![CDATA[Boyi Li, Jathushan Rajasegaran, Yossi Gandelsman, Alexei A. Efros, Jitendra Malik]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ActAnywhere: Subject-Aware Video Background Generation]]></title>
-            <description><![CDATA[Generating video background that tailors to foreground subject motion is an important problem for the movie industry and visual effects community. This task involves synthesizing background that aligns with the motion and appearance of the foreground subject, while also complies with the artist's creative intention. We introduce ActAnywhere, a generative model that automates this process which traditionally requires tedious manual efforts. Our model leverages the power of large-scale video diffusion models, and is specifically tailored for this task. ActAnywhere takes a sequence of foreground subject segmentation as input and an image that describes the desired scene as condition, to produce a coherent video with realistic foreground-background interactions while adhering to the condition frame. We train our model on a large-scale dataset of human-scene interaction videos. Extensive evaluations demonstrate the superior performance of our model, significantly outperforming baselines. Moreover, we show that ActAnywhere generalizes to diverse out-of-distribution samples, including non-human subjects. Please visit our project webpage at https://actanywhere.github.io.]]></description>
-            <pubDate>Mon, 22 Jan 2024 03:37:01 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.10822</guid>
-            <link>https://arxiv.org/abs/2401.10822</link>
-            
-            
-            
-            <author><![CDATA[Boxiao Pan, Zhan Xu, Chun-Hao Paul Huang, Krishna Kumar Singh, Yang Zhou, Leonidas J. Guibas, Jimei Yang]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads]]></title>
