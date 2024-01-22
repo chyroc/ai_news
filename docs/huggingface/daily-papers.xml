@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 22 Jan 2024 04:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 06:42:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Rambler: Supporting Writing With Speech via LLM-Assisted Gist Manipulation]]></title>
+            <description><![CDATA[Dictation enables efficient text input on mobile devices. However, writing with speech can produce disfluent, wordy, and incoherent text and thus requires heavy post-processing. This paper presents Rambler, an LLM-powered graphical user interface that supports gist-level manipulation of dictated text with two main sets of functions: gist extraction and macro revision. Gist extraction generates keywords and summaries as anchors to support the review and interaction with spoken text. LLM-assisted macro revisions allow users to respeak, split, merge and transform dictated text without specifying precise editing locations. Together they pave the way for interactive dictation and revision that help close gaps between spontaneous spoken words and well-structured writing. In a comparative study with 12 participants performing verbal composition tasks, Rambler outperformed the baseline of a speech-to-text editor + ChatGPT, as it better facilitates iterative revisions with enhanced user control over the content while supporting surprisingly diverse user strategies.]]></description>
+            <pubDate>Mon, 22 Jan 2024 04:50:42 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.10838</guid>
+            <link>https://arxiv.org/abs/2401.10838</link>
+            
+            
+            
+            <author><![CDATA[Susan Lin, Jeremy Warner, J. D. Zamfirescu-Pereira, Matthew G. Lee, Sauhard Jain, Michael Xuelin Huang, Piyawat Lertvittayakumjorn, Shanqing Cai, Shumin Zhai, Björn Hartmann, Can Liu]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Zero Bubble Pipeline Parallelism]]></title>
