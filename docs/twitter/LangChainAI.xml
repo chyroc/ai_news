@@ -21,56 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 24 Jan 2024 20:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 18:14:00 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: Had a 🔥 time live with @crtr0 and Alex Leventer on using @DataStax AstraDB, @LangChainAI, and @vercel to build WikiChat! ICYMI, watch...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>Had a 🔥 time live with @crtr0 and Alex Leventer on using @DataStax AstraDB, @LangChainAI, and @vercel to build WikiChat!<br><br>ICYMI, watch the VOD, read about it in the blog, or try it! Super interesting ingest pipeline too:<br><br>https://www.datastax.com/blog/wikipedia-chatbot-using-astradb-langchain-and-vercel<br><br>https://wikich.at]]></description>
-            <pubDate>Wed, 24 Jan 2024 19:35:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750241184822493245</guid>
-            <link>https://twitter.com/LangChainAI/status/1750241184822493245</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Cobus Greyling: Visualise & Discover RAG Data RAGxplorer is a web-based GUI for importing, chunking, mapping & exploring semantic similarity. RAGxp...]]></title>
-            <description><![CDATA[RT Cobus Greyling<br>Visualise &amp; Discover RAG Data<br><br>RAGxplorer is a web-based GUI for importing, chunking, mapping &amp; exploring semantic similarity.  <br><br>RAGxplorer is a work in progress, and a number of improvements came to mind. <br><br>But it is a very timely development, considering the necessary focus…<br><video src="https://video.twimg.com/ext_tw_video/1750236106002460672/pu/vid/avc1/1264x720/x-nlnLp2nnh-iWzW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1750236106002460672/pu/img/d2WfQPKjx-BeErtP.jpg"></video>]]></description>
-            <pubDate>Wed, 24 Jan 2024 19:21:37 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750239165432914391</guid>
-            <link>https://twitter.com/LangChainAI/status/1750239165432914391</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤖Agent Toolkits: SQL Agents offer a natural language interface over SQL DBs: 1⃣ The agent converts natural language questions to SQL 2⃣ SQL query...]]></title>
-            <description><![CDATA[🤖Agent Toolkits: SQL<br><br>Agents offer a natural language interface over SQL DBs:<br><br>1⃣ The agent converts natural language questions to SQL<br>2⃣ SQL query is executed by the agent<br>3⃣The agent summarizes results from SQL query execution<br><br>We've recently updated our SQL agent toolkit…<br><img style="" src="https://pbs.twimg.com/media/GEoOGgRb0AATynb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 24 Jan 2024 18:40:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750226984633032774</guid>
-            <link>https://twitter.com/LangChainAI/status/1750226984633032774</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Brace: 🧠 AWS Knowledge Bases For RAG 🧠 AWS Knowledge Base for Bedrock is a fully managed system for RAG applications and private data retriev...]]></title>
@@ -158,6 +110,54 @@
             <pubDate>Wed, 24 Jan 2024 16:31:10 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1749981121654210676</guid>
             <link>https://twitter.com/LangChainAI/status/1749981121654210676</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT DataStax: Today's the day! See how to build a real-time RAG app on Wikipedia with @LangChainAI, @Vercel, and Astra DB. 🤩🎥 Catch the livestrea...]]></title>
+            <description><![CDATA[RT DataStax<br>Today's the day! See how to build a real-time RAG app on Wikipedia with @LangChainAI, @Vercel, and Astra DB. 🤩🎥<br><br>Catch the livestream here on X at 10 am PST.<div class="rsshub-quote"><br><br>DataStax: If you’re a #JavaScript or web developer who’s new to GenAI, this is for you.  ⬇️<br><br>On Jan 24 we’re streaming LIVE with @LangChainAI's @Hacubu to build a RAG application with LangChainJS, @Vercel and Astra DB. <br><br>Save your spot: https://dtsx.io/3SnIkQu #DataStax #VectorDB #RAG<br><br><img style="" src="https://pbs.twimg.com/media/GENeXBYXQAAG7F-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 24 Jan 2024 15:24:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750193564502647045</guid>
+            <link>https://twitter.com/LangChainAI/status/1750193564502647045</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT kar!s: I received an invitation to langsmith, this means so much to my SaaS, thank you so much @hwchase17 and @langChainAI team 🙏.]]></title>
+            <description><![CDATA[RT kar!s<br>I received an invitation to langsmith, this means so much to my SaaS, thank you so much @hwchase17 and @langChainAI team 🙏.<br><img style="" src="https://pbs.twimg.com/media/GElz7D2WIAA2-p5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 24 Jan 2024 07:26:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750194058457399501</guid>
+            <link>https://twitter.com/LangChainAI/status/1750194058457399501</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: Had a great time at tonight's @ollama OSS meetup! Great conversations & talks: ✨@RLanceMartin on @LangChainAI use cases where local mod...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>Had a great time at tonight's @ollama OSS meetup! Great conversations &amp; talks:<br><br>✨@RLanceMartin on @LangChainAI  use cases where local models shine<br>🦙 @pdev110: custom modelfiles<br>🔎 @jerryjliu0: reranking for RAG<br>🔈@zeke: tl;dr for long audiobooks<br><br>Can't wait for the next one!<br><img style="" src="https://pbs.twimg.com/media/GElK0QeW4AAeQBK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GElK0QgWQAErPHW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GElK0QcXMAEQwhn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 24 Jan 2024 04:26:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750194206067606008</guid>
+            <link>https://twitter.com/LangChainAI/status/1750194206067606008</link>
             
             
             
