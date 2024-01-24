@@ -21,8 +21,24 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Tue, 23 Jan 2024 21:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 23:27:36 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Graph transformers are important for ML on graph-structured data, but scaling them up for large graphs is difficult. Here you can learn about Exphorme...]]></title>
+            <description><![CDATA[Graph transformers are important for ML on graph-structured data, but scaling them up for large graphs is difficult. Here you can learn about Exphormer, a sparse attention framework that uses expander graphs to improve scalability for graph transformers. https://goo.gle/48JVvAW<br><video src="https://video.twimg.com/tweet_video/GEj6PpNW8AAQQoy.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GEj6PpNW8AAQQoy.jpg"></video>]]></description>
+            <pubDate>Tue, 23 Jan 2024 22:35:18 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1749923791629627641</guid>
+            <link>https://twitter.com/GoogleAI/status/1749923791629627641</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[As the race to build the world's first truly useful quantum computer intensifies, so does the need for clear-eyed assessment. In this episode of Field...]]></title>
@@ -302,22 +318,6 @@
             <pubDate>Fri, 22 Dec 2023 18:50:32 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1738270815676674467</guid>
             <link>https://twitter.com/GoogleAI/status/1738270815676674467</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Magic Eraser now uses gen AI to fill in detail when users remove unwanted objects from photos. Google Research worked on the MaskGIT generative image ...]]></title>
-            <description><![CDATA[Magic Eraser now uses gen AI to fill in detail when users remove unwanted objects from photos. Google Research worked on the MaskGIT generative image transformer for inpainting, and improved segmentation to include shadows and objects attached to people.<br><video src="https://video.twimg.com/ext_tw_video/1737968195976499201/pu/vid/avc1/1080x608/P-yagGO7z8e0sfay.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1737968195976499201/pu/img/J1_ELMSX4ZLKI85K.jpg"></video>]]></description>
-            <pubDate>Thu, 21 Dec 2023 22:49:32 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1737968573828763873</guid>
-            <link>https://twitter.com/GoogleAI/status/1737968573828763873</link>
             
             
             
