@@ -21,40 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 25 Jan 2024 21:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 18:45:39 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[✒️10 Lessons from Developing an AI Chatbot Using Retrieval-Augmented Generation A great blog from @fiddlerlabs goes through ten lessons learned when...]]></title>
-            <description><![CDATA[✒️10 Lessons from Developing an AI Chatbot Using Retrieval-Augmented Generation<br><br>A great blog from @fiddlerlabs goes through ten lessons learned when building a chatbot using RAG<br><br>Covers a LOT of content - check it out!<br><br>https://www.fiddler.ai/resources/10-lessons-from-developing-an-ai-chatbot-using-retrieval-augmented-generation<br><img style="" src="https://pbs.twimg.com/media/GEtktwva0AMqmaR?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 25 Jan 2024 19:36:53 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750603665810051535</guid>
-            <link>https://twitter.com/LangChainAI/status/1750603665810051535</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Nazeem: 🤪🦙Dialoqbase supports Telegram integration. Here is an example of chatting with a local model using .@ollama on a Telegram bot Powere...]]></title>
-            <description><![CDATA[RT Nazeem<br>🤪🦙Dialoqbase supports Telegram integration. Here is an example of chatting with a local model using .@ollama  on a Telegram bot<br><br>Powered by @LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1750588561261215744/pu/vid/avc1/1280x720/EeNq7MIXsti05cZR.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1750588561261215744/pu/img/mDtCO1xLpQndb_Iv.jpg"></video>]]></description>
-            <pubDate>Thu, 25 Jan 2024 18:38:32 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750603723003564518</guid>
-            <link>https://twitter.com/LangChainAI/status/1750603723003564518</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: 📇 JavaScript Indexing API for RAG 📇 There's a new way to load and sync your docs with a vectorstore in @LangChainAI 🦜🔗 JS/TS...]]></title>
@@ -254,6 +222,38 @@
             <pubDate>Wed, 24 Jan 2024 16:33:39 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1749604321665118706</guid>
             <link>https://twitter.com/LangChainAI/status/1749604321665118706</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT DataStax: Learn how we built WikiChat — a Wikipedia chatbot using Astra DB, @LangChainAI and @Vercel 🤖💬 Check out the technical teardown: ht...]]></title>
+            <description><![CDATA[RT DataStax<br>Learn how we built WikiChat —&nbsp;a Wikipedia chatbot using Astra DB, @LangChainAI and @Vercel 🤖💬<br><br>Check out the technical teardown: https://dtsx.io/3HreGU6 <br><br>#AIChatbot #RetrievalAugmentedGeneration #VectorDB<br><img style="" src="https://pbs.twimg.com/media/GEiNsN8agAEJ51C?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 23 Jan 2024 14:40:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750194985247605062</guid>
+            <link>https://twitter.com/LangChainAI/status/1750194985247605062</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT lane: Re @obsdmd vault + @NotionHQ dump + @MistralAI via @LangChainAI ... this should be fun. How smart can my little assistant get? What else can ...]]></title>
+            <description><![CDATA[RT lane<br>Re @obsdmd vault + @NotionHQ dump + @MistralAI via @LangChainAI  ... this should be fun. How smart can my little assistant get?  What else can I do to improve the responses?<br><br>Can I add this to @raycastapp or something and tie it into my workflow? Is anyone doing this already?]]></description>
+            <pubDate>Tue, 23 Jan 2024 01:25:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750195116940415016</guid>
+            <link>https://twitter.com/LangChainAI/status/1750195116940415016</link>
             
             
             
