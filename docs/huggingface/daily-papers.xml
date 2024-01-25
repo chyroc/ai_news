@@ -15,19 +15,163 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 25 Jan 2024 03:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 01:54:12 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion]]></title>
-            <description><![CDATA[Existing text-to-image diffusion models primarily generate images from text prompts. However, the inherent conciseness of textual descriptions poses challenges in faithfully synthesizing images with intricate details, such as specific entities or scenes. This paper presents UNIMO-G, a simple multimodal conditional diffusion framework that operates on multimodal prompts with interleaved textual and visual inputs, which demonstrates a unified ability for both text-driven and subject-driven image generation. UNIMO-G comprises two core components: a Multimodal Large Language Model (MLLM) for encoding multimodal prompts, and a conditional denoising diffusion network for generating images based on the encoded multimodal input. We leverage a two-stage training strategy to effectively train the framework: firstly pre-training on large-scale text-image pairs to develop conditional image generation capabilities, and then instruction tuning with multimodal prompts to achieve unified image generation proficiency. A well-designed data processing pipeline involving language grounding and image segmentation is employed to construct multi-modal prompts. UNIMO-G excels in both text-to-image generation and zero-shot subject-driven synthesis, and is notably effective in generating high-fidelity images from complex multimodal prompts involving multiple image entities.]]></description>
-            <pubDate>Thu, 25 Jan 2024 03:02:39 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.13388</guid>
-            <link>https://arxiv.org/abs/2401.13388</link>
+            <title><![CDATA[GALA: Generating Animatable Layered Assets from a Single Scan]]></title>
+            <description><![CDATA[We present GALA, a framework that takes as input a single-layer clothed 3D human mesh and decomposes it into complete multi-layered 3D assets. The outputs can then be combined with other assets to create novel clothed human avatars with any pose. Existing reconstruction approaches often treat clothed humans as a single-layer of geometry and overlook the inherent compositionality of humans with hairstyles, clothing, and accessories, thereby limiting the utility of the meshes for downstream applications. Decomposing a single-layer mesh into separate layers is a challenging task because it requires the synthesis of plausible geometry and texture for the severely occluded regions. Moreover, even with successful decomposition, meshes are not normalized in terms of poses and body shapes, failing coherent composition with novel identities and poses. To address these challenges, we propose to leverage the general knowledge of a pretrained 2D diffusion model as geometry and appearance prior for humans and other assets. We first separate the input mesh using the 3D surface segmentation extracted from multi-view 2D segmentations. Then we synthesize the missing geometry of different layers in both posed and canonical spaces using a novel pose-guided Score Distillation Sampling (SDS) loss. Once we complete inpainting high-fidelity 3D geometry, we also apply the same SDS loss to its texture to obtain the complete appearance including the initially occluded regions. Through a series of decomposition steps, we obtain multiple layers of 3D assets in a shared canonical space normalized in terms of poses and human shapes, hence supporting effortless composition to novel identities and reanimation with novel poses. Our experiments demonstrate the effectiveness of our approach for decomposition, canonicalization, and composition tasks compared to existing solutions.]]></description>
+            <pubDate>Wed, 24 Jan 2024 04:14:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12979</guid>
+            <link>https://arxiv.org/abs/2401.12979</link>
             
             
             
-            <author><![CDATA[Wei Li, Xue Xu, Jiachen Liu, Xinyan Xiao]]></author>
+            <author><![CDATA[Taeksoo Kim, Byungjun Kim, Shunsuke Saito, Hanbyul Joo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lumiere: A Space-Time Diffusion Model for Video Generation]]></title>
+            <description><![CDATA[We introduce Lumiere -- a text-to-video diffusion model designed for synthesizing videos that portray realistic, diverse and coherent motion -- a pivotal challenge in video synthesis. To this end, we introduce a Space-Time U-Net architecture that generates the entire temporal duration of the video at once, through a single pass in the model. This is in contrast to existing video models which synthesize distant keyframes followed by temporal super-resolution -- an approach that inherently makes global temporal consistency difficult to achieve. By deploying both spatial and (importantly) temporal down- and up-sampling and leveraging a pre-trained text-to-image diffusion model, our model learns to directly generate a full-frame-rate, low-resolution video by processing it in multiple space-time scales. We demonstrate state-of-the-art text-to-video generation results, and show that our design easily facilitates a wide range of content creation tasks and video editing applications, including image-to-video, video inpainting, and stylized generation.]]></description>
+            <pubDate>Wed, 24 Jan 2024 03:36:49 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12945</guid>
+            <link>https://arxiv.org/abs/2401.12945</link>
+            
+            
+            
+            <author><![CDATA[Omer Bar-Tal, Hila Chefer, Omer Tov, Charles Herrmann, Roni Paiss, Shiran Zada, Ariel Ephrat, Junhwa Hur, Yuanzhen Li, Tomer Michaeli, Oliver Wang, Deqing Sun, Tali Dekel, Inbar Mosseri]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents]]></title>
+            <description><![CDATA[Foundation models that incorporate language, vision, and more recently actions have revolutionized the ability to harness internet scale data to reason about useful tasks. However, one of the key challenges of training embodied foundation models is the lack of data grounded in the physical world. In this paper, we propose AutoRT, a system that leverages existing foundation models to scale up the deployment of operational robots in completely unseen scenarios with minimal human supervision. AutoRT leverages vision-language models (VLMs) for scene understanding and grounding, and further uses large language models (LLMs) for proposing diverse and novel instructions to be performed by a fleet of robots. Guiding data collection by tapping into the knowledge of foundation models enables AutoRT to effectively reason about autonomy tradeoffs and safety while significantly scaling up data collection for robot learning. We demonstrate AutoRT proposing instructions to over 20 robots across multiple buildings and collecting 77k real robot episodes via both teleoperation and autonomous robot policies. We experimentally show that such "in-the-wild" data collected by AutoRT is significantly more diverse, and that AutoRT's use of LLMs allows for instruction following data collection robots that can align to human preferences.]]></description>
+            <pubDate>Wed, 24 Jan 2024 03:22:56 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12963</guid>
+            <link>https://arxiv.org/abs/2401.12963</link>
+            
+            
+            
+            <author><![CDATA[Michael Ahn, Debidatta Dwibedi, Chelsea Finn, Montse Gonzalez Arenas, Keerthana Gopalakrishnan, Karol Hausman, Brian Ichter, Alex Irpan, Nikhil Joshi, Ryan Julian, Sean Kirmani, Isabel Leal, Edward Lee, Sergey Levine, Yao Lu, Isabel Leal, Sharath Maddineni, Kanishka Rao, Dorsa Sadigh, Pannag Sanketi, Pierre Sermanet, Quan Vuong, Stefan Welker, Fei Xia, Ted Xiao, Peng Xu, Steve Xu, Zhuo Xu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Multilingual and Fully Non-Autoregressive ASR with Large Language Model Fusion: A Comprehensive Study]]></title>
+            <description><![CDATA[In the era of large models, the autoregressive nature of decoding often results in latency serving as a significant bottleneck. We propose a non-autoregressive LM-fused ASR system that effectively leverages the parallelization capabilities of accelerator hardware. Our approach combines the Universal Speech Model (USM) and the PaLM 2 language model in per-segment scoring mode, achieving an average relative WER improvement across all languages of 10.8% on FLEURS and 3.6% on YouTube captioning. Furthermore, our comprehensive ablation study analyzes key parameters such as LLM size, context length, vocabulary size, fusion methodology. For instance, we explore the impact of LLM size ranging from 128M to 340B parameters on ASR performance. This study provides valuable insights into the factors influencing the effectiveness of practical large-scale LM-fused speech recognition systems.]]></description>
+            <pubDate>Wed, 24 Jan 2024 03:11:41 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12789</guid>
+            <link>https://arxiv.org/abs/2401.12789</link>
+            
+            
+            
+            <author><![CDATA[W. Ronny Huang, Cyril Allauzen, Tongzhou Chen, Kilol Gupta, Ke Hu, James Qin, Yu Zhang, Yongqiang Wang, Shuo-Yiin Chang, Tara N. Sainath]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models]]></title>
+            <description><![CDATA[Large language models (LLMs) commonly employ autoregressive generation during inference, leading to high memory bandwidth demand and consequently extended latency. To mitigate this inefficiency, we present Bi-directional Tuning for lossless Acceleration (BiTA), an innovative method expediting LLMs via streamlined semi-autoregressive generation and draft verification. Inspired by the concept of prompt tuning, we enhance LLMs with a parameter-efficient design called bi-directional tuning for the capability in semi-autoregressive generation. Employing efficient tree-based decoding, the models perform draft candidate generation and verification in parallel, ensuring outputs identical to their autoregressive counterparts under greedy sampling. BiTA serves as a lightweight plug-in module, seamlessly boosting the inference efficiency of existing LLMs without requiring additional assistance models or incurring significant extra memory costs. Applying the proposed BiTA, LLaMA-2-70B-Chat achieves a 2.7times speedup on the MT-Bench benchmark. Extensive experiments confirm our method surpasses state-of-the-art acceleration techniques.]]></description>
+            <pubDate>Wed, 24 Jan 2024 02:58:32 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12522</guid>
+            <link>https://arxiv.org/abs/2401.12522</link>
+            
+            
+            
+            <author><![CDATA[Feng Lin, Hanling Yi, Hongbin Li, Yifan Yang, Xiaotian Yu, Guangming Lu, Rong Xiao]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Small Language Model Meets with Reinforced Vision Vocabulary]]></title>
+            <description><![CDATA[Playing Large Vision Language Models (LVLMs) in 2023 is trendy among the AI community. However, the relatively large number of parameters (more than 7B) of popular LVLMs makes it difficult to train and deploy on consumer GPUs, discouraging many researchers with limited resources. Imagine how cool it would be to experience all the features of current LVLMs on an old GTX1080ti (our only game card). Accordingly, we present Vary-toy in this report, a small-size Vary along with Qwen-1.8B as the base ``large'' language model. In Vary-toy, we introduce an improved vision vocabulary, allowing the model to not only possess all features of Vary but also gather more generality. Specifically, we replace negative samples of natural images with positive sample data driven by object detection in the procedure of generating vision vocabulary, more sufficiently utilizing the capacity of the vocabulary network and enabling it to efficiently encode visual information corresponding to natural objects. For experiments, Vary-toy can achieve 65.6% ANLS on DocVQA, 59.1% accuracy on ChartQA, 88.1% accuracy on RefCOCO, and 29% on MMVet. The code will be publicly available on the homepage.]]></description>
+            <pubDate>Wed, 24 Jan 2024 02:52:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12503</guid>
+            <link>https://arxiv.org/abs/2401.12503</link>
+            
+            
+            
+            <author><![CDATA[Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment]]></title>
+            <description><![CDATA[Considerable efforts have been invested in augmenting the role-playing proficiency of open-source large language models (LLMs) by emulating proprietary counterparts. Nevertheless, we posit that LLMs inherently harbor role-play capabilities, owing to the extensive knowledge of characters and potential dialogues ingrained in their vast training corpora. Thus, in this study, we introduce Ditto, a self-alignment method for role-play. Ditto capitalizes on character knowledge, encouraging an instruction-following LLM to simulate role-play dialogues as a variant of reading comprehension. This method creates a role-play training set comprising 4,000 characters, surpassing the scale of currently available datasets by tenfold regarding the number of roles. Subsequently, we fine-tune the LLM using this self-generated dataset to augment its role-playing capabilities. Upon evaluating our meticulously constructed and reproducible role-play benchmark and the roleplay subset of MT-Bench, Ditto, in various parameter scales, consistently maintains a consistent role identity and provides accurate role-specific knowledge in multi-turn role-play conversations. Notably, it outperforms all open-source role-play baselines, showcasing performance levels comparable to advanced proprietary chatbots. Furthermore, we present the first comprehensive cross-supervision alignment experiment in the role-play domain, revealing that the intrinsic capabilities of LLMs confine the knowledge within role-play. Meanwhile, the role-play styles can be easily acquired with the guidance of smaller models. We open-source related resources at https://github.com/OFA-Sys/Ditto.]]></description>
+            <pubDate>Wed, 24 Jan 2024 02:22:44 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12474</guid>
+            <link>https://arxiv.org/abs/2401.12474</link>
+            
+            
+            
+            <author><![CDATA[Keming Lu, Bowen Yu, Chang Zhou, Jingren Zhou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Orion-14B: Open-source Multilingual Large Language Models]]></title>
+            <description><![CDATA[In this study, we introduce Orion-14B, a collection of multilingual large language models with 14 billion parameters. We utilize a data scheduling approach to train a foundational model on a diverse corpus of 2.5 trillion tokens, sourced from texts in English, Chinese, Japanese, Korean, and other languages. Additionally, we fine-tuned a series of models tailored for conversational applications and other specific use cases. Our evaluation results demonstrate that Orion-14B achieves state-of-the-art performance across a broad spectrum of tasks. We make the Orion-14B model family and its associated code publicly accessible https://github.com/OrionStarAI/Orion, aiming to inspire future research and practical applications in the field.]]></description>
+            <pubDate>Wed, 24 Jan 2024 02:18:53 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12246</guid>
+            <link>https://arxiv.org/abs/2401.12246</link>
+            
+            
+            
+            <author><![CDATA[Du Chen, Yi Huang, Xiaopu Li, Yongqiang Li, Yongqiang Liu, Haihui Pan, Leichao Xu, Dacheng Zhang, Zhipeng Zhang, Kun Han]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Meta-Prompting: Enhancing Language Models with Task-Agnostic Scaffolding]]></title>
+            <description><![CDATA[We introduce meta-prompting, an effective scaffolding technique designed to enhance the functionality of language models (LMs). This approach transforms a single LM into a multi-faceted conductor, adept at managing and integrating multiple independent LM queries. By employing high-level instructions, meta-prompting guides the LM to break down complex tasks into smaller, more manageable subtasks. These subtasks are then handled by distinct "expert" instances of the same LM, each operating under specific, tailored instructions. Central to this process is the LM itself, in its role as the conductor, which ensures seamless communication and effective integration of the outputs from these expert models. It additionally employs its inherent critical thinking and robust verification processes to refine and authenticate the end result. This collaborative prompting approach empowers a single LM to simultaneously act as a comprehensive orchestrator and a panel of diverse experts, significantly enhancing its performance across a wide array of tasks. The zero-shot, task-agnostic nature of meta-prompting greatly simplifies user interaction by obviating the need for detailed, task-specific instructions. Furthermore, our research demonstrates the seamless integration of external tools, such as a Python interpreter, into the meta-prompting framework, thereby broadening its applicability and utility. Through rigorous experimentation with GPT-4, we establish the superiority of meta-prompting over conventional scaffolding methods: When averaged across all tasks, including the Game of 24, Checkmate-in-One, and Python Programming Puzzles, meta-prompting, augmented with a Python interpreter functionality, surpasses standard prompting by 17.1%, expert (dynamic) prompting by 17.3%, and multipersona prompting by 15.2%.]]></description>
+            <pubDate>Wed, 24 Jan 2024 02:17:05 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12954</guid>
+            <link>https://arxiv.org/abs/2401.12954</link>
+            
+            
+            
+            <author><![CDATA[Mirac Suzgun, Adam Tauman Kalai]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Large-scale Reinforcement Learning for Diffusion Models]]></title>
+            <description><![CDATA[Text-to-image diffusion models are a class of deep generative models that have demonstrated an impressive capacity for high-quality image generation. However, these models are susceptible to implicit biases that arise from web-scale text-image training pairs and may inaccurately model aspects of images we care about. This can result in suboptimal samples, model bias, and images that do not align with human ethics and preferences. In this paper, we present an effective scalable algorithm to improve diffusion models using Reinforcement Learning (RL) across a diverse set of reward functions, such as human preference, compositionality, and fairness over millions of images. We illustrate how our approach substantially outperforms existing methods for aligning diffusion models with human preferences. We further illustrate how this substantially improves pretrained Stable Diffusion (SD) models, generating samples that are preferred by humans 80.3% of the time over those from the base SD model while simultaneously improving both the composition and diversity of generated samples.]]></description>
+            <pubDate>Wed, 24 Jan 2024 02:11:50 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.12244</guid>
+            <link>https://arxiv.org/abs/2401.12244</link>
+            
+            
+            
+            <author><![CDATA[Yinan Zhang, Eric Tzeng, Yilun Du, Dmitry Kislyuk]]></author>
             
                 
             
