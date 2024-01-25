@@ -15,8 +15,104 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 25 Jan 2024 03:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 08:05:00 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild]]></title>
+            <description><![CDATA[We introduce SUPIR (Scaling-UP Image Restoration), a groundbreaking image restoration method that harnesses generative prior and the power of model scaling up. Leveraging multi-modal techniques and advanced generative prior, SUPIR marks a significant advance in intelligent and realistic image restoration. As a pivotal catalyst within SUPIR, model scaling dramatically enhances its capabilities and demonstrates new potential for image restoration. We collect a dataset comprising 20 million high-resolution, high-quality images for model training, each enriched with descriptive text annotations. SUPIR provides the capability to restore images guided by textual prompts, broadening its application scope and potential. Moreover, we introduce negative-quality prompts to further improve perceptual quality. We also develop a restoration-guided sampling method to suppress the fidelity issue encountered in generative-based restoration. Experiments demonstrate SUPIR's exceptional restoration effects and its novel capacity to manipulate restoration through textual prompts.]]></description>
+            <pubDate>Thu, 25 Jan 2024 05:19:52 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13627</guid>
+            <link>https://arxiv.org/abs/2401.13627</link>
+            
+            
+            
+            <author><![CDATA[Fanghua Yu, Jinjin Gu, Zheyuan Li, Jinfan Hu, Xiangtao Kong, Xintao Wang, Jingwen He, Yu Qiao, Chao Dong]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MM-LLMs: Recent Advances in MultiModal Large Language Models]]></title>
+            <description><![CDATA[In the past year, MultiModal Large Language Models (MM-LLMs) have undergone substantial advancements, augmenting off-the-shelf LLMs to support MM inputs or outputs via cost-effective training strategies. The resulting models not only preserve the inherent reasoning and decision-making capabilities of LLMs but also empower a diverse range of MM tasks. In this paper, we provide a comprehensive survey aimed at facilitating further research of MM-LLMs. Specifically, we first outline general design formulations for model architecture and training pipeline. Subsequently, we provide brief introductions of 26 existing MM-LLMs, each characterized by its specific formulations. Additionally, we review the performance of MM-LLMs on mainstream benchmarks and summarize key training recipes to enhance the potency of MM-LLMs. Lastly, we explore promising directions for MM-LLMs while concurrently maintaining a real-time tracking website for the latest developments in the field. We hope that this survey contributes to the ongoing advancement of the MM-LLMs domain.]]></description>
+            <pubDate>Thu, 25 Jan 2024 04:57:29 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13601</guid>
+            <link>https://arxiv.org/abs/2401.13601</link>
+            
+            
+            
+            <author><![CDATA[Duzhen Zhang, Yahan Yu, Chenxing Li, Jiahua Dong, Dan Su, Chenhui Chu, Dong Yu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MaLA-500: Massive Language Adaptation of Large Language Models]]></title>
+            <description><![CDATA[Large language models have advanced the state of the art in natural language processing. However, their predominant design for English or a limited set of languages creates a substantial gap in their effectiveness for low-resource languages. To bridge this gap, we introduce MaLA-500, a novel large language model designed to cover an extensive range of 534 languages. To train MaLA-500, we employ vocabulary extension and continued pretraining on LLaMA 2 with Glot500-c. Our experiments on SIB-200 show that MaLA-500 achieves state-of-the-art in-context learning results. We release MaLA-500 at https://huggingface.co/MaLA-LM]]></description>
+            <pubDate>Thu, 25 Jan 2024 04:50:29 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13303</guid>
+            <link>https://arxiv.org/abs/2401.13303</link>
+            
+            
+            
+            <author><![CDATA[Peiqin Lin, Shaoxiong Ji, Jörg Tiedemann, André F. T. Martins, Hinrich Schütze]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SpacTor-T5: Pre-training T5 Models with Span Corruption and Replaced Token Detection]]></title>
+            <description><![CDATA[Pre-training large language models is known to be extremely resource intensive and often times inefficient, under-utilizing the information encapsulated in the training text sequences. In this paper, we present SpacTor, a new training procedure consisting of (1) a hybrid objective combining span corruption (SC) and token replacement detection (RTD), and (2) a two-stage curriculum that optimizes the hybrid objective over the initial tau iterations, then transitions to standard SC loss. We show empirically that the effectiveness of the hybrid objective is tied to the two-stage pre-training schedule, and provide extensive analysis on why this is the case. In our experiments with encoder-decoder architectures (T5) on a variety of NLP tasks, SpacTor-T5 yields the same downstream performance as standard SC pre-training, while enabling a 50% reduction in pre-training iterations and 40% reduction in total FLOPs. Alternatively, given the same amount of computing budget, we find that SpacTor results in significantly improved downstream benchmark performance.]]></description>
+            <pubDate>Thu, 25 Jan 2024 04:43:46 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13160</guid>
+            <link>https://arxiv.org/abs/2401.13160</link>
+            
+            
+            
+            <author><![CDATA[Ke Ye, Heinrich Jiang, Afshin Rostamizadeh, Ayan Chakrabarti, Giulia DeSalvo, Jean-François Kagy, Lazaros Karydas, Gui Citovsky, Sanjiv Kumar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MambaByte: Token-free Selective State Space Model]]></title>
+            <description><![CDATA[Token-free language models learn directly from raw bytes and remove the bias of subword tokenization. Operating on bytes, however, results in significantly longer sequences, and standard autoregressive Transformers scale poorly in such settings. We experiment with MambaByte, a token-free adaptation of the Mamba state space model, trained autoregressively on byte sequences. Our experiments indicate the computational efficiency of MambaByte compared to other byte-level models. We also find MambaByte to be competitive with and even outperform state-of-the-art subword Transformers. Furthermore, owing to linear scaling in length, MambaByte benefits from fast inference compared to Transformers. Our findings establish the viability of MambaByte in enabling token-free language modeling.]]></description>
+            <pubDate>Thu, 25 Jan 2024 04:39:05 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13660</guid>
+            <link>https://arxiv.org/abs/2401.13660</link>
+            
+            
+            
+            <author><![CDATA[Junxiong Wang, Tushaar Gangavarapu, Jing Nathan Yan, Alexander M Rush]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in Large Multimodal Models]]></title>
+            <description><![CDATA[Recent advancements in AI have led to the development of large multimodal models (LMMs) capable of processing complex tasks involving joint reasoning over text and visual content in the image (e.g., navigating maps in public places). This paper introduces ConTextual, a novel benchmark comprising instructions designed explicitly to evaluate LMMs' ability to perform context-sensitive text-rich visual reasoning. ConTextual emphasizes diverse real-world scenarios (e.g., time-reading, navigation, shopping and more) demanding a deeper understanding of the interactions between textual and visual elements. Our findings reveal a significant performance gap of 30.8% between the best-performing LMM, GPT-4V(ision), and human capabilities using human evaluation indicating substantial room for improvement in context-sensitive text-rich visual reasoning. Notably, while GPT-4V excelled in abstract categories like meme and quote interpretation, its overall performance still lagged behind humans. In addition to human evaluations, we also employed automatic evaluation metrics using GPT-4, uncovering similar trends in performance disparities. We also perform a fine-grained evaluation across diverse visual contexts and provide qualitative analysis which provides a robust framework for future advancements in the LMM design. https://con-textual.github.io/]]></description>
+            <pubDate>Thu, 25 Jan 2024 04:33:30 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13311</guid>
+            <link>https://arxiv.org/abs/2401.13311</link>
+            
+            
+            
+            <author><![CDATA[Rohan Wadhawan, Hritik Bansal, Kai-Wei Chang, Nanyun Peng]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion]]></title>
