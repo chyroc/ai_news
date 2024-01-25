@@ -21,8 +21,24 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 24 Jan 2024 22:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 00:45:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🤖 LangGraph for Multi-Agent Workflows We pushed a bunch of examples of using LangGraph to construct multi-agent workflows. These include: 🤝 Mult...]]></title>
+            <description><![CDATA[🤖 LangGraph for Multi-Agent Workflows<br><br>We pushed a bunch of examples of using LangGraph to construct multi-agent workflows. These include:<br><br>🤝 Multi-Agent **Collaboration** - having agents work on the same scratchpad of messages<br><br>👮‍♂️ Agent **Supervisor** - using and LLM to…<br><img style="" src="https://pbs.twimg.com/media/GEpICnwbMAAzqGV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 24 Jan 2024 22:52:58 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750290624123990159</guid>
+            <link>https://twitter.com/LangChainAI/status/1750290624123990159</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: Had a 🔥 time live with @crtr0 and Alex Leventer on using @DataStax AstraDB, @LangChainAI, and @vercel to build WikiChat! ICYMI, watch...]]></title>
@@ -142,22 +158,6 @@
             <pubDate>Wed, 24 Jan 2024 16:33:39 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1749604321665118706</guid>
             <link>https://twitter.com/LangChainAI/status/1749604321665118706</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re @waseemhnyc coming out soon: https://youtu.be/ZcEMLz27sL4 does this help?]]></title>
-            <description><![CDATA[Re @waseemhnyc coming out soon: https://youtu.be/ZcEMLz27sL4<br><br>does this help?]]></description>
-            <pubDate>Wed, 24 Jan 2024 16:31:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1749981121654210676</guid>
-            <link>https://twitter.com/LangChainAI/status/1749981121654210676</link>
             
             
             
