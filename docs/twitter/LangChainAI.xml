@@ -21,56 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 25 Jan 2024 18:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:59:49 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 📇 JavaScript Indexing API for RAG 📇 There's a new way to load and sync your docs with a vectorstore in @LangChainAI 🦜🔗 JS/TS...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>📇&nbsp;JavaScript Indexing API for RAG 📇<br><br>There's a new way to load and sync your docs with a vectorstore in @LangChainAI 🦜🔗 JS/TS 0.1.7!<br><br>The indexing API tracks ingested documents and helps you avoid computing embeddings for or storing redundant chunks, saving you money, hassle,…<br><img style="" src="https://pbs.twimg.com/media/GEtONXkakAI0C-t?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 25 Jan 2024 17:59:15 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750579330475065693</guid>
-            <link>https://twitter.com/LangChainAI/status/1750579330475065693</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🛠️How Mendable leverages LangSmith to debug Tools & Actions @mendableai recently launched "Tools & Actions" - to enable their assistants to take a...]]></title>
-            <description><![CDATA[🛠️How Mendable leverages LangSmith to debug Tools &amp; Actions<br><br>@mendableai recently launched "Tools &amp; Actions" - to enable their assistants to take actions<br><br>Blog Link: https://blog.langchain.dev/how-mendable-leverages-langsmith-to-debug-tools-actions/<br><br>What are some learnings along the way?<br><br>🔎"One of the biggest problems when building…<br><img style="" src="https://pbs.twimg.com/media/GEtK9yNa8AAl1h6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEtK-Z3bEAA_YVh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 25 Jan 2024 17:44:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750575332430901553</guid>
-            <link>https://twitter.com/LangChainAI/status/1750575332430901553</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🎉We're doing hacking hours this Friday in SF! Specifically focused on **LangGraph** - so we expect cool agents (or multi agents) to be built! Will ...]]></title>
-            <description><![CDATA[🎉We're doing hacking hours this Friday in SF!<br><br>Specifically focused on **LangGraph** - so we expect cool agents (or multi agents) to be built! Will try to record any demos at the end to share remotely<br><br>RSVP: https://partiful.com/e/MPWEWti06UGPRnkYnaER]]></description>
-            <pubDate>Thu, 25 Jan 2024 16:15:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750552860188696673</guid>
-            <link>https://twitter.com/LangChainAI/status/1750552860188696673</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Panel: 🤖Want to build a chat UI using the new @LangChainAI Expression Language? 👉Check out our reference example. 👇Link below #python #dat...]]></title>
@@ -222,6 +174,54 @@
             <pubDate>Wed, 24 Jan 2024 16:33:39 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1749604321665118706</guid>
             <link>https://twitter.com/LangChainAI/status/1749604321665118706</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Roger Taylor: Re Serverless Generative AI Chatbot 💬 👨‍💻Extend langchaingo for DynamoDB 🔗Deploy with SAM and Lambda URLs ⚙️Gin framew...]]></title>
+            <description><![CDATA[RT Roger Taylor<br>Re Serverless Generative AI Chatbot 💬<br><br>👨‍💻Extend langchaingo for DynamoDB<br>🔗Deploy with SAM and Lambda URLs<br>⚙️Gin framework runs on Lambda<br>⏩Streaming responses via Lambda adapter<br><br>🗣@LangChainAI 🦜️🔗 powers AI conversations<br><br>Read the guide here!  https://dzone.com/articles/build-a-serverless-genai-solution-with-lambda-dyna (2/2)<br><img style="" src="https://pbs.twimg.com/media/GEi99rxXoAAL1TR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEi992jWcAEbM3H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 23 Jan 2024 18:11:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750194886165541327</guid>
+            <link>https://twitter.com/LangChainAI/status/1750194886165541327</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🚰🐞 JS Stream Error Handling 🐞🚰 You can catch immediate streaming errors in @LangChainAI JS/TS core 0.1.17! The .stream() met...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🚰🐞&nbsp;JS Stream Error Handling 🐞🚰<br><br>You can catch immediate streaming errors in @LangChainAI JS/TS core 0.1.17!<br><br>The .stream() method now awaits the first chunk, letting you return a 4/5xx HTTP code on initial failure *before* starting a response stream:<br><br>https://js.langchain.com/docs/guides/deployment/#error-handling<br><img style="" src="https://pbs.twimg.com/media/GEiwyt6aAAEjb0t?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 23 Jan 2024 17:13:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750194926502150288</guid>
+            <link>https://twitter.com/LangChainAI/status/1750194926502150288</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT embedchain: 👀 We now support @awscloud Bedrock as an LLM Powered by @LangChainAI]]></title>
+            <description><![CDATA[RT embedchain<br>👀 We now support @awscloud Bedrock as an LLM<br><br>Powered by @LangChainAI]]></description>
+            <pubDate>Tue, 23 Jan 2024 17:03:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750194946379002166</guid>
+            <link>https://twitter.com/LangChainAI/status/1750194946379002166</link>
             
             
             
