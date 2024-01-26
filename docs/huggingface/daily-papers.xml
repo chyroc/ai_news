@@ -15,8 +15,72 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 26 Jan 2024 04:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:24:56 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Adaptive Mobile Manipulation for Articulated Objects In the Open World]]></title>
+            <description><![CDATA[Deploying robots in open-ended unstructured environments such as homes has been a long-standing research problem. However, robots are often studied only in closed-off lab settings, and prior mobile manipulation work is restricted to pick-move-place, which is arguably just the tip of the iceberg in this area. In this paper, we introduce Open-World Mobile Manipulation System, a full-stack approach to tackle realistic articulated object operation, e.g. real-world doors, cabinets, drawers, and refrigerators in open-ended unstructured environments. The robot utilizes an adaptive learning framework to initially learns from a small set of data through behavior cloning, followed by learning from online practice on novel objects that fall outside the training distribution. We also develop a low-cost mobile manipulation hardware platform capable of safe and autonomous online adaptation in unstructured environments with a cost of around 20,000 USD. In our experiments we utilize 20 articulate objects across 4 buildings in the CMU campus. With less than an hour of online learning for each object, the system is able to increase success rate from 50% of BC pre-training to 95% using online adaptation. Video results at https://open-world-mobilemanip.github.io/]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:57:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14403</guid>
+            <link>https://arxiv.org/abs/2401.14403</link>
+            
+            
+            
+            <author><![CDATA[Haoyu Xiong, Russell Mendonca, Kenneth Shaw, Deepak Pathak]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[pix2gestalt: Amodal Segmentation by Synthesizing Wholes]]></title>
+            <description><![CDATA[We introduce pix2gestalt, a framework for zero-shot amodal segmentation, which learns to estimate the shape and appearance of whole objects that are only partially visible behind occlusions. By capitalizing on large-scale diffusion models and transferring their representations to this task, we learn a conditional diffusion model for reconstructing whole objects in challenging zero-shot cases, including examples that break natural and physical priors, such as art. As training data, we use a synthetically curated dataset containing occluded objects paired with their whole counterparts. Experiments show that our approach outperforms supervised baselines on established benchmarks. Our model can furthermore be used to significantly improve the performance of existing object recognition and 3D reconstruction methods in the presence of occlusions.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:51:44 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14398</guid>
+            <link>https://arxiv.org/abs/2401.14398</link>
+            
+            
+            
+            <author><![CDATA[Ege Ozguroglu, Ruoshi Liu, Dídac Surís, Dian Chen, Achal Dave, Pavel Tokmakov, Carl Vondrick]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities]]></title>
+            <description><![CDATA[We propose to improve transformers of a specific modality with irrelevant data from other modalities, e.g., improve an ImageNet model with audio or point cloud datasets. We would like to highlight that the data samples of the target modality are irrelevant to the other modalities, which distinguishes our method from other works utilizing paired (e.g., CLIP) or interleaved data of different modalities. We propose a methodology named Multimodal Pathway - given a target modality and a transformer designed for it, we use an auxiliary transformer trained with data of another modality and construct pathways to connect components of the two models so that data of the target modality can be processed by both models. In this way, we utilize the universal sequence-to-sequence modeling abilities of transformers obtained from two modalities. As a concrete implementation, we use a modality-specific tokenizer and task-specific head as usual but utilize the transformer blocks of the auxiliary model via a proposed method named Cross-Modal Re-parameterization, which exploits the auxiliary weights without any inference costs. On the image, point cloud, video, and audio recognition tasks, we observe significant and consistent performance improvements with irrelevant data from other modalities. The code and models are available at https://github.com/AILab-CVC/M2PT.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:45:46 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14405</guid>
+            <link>https://arxiv.org/abs/2401.14405</link>
+            
+            
+            
+            <author><![CDATA[Yiyuan Zhang, Xiaohan Ding, Kaixiong Gong, Yixiao Ge, Ying Shan, Xiangyu Yue]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All]]></title>
+            <description><![CDATA[As online shopping is growing, the ability for buyers to virtually visualize products in their settings-a phenomenon we define as "Virtual Try-All"-has become crucial. Recent diffusion models inherently contain a world model, rendering them suitable for this task within an inpainting context. However, traditional image-conditioned diffusion models often fail to capture the fine-grained details of products. In contrast, personalization-driven models such as DreamPaint are good at preserving the item's details but they are not optimized for real-time applications. We present "Diffuse to Choose," a novel diffusion-based image-conditioned inpainting model that efficiently balances fast inference with the retention of high-fidelity details in a given reference item while ensuring accurate semantic manipulations in the given scene content. Our approach is based on incorporating fine-grained features from the reference image directly into the latent feature maps of the main diffusion model, alongside with a perceptual loss to further preserve the reference item's details. We conduct extensive testing on both in-house and publicly available datasets, and show that Diffuse to Choose is superior to existing zero-shot diffusion inpainting methods as well as few-shot diffusion personalization algorithms like DreamPaint.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:28:12 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13795</guid>
+            <link>https://arxiv.org/abs/2401.13795</link>
+            
+            
+            
+            <author><![CDATA[Mehmet Saygin Seyfioglu, Karim Bouyarmane, Suren Kumar, Amir Tavanaei, Ismail B. Tutar]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Rethinking Patch Dependence for Masked Autoencoders]]></title>
