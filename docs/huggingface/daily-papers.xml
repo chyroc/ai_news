@@ -15,8 +15,120 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 26 Jan 2024 02:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 04:22:59 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Rethinking Patch Dependence for Masked Autoencoders]]></title>
+            <description><![CDATA[In this work, we re-examine inter-patch dependencies in the decoding mechanism of masked autoencoders (MAE). We decompose this decoding mechanism for masked patch reconstruction in MAE into self-attention and cross-attention. Our investigations suggest that self-attention between mask patches is not essential for learning good representations. To this end, we propose a novel pretraining framework: Cross-Attention Masked Autoencoders (CrossMAE). CrossMAE's decoder leverages only cross-attention between masked and visible tokens, with no degradation in downstream performance. This design also enables decoding only a small subset of mask tokens, boosting efficiency. Furthermore, each decoder block can now leverage different encoder features, resulting in improved representation learning. CrossMAE matches MAE in performance with 2.5 to 3.7times less decoding compute. It also surpasses MAE on ImageNet classification and COCO instance segmentation under the same compute. Code and models: https://crossmae.github.io]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:09:12 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14391</guid>
+            <link>https://arxiv.org/abs/2401.14391</link>
+            
+            
+            
+            <author><![CDATA[Letian Fu, Long Lian, Renhao Wang, Baifeng Shi, Xudong Wang, Adam Yala, Trevor Darrell, Alexei A. Efros, Ken Goldberg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Genie: Achieving Human Parity in Content-Grounded Datasets Generation]]></title>
+            <description><![CDATA[The lack of high-quality data for content-grounded generation tasks has been identified as a major obstacle to advancing these tasks. To address this gap, we propose Genie, a novel method for automatically generating high-quality content-grounded data. It consists of three stages: (a) Content Preparation, (b) Generation: creating task-specific examples from the content (e.g., question-answer pairs or summaries). (c) Filtering mechanism aiming to ensure the quality and faithfulness of the generated data. We showcase this methodology by generating three large-scale synthetic data, making wishes, for Long-Form Question-Answering (LFQA), summarization, and information extraction. In a human evaluation, our generated data was found to be natural and of high quality. Furthermore, we compare models trained on our data with models trained on human-written data -- ELI5 and ASQA for LFQA and CNN-DailyMail for Summarization. We show that our models are on par with or outperforming models trained on human-generated data and consistently outperforming them in faithfulness. Finally, we applied our method to create LFQA data within the medical domain and compared a model trained on it with models trained on other domains.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:06:13 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14367</guid>
+            <link>https://arxiv.org/abs/2401.14367</link>
+            
+            
+            
+            <author><![CDATA[Asaf Yehudai, Boaz Carmeli, Yosi Mass, Ofir Arviv, Nathaniel Mills, Assaf Toledo, Eyal Shnarch, Leshem Choshen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Deconstructing Denoising Diffusion Models for Self-Supervised Learning]]></title>
+            <description><![CDATA[In this study, we examine the representation learning abilities of Denoising Diffusion Models (DDM) that were originally purposed for image generation. Our philosophy is to deconstruct a DDM, gradually transforming it into a classical Denoising Autoencoder (DAE). This deconstructive procedure allows us to explore how various components of modern DDMs influence self-supervised representation learning. We observe that only a very few modern components are critical for learning good representations, while many others are nonessential. Our study ultimately arrives at an approach that is highly simplified and to a large extent resembles a classical DAE. We hope our study will rekindle interest in a family of classical methods within the realm of modern self-supervised learning.]]></description>
+            <pubDate>Fri, 26 Jan 2024 03:09:23 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14404</guid>
+            <link>https://arxiv.org/abs/2401.14404</link>
+            
+            
+            
+            <author><![CDATA[Xinlei Chen, Zhuang Liu, Saining Xie, Kaiming He]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence]]></title>
+            <description><![CDATA[The rapid development of large language models has revolutionized code intelligence in software development. However, the predominance of closed-source models has restricted extensive research and development. To address this, we introduce the DeepSeek-Coder series, a range of open-source code models with sizes from 1.3B to 33B, trained from scratch on 2 trillion tokens. These models are pre-trained on a high-quality project-level code corpus and employ a fill-in-the-blank task with a 16K window to enhance code generation and infilling. Our extensive evaluations demonstrate that DeepSeek-Coder not only achieves state-of-the-art performance among open-source code models across multiple benchmarks but also surpasses existing closed-source models like Codex and GPT-3.5. Furthermore, DeepSeek-Coder models are under a permissive license that allows for both research and unrestricted commercial use.]]></description>
+            <pubDate>Fri, 26 Jan 2024 03:05:28 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14196</guid>
+            <link>https://arxiv.org/abs/2401.14196</link>
+            
+            
+            
+            <author><![CDATA[Daya Guo, Qihao Zhu, Dejian Yang, Zhenda Xie, Kai Dong, Wentao Zhang, Guanting Chen, Xiao Bi, Y. Wu, Y. K. Li, Fuli Luo, Yingfei Xiong, Wenfeng Liang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design]]></title>
+            <description><![CDATA[Six-bit quantization (FP6) can effectively reduce the size of large language models (LLMs) and preserve the model quality consistently across varied applications. However, existing systems do not provide Tensor Core support for FP6 quantization and struggle to achieve practical performance improvements during LLM inference. It is challenging to support FP6 quantization on GPUs due to (1) unfriendly memory access of model weights with irregular bit-width and (2) high runtime overhead of weight de-quantization. To address these problems, we propose TC-FPx, the first full-stack GPU kernel design scheme with unified Tensor Core support of float-point weights for various quantization bit-width. We integrate TC-FPx kernel into an existing inference system, providing new end-to-end support (called FP6-LLM) for quantized LLM inference, where better trade-offs between inference cost and model quality are achieved. Experiments show that FP6-LLM enables the inference of LLaMA-70b using only a single GPU, achieving 1.69x-2.65x higher normalized inference throughput than the FP16 baseline. The source code will be publicly available soon.]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:57:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14112</guid>
+            <link>https://arxiv.org/abs/2401.14112</link>
+            
+            
+            
+            <author><![CDATA[Haojun Xia, Zhen Zheng, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Unitxt: Flexible, Shareable and Reusable Data Preparation and Evaluation for Generative AI]]></title>
+            <description><![CDATA[In the dynamic landscape of generative NLP, traditional text processing pipelines limit research flexibility and reproducibility, as they are tailored to specific dataset, task, and model combinations. The escalating complexity, involving system prompts, model-specific formats, instructions, and more, calls for a shift to a structured, modular, and customizable solution. Addressing this need, we present Unitxt, an innovative library for customizable textual data preparation and evaluation tailored to generative language models. Unitxt natively integrates with common libraries like HuggingFace and LM-eval-harness and deconstructs processing flows into modular components, enabling easy customization and sharing between practitioners. These components encompass model-specific formats, task prompts, and many other comprehensive dataset processing definitions. The Unitxt-Catalog centralizes these components, fostering collaboration and exploration in modern textual data workflows. Beyond being a tool, Unitxt is a community-driven platform, empowering users to build, share, and advance their pipelines collaboratively. Join the Unitxt community at https://github.com/IBM/unitxt!]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:36:18 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14019</guid>
+            <link>https://arxiv.org/abs/2401.14019</link>
+            
+            
+            
+            <author><![CDATA[Elron Bandel, Yotam Perlitz, Elad Venezian, Roni Friedman-Melamed, Ofir Arviv, Matan Orbach, Shachar Don-Yehyia, Dafna Sheinwald, Ariel Gera, Leshem Choshen, Michal Shmueli-Scheuer, Yoav Katz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models]]></title>
+            <description><![CDATA[The advancement of large language models (LLMs) leads to a new era marked by the development of autonomous applications in the real world, which drives innovation in the creation of advanced web-based agents. Existing web agents typically only handle one input modality and are evaluated only in simplified web simulators or static web snapshots, greatly limiting their applicability in real-world scenarios. To bridge this gap, we introduce WebVoyager, an innovative Large Multimodal Model (LMM) powered web agent that can complete user instructions end-to-end by interacting with real-world websites. Moreover, we propose a new evaluation protocol for web agents to address the challenges of automatic evaluation of open-ended web agent tasks, leveraging the robust multimodal comprehension capabilities of GPT-4V. We create a new benchmark by gathering real-world tasks from 15 widely used websites to evaluate our agents. We show that WebVoyager achieves a 55.7% task success rate, significantly surpassing the performance of both GPT-4 (All Tools) and the WebVoyager (text-only) setups, underscoring the exceptional capability of WebVoyager in practical applications. We found that our proposed automatic evaluation achieves 85.3% agreement with human judgment, paving the way for further development of web agents in a real-world setting.]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:28:38 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13919</guid>
+            <link>https://arxiv.org/abs/2401.13919</link>
+            
+            
+            
+            <author><![CDATA[Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation]]></title>
