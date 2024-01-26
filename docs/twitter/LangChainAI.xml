@@ -21,8 +21,72 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 26 Jan 2024 15:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 17:54:32 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[💸LangGraph Financial Agent w/ Polygon A combo of our two favorite things - LangGraph and agent toolkits Big s/o to @virattt for adding this awesome...]]></title>
+            <description><![CDATA[💸LangGraph Financial Agent w/ Polygon<br><br>A combo of our two favorite things - LangGraph and agent toolkits<br><br>Big s/o to @virattt for adding this awesome example of creating a LangGraph agent that has access to Polygon APIs to access financial data<br><br>Code: https://gist.github.com/virattt/4d764c427892ce9fdf4534209edfb1f4<br><img style="" src="https://pbs.twimg.com/media/GEusluDboAAIsAq?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Jan 2024 17:51:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750939407161708941</guid>
+            <link>https://twitter.com/LangChainAI/status/1750939407161708941</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[✒️New release notes! Catch up on everything LangChain related over the past two weeks, including: 🕸️LangGraph 1⃣LangChain v0.1 ⚒️LangSmith up...]]></title>
+            <description><![CDATA[✒️New release notes!<br><br>Catch up on everything LangChain related over the past two weeks, including:<br><br>🕸️LangGraph<br>1⃣LangChain v0.1<br>⚒️LangSmith updates<br>🎏New astream_events method<br>👱Revamp of key use case pages!<br><br>Blog: https://blog.langchain.dev/week-of-1-22-24-langchain-release-notes/<br><img style="" src="https://pbs.twimg.com/media/GEyUJbybIAMMX_3?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEyUJ-FagAAxcBT?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEyULjSbIAMj46Z?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEyUMRgbIAASoKh?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Jan 2024 17:42:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750937308076122500</guid>
+            <link>https://twitter.com/LangChainAI/status/1750937308076122500</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[✒️Mental Health Therapy as an LLM State Machine In this new guest blog, @Sonia_Health shares more about how they are developing their app Excited to...]]></title>
+            <description><![CDATA[✒️Mental Health Therapy as an LLM State Machine<br><br>In this new guest blog, @Sonia_Health shares more about how they are developing their app<br><br>Excited to highlight this for two reasons:<br><br>1⃣ App with really positive societal benefit<br>2⃣Built as a state machine - which matches our…<br><img style="" src="https://pbs.twimg.com/media/GEyKhgmagAIIDem?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Jan 2024 17:00:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750926694943457561</guid>
+            <link>https://twitter.com/LangChainAI/status/1750926694943457561</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🚀Friday Fun Time! Come join us for hacking hours later today! Meet the team, meet others building in the space, and build some cool stuff with Lang...]]></title>
+            <description><![CDATA[🚀Friday Fun Time!<br><br>Come join us for hacking hours later today! Meet the team, meet others building in the space, and build some cool stuff with LangChain, LangGraph, LangSmith, LangServe, Lang??<br><br>RSVP: https://partiful.com/e/MPWEWti06UGPRnkYnaER]]></description>
+            <pubDate>Fri, 26 Jan 2024 16:16:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750915499641167940</guid>
+            <link>https://twitter.com/LangChainAI/status/1750915499641167940</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT DataStax: Ever wish you could live chat with @Wikipedia? Then say hello to Wikichat — a RAG chatbot built using Astra DB, @LangChainAI, and @Verce...]]></title>
@@ -222,70 +286,6 @@
             <pubDate>Wed, 24 Jan 2024 17:08:56 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750204045925736565</guid>
             <link>https://twitter.com/LangChainAI/status/1750204045925736565</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re @OhAnotherAlt @rjs two pages id check out: QA with RAG, a page covering lot of different concept related to this use case: https://python.langchain...]]></title>
-            <description><![CDATA[Re @OhAnotherAlt @rjs two pages id check out:<br><br>QA with RAG, a page covering lot of different concept related to this use case: https://python.langchain.com/docs/use_cases/question_answering/<br><br>Retrieval: a page covering advanced retrieval techniques: https://python.langchain.com/docs/modules/data_connection/retrievers/]]></description>
-            <pubDate>Wed, 24 Jan 2024 16:59:31 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750194832989892768</guid>
-            <link>https://twitter.com/LangChainAI/status/1750194832989892768</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Oh another alt: Re @rjs @LangChainAI docs are a good primer]]></title>
-            <description><![CDATA[RT Oh another alt<br>Re @rjs @LangChainAI docs are a good primer]]></description>
-            <pubDate>Wed, 24 Jan 2024 16:36:59 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750201141567349003</guid>
-            <link>https://twitter.com/LangChainAI/status/1750201141567349003</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Neo4j: Discover how Alex Gilmore leverages the power of Google Cloud Platform, LangChain, and Neo4j to transform YouTube video transcripts into a d...]]></title>
-            <description><![CDATA[RT Neo4j<br>Discover how Alex Gilmore leverages the power of Google Cloud Platform, LangChain, and Neo4j to transform YouTube video transcripts into a dynamic knowledge graph for #RAG applications. 💡📚 #KnowledgeGraph  <br><br>https://bit.ly/3SbxN9s<br><br>#Neo4j  @googlecloud @LangChainAI<br><img style="" src="https://pbs.twimg.com/media/GEes3ixXMAEfUjk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 22 Jan 2024 22:18:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750195231289729402</guid>
-            <link>https://twitter.com/LangChainAI/status/1750195231289729402</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Tomaz Bratanic: We added two improvements to @neo4j wrapper in @LangChainAI : * Define transaction timeout: You can terminate a transaction if it t...]]></title>
-            <description><![CDATA[RT Tomaz Bratanic<br>We added two improvements to @neo4j  wrapper in @LangChainAI :<br><br>* Define transaction timeout: You can terminate a transaction if it that takes more the than timeout threshold<br><br>* Sanitize values: Remove embedding like properties from response to avoid using them in context of RAG<br><img style="" src="https://pbs.twimg.com/media/GEecR9NXgAAy2VS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 22 Jan 2024 21:06:41 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750195253490200956</guid>
-            <link>https://twitter.com/LangChainAI/status/1750195253490200956</link>
             
             
             
