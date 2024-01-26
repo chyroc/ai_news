@@ -21,24 +21,8 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Fri, 26 Jan 2024 21:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 19:13:53 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Most of an LLM’s memory & compute are consumed by matrix multiplication operations. Today on the blog, learn about techniques used to accelerate mixe...]]></title>
-            <description><![CDATA[Most of an LLM’s memory &amp; compute are consumed by matrix multiplication operations. Today on the blog, learn about techniques used to accelerate mixed-input matrix multiplication for increased efficiency w/ performance close to peak hardware capabilities ↓https://goo.gle/3tXPuS8]]></description>
-            <pubDate>Fri, 26 Jan 2024 20:20:40 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1750977073009881469</guid>
-            <link>https://twitter.com/GoogleAI/status/1750977073009881469</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Congratulations to Googlers Natasha Noy, @Jimantha, & former Googler Ramon Caceres for being named ACM (@TheOfficialACM) Fellows, in recognition of tr...]]></title>
@@ -318,6 +302,22 @@
             <pubDate>Mon, 08 Jan 2024 19:40:38 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1744444014970229261</guid>
             <link>https://twitter.com/GoogleAI/status/1744444014970229261</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Areas with fewer trees are more vulnerable to climate change. Google Research launched Tree Canopy Insights on Google's Environmental Insights Explore...]]></title>
+            <description><![CDATA[Areas with fewer trees are more vulnerable to climate change. Google Research launched Tree Canopy Insights on Google's Environmental Insights Explorer (EIE) to help fight extreme heat — learn how it’s being used in Austin, TX to tackle climate inequity → https://goo.gle/3S3F5xk<br><video src="https://video.twimg.com/ext_tw_video/1743366899831123968/pu/vid/avc1/720x1280/PqOqSr4bXwuxme_O.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1743366899831123968/pu/img/DTtiXGEGwlSes8L_.jpg"></video>]]></description>
+            <pubDate>Fri, 05 Jan 2024 20:22:31 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1743367395493007633</guid>
+            <link>https://twitter.com/GoogleAI/status/1743367395493007633</link>
             
             
             
