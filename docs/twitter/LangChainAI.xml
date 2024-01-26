@@ -21,8 +21,56 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 26 Jan 2024 17:54:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 20:09:20 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🚀Building a web RAG chatbot Our newest YouTube video on building with LangChain features how to build and end-to-end app (notebook to hosting) for ...]]></title>
+            <description><![CDATA[🚀Building a web RAG chatbot<br><br>Our newest YouTube video on building with LangChain features how to build and end-to-end app (notebook to hosting) for a web RAG chatbot<br><br>Video: https://youtu.be/dA1cHGACXCo<br><br>To celebrate the update of @exaailabs (prev. Metaphor), we've teamed up to show…<br><img style="" src="https://pbs.twimg.com/media/GEye2UfbIAETlNn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Jan 2024 18:30:16 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750949290858688871</guid>
+            <link>https://twitter.com/LangChainAI/status/1750949290858688871</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🤖 Agent Toolkits: Robocorp 🤖 Tool use is a central component of agentic workflows, but converting arbitrary function into tools can be a challen...]]></title>
+            <description><![CDATA[🤖 Agent Toolkits: Robocorp 🤖<br><br>Tool use is a central component of agentic workflows, but converting arbitrary function into tools can be a challenge.<br><br>Enter @RobocorpInc's action server! It's a great way to convert any python function into a tool.<br><br>These tools can then be…<br><img style="" src="https://pbs.twimg.com/media/GEyZT7EagAALxe0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Jan 2024 18:22:53 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750947431783801124</guid>
+            <link>https://twitter.com/LangChainAI/status/1750947431783801124</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🛠️ LangSmith Evals in JavaScript 🦜🛠️ LangSmith now supports a native `runOverDataset` method for evaluating your JavaScript LLM applica...]]></title>
+            <description><![CDATA[🦜🛠️ LangSmith Evals in JavaScript 🦜🛠️<br><br>LangSmith now supports a native `runOverDataset` method for evaluating your JavaScript LLM applications!<br><br>You can configure custom or off-the-shelf evaluators to compare + score the the outputs of your app against ideal reference outputs.…<br><img style="" src="https://pbs.twimg.com/media/GEyX1zAagAA01zA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Jan 2024 17:58:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750941313317675233</guid>
+            <link>https://twitter.com/LangChainAI/status/1750941313317675233</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[💸LangGraph Financial Agent w/ Polygon A combo of our two favorite things - LangGraph and agent toolkits Big s/o to @virattt for adding this awesome...]]></title>
@@ -254,70 +302,6 @@
             <pubDate>Wed, 24 Jan 2024 18:40:05 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750226984633032774</guid>
             <link>https://twitter.com/LangChainAI/status/1750226984633032774</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Brace: 🧠 AWS Knowledge Bases For RAG 🧠 AWS Knowledge Base for Bedrock is a fully managed system for RAG applications and private data retriev...]]></title>
-            <description><![CDATA[RT Brace<br>🧠 AWS Knowledge Bases For RAG 🧠<br><br>AWS Knowledge Base for Bedrock is a fully managed system for RAG applications and private data retrieval, now available thanks to a community PR in @LangChainAI JS/TS 🦜🔗<br><br>Store your proprietary data in AWS, point Knowledge Base to that data,…<br><img style="" src="https://pbs.twimg.com/media/GEoALlAa4AII4Og?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 24 Jan 2024 17:41:21 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750212481195343881</guid>
-            <link>https://twitter.com/LangChainAI/status/1750212481195343881</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🚀Stream Events One of the biggest pain points with agents and other complex chains is streaming - not just of tokens, but of other events. ⭐️We'v...]]></title>
-            <description><![CDATA[🚀Stream Events<br><br>One of the biggest pain points with agents and other complex chains is streaming - not just of tokens, but of other events.<br><br>⭐️We've added a new `stream_events` method to make this super easy<br><br>As @waseemhnyc put it recently, you want to stream:<br>- current step…<br><img style="" src="https://pbs.twimg.com/media/GEn5RUca4AI_iiA?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 24 Jan 2024 17:08:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750204045925736565</guid>
-            <link>https://twitter.com/LangChainAI/status/1750204045925736565</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Craig Dennis: 🧰 In the spirit of #BuildInPublic, I'm excited to share my latest AI weekend project that I built with @CloudflareDev Workers AI, ...]]></title>
-            <description><![CDATA[RT Craig Dennis<br>🧰 In the spirit of #BuildInPublic, I'm excited to share my latest AI weekend project that I built with @CloudflareDev Workers AI, @honojs, and @LangChainAI.<br><br> 🎸 I was pretty bummed how little some AI models knew about my absolute favorite band @cheekfaceREAL ... so I built a…<br><video src="https://video.twimg.com/amplify_video/1749521173879353344/vid/avc1/1280x720/err6-D3sbYdA3YUn.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1749521173879353344/img/PN8KOv3uHlqvczAo.jpg"></video>]]></description>
-            <pubDate>Mon, 22 Jan 2024 20:00:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750214285710778489</guid>
-            <link>https://twitter.com/LangChainAI/status/1750214285710778489</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 🦜🏓 Call LangServe Chains from JS 🦜🏓 There's a simpler way to call Python LangServe chains from frontend JS envs (e.g. Next.j...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>🦜🏓&nbsp;Call LangServe Chains from JS 🦜🏓<br><br>There's a simpler way to call Python LangServe chains from frontend JS envs (e.g. Next.js) in @LangChainAI JS/TS 0.1.5!<br><br>RemoteRunnable exposes the familiar LCEL invoke/batch/stream interface for hosted chains:<br><br>https://js.langchain.com/docs/ecosystem/langserve<br><img style="" src="https://pbs.twimg.com/media/GEdwlDQacAAi4Nb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 22 Jan 2024 17:55:03 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750214335484584011</guid>
-            <link>https://twitter.com/LangChainAI/status/1750214335484584011</link>
             
             
             
