@@ -21,8 +21,72 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 27 Jan 2024 17:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 19:52:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🛒Build LLM Data Apps with LangChain and Dash Join us next week for a joint webinar featuring community-built Dash apps These apps won the Dash/Lang...]]></title>
+            <description><![CDATA[🛒Build LLM Data Apps with LangChain and Dash<br><br>Join us next week for a joint webinar featuring community-built Dash apps<br><br>These apps won the Dash/LangChain build challenge - so you know they're the best of the best<br><br>https://go.plotly.com/dash-langchain]]></description>
+            <pubDate>Sat, 27 Jan 2024 19:08:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751321172724060366</guid>
+            <link>https://twitter.com/LangChainAI/status/1751321172724060366</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Some ✨awesome✨ YouTube content on LangGraph by @Sam_Witteveen Sam has awesome, high-quality guides, and this new one on LangGraph is no exception a ...]]></title>
+            <description><![CDATA[Some ✨awesome✨ YouTube content on LangGraph by @Sam_Witteveen <br><br>Sam has awesome, high-quality guides, and this new one on LangGraph is no exception<br><br>a GREAT weekend watch<br><br>https://www.youtube.com/watch?v=PqS1kib7RTw<br><img style="" src="https://pbs.twimg.com/media/GEygxJgbIAAY3kD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 27 Jan 2024 18:37:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751313371369251195</guid>
+            <link>https://twitter.com/LangChainAI/status/1751313371369251195</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[💂Bedrock Guardrails A highly request community addition: the ability to add Guardrails on calls to Amazon Bedrock Useful in an enterprise setting t...]]></title>
+            <description><![CDATA[💂Bedrock Guardrails<br><br>A highly request community addition: the ability to add Guardrails on calls to Amazon Bedrock<br><br>Useful in an enterprise setting to make sure the LLM is behaving!<br><br>Code: https://python.langchain.com/docs/integrations/llms/bedrock#guardrails-for-amazon-bedrock-example<br><img style="" src="https://pbs.twimg.com/media/GEutZpla0AAE1EB?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 27 Jan 2024 17:54:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751302550001734136</guid>
+            <link>https://twitter.com/LangChainAI/status/1751302550001734136</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Thank you @MongoDB for hosting us @AWSreInvent! We had a great discussion with leaders from @UnstructuredIO, @Gradient_AI_ and @nomic_ai about collabo...]]></title>
+            <description><![CDATA[Thank you @MongoDB for hosting us @AWSreInvent!<br><br>We had a great discussion with leaders from @UnstructuredIO, @Gradient_AI_ and @nomic_ai about collaboratively growing the nascent AI ecosystem &amp; empowering devs to move fast &amp; innovate. <br><br>👇 Read more:<br><br>https://www.mongodb.com/blog/post/collaboration-breakfast-mongodb-partners-share-ai-insights-aws-reinvent]]></description>
+            <pubDate>Sat, 27 Jan 2024 17:30:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751296520094412916</guid>
+            <link>https://twitter.com/LangChainAI/status/1751296520094412916</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🚀Building a web RAG chatbot Our newest YouTube video on building with LangChain features how to build and end-to-end app (notebook to hosting) for ...]]></title>
@@ -254,70 +318,6 @@
             <pubDate>Wed, 24 Jan 2024 22:52:58 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750290624123990159</guid>
             <link>https://twitter.com/LangChainAI/status/1750290624123990159</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: Had a 🔥 time live with @crtr0 and Alex Leventer on using @DataStax AstraDB, @LangChainAI, and @vercel to build WikiChat! ICYMI, watch...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>Had a 🔥 time live with @crtr0 and Alex Leventer on using @DataStax AstraDB, @LangChainAI, and @vercel to build WikiChat!<br><br>ICYMI, watch the VOD, read about it in the blog, or try it! Super interesting ingest pipeline too:<br><br>https://www.datastax.com/blog/wikipedia-chatbot-using-astradb-langchain-and-vercel<br><br>https://wikich.at]]></description>
-            <pubDate>Wed, 24 Jan 2024 19:35:10 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750241184822493245</guid>
-            <link>https://twitter.com/LangChainAI/status/1750241184822493245</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Cobus Greyling: Visualise & Discover RAG Data RAGxplorer is a web-based GUI for importing, chunking, mapping & exploring semantic similarity. RAGxp...]]></title>
-            <description><![CDATA[RT Cobus Greyling<br>Visualise &amp; Discover RAG Data<br><br>RAGxplorer is a web-based GUI for importing, chunking, mapping &amp; exploring semantic similarity.  <br><br>RAGxplorer is a work in progress, and a number of improvements came to mind. <br><br>But it is a very timely development, considering the necessary focus…<br><video src="https://video.twimg.com/ext_tw_video/1750236106002460672/pu/vid/avc1/1264x720/x-nlnLp2nnh-iWzW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1750236106002460672/pu/img/d2WfQPKjx-BeErtP.jpg"></video>]]></description>
-            <pubDate>Wed, 24 Jan 2024 19:21:37 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750239165432914391</guid>
-            <link>https://twitter.com/LangChainAI/status/1750239165432914391</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤖Agent Toolkits: SQL Agents offer a natural language interface over SQL DBs: 1⃣ The agent converts natural language questions to SQL 2⃣ SQL query...]]></title>
-            <description><![CDATA[🤖Agent Toolkits: SQL<br><br>Agents offer a natural language interface over SQL DBs:<br><br>1⃣ The agent converts natural language questions to SQL<br>2⃣ SQL query is executed by the agent<br>3⃣The agent summarizes results from SQL query execution<br><br>We've recently updated our SQL agent toolkit…<br><img style="" src="https://pbs.twimg.com/media/GEoOGgRb0AATynb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 24 Jan 2024 18:40:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750226984633032774</guid>
-            <link>https://twitter.com/LangChainAI/status/1750226984633032774</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Kristian Freeman: New video up! My new favorite stack for Local LLMs: - @MistralAI Mixtral - @ollama - @LangChainAI - @Cloudflare Tunnel https://ww...]]></title>
-            <description><![CDATA[RT Kristian Freeman<br>New video up!<br><br>My new favorite stack for Local LLMs:<br><br>- @MistralAI Mixtral<br>- @ollama <br>- @LangChainAI <br>- @Cloudflare Tunnel<br><br>https://www.youtube.com/watch?v=z9ueVV0cty8]]></description>
-            <pubDate>Mon, 22 Jan 2024 15:02:50 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750214536400097743</guid>
-            <link>https://twitter.com/LangChainAI/status/1750214536400097743</link>
             
             
             
