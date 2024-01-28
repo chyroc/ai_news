@@ -21,8 +21,88 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 28 Jan 2024 15:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 17:39:09 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🔱 OpenAI V3 Embeddings 🔱 @openai released new v3 embeddings models earlier this week! - text-embedding-3-small model is smaller an...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🔱&nbsp;OpenAI V3 Embeddings 🔱<br><br>@openai released new v3 embeddings models earlier this week!<br><br>- text-embedding-3-small&nbsp;model is smaller and more efficient<br>- text-embedding-3-large&nbsp;model is larger and more powerful<br><br>Interestingly, you can tune the number of dimensions output vectors…<br><img style="" src="https://pbs.twimg.com/media/GE8lLtWaMAAsFmo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 28 Jan 2024 17:33:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751659937481293832</guid>
+            <link>https://twitter.com/LangChainAI/status/1751659937481293832</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔧Updated tool calling docs More and more model APIs are starting to expose `function` and `tool` calling parameters We've improved the DevEx around...]]></title>
+            <description><![CDATA[🔧Updated tool calling docs<br><br>More and more model APIs are starting to expose `function` and `tool` calling parameters<br><br>We've improved the DevEx around this, and updated key docs<br><br>Function calling guide: https://python.langchain.com/docs/modules/model_io/chat/function_calling<br><br>Tool calling output parser: https://python.langchain.com/docs/modules/model_io/output_parsers/types/openai_tools<br><img style="" src="https://pbs.twimg.com/media/GEuurj7a8AAEplk?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEuu46_bUAAqktc?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 28 Jan 2024 17:00:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751651355427479611</guid>
+            <link>https://twitter.com/LangChainAI/status/1751651355427479611</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Sudarshan Koirala: Open Source in Action 🚀 - Mistral model from @MistralAI is used as Large Language model via @ollama - @LangChainAI is used as...]]></title>
+            <description><![CDATA[RT Sudarshan Koirala<br>Open Source in Action 🚀 <br>  <br>- Mistral model from @MistralAI is used as Large Language model via @ollama<br>- @LangChainAI is used as a Framework for LLM<br>-@chainlit_io is used for deploying <br><br>YT: https://youtu.be/evOQpxq3cos<br><br>#langchain #ollama #chainlit #mistral #llm #chatui #opensource<br><img style="" src="https://pbs.twimg.com/media/GE7e1j8XAAAqAc_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 28 Jan 2024 12:25:57 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751637016021000679</guid>
+            <link>https://twitter.com/LangChainAI/status/1751637016021000679</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT ai geek (wishesh) ⚡️: let's RAG with ColBERT, Ragatouille, @LangChainAI @trychroma @streamlit @_aigeeklabs @MistralAI i just implemented an advan...]]></title>
+            <description><![CDATA[RT ai geek (wishesh) ⚡️<br>let's RAG with ColBERT, Ragatouille, @LangChainAI @trychroma @streamlit @_aigeeklabs @MistralAI <br><br>i just implemented an advanced RAG system using @Langchain's EnsembleRetriever and ColBERT.<br><br>it efficiently pulls all the relevant context required for Mixtral 8x7B to generate…<br><img style="" src="https://pbs.twimg.com/media/GE6364GXgAAPJFb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 28 Jan 2024 09:58:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751637002104209579</guid>
+            <link>https://twitter.com/LangChainAI/status/1751637002104209579</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Mervin Praison: LangGraph beats AutoGen: How Future of Internet Search will look like? ⚡ Building language agents as graphs ⚡ @LangChainAI @hwcha...]]></title>
+            <description><![CDATA[RT Mervin Praison<br>LangGraph beats AutoGen: How Future of Internet Search will look like? ⚡ Building language agents as graphs ⚡ @LangChainAI @hwchase17 #LangGraph #LangChain #AIAgents #AIAutonomousAgents #UseCase #FutureofSearch #AI #Agents  🦜🕸️LangGraph<br><video src="https://video.twimg.com/amplify_video/1751515276879724544/vid/avc1/1920x1080/Jh9yqKKjkZb9Ugjj.mp4?tag=16" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1751515276879724544/img/6Yw63_QmkNRytBvU.jpg"></video>]]></description>
+            <pubDate>Sun, 28 Jan 2024 08:04:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751636990326677864</guid>
+            <link>https://twitter.com/LangChainAI/status/1751636990326677864</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re @jurajsalapa @hwchase17 Should already work! just `pip install -U langchain-openai`. Docs: https://python.langchain.com/docs/integrations/text_embe...]]></title>
@@ -233,91 +313,11 @@
         </item>
         
         <item>
-            <title><![CDATA[✒️10 Lessons from Developing an AI Chatbot Using Retrieval-Augmented Generation A great blog from @fiddlerlabs goes through ten lessons learned when...]]></title>
-            <description><![CDATA[✒️10 Lessons from Developing an AI Chatbot Using Retrieval-Augmented Generation<br><br>A great blog from @fiddlerlabs goes through ten lessons learned when building a chatbot using RAG<br><br>Covers a LOT of content - check it out!<br><br>https://www.fiddler.ai/resources/10-lessons-from-developing-an-ai-chatbot-using-retrieval-augmented-generation<br><img style="" src="https://pbs.twimg.com/media/GEtktwva0AMqmaR?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 25 Jan 2024 19:36:53 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750603665810051535</guid>
-            <link>https://twitter.com/LangChainAI/status/1750603665810051535</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Nazeem: 🤪🦙Dialoqbase supports Telegram integration. Here is an example of chatting with a local model using .@ollama on a Telegram bot Powere...]]></title>
             <description><![CDATA[RT Nazeem<br>🤪🦙Dialoqbase supports Telegram integration. Here is an example of chatting with a local model using .@ollama  on a Telegram bot<br><br>Powered by @LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1750588561261215744/pu/vid/avc1/1280x720/EeNq7MIXsti05cZR.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1750588561261215744/pu/img/mDtCO1xLpQndb_Iv.jpg"></video>]]></description>
             <pubDate>Thu, 25 Jan 2024 18:38:32 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750603723003564518</guid>
             <link>https://twitter.com/LangChainAI/status/1750603723003564518</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 📇 JavaScript Indexing API for RAG 📇 There's a new way to load and sync your docs with a vectorstore in @LangChainAI 🦜🔗 JS/TS...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>📇&nbsp;JavaScript Indexing API for RAG 📇<br><br>There's a new way to load and sync your docs with a vectorstore in @LangChainAI 🦜🔗 JS/TS 0.1.7!<br><br>The indexing API tracks ingested documents and helps you avoid computing embeddings for or storing redundant chunks, saving you money, hassle,…<br><img style="" src="https://pbs.twimg.com/media/GEtONXkakAI0C-t?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 25 Jan 2024 17:59:15 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750579330475065693</guid>
-            <link>https://twitter.com/LangChainAI/status/1750579330475065693</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🛠️How Mendable leverages LangSmith to debug Tools & Actions @mendableai recently launched "Tools & Actions" - to enable their assistants to take a...]]></title>
-            <description><![CDATA[🛠️How Mendable leverages LangSmith to debug Tools &amp; Actions<br><br>@mendableai recently launched "Tools &amp; Actions" - to enable their assistants to take actions<br><br>Blog Link: https://blog.langchain.dev/how-mendable-leverages-langsmith-to-debug-tools-actions/<br><br>What are some learnings along the way?<br><br>🔎"One of the biggest problems when building…<br><img style="" src="https://pbs.twimg.com/media/GEtK9yNa8AAl1h6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEtK-Z3bEAA_YVh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 25 Jan 2024 17:44:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750575332430901553</guid>
-            <link>https://twitter.com/LangChainAI/status/1750575332430901553</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🎉We're doing hacking hours this Friday in SF! Specifically focused on **LangGraph** - so we expect cool agents (or multi agents) to be built! Will ...]]></title>
-            <description><![CDATA[🎉We're doing hacking hours this Friday in SF!<br><br>Specifically focused on **LangGraph** - so we expect cool agents (or multi agents) to be built! Will try to record any demos at the end to share remotely<br><br>RSVP: https://partiful.com/e/MPWEWti06UGPRnkYnaER]]></description>
-            <pubDate>Thu, 25 Jan 2024 16:15:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750552860188696673</guid>
-            <link>https://twitter.com/LangChainAI/status/1750552860188696673</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Panel: 🤖Want to build a chat UI using the new @LangChainAI Expression Language? 👉Check out our reference example. 👇Link below #python #dat...]]></title>
-            <description><![CDATA[RT Panel<br>🤖Want to build a chat UI using the new @LangChainAI Expression Language?<br><br>👉Check out our reference example. 👇Link below<br><br>#python #dataviz #datascience #Analytics #LLM @hwchase17<br><video src="https://video.twimg.com/ext_tw_video/1750378590523269120/pu/vid/avc1/1200x674/t0pTfQhzsxQdUwO_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1750378590523269120/pu/img/eZjNu2kWv25J2E-D.jpg"></video>]]></description>
-            <pubDate>Thu, 25 Jan 2024 04:47:54 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750397775945302294</guid>
-            <link>https://twitter.com/LangChainAI/status/1750397775945302294</link>
             
             
             
