@@ -21,8 +21,24 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 27 Jan 2024 23:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 01:25:40 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Re @jurajsalapa @hwchase17 Should already work! just `pip install -U langchain-openai`. Docs: https://python.langchain.com/docs/integrations/text_embe...]]></title>
+            <description><![CDATA[Re @jurajsalapa @hwchase17 Should already work! just `pip install -U langchain-openai`.<br><br>Docs: https://python.langchain.com/docs/integrations/text_embedding/openai<br><br>Let us know if something's now working!]]></description>
+            <pubDate>Sun, 28 Jan 2024 00:50:45 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751407431031390312</guid>
+            <link>https://twitter.com/LangChainAI/status/1751407431031390312</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🛒Build LLM Data Apps with LangChain and Dash Join us next week for a joint webinar featuring community-built Dash apps These apps won the Dash/Lang...]]></title>
@@ -302,22 +318,6 @@
             <pubDate>Thu, 25 Jan 2024 04:47:54 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750397775945302294</guid>
             <link>https://twitter.com/LangChainAI/status/1750397775945302294</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤖 LangGraph for Multi-Agent Workflows We pushed a bunch of examples of using LangGraph to construct multi-agent workflows. These include: 🤝 Mult...]]></title>
-            <description><![CDATA[🤖 LangGraph for Multi-Agent Workflows<br><br>We pushed a bunch of examples of using LangGraph to construct multi-agent workflows. These include:<br><br>🤝 Multi-Agent **Collaboration** - having agents work on the same scratchpad of messages<br><br>👮‍♂️ Agent **Supervisor** - using and LLM to…<br><img style="" src="https://pbs.twimg.com/media/GEpICnwbMAAzqGV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 24 Jan 2024 22:52:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750290624123990159</guid>
-            <link>https://twitter.com/LangChainAI/status/1750290624123990159</link>
             
             
             
