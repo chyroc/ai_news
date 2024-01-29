@@ -21,24 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 29 Jan 2024 17:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 14:59:04 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[📹Searching YouTube with LangChain Awesome new article from J Daniel Semrau covering: 🕸️LangGraph agents ⏯️YouTube Search Tool 🎏Streamlit U...]]></title>
-            <description><![CDATA[📹Searching YouTube with LangChain<br><br>Awesome new article from J Daniel Semrau covering:<br><br>🕸️LangGraph agents<br>⏯️YouTube Search Tool<br>🎏Streamlit UI<br>🔧OpenAI tool agent<br><br>https://jdsemrau.substack.com/p/searching-youtube-with-langchain<br><img style="" src="https://pbs.twimg.com/media/GFBnS7uacAATN5a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 29 Jan 2024 17:00:28 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752013852873797925</guid>
-            <link>https://twitter.com/LangChainAI/status/1752013852873797925</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: 🔱 OpenAI V3 Embeddings 🔱 @openai released new v3 embeddings models earlier this week! - text-embedding-3-small model is smaller an...]]></title>
@@ -318,6 +302,22 @@
             <pubDate>Thu, 25 Jan 2024 22:01:45 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750690197661241622</guid>
             <link>https://twitter.com/LangChainAI/status/1750690197661241622</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Nazeem: 🤪🦙Dialoqbase supports Telegram integration. Here is an example of chatting with a local model using .@ollama on a Telegram bot Powere...]]></title>
+            <description><![CDATA[RT Nazeem<br>🤪🦙Dialoqbase supports Telegram integration. Here is an example of chatting with a local model using .@ollama  on a Telegram bot<br><br>Powered by @LangChainAI <br><br>Repo: https://github.com/n4ze3m/dialoqbase<br><video src="https://video.twimg.com/ext_tw_video/1750588561261215744/pu/vid/avc1/1280x720/EeNq7MIXsti05cZR.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1750588561261215744/pu/img/mDtCO1xLpQndb_Iv.jpg"></video>]]></description>
+            <pubDate>Thu, 25 Jan 2024 18:38:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750603723003564518</guid>
+            <link>https://twitter.com/LangChainAI/status/1750603723003564518</link>
             
             
             
