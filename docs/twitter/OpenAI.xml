@@ -21,8 +21,24 @@
             <link>https://twitter.com/OpenAI</link>
         </image>
         
-        <lastBuildDate>Mon, 29 Jan 2024 19:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 22:23:52 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[We are collaborating on AI guidelines and educational materials for parents, educators, and teens, as well as a curation of family-friendly GPTs in th...]]></title>
+            <description><![CDATA[We are collaborating on AI guidelines and educational materials for parents, educators, and teens, as well as a curation of family-friendly GPTs in the GPT Store based on @CommonSense ratings and standards.<div class="rsshub-quote"><br><br>Common Sense Media: AI isn’t going anywhere, so it’s important that we help kids understand how to use it responsibly. <br><br>That’s why we’ve partnered with @OpenAI to help teens and families safely harness the potential of AI. <br><br>Read more ⬇️ <br><br>https://www.commonsensemedia.org/press-releases/common-sense-media-and-openai-partner-to-help-teens-and-families<br></div>]]></description>
+            <pubDate>Mon, 29 Jan 2024 21:09:10 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1752076442320638105</guid>
+            <link>https://twitter.com/OpenAI/status/1752076442320638105</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Expanding the platform for @OpenAIDevs: new generation of embedding models, updated GPT-4 Turbo, and lower pricing on GPT-3.5 Turbo. https://openai.co...]]></title>
@@ -302,38 +318,6 @@
             <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349722020495665</guid>
             <link>https://twitter.com/OpenAI/status/1735349722020495665</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Large pretrained models have excellent raw capabilities—but can we elicit these fully with only weak supervision? GPT-4 supervised by ~GPT-2 recov...]]></title>
-            <description><![CDATA[Re Large pretrained models have excellent raw capabilities—but can we elicit these fully with only weak supervision?<br><br>GPT-4 supervised by ~GPT-2 recovers performance close to GPT-3.5 supervised by humans—generalizing to solve even hard problems where the weak supervisor failed!<br><img style="" src="https://pbs.twimg.com/media/GBUyUsOawAMRdx6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349720435048751</guid>
-            <link>https://twitter.com/OpenAI/status/1735349720435048751</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[In the future, humans will need to supervise AI systems much smarter than them. We study an analogy: small models supervising large models. Read the S...]]></title>
-            <description><![CDATA[In the future, humans will need to supervise AI systems much smarter than them.<br><br>We study an analogy: small models supervising large models.<br><br>Read the Superalignment team's first paper showing progress on a new approach, weak-to-strong generalization: https://openai.com/research/weak-to-strong-generalization<br><img style="" src="https://pbs.twimg.com/media/GBUyJ9BawAEa5if?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:23:08 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349718765715913</guid>
-            <link>https://twitter.com/OpenAI/status/1735349718765715913</link>
             
             
             
