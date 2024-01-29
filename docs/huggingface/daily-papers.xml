@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 29 Jan 2024 03:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 01:42:32 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Generative Expressive Robot Behaviors using Large Language Models]]></title>
-            <description><![CDATA[People employ expressive behaviors to effectively communicate and coordinate their actions with others, such as nodding to acknowledge a person glancing at them or saying "excuse me" to pass people in a busy corridor. We would like robots to also demonstrate expressive behaviors in human-robot interaction. Prior work proposes rule-based methods that struggle to scale to new communication modalities or social situations, while data-driven methods require specialized datasets for each social situation the robot is used in. We propose to leverage the rich social context available from large language models (LLMs) and their ability to generate motion based on instructions or user preferences, to generate expressive robot motion that is adaptable and composable, building upon each other. Our approach utilizes few-shot chain-of-thought prompting to translate human language instructions into parametrized control code using the robot's available and learned skills. Through user studies and simulation experiments, we demonstrate that our approach produces behaviors that users found to be competent and easy to understand. Supplementary material can be found at https://generative-expressive-motion.github.io/.]]></description>
-            <pubDate>Mon, 29 Jan 2024 03:09:45 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.14673</guid>
-            <link>https://arxiv.org/abs/2401.14673</link>
+            <title><![CDATA[Adaptive Mobile Manipulation for Articulated Objects In the Open World]]></title>
+            <description><![CDATA[Deploying robots in open-ended unstructured environments such as homes has been a long-standing research problem. However, robots are often studied only in closed-off lab settings, and prior mobile manipulation work is restricted to pick-move-place, which is arguably just the tip of the iceberg in this area. In this paper, we introduce Open-World Mobile Manipulation System, a full-stack approach to tackle realistic articulated object operation, e.g. real-world doors, cabinets, drawers, and refrigerators in open-ended unstructured environments. The robot utilizes an adaptive learning framework to initially learns from a small set of data through behavior cloning, followed by learning from online practice on novel objects that fall outside the training distribution. We also develop a low-cost mobile manipulation hardware platform capable of safe and autonomous online adaptation in unstructured environments with a cost of around 20,000 USD. In our experiments we utilize 20 articulate objects across 4 buildings in the CMU campus. With less than an hour of online learning for each object, the system is able to increase success rate from 50% of BC pre-training to 95% using online adaptation. Video results at https://open-world-mobilemanip.github.io/]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:57:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14403</guid>
+            <link>https://arxiv.org/abs/2401.14403</link>
             
             
             
-            <author><![CDATA[Karthik Mahadevan, Jonathan Chien, Noah Brown, Zhuo Xu, Carolina Parada, Fei Xia, Andy Zeng, Leila Takayama, Dorsa Sadigh]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Learning Universal Predictors]]></title>
-            <description><![CDATA[Meta-learning has emerged as a powerful approach to train neural networks to learn new tasks quickly from limited data. Broad exposure to different tasks leads to versatile representations enabling general problem solving. But, what are the limits of meta-learning? In this work, we explore the potential of amortizing the most powerful universal predictor, namely Solomonoff Induction (SI), into neural networks via leveraging meta-learning to its limits. We use Universal Turing Machines (UTMs) to generate training data used to expose networks to a broad range of patterns. We provide theoretical analysis of the UTM data generation processes and meta-training protocols. We conduct comprehensive experiments with neural architectures (e.g. LSTMs, Transformers) and algorithmic data generators of varying complexity and universality. Our results suggest that UTM data is a valuable resource for meta-learning, and that it can be used to train neural networks capable of learning universal prediction strategies.]]></description>
-            <pubDate>Mon, 29 Jan 2024 02:53:41 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.14953</guid>
-            <link>https://arxiv.org/abs/2401.14953</link>
-            
-            
-            
-            <author><![CDATA[Jordi Grau-Moya, Tim Genewein, Marcus Hutter, Laurent Orseau, Grégoire Delétang, Elliot Catt, Anian Ruoss, Li Kevin Wenliang, Christopher Mattern, Matthew Aitchison, Joel Veness]]></author>
+            <author><![CDATA[Haoyu Xiong, Russell Mendonca, Kenneth Shaw, Deepak Pathak]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts]]></title>
-            <description><![CDATA[Text-driven 3D scene editing has gained significant attention owing to its convenience and user-friendliness. However, existing methods still lack accurate control of the specified appearance and location of the editing result due to the inherent limitations of the text description. To this end, we propose a 3D scene editing framework, TIPEditor, that accepts both text and image prompts and a 3D bounding box to specify the editing region. With the image prompt, users can conveniently specify the detailed appearance/style of the target content in complement to the text description, enabling accurate control of the appearance. Specifically, TIP-Editor employs a stepwise 2D personalization strategy to better learn the representation of the existing scene and the reference image, in which a localization loss is proposed to encourage correct object placement as specified by the bounding box. Additionally, TIPEditor utilizes explicit and flexible 3D Gaussian splatting as the 3D representation to facilitate local editing while keeping the background unchanged. Extensive experiments have demonstrated that TIP-Editor conducts accurate editing following the text and image prompts in the specified bounding box region, consistently outperforming the baselines in editing quality, and the alignment to the prompts, qualitatively and quantitatively.]]></description>
-            <pubDate>Mon, 29 Jan 2024 02:48:20 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.14828</guid>
-            <link>https://arxiv.org/abs/2401.14828</link>
+            <title><![CDATA[pix2gestalt: Amodal Segmentation by Synthesizing Wholes]]></title>
+            <description><![CDATA[We introduce pix2gestalt, a framework for zero-shot amodal segmentation, which learns to estimate the shape and appearance of whole objects that are only partially visible behind occlusions. By capitalizing on large-scale diffusion models and transferring their representations to this task, we learn a conditional diffusion model for reconstructing whole objects in challenging zero-shot cases, including examples that break natural and physical priors, such as art. As training data, we use a synthetically curated dataset containing occluded objects paired with their whole counterparts. Experiments show that our approach outperforms supervised baselines on established benchmarks. Our model can furthermore be used to significantly improve the performance of existing object recognition and 3D reconstruction methods in the presence of occlusions.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:51:44 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14398</guid>
+            <link>https://arxiv.org/abs/2401.14398</link>
             
             
             
-            <author><![CDATA[Jingyu Zhuang, Di Kang, Yan-Pei Cao, Guanbin Li, Liang Lin, Ying Shan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty]]></title>
-            <description><![CDATA[Auto-regressive decoding makes the inference of Large Language Models (LLMs) time-consuming. We propose a simple framework, EAGLE (Extrapolation Algorithm for Greater Language-model Efficiency), for lossless acceleration. Unlike traditional speculative sampling methods, EAGLE operates the drafting process auto-regressively at the more regular (second-top-layer) feature level and addresses the sampling uncertainty issues in the next-feature prediction problems by integrating tokens from one time step ahead. The acceleration provided by EAGLE is lossless: it involves no fine-tuning of the target LLM, and the generated text maintains the same distribution as that of vanilla auto-regressive decoding. As of the submission of this paper, EAGLE is the fastest known framework within the speculative sampling family. On MT-bench, EAGLE is 3x faster than vanilla decoding, 2x faster than Lookahead, and 1.6x faster than Medusa. Using gpt-fast, EAGLE attains on average 160 tokens/s with LLaMA2-Chat 13B on a single RTX 3090 GPU, compared to 24 tokens/s of Huggingface's implementations.]]></description>
-            <pubDate>Mon, 29 Jan 2024 02:40:23 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.15077</guid>
-            <link>https://arxiv.org/abs/2401.15077</link>
-            
-            
-            
-            <author><![CDATA[Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang]]></author>
+            <author><![CDATA[Ege Ozguroglu, Ruoshi Liu, Dídac Surís, Dian Chen, Achal Dave, Pavel Tokmakov, Carl Vondrick]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[SliceGPT: Compress Large Language Models by Deleting Rows and Columns]]></title>
-            <description><![CDATA[Large language models have become the cornerstone of natural language processing, but their use comes with substantial costs in terms of compute and memory resources. Sparsification provides a solution to alleviate these resource constraints, and recent works have shown that trained models can be sparsified post-hoc. Existing sparsification techniques face challenges as they need additional data structures and offer constrained speedup with current hardware. In this paper we present SliceGPT, a new post-training sparsification scheme which replaces each weight matrix with a smaller (dense) matrix, reducing the embedding dimension of the network. Through extensive experimentation, we show that SliceGPT can remove up to 25% of the model parameters (including embeddings) for LLAMA2-70B, OPT 66B and Phi-2 models while maintaining 99%, 99% and 90% zero-shot task performance of the dense model respectively. Our sliced models run on fewer GPUs and run faster without any additional code optimization: on 24GB consumer GPUs we reduce the total compute for inference on LLAMA2-70B to 64% of that of the dense model; on 40GB A100 GPUs we reduce it to 66%. We offer a new insight, computational invariance in transformer networks, which enables SliceGPT and we hope it will inspire and enable future avenues to reduce memory and computation demands for pre-trained models. Code is available at: https://github.com/microsoft/TransformerCompression]]></description>
-            <pubDate>Mon, 29 Jan 2024 02:35:05 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.15024</guid>
-            <link>https://arxiv.org/abs/2401.15024</link>
+            <title><![CDATA[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities]]></title>
+            <description><![CDATA[We propose to improve transformers of a specific modality with irrelevant data from other modalities, e.g., improve an ImageNet model with audio or point cloud datasets. We would like to highlight that the data samples of the target modality are irrelevant to the other modalities, which distinguishes our method from other works utilizing paired (e.g., CLIP) or interleaved data of different modalities. We propose a methodology named Multimodal Pathway - given a target modality and a transformer designed for it, we use an auxiliary transformer trained with data of another modality and construct pathways to connect components of the two models so that data of the target modality can be processed by both models. In this way, we utilize the universal sequence-to-sequence modeling abilities of transformers obtained from two modalities. As a concrete implementation, we use a modality-specific tokenizer and task-specific head as usual but utilize the transformer blocks of the auxiliary model via a proposed method named Cross-Modal Re-parameterization, which exploits the auxiliary weights without any inference costs. On the image, point cloud, video, and audio recognition tasks, we observe significant and consistent performance improvements with irrelevant data from other modalities. The code and models are available at https://github.com/AILab-CVC/M2PT.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:45:46 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14405</guid>
+            <link>https://arxiv.org/abs/2401.14405</link>
             
             
             
-            <author><![CDATA[Saleh Ashkboos, Maximilian L. Croci, Marcelo Gennari do Nascimento, Torsten Hoefler, James Hensman]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with Large Vision-Language Model Support]]></title>
-            <description><![CDATA[Recent advancements in text-to-image models have significantly enhanced image generation capabilities, yet a notable gap of open-source models persists in bilingual or Chinese language support. To address this need, we present Taiyi-Diffusion-XL, a new Chinese and English bilingual text-to-image model which is developed by extending the capabilities of CLIP and Stable-Diffusion-XL through a process of bilingual continuous pre-training. This approach includes the efficient expansion of vocabulary by integrating the most frequently used Chinese characters into CLIP's tokenizer and embedding layers, coupled with an absolute position encoding expansion. Additionally, we enrich text prompts by large vision-language model, leading to better images captions and possess higher visual quality. These enhancements are subsequently applied to downstream text-to-image models. Our empirical results indicate that the developed CLIP model excels in bilingual image-text retrieval.Furthermore, the bilingual image generation capabilities of Taiyi-Diffusion-XL surpass previous models. This research leads to the development and open-sourcing of the Taiyi-Diffusion-XL model, representing a notable advancement in the field of image generation, particularly for Chinese language applications. This contribution is a step forward in addressing the need for more diverse language support in multimodal research. The model and demonstration are made publicly available at https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B/{this https URL}, fostering further research and collaboration in this domain.]]></description>
-            <pubDate>Mon, 29 Jan 2024 02:32:09 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.14688</guid>
-            <link>https://arxiv.org/abs/2401.14688</link>
-            
-            
-            
-            <author><![CDATA[Xiaojun Wu, Dixiang Zhang, Ruyi Gan, Junyu Lu, Ziwei Wu, Renliang Sun, Jiaxing Zhang, Pingjian Zhang, Yan Song]]></author>
+            <author><![CDATA[Yiyuan Zhang, Xiaohan Ding, Kaixiong Gong, Yixiao Ge, Ying Shan, Xiangyu Yue]]></author>
             
                 
             
@@ -115,15 +67,175 @@
         </item>
         
         <item>
-            <title><![CDATA[From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities]]></title>
-            <description><![CDATA[Multi-modal Large Language Models (MLLMs) have shown impressive abilities in generating reasonable responses with respect to multi-modal contents. However, there is still a wide gap between the performance of recent MLLM-based applications and the expectation of the broad public, even though the most powerful OpenAI's GPT-4 and Google's Gemini have been deployed. This paper strives to enhance understanding of the gap through the lens of a qualitative study on the generalizability, trustworthiness, and causal reasoning capabilities of recent proprietary and open-source MLLMs across four modalities: ie, text, code, image, and video, ultimately aiming to improve the transparency of MLLMs. We believe these properties are several representative factors that define the reliability of MLLMs, in supporting various downstream applications. To be specific, we evaluate the closed-source GPT-4 and Gemini and 6 open-source LLMs and MLLMs. Overall we evaluate 230 manually designed cases, where the qualitative results are then summarized into 12 scores (ie, 4 modalities times 3 properties). In total, we uncover 14 empirical findings that are useful to understand the capabilities and limitations of both proprietary and open-source MLLMs, towards more reliable downstream multi-modal applications.]]></description>
-            <pubDate>Mon, 29 Jan 2024 02:15:36 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.15071</guid>
-            <link>https://arxiv.org/abs/2401.15071</link>
+            <title><![CDATA[Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All]]></title>
+            <description><![CDATA[As online shopping is growing, the ability for buyers to virtually visualize products in their settings-a phenomenon we define as "Virtual Try-All"-has become crucial. Recent diffusion models inherently contain a world model, rendering them suitable for this task within an inpainting context. However, traditional image-conditioned diffusion models often fail to capture the fine-grained details of products. In contrast, personalization-driven models such as DreamPaint are good at preserving the item's details but they are not optimized for real-time applications. We present "Diffuse to Choose," a novel diffusion-based image-conditioned inpainting model that efficiently balances fast inference with the retention of high-fidelity details in a given reference item while ensuring accurate semantic manipulations in the given scene content. Our approach is based on incorporating fine-grained features from the reference image directly into the latent feature maps of the main diffusion model, alongside with a perceptual loss to further preserve the reference item's details. We conduct extensive testing on both in-house and publicly available datasets, and show that Diffuse to Choose is superior to existing zero-shot diffusion inpainting methods as well as few-shot diffusion personalization algorithms like DreamPaint.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:28:12 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13795</guid>
+            <link>https://arxiv.org/abs/2401.13795</link>
             
             
             
-            <author><![CDATA[Chaochao Lu, Chen Qian, Guodong Zheng, Hongxing Fan, Hongzhi Gao, Jie Zhang, Jing Shao, Jingyi Deng, Jinlan Fu, Kexin Huang, Kunchang Li, Lijun Li, Limin Wang, Lu Sheng, Meiqi Chen, Ming Zhang, Qibing Ren, Sirui Chen, Tao Gui, Wanli Ouyang, Yali Wang, Yan Teng, Yaru Wang, Yi Wang, Yinan He, Yingchun Wang, Yixu Wang, Yongting Zhang, Yu Qiao, Yujiong Shen, Yurong Mou, Yuxi Chen, Zaibin Zhang, Zhelun Shi, Zhenfei Yin, Zhipin Wang]]></author>
+            <author><![CDATA[Mehmet Saygin Seyfioglu, Karim Bouyarmane, Suren Kumar, Amir Tavanaei, Ismail B. Tutar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rethinking Patch Dependence for Masked Autoencoders]]></title>
+            <description><![CDATA[In this work, we re-examine inter-patch dependencies in the decoding mechanism of masked autoencoders (MAE). We decompose this decoding mechanism for masked patch reconstruction in MAE into self-attention and cross-attention. Our investigations suggest that self-attention between mask patches is not essential for learning good representations. To this end, we propose a novel pretraining framework: Cross-Attention Masked Autoencoders (CrossMAE). CrossMAE's decoder leverages only cross-attention between masked and visible tokens, with no degradation in downstream performance. This design also enables decoding only a small subset of mask tokens, boosting efficiency. Furthermore, each decoder block can now leverage different encoder features, resulting in improved representation learning. CrossMAE matches MAE in performance with 2.5 to 3.7times less decoding compute. It also surpasses MAE on ImageNet classification and COCO instance segmentation under the same compute. Code and models: https://crossmae.github.io]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:09:12 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14391</guid>
+            <link>https://arxiv.org/abs/2401.14391</link>
+            
+            
+            
+            <author><![CDATA[Letian Fu, Long Lian, Renhao Wang, Baifeng Shi, Xudong Wang, Adam Yala, Trevor Darrell, Alexei A. Efros, Ken Goldberg]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Genie: Achieving Human Parity in Content-Grounded Datasets Generation]]></title>
+            <description><![CDATA[The lack of high-quality data for content-grounded generation tasks has been identified as a major obstacle to advancing these tasks. To address this gap, we propose Genie, a novel method for automatically generating high-quality content-grounded data. It consists of three stages: (a) Content Preparation, (b) Generation: creating task-specific examples from the content (e.g., question-answer pairs or summaries). (c) Filtering mechanism aiming to ensure the quality and faithfulness of the generated data. We showcase this methodology by generating three large-scale synthetic data, making wishes, for Long-Form Question-Answering (LFQA), summarization, and information extraction. In a human evaluation, our generated data was found to be natural and of high quality. Furthermore, we compare models trained on our data with models trained on human-written data -- ELI5 and ASQA for LFQA and CNN-DailyMail for Summarization. We show that our models are on par with or outperforming models trained on human-generated data and consistently outperforming them in faithfulness. Finally, we applied our method to create LFQA data within the medical domain and compared a model trained on it with models trained on other domains.]]></description>
+            <pubDate>Fri, 26 Jan 2024 04:06:13 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14367</guid>
+            <link>https://arxiv.org/abs/2401.14367</link>
+            
+            
+            
+            <author><![CDATA[Asaf Yehudai, Boaz Carmeli, Yosi Mass, Ofir Arviv, Nathaniel Mills, Assaf Toledo, Eyal Shnarch, Leshem Choshen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Deconstructing Denoising Diffusion Models for Self-Supervised Learning]]></title>
+            <description><![CDATA[In this study, we examine the representation learning abilities of Denoising Diffusion Models (DDM) that were originally purposed for image generation. Our philosophy is to deconstruct a DDM, gradually transforming it into a classical Denoising Autoencoder (DAE). This deconstructive procedure allows us to explore how various components of modern DDMs influence self-supervised representation learning. We observe that only a very few modern components are critical for learning good representations, while many others are nonessential. Our study ultimately arrives at an approach that is highly simplified and to a large extent resembles a classical DAE. We hope our study will rekindle interest in a family of classical methods within the realm of modern self-supervised learning.]]></description>
+            <pubDate>Fri, 26 Jan 2024 03:09:23 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14404</guid>
+            <link>https://arxiv.org/abs/2401.14404</link>
+            
+            
+            
+            <author><![CDATA[Xinlei Chen, Zhuang Liu, Saining Xie, Kaiming He]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence]]></title>
+            <description><![CDATA[The rapid development of large language models has revolutionized code intelligence in software development. However, the predominance of closed-source models has restricted extensive research and development. To address this, we introduce the DeepSeek-Coder series, a range of open-source code models with sizes from 1.3B to 33B, trained from scratch on 2 trillion tokens. These models are pre-trained on a high-quality project-level code corpus and employ a fill-in-the-blank task with a 16K window to enhance code generation and infilling. Our extensive evaluations demonstrate that DeepSeek-Coder not only achieves state-of-the-art performance among open-source code models across multiple benchmarks but also surpasses existing closed-source models like Codex and GPT-3.5. Furthermore, DeepSeek-Coder models are under a permissive license that allows for both research and unrestricted commercial use.]]></description>
+            <pubDate>Fri, 26 Jan 2024 03:05:28 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14196</guid>
+            <link>https://arxiv.org/abs/2401.14196</link>
+            
+            
+            
+            <author><![CDATA[Daya Guo, Qihao Zhu, Dejian Yang, Zhenda Xie, Kai Dong, Wentao Zhang, Guanting Chen, Xiao Bi, Y. Wu, Y. K. Li, Fuli Luo, Yingfei Xiong, Wenfeng Liang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design]]></title>
+            <description><![CDATA[Six-bit quantization (FP6) can effectively reduce the size of large language models (LLMs) and preserve the model quality consistently across varied applications. However, existing systems do not provide Tensor Core support for FP6 quantization and struggle to achieve practical performance improvements during LLM inference. It is challenging to support FP6 quantization on GPUs due to (1) unfriendly memory access of model weights with irregular bit-width and (2) high runtime overhead of weight de-quantization. To address these problems, we propose TC-FPx, the first full-stack GPU kernel design scheme with unified Tensor Core support of float-point weights for various quantization bit-width. We integrate TC-FPx kernel into an existing inference system, providing new end-to-end support (called FP6-LLM) for quantized LLM inference, where better trade-offs between inference cost and model quality are achieved. Experiments show that FP6-LLM enables the inference of LLaMA-70b using only a single GPU, achieving 1.69x-2.65x higher normalized inference throughput than the FP16 baseline. The source code will be publicly available soon.]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:57:20 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14112</guid>
+            <link>https://arxiv.org/abs/2401.14112</link>
+            
+            
+            
+            <author><![CDATA[Haojun Xia, Zhen Zheng, Xiaoxia Wu, Shiyang Chen, Zhewei Yao, Stephen Youn, Arash Bakhtiari, Michael Wyatt, Donglin Zhuang, Zhongzhu Zhou, Olatunji Ruwase, Yuxiong He, Shuaiwen Leon Song]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Unitxt: Flexible, Shareable and Reusable Data Preparation and Evaluation for Generative AI]]></title>
+            <description><![CDATA[In the dynamic landscape of generative NLP, traditional text processing pipelines limit research flexibility and reproducibility, as they are tailored to specific dataset, task, and model combinations. The escalating complexity, involving system prompts, model-specific formats, instructions, and more, calls for a shift to a structured, modular, and customizable solution. Addressing this need, we present Unitxt, an innovative library for customizable textual data preparation and evaluation tailored to generative language models. Unitxt natively integrates with common libraries like HuggingFace and LM-eval-harness and deconstructs processing flows into modular components, enabling easy customization and sharing between practitioners. These components encompass model-specific formats, task prompts, and many other comprehensive dataset processing definitions. The Unitxt-Catalog centralizes these components, fostering collaboration and exploration in modern textual data workflows. Beyond being a tool, Unitxt is a community-driven platform, empowering users to build, share, and advance their pipelines collaboratively. Join the Unitxt community at https://github.com/IBM/unitxt!]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:36:18 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14019</guid>
+            <link>https://arxiv.org/abs/2401.14019</link>
+            
+            
+            
+            <author><![CDATA[Elron Bandel, Yotam Perlitz, Elad Venezian, Roni Friedman-Melamed, Ofir Arviv, Matan Orbach, Shachar Don-Yehyia, Dafna Sheinwald, Ariel Gera, Leshem Choshen, Michal Shmueli-Scheuer, Yoav Katz]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models]]></title>
+            <description><![CDATA[The advancement of large language models (LLMs) leads to a new era marked by the development of autonomous applications in the real world, which drives innovation in the creation of advanced web-based agents. Existing web agents typically only handle one input modality and are evaluated only in simplified web simulators or static web snapshots, greatly limiting their applicability in real-world scenarios. To bridge this gap, we introduce WebVoyager, an innovative Large Multimodal Model (LMM) powered web agent that can complete user instructions end-to-end by interacting with real-world websites. Moreover, we propose a new evaluation protocol for web agents to address the challenges of automatic evaluation of open-ended web agent tasks, leveraging the robust multimodal comprehension capabilities of GPT-4V. We create a new benchmark by gathering real-world tasks from 15 widely used websites to evaluate our agents. We show that WebVoyager achieves a 55.7% task success rate, significantly surpassing the performance of both GPT-4 (All Tools) and the WebVoyager (text-only) setups, underscoring the exceptional capability of WebVoyager in practical applications. We found that our proposed automatic evaluation achieves 85.3% agreement with human judgment, paving the way for further development of web agents in a real-world setting.]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:28:38 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13919</guid>
+            <link>https://arxiv.org/abs/2401.13919</link>
+            
+            
+            
+            <author><![CDATA[Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Yong Dai, Hongming Zhang, Zhenzhong Lan, Dong Yu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation]]></title>
+            <description><![CDATA[Recently, text-to-3D approaches have achieved high-fidelity 3D content generation using text description. However, the generated objects are stochastic and lack fine-grained control. Sketches provide a cheap approach to introduce such fine-grained control. Nevertheless, it is challenging to achieve flexible control from these sketches due to their abstraction and ambiguity. In this paper, we present a multi-view sketch-guided text-to-3D generation framework (namely, Sketch2NeRF) to add sketch control to 3D generation. Specifically, our method leverages pretrained 2D diffusion models (e.g., Stable Diffusion and ControlNet) to supervise the optimization of a 3D scene represented by a neural radiance field (NeRF). We propose a novel synchronized generation and reconstruction method to effectively optimize the NeRF. In the experiments, we collected two kinds of multi-view sketch datasets to evaluate the proposed method. We demonstrate that our method can synthesize 3D consistent contents with fine-grained sketch control while being high-fidelity to text prompts. Extensive results show that our method achieves state-of-the-art performance in terms of sketch similarity and text alignment.]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:21:11 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14257</guid>
+            <link>https://arxiv.org/abs/2401.14257</link>
+            
+            
+            
+            <author><![CDATA[Minglin Chen, Longguang Wang, Weihao Yuan, Yukun Wang, Zhe Sheng, Yisheng He, Zilong Dong, Liefeng Bo, Yulan Guo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion]]></title>
+            <description><![CDATA[Large-scale text-to-image generative models have made impressive strides, showcasing their ability to synthesize a vast array of high-quality images. However, adapting these models for artistic image editing presents two significant challenges. Firstly, users struggle to craft textual prompts that meticulously detail visual elements of the input image. Secondly, prevalent models, when effecting modifications in specific zones, frequently disrupt the overall artistic style, complicating the attainment of cohesive and aesthetically unified artworks. To surmount these obstacles, we build the innovative unified framework CreativeSynth, which is based on a diffusion model with the ability to coordinate multimodal inputs and multitask in the field of artistic image generation. By integrating multimodal features with customized attention mechanisms, CreativeSynth facilitates the importation of real-world semantic content into the domain of art through inversion and real-time style transfer. This allows for the precise manipulation of image style and content while maintaining the integrity of the original model parameters. Rigorous qualitative and quantitative evaluations underscore that CreativeSynth excels in enhancing artistic images' fidelity and preserves their innate aesthetic essence. By bridging the gap between generative models and artistic finesse, CreativeSynth becomes a custom digital palette.]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:19:04 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.14066</guid>
+            <link>https://arxiv.org/abs/2401.14066</link>
+            
+            
+            
+            <author><![CDATA[Nisha Huang, Weiming Dong, Yuxin Zhang, Fan Tang, Ronghui Li, Chongyang Ma, Xiu Li, Changsheng Xu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models]]></title>
+            <description><![CDATA[Recent text-to-image generation models have demonstrated incredible success in generating images that faithfully follow input prompts. However, the requirement of using words to describe a desired concept provides limited control over the appearance of the generated concepts. In this work, we address this shortcoming by proposing an approach to enable personalization capabilities in existing text-to-image diffusion models. We propose a novel architecture (BootPIG) that allows a user to provide reference images of an object in order to guide the appearance of a concept in the generated images.   The proposed BootPIG architecture makes minimal modifications to a pretrained text-to-image diffusion model and utilizes a separate UNet model to steer the generations toward the desired appearance. We introduce a training procedure that allows us to bootstrap personalization capabilities in the BootPIG architecture using data generated from pretrained text-to-image models, LLM chat agents, and image segmentation models. In contrast to existing methods that require several days of pretraining, the BootPIG architecture can be trained in approximately 1 hour. Experiments on the DreamBooth dataset demonstrate that BootPIG outperforms existing zero-shot methods while being comparable with test-time finetuning approaches. Through a user study, we validate the preference for BootPIG generations over existing methods both in maintaining fidelity to the reference object's appearance and aligning with textual prompts.]]></description>
+            <pubDate>Fri, 26 Jan 2024 02:10:34 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.13974</guid>
+            <link>https://arxiv.org/abs/2401.13974</link>
+            
+            
+            
+            <author><![CDATA[Senthil Purushwalkam, Akash Gokul, Shafiq Joty, Nikhil Naik]]></author>
             
                 
             
