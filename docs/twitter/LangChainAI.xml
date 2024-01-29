@@ -21,7 +21,7 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 29 Jan 2024 19:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 22:11:35 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Mon, 29 Jan 2024 17:00:28 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752013852873797925</guid>
             <link>https://twitter.com/LangChainAI/status/1752013852873797925</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Yohan Lasorsa: Re @Azure AI Search has finally landed into @LangChainAI 🎉 It includes full support for Hybrid search and Semantic reranker, RAG ...]]></title>
+            <description><![CDATA[RT Yohan Lasorsa<br>Re @Azure AI Search has finally landed into @LangChainAI 🎉<br><br>It includes full support for Hybrid search and Semantic reranker, RAG is now easier than ever on Azure with LangChain.js! 🦜🔗<br>And we'll continue improving it, send us your feedback 🙂<br><br>https://github.com/langchain-ai/langchainjs/pull/4044]]></description>
+            <pubDate>Mon, 29 Jan 2024 07:54:30 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752089703736881420</guid>
+            <link>https://twitter.com/LangChainAI/status/1752089703736881420</link>
             
             
             
