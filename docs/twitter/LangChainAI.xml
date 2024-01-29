@@ -21,8 +21,88 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 29 Jan 2024 17:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 19:43:08 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Re Trace: https://smith.langchain.com/public/52dcdcd4-0fac-456e-b32b-e93e1cda9a2d/r Template: https://templates.langchain.com/?integration_name=shoppi...]]></title>
+            <description><![CDATA[Re Trace:<br>https://smith.langchain.com/public/52dcdcd4-0fac-456e-b32b-e93e1cda9a2d/r<br><br>Template: https://templates.langchain.com/?integration_name=shopping-assistant]]></description>
+            <pubDate>Mon, 29 Jan 2024 19:36:58 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752053240177521063</guid>
+            <link>https://twitter.com/LangChainAI/status/1752053240177521063</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🛒 Open Source Shopping Agent 🤖 Check out this new shopping-assistant template from @ioniccommerce. Using our OpenAI tools agent as a base, this ...]]></title>
+            <description><![CDATA[🛒 Open Source Shopping Agent 🤖<br><br>Check out this new shopping-assistant template from @ioniccommerce.<br><br>Using our OpenAI tools agent as a base, this straightforward agent scours the web for deals related to your query!<br><img style="" src="https://pbs.twimg.com/media/GFCKtvebUAAWPBi?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFCKyR6aQAAPdox?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 19:36:57 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752053236553670937</guid>
+            <link>https://twitter.com/LangChainAI/status/1752053236553670937</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🖼️ Vision-based eval example 🖼️ Custom evaluators in @LangChainAI’s LangSmith are powerful! This notebook visually evaluates a ...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🖼️&nbsp;Vision-based eval example 🖼️<br><br>Custom evaluators in @LangChainAI’s LangSmith are powerful!<br><br>This notebook visually evaluates a chain that generates webpages. It renders output HTML with Puppeteer, then passes the image to @OpenAI GPT-4V for scoring:<br><br>https://github.com/langchain-ai/langsmith-cookbook/blob/main/typescript-testing-examples/vision-evals/vision-evals.ipynb<br><img style="" src="https://pbs.twimg.com/media/GFCEI9obEAAKzLg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFCEMpYaUAAi99P?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 19:06:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752045977995989274</guid>
+            <link>https://twitter.com/LangChainAI/status/1752045977995989274</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🚀Build a Streamlit Chatbot using Langchain, ColBERT, Ragatouille, and ChromaDB Great resource on how to use ColBERT + Ragatouille + @trychroma + mi...]]></title>
+            <description><![CDATA[🚀Build a Streamlit Chatbot using Langchain, ColBERT, Ragatouille, and ChromaDB<br><br>Great resource on how to use ColBERT + Ragatouille +<br>@trychroma + mixtral-8x7b-instruct-v0.1 + our EnsembleRetriever<br><br>s/o @aigeek__ for building!<br><br>Code: https://github.com/aigeek0x0/rag-with-langchain-colbert-and-ragatouille<br><img style="" src="https://pbs.twimg.com/media/GFBwvB0aYAAmnkW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 18:41:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752039153779298615</guid>
+            <link>https://twitter.com/LangChainAI/status/1752039153779298615</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🤖 Slack Agent Toolkit 🤖 Productivity and communication apps like Slack are powerful tools. We can easily give Agents the ability read from or wr...]]></title>
+            <description><![CDATA[🤖 Slack Agent Toolkit 🤖<br><br>Productivity and communication apps like Slack are powerful tools. <br><br>We can easily give Agents the ability read from or write to channels within a Slack workspace.<br><br>To explore this for yourself, check out the Slack agent toolkit:…<br><img style="" src="https://pbs.twimg.com/media/GFBySIEakAAKezw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 29 Jan 2024 17:49:38 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752026230046806404</guid>
+            <link>https://twitter.com/LangChainAI/status/1752026230046806404</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[📹Searching YouTube with LangChain Awesome new article from J Daniel Semrau covering: 🕸️LangGraph agents ⏯️YouTube Search Tool 🎏Streamlit U...]]></title>
@@ -238,86 +318,6 @@
             <pubDate>Fri, 26 Jan 2024 17:58:34 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750941313317675233</guid>
             <link>https://twitter.com/LangChainAI/status/1750941313317675233</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[💸LangGraph Financial Agent w/ Polygon A combo of our two favorite things - LangGraph and agent toolkits Big s/o to @virattt for adding this awesome...]]></title>
-            <description><![CDATA[💸LangGraph Financial Agent w/ Polygon<br><br>A combo of our two favorite things - LangGraph and agent toolkits<br><br>Big s/o to @virattt for adding this awesome example of creating a LangGraph agent that has access to Polygon APIs to access financial data<br><br>Code: https://gist.github.com/virattt/4d764c427892ce9fdf4534209edfb1f4<br><img style="" src="https://pbs.twimg.com/media/GEusluDboAAIsAq?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Jan 2024 17:51:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750939407161708941</guid>
-            <link>https://twitter.com/LangChainAI/status/1750939407161708941</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[✒️New release notes! Catch up on everything LangChain related over the past two weeks, including: 🕸️LangGraph 1⃣LangChain v0.1 ⚒️LangSmith up...]]></title>
-            <description><![CDATA[✒️New release notes!<br><br>Catch up on everything LangChain related over the past two weeks, including:<br><br>🕸️LangGraph<br>1⃣LangChain v0.1<br>⚒️LangSmith updates<br>🎏New astream_events method<br>👱Revamp of key use case pages!<br><br>Blog: https://blog.langchain.dev/week-of-1-22-24-langchain-release-notes/<br><img style="" src="https://pbs.twimg.com/media/GEyUJbybIAMMX_3?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEyUJ-FagAAxcBT?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEyULjSbIAMj46Z?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GEyUMRgbIAASoKh?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Jan 2024 17:42:39 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750937308076122500</guid>
-            <link>https://twitter.com/LangChainAI/status/1750937308076122500</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[✒️Mental Health Therapy as an LLM State Machine In this new guest blog, @Sonia_Health shares more about how they are developing their app Excited to...]]></title>
-            <description><![CDATA[✒️Mental Health Therapy as an LLM State Machine<br><br>In this new guest blog, @Sonia_Health shares more about how they are developing their app<br><br>Excited to highlight this for two reasons:<br><br>1⃣ App with really positive societal benefit<br>2⃣Built as a state machine - which matches our…<br><img style="" src="https://pbs.twimg.com/media/GEyKhgmagAIIDem?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Jan 2024 17:00:29 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750926694943457561</guid>
-            <link>https://twitter.com/LangChainAI/status/1750926694943457561</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🚀Friday Fun Time! Come join us for hacking hours later today! Meet the team, meet others building in the space, and build some cool stuff with Lang...]]></title>
-            <description><![CDATA[🚀Friday Fun Time!<br><br>Come join us for hacking hours later today! Meet the team, meet others building in the space, and build some cool stuff with LangChain, LangGraph, LangSmith, LangServe, Lang??<br><br>RSVP: https://partiful.com/e/MPWEWti06UGPRnkYnaER]]></description>
-            <pubDate>Fri, 26 Jan 2024 16:16:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750915499641167940</guid>
-            <link>https://twitter.com/LangChainAI/status/1750915499641167940</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT DataStax: Ever wish you could live chat with @Wikipedia? Then say hello to Wikichat — a RAG chatbot built using Astra DB, @LangChainAI, and @Verce...]]></title>
-            <description><![CDATA[RT DataStax<br>Ever wish you could live chat with @Wikipedia? <br><br>Then say hello to Wikichat — a RAG chatbot built using Astra DB, @LangChainAI, and @Vercel. 🤖💬 http://wikich.at  <br><br>#RetrievalAugmentedGeneration #VectorDB #DataStax<br><img style="" src="https://pbs.twimg.com/media/GEuF6gTWgAA4vdU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 25 Jan 2024 22:01:45 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750690197661241622</guid>
-            <link>https://twitter.com/LangChainAI/status/1750690197661241622</link>
             
             
             
