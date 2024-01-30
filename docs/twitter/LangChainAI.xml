@@ -21,8 +21,24 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 02:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 05:00:53 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[✒️Question Answering with Citations When building a chatbot over documents, it's often useful to ask it to cite it's sources. This can help build tr...]]></title>
+            <description><![CDATA[✒️Question Answering with Citations<br><br>When building a chatbot over documents, it's often useful to ask it to cite it's sources. This can help build trust and check responses<br><br>We've recently added a detailed guide on how to do this!<br><br>Guide: https://python.langchain.com/docs/use_cases/question_answering/citations<br><img style="" src="https://pbs.twimg.com/media/GEuuMowbsAAXfJ2?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 30 Jan 2024 04:54:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752193420120952854</guid>
+            <link>https://twitter.com/LangChainAI/status/1752193420120952854</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Harrison Chase: Congrats to the Exa (prev. Metaphor) team on the launch! In case you missed it - @eyfriis put together an awesome end-to-end exampl...]]></title>
@@ -318,22 +334,6 @@
             <pubDate>Sat, 27 Jan 2024 17:54:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751302550001734136</guid>
             <link>https://twitter.com/LangChainAI/status/1751302550001734136</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Thank you @MongoDB for hosting us @AWSreInvent! We had a great discussion with leaders from @UnstructuredIO, @Gradient_AI_ and @nomic_ai about collabo...]]></title>
-            <description><![CDATA[Thank you @MongoDB for hosting us @AWSreInvent!<br><br>We had a great discussion with leaders from @UnstructuredIO, @Gradient_AI_ and @nomic_ai about collaboratively growing the nascent AI ecosystem &amp; empowering devs to move fast &amp; innovate. <br><br>👇 Read more:<br><br>https://www.mongodb.com/blog/post/collaboration-breakfast-mongodb-partners-share-ai-insights-aws-reinvent]]></description>
-            <pubDate>Sat, 27 Jan 2024 17:30:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751296520094412916</guid>
-            <link>https://twitter.com/LangChainAI/status/1751296520094412916</link>
             
             
             
