@@ -21,24 +21,8 @@
             <link>https://twitter.com/OpenAI</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 19:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 17:16:21 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[You can now bring GPTs into any conversation in ChatGPT - simply type @ and select the GPT. This allows you to add relevant GPTs with the full context...]]></title>
-            <description><![CDATA[You can now bring GPTs into any conversation in ChatGPT - simply type @ and select the GPT. <br><br>This allows you to add relevant GPTs with the full context of the conversation.<br><video src="https://video.twimg.com/tweet_video/GFG-cc7bsAA7gpf.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GFG-cc7bsAA7gpf.jpg"></video>]]></description>
-            <pubDate>Tue, 30 Jan 2024 18:01:11 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1752391522081980855</guid>
-            <link>https://twitter.com/OpenAI/status/1752391522081980855</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[We are collaborating on AI guidelines and educational materials for parents, educators, and teens, as well as a curation of family-friendly GPTs in th...]]></title>
@@ -318,6 +302,22 @@
             <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349723295564020</guid>
             <link>https://twitter.com/OpenAI/status/1735349723295564020</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re Naive weak supervision isn't enough—current techniques, like RLHF, won't be sufficient for future superhuman models. But we also show that it's fe...]]></title>
+            <description><![CDATA[Re Naive weak supervision isn't enough—current techniques, like RLHF, won't be sufficient for future superhuman models.<br><br>But we also show that it's feasible to drastically improve weak-to-strong generalization—making iterative empirical progress on a core challenge of superalignment]]></description>
+            <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349722020495665</guid>
+            <link>https://twitter.com/OpenAI/status/1735349722020495665</link>
             
             
             
