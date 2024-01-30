@@ -21,8 +21,24 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 21:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 23:22:12 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT tavily: Excited to introduce our latest project GPT-Newspaper together with the @LangChainAI team! An innovative autonomous agent designed to creat...]]></title>
+            <description><![CDATA[RT tavily<br>Excited to introduce our latest project GPT-Newspaper together with the @LangChainAI  team! An innovative autonomous agent designed to create personalized newspapers tailored to user preferences. Check out LangGraph in action 🎉<br><br>Opensource URL: https://github.com/assafelovic/gpt-newspaper<br><video src="https://video.twimg.com/ext_tw_video/1752402160875114496/pu/vid/avc1/1280x720/hdlLypeVrrndh_Cz.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1752402160875114496/pu/img/A5hQxhvCnRdQtrTq.jpg"></video>]]></description>
+            <pubDate>Tue, 30 Jan 2024 18:55:51 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752451101616730171</guid>
+            <link>https://twitter.com/LangChainAI/status/1752451101616730171</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re LangChain + LangSmith is the perfect match🥳]]></title>
@@ -94,6 +110,22 @@
             <pubDate>Tue, 30 Jan 2024 18:45:26 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752402791585513877</guid>
             <link>https://twitter.com/LangChainAI/status/1752402791585513877</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Robert Nishihara: This is the first hands-on, intensive, two-day bootcamp for learning to build RAG applications. Cohosted by @pinecone and @anysca...]]></title>
+            <description><![CDATA[RT Robert Nishihara<br>This is the first hands-on, intensive, two-day bootcamp for learning to build RAG applications.<br><br>Cohosted by @pinecone and @anyscalecompute (also featuring lessons from experts at @LangChainAI, @vercel, and others).<br><br>Nearly every AI application will be a RAG application, and…<div class="rsshub-quote"><br><br>Anyscale: Ready to hear from #RAG experts at @LangChainAI @vercel @pinecone @anyscalecompute and get hands-on with intensive guided trainings? The 2-day RAG Developer Bootcamp is for you! Learn more &amp; register now 👉https://hubs.ly/Q02j9QmW0<br><br>#llm #ml #rag #ai #vectordatabase #ray #pinecone<br><br><img style="" src="https://pbs.twimg.com/media/GFG3qlHXkAA45o_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Tue, 30 Jan 2024 18:05:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752451189688709454</guid>
+            <link>https://twitter.com/LangChainAI/status/1752451189688709454</link>
             
             
             
@@ -201,6 +233,38 @@
         </item>
         
         <item>
+            <title><![CDATA[RT Hard Kothari: Do you want to add few alternatives to existing llms being used in your code with chains from @LangChainAI ? There is a feature calle...]]></title>
+            <description><![CDATA[RT Hard Kothari<br>Do you want to add few alternatives to existing llms being used in your code with chains from @LangChainAI ?<br><br>There is a feature called "Configurable Alternatives". It a hidden 💎<br><br>You can easily configure alternatives which can be called dynamically in the API call with specific…<br><img style="" src="https://pbs.twimg.com/media/GFGd3UoWcAAlSyU?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 30 Jan 2024 15:37:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752450872586744164</guid>
+            <link>https://twitter.com/LangChainAI/status/1752450872586744164</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Mo Gharabat 🦇: OpenCopilot is at 4.6K GitHub stars! (bye bye BETA)⭐⭐ https://www.producthunt.com/posts/opencopilot-2 And we are live on Produc...]]></title>
+            <description><![CDATA[RT Mo Gharabat 🦇<br>OpenCopilot is at 4.6K GitHub stars! (bye bye BETA)⭐⭐<br><br>https://www.producthunt.com/posts/opencopilot-2<br><br>And we are live on ProductHunt!🐱<br><br>➡️ It's like Siri but for your product.<br><br>Integrate a Text/Voice AI User Assistant, and Workflow Automation into your product, all in one powerful tool.✨<br><br>We…]]></description>
+            <pubDate>Tue, 30 Jan 2024 08:06:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752451267434271149</guid>
+            <link>https://twitter.com/LangChainAI/status/1752451267434271149</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[✒️Question Answering with Citations When building a chatbot over documents, it's often useful to ask it to cite it's sources. This can help build tr...]]></title>
             <description><![CDATA[✒️Question Answering with Citations<br><br>When building a chatbot over documents, it's often useful to ask it to cite it's sources. This can help build trust and check responses<br><br>We've recently added a detailed guide on how to do this!<br><br>Guide: https://python.langchain.com/docs/use_cases/question_answering/citations<br><img style="" src="https://pbs.twimg.com/media/GEuuMowbsAAXfJ2?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 30 Jan 2024 04:54:00 GMT</pubDate>
@@ -217,75 +281,11 @@
         </item>
         
         <item>
-            <title><![CDATA[RT Harrison Chase: Congrats to the Exa (prev. Metaphor) team on the launch! In case you missed it - @eyfriis put together an awesome end-to-end exampl...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>Congrats to the Exa (prev. Metaphor) team on the launch!<br><br>In case you missed it - @eyfriis put together an awesome end-to-end example of using LangChain + LangSmith + LangServe + Exa to build a web RAG chatbot<br><br>https://www.youtube.com/watch?v=dA1cHGACXCo<div class="rsshub-quote"><br><br>Sarah Chieng: AIs need powerful access to knowledge. But search engines haven't improved since 1998.<br><br>- https://Exa.ai 2024<br></div>]]></description>
-            <pubDate>Tue, 30 Jan 2024 00:27:45 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752126712060796936</guid>
-            <link>https://twitter.com/LangChainAI/status/1752126712060796936</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Austin Vance: 🚨 New Tutorial Alert 🚨 Part 2 of Chat With Your PDF Use @typescript @LangChainAI @tailwindcss and @reactjs to build a full fron...]]></title>
             <description><![CDATA[RT Austin Vance<br>🚨 New Tutorial Alert 🚨 Part 2 of Chat With Your PDF<br><br>Use @typescript @LangChainAI @tailwindcss and @reactjs to build a full frontend for LangServe<br><br>- Send retrieved documents to the frontend<br>- Handle streaming output like ChatGPT<br>- Download source files<br><br>https://youtu.be/xFWllDS6ZRw]]></description>
             <pubDate>Mon, 29 Jan 2024 23:26:29 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752130106796146865</guid>
             <link>https://twitter.com/LangChainAI/status/1752130106796146865</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LangGraph beats AutoGen: How Future of Internet Search will look like? Thanks to @MervinPraison for highlighting LangGraph in his most recent YouTube ...]]></title>
-            <description><![CDATA[LangGraph beats AutoGen: How Future of Internet Search will look like?<br><br>Thanks to @MervinPraison for highlighting LangGraph in his most recent YouTube video!<br><br>Just the start :)<br><br>https://www.youtube.com/watch?v=v9fkbTxPzs0]]></description>
-            <pubDate>Mon, 29 Jan 2024 23:05:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752105592108552570</guid>
-            <link>https://twitter.com/LangChainAI/status/1752105592108552570</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Trace: https://smith.langchain.com/public/52dcdcd4-0fac-456e-b32b-e93e1cda9a2d/r Template: https://templates.langchain.com/?integration_name=shoppi...]]></title>
-            <description><![CDATA[Re Trace:<br>https://smith.langchain.com/public/52dcdcd4-0fac-456e-b32b-e93e1cda9a2d/r<br><br>Template: https://templates.langchain.com/?integration_name=shopping-assistant]]></description>
-            <pubDate>Mon, 29 Jan 2024 19:36:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752053240177521063</guid>
-            <link>https://twitter.com/LangChainAI/status/1752053240177521063</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Yohan Lasorsa: Re @Azure AI Search has finally landed into @LangChainAI 🎉 It includes full support for Hybrid search and Semantic reranker, RAG ...]]></title>
-            <description><![CDATA[RT Yohan Lasorsa<br>Re @Azure AI Search has finally landed into @LangChainAI 🎉<br><br>It includes full support for Hybrid search and Semantic reranker, RAG is now easier than ever on Azure with LangChain.js! 🦜🔗<br>And we'll continue improving it, send us your feedback 🙂<br><br>https://github.com/langchain-ai/langchainjs/pull/4044]]></description>
-            <pubDate>Mon, 29 Jan 2024 07:54:30 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752089703736881420</guid>
-            <link>https://twitter.com/LangChainAI/status/1752089703736881420</link>
             
             
             
