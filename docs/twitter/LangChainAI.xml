@@ -21,7 +21,7 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 07:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 05:00:53 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -201,22 +201,6 @@
         </item>
         
         <item>
-            <title><![CDATA[RT James Pog: guys.. its kind of working finally?! The idea: the ultimate autonomous web scraper, that can scrape any information from any website usi...]]></title>
-            <description><![CDATA[RT James Pog<br>guys.. its kind of working finally?!<br><br>The idea: the ultimate autonomous web scraper, that can scrape any information from any website using a combination of Playwright, GPT-4, and GPT-4 Vision.<br><br>Here's how it works<br><br>I'm using a @LangChainAI agent as the decision maker, and as an…<br><img style="" src="https://pbs.twimg.com/media/GE8rddUbYAAjASj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 28 Jan 2024 18:06:50 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752195647749648569</guid>
-            <link>https://twitter.com/LangChainAI/status/1752195647749648569</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Jacob Lee: 🔱 OpenAI V3 Embeddings 🔱 @openai released new v3 embeddings models earlier this week! - text-embedding-3-small model is smaller an...]]></title>
             <description><![CDATA[RT Jacob Lee<br>🔱&nbsp;OpenAI V3 Embeddings 🔱<br><br>@openai released new v3 embeddings models earlier this week!<br><br>- text-embedding-3-small&nbsp;model is smaller and more efficient<br>- text-embedding-3-large&nbsp;model is larger and more powerful<br><br>Interestingly, you can tune the number of dimensions output vectors…<br><img style="" src="https://pbs.twimg.com/media/GE8lLtWaMAAsFmo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 28 Jan 2024 17:33:13 GMT</pubDate>
@@ -334,6 +318,22 @@
             <pubDate>Sat, 27 Jan 2024 18:37:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751313371369251195</guid>
             <link>https://twitter.com/LangChainAI/status/1751313371369251195</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[💂Bedrock Guardrails A highly request community addition: the ability to add Guardrails on calls to Amazon Bedrock Useful in an enterprise setting t...]]></title>
+            <description><![CDATA[💂Bedrock Guardrails<br><br>A highly request community addition: the ability to add Guardrails on calls to Amazon Bedrock<br><br>Useful in an enterprise setting to make sure the LLM is behaving!<br><br>Code: https://python.langchain.com/docs/integrations/llms/bedrock#guardrails-for-amazon-bedrock-example<br><img style="" src="https://pbs.twimg.com/media/GEutZpla0AAE1EB?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 27 Jan 2024 17:54:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751302550001734136</guid>
+            <link>https://twitter.com/LangChainAI/status/1751302550001734136</link>
             
             
             
