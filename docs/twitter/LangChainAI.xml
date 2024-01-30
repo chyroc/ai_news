@@ -21,8 +21,40 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 00:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 02:45:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: Congrats to the Exa (prev. Metaphor) team on the launch! In case you missed it - @eyfriis put together an awesome end-to-end exampl...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>Congrats to the Exa (prev. Metaphor) team on the launch!<br><br>In case you missed it - @eyfriis put together an awesome end-to-end example of using LangChain + LangSmith + LangServe + Exa to build a web RAG chatbot<br><br>https://www.youtube.com/watch?v=dA1cHGACXCo<div class="rsshub-quote"><br><br>Sarah Chieng: AIs need powerful access to knowledge. But search engines haven't improved since 1998.<br><br>- https://Exa.ai 2024<br></div>]]></description>
+            <pubDate>Tue, 30 Jan 2024 00:27:45 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752126712060796936</guid>
+            <link>https://twitter.com/LangChainAI/status/1752126712060796936</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Austin Vance: 🚨 New Tutorial Alert 🚨 Part 2 of Chat With Your PDF Use @typescript @LangChainAI @tailwindcss and @reactjs to build a full fron...]]></title>
+            <description><![CDATA[RT Austin Vance<br>🚨 New Tutorial Alert 🚨 Part 2 of Chat With Your PDF<br><br>Use @typescript @LangChainAI @tailwindcss and @reactjs to build a full frontend for LangServe<br><br>- Send retrieved documents to the frontend<br>- Handle streaming output like ChatGPT<br>- Download source files<br><br>https://youtu.be/xFWllDS6ZRw]]></description>
+            <pubDate>Mon, 29 Jan 2024 23:26:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752130106796146865</guid>
+            <link>https://twitter.com/LangChainAI/status/1752130106796146865</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[LangGraph beats AutoGen: How Future of Internet Search will look like? Thanks to @MervinPraison for highlighting LangGraph in his most recent YouTube ...]]></title>
@@ -302,38 +334,6 @@
             <pubDate>Sat, 27 Jan 2024 17:30:02 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1751296520094412916</guid>
             <link>https://twitter.com/LangChainAI/status/1751296520094412916</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🚀Building a web RAG chatbot Our newest YouTube video on building with LangChain features how to build and end-to-end app (notebook to hosting) for ...]]></title>
-            <description><![CDATA[🚀Building a web RAG chatbot<br><br>Our newest YouTube video on building with LangChain features how to build and end-to-end app (notebook to hosting) for a web RAG chatbot<br><br>Video: https://youtu.be/dA1cHGACXCo<br><br>To celebrate the update of @exaailabs (prev. Metaphor), we've teamed up to show…<br><img style="" src="https://pbs.twimg.com/media/GEye2UfbIAETlNn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Jan 2024 18:30:16 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750949290858688871</guid>
-            <link>https://twitter.com/LangChainAI/status/1750949290858688871</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤖 Agent Toolkits: Robocorp 🤖 Tool use is a central component of agentic workflows, but converting arbitrary function into tools can be a challen...]]></title>
-            <description><![CDATA[🤖 Agent Toolkits: Robocorp 🤖<br><br>Tool use is a central component of agentic workflows, but converting arbitrary function into tools can be a challenge.<br><br>Enter @RobocorpInc's action server! It's a great way to convert any python function into a tool.<br><br>These tools can then be…<br><img style="" src="https://pbs.twimg.com/media/GEyZT7EagAALxe0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 26 Jan 2024 18:22:53 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750947431783801124</guid>
-            <link>https://twitter.com/LangChainAI/status/1750947431783801124</link>
             
             
             
