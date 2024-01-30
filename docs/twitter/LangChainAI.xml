@@ -21,24 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 30 Jan 2024 00:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 22:11:35 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[LangGraph beats AutoGen: How Future of Internet Search will look like? Thanks to @MervinPraison for highlighting LangGraph in his most recent YouTube ...]]></title>
-            <description><![CDATA[LangGraph beats AutoGen: How Future of Internet Search will look like?<br><br>Thanks to @MervinPraison for highlighting LangGraph in his most recent YouTube video!<br><br>Just the start :)<br><br>https://www.youtube.com/watch?v=v9fkbTxPzs0]]></description>
-            <pubDate>Mon, 29 Jan 2024 23:05:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752105592108552570</guid>
-            <link>https://twitter.com/LangChainAI/status/1752105592108552570</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Re Trace: https://smith.langchain.com/public/52dcdcd4-0fac-456e-b32b-e93e1cda9a2d/r Template: https://templates.langchain.com/?integration_name=shoppi...]]></title>
@@ -334,6 +318,22 @@
             <pubDate>Fri, 26 Jan 2024 18:22:53 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750947431783801124</guid>
             <link>https://twitter.com/LangChainAI/status/1750947431783801124</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🦜🛠️ LangSmith Evals in JavaScript 🦜🛠️ LangSmith now supports a native `runOverDataset` method for evaluating your JavaScript LLM applica...]]></title>
+            <description><![CDATA[🦜🛠️ LangSmith Evals in JavaScript 🦜🛠️<br><br>LangSmith now supports a native `runOverDataset` method for evaluating your JavaScript LLM applications!<br><br>You can configure custom or off-the-shelf evaluators to compare + score the the outputs of your app against ideal reference outputs.…<br><img style="" src="https://pbs.twimg.com/media/GEyX1zAagAA01zA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 26 Jan 2024 17:58:34 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1750941313317675233</guid>
+            <link>https://twitter.com/LangChainAI/status/1750941313317675233</link>
             
             
             
