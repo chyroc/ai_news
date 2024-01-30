@@ -1,9 +1,332 @@
-<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}img{filter:grayscale(1)}</style></head><body><div class="content"><p><img src="/logo.png" alt="RSSHub" width="120" loading="lazy"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /twitter/user/GoogleAI</pre><pre class="message">Error message: Response code 429 (Too Many Requests): target website might be blocking our access, you can <a href="https://docs.rsshub.app/install/">host your own RSSHub instance</a> for a better usability.</pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /twitter/user/GoogleAI
-Node version: v20.11.0
-Git Hash: 38fbcf0
-        </pre><pre class="message">
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-如果您认为 RSSHub 导致了该错误，请在 GitHub 按照模版，复制本页面信息进行 <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">汇报</a>
-        </pre><div style="margin:50px 0"><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p><p>在线文档与支持，请访问 <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p></div></div></body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Twitter @Google AI]]></title>
+        <link>https://twitter.com/GoogleAI</link>
+        <atom:link href="https://rsshub.app/twitter/user/GoogleAI" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Google AI is focused on bringing the benefits of AI to everyone. In conducting and applying our research, we advance the state-of-the-art in many domains. - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2.jpg</url>
+            <title><![CDATA[Twitter @Google AI]]></title>
+            <link>https://twitter.com/GoogleAI</link>
+        </image>
+        
+        <lastBuildDate>Tue, 30 Jan 2024 06:20:52 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Discover how Google Research is working to extend speech, translation, and language processing technologies to the 1,000 most spoken languages in the ...]]></title>
+            <description><![CDATA[Discover how Google Research is working to extend speech, translation, and language processing technologies to the 1,000 most spoken languages in the world in this lightning talk hosted by Uche Okonkwo and Sandy Ritchie at Research@ NYC → https://goo.gle/48Y0wWf<br><video src="https://video.twimg.com/ext_tw_video/1752037604080623616/pu/vid/avc1/606x1080/BoQcQYYA6zWvvp2d.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1752037604080623616/pu/img/tnvCj4n8pBQoabdx.jpg"></video>]]></description>
+            <pubDate>Mon, 29 Jan 2024 18:35:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1752037748771520993</guid>
+            <link>https://twitter.com/GoogleAI/status/1752037748771520993</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Introducing Lumiere, a space-time diffusion research model for video generation that synthesizes videos portraying realistic, diverse & coherent motio...]]></title>
+            <description><![CDATA[Introducing Lumiere, a space-time diffusion research model for video generation that synthesizes videos portraying realistic, diverse &amp; coherent motion. It was a collaboration between Google Research, @WeizmannScience, @TelAvivUni, &amp; @TechnionLive. More → https://goo.gle/42k0pCk<br><video src="https://video.twimg.com/ext_tw_video/1751003102558511104/pu/vid/avc1/1280x720/0Nz2g7p0gTItHhdp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1751003102558511104/pu/img/FeF5-9nrAhvzjd6r.jpg"></video>]]></description>
+            <pubDate>Fri, 26 Jan 2024 22:06:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1751003814931689487</guid>
+            <link>https://twitter.com/GoogleAI/status/1751003814931689487</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Most of an LLM’s memory & compute are consumed by matrix multiplication operations. Today on the blog, learn about techniques used to accelerate mixe...]]></title>
+            <description><![CDATA[Most of an LLM’s memory &amp; compute are consumed by matrix multiplication operations. Today on the blog, learn about techniques used to accelerate mixed-input matrix multiplication for increased efficiency w/ performance close to peak hardware capabilities ↓https://goo.gle/3tXPuS8]]></description>
+            <pubDate>Fri, 26 Jan 2024 20:20:40 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1750977073009881469</guid>
+            <link>https://twitter.com/GoogleAI/status/1750977073009881469</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Congratulations to Googlers Natasha Noy, @Jimantha, & former Googler Ramon Caceres for being named ACM (@TheOfficialACM) Fellows, in recognition of tr...]]></title>
+            <description><![CDATA[Congratulations to Googlers Natasha Noy, @Jimantha, &amp; former Googler Ramon Caceres for being named ACM (@TheOfficialACM) Fellows, in recognition of transformative contributions to computing science &amp; technology that have improved how we live, work &amp; play.https://goo.gle/48K8Nxn]]></description>
+            <pubDate>Thu, 25 Jan 2024 18:38:11 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1750588895505649735</guid>
+            <link>https://twitter.com/GoogleAI/status/1750588895505649735</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Google Research works to progress science, advance society & improve the lives of billions of people. From Research@ NYC watch Corinna Cortes (VP, Res...]]></title>
+            <description><![CDATA[Google Research works to progress science, advance society &amp; improve the lives of billions of people. From Research@ NYC watch Corinna Cortes (VP, Research) &amp; Katherine Chou (Sr Director, Product Management) discuss what's top of mind for Google Research →https://goo.gle/492R9V1<br><video src="https://video.twimg.com/ext_tw_video/1750260219031224321/pu/vid/avc1/606x1080/mg6MN9z1K0up62tf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1750260219031224321/pu/img/F4YDeinkQ16Kqq-u.jpg"></video>]]></description>
+            <pubDate>Wed, 24 Jan 2024 20:55:15 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1750261002665701708</guid>
+            <link>https://twitter.com/GoogleAI/status/1750261002665701708</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Graph transformers are important for ML on graph-structured data, but scaling them up for large graphs is difficult. Here you can learn about Exphorme...]]></title>
+            <description><![CDATA[Graph transformers are important for ML on graph-structured data, but scaling them up for large graphs is difficult. Here you can learn about Exphormer, a sparse attention framework that uses expander graphs to improve scalability for graph transformers. https://goo.gle/48JVvAW<br><video src="https://video.twimg.com/tweet_video/GEj6PpNW8AAQQoy.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GEj6PpNW8AAQQoy.jpg"></video>]]></description>
+            <pubDate>Tue, 23 Jan 2024 22:35:18 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1749923791629627641</guid>
+            <link>https://twitter.com/GoogleAI/status/1749923791629627641</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[As the race to build the world's first truly useful quantum computer intensifies, so does the need for clear-eyed assessment. In this episode of Field...]]></title>
+            <description><![CDATA[As the race to build the world's first truly useful quantum computer intensifies, so does the need for clear-eyed assessment. In this episode of Field Notes, dive deeper w/ @GoogleQuantumAI to understand the reality of quantum computing &amp; its impact. 📽️ →https://goo.gle/3HpQeSX<br><video src="https://video.twimg.com/amplify_video/1749513996158521344/vid/avc1/1280x720/W56qRDQuVd1yHUaR.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GEeGpNwa4AEPvwU?format=jpg&amp;name=orig"></video>]]></description>
+            <pubDate>Mon, 22 Jan 2024 19:32:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1749515323433476369</guid>
+            <link>https://twitter.com/GoogleAI/status/1749515323433476369</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Google Research helped develop Audio Magic Eraser, an AI-powered editing feature for Pixel 8 & Pixel 8 Pro that helps reduce distracting sounds in vid...]]></title>
+            <description><![CDATA[Google Research helped develop Audio Magic Eraser, an AI-powered editing feature for Pixel 8 &amp; Pixel 8 Pro that helps reduce distracting sounds in videos via #ML models that can identify &amp; sort sounds into distinct layers that you can control. Check it out:https://www.youtube.com/watch?v=8BoXYzjo7cA]]></description>
+            <pubDate>Fri, 19 Jan 2024 21:10:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1748452801376841841</guid>
+            <link>https://twitter.com/GoogleAI/status/1748452801376841841</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Introducing ASPIRE, a framework that enhances the selective prediction capabilities of large language models, enabling them to output an answer paired...]]></title>
+            <description><![CDATA[Introducing ASPIRE, a framework that enhances the selective prediction capabilities of large language models, enabling them to output an answer paired with a confidence score. Learn how it outperforms state-of-the-art methods on a variety of QA datasets. →…<br><video src="https://video.twimg.com/tweet_video/GEJZicbbAAIswWs.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GEJZicbbAAIswWs.jpg"></video>]]></description>
+            <pubDate>Thu, 18 Jan 2024 19:01:57 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1748058161922347352</guid>
+            <link>https://twitter.com/GoogleAI/status/1748058161922347352</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re Learn more about the collective of artists behind some of this work ↓https://goo.gle/47xYMC1]]></title>
+            <description><![CDATA[Re Learn more about the collective of artists behind some of this work ↓https://goo.gle/47xYMC1]]></description>
+            <pubDate>Wed, 17 Jan 2024 18:02:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1747680688420380814</guid>
+            <link>https://twitter.com/GoogleAI/status/1747680688420380814</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[The Google Quantum AI team embraces the intersection between art & science, as seen in their quantum computing labs in Santa Barbara, CA. Check out @N...]]></title>
+            <description><![CDATA[The Google Quantum AI team embraces the intersection between art &amp; science, as seen in their quantum computing labs in Santa Barbara, CA. Check out @NewsHour’s walk-through of this space, where art brings the lab to life and inspires innovation →https://goo.gle/47CNhZS<br><video src="https://video.twimg.com/tweet_video/GEEB7-EbYAENOlx.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GEEB7-EbYAENOlx.jpg"></video>]]></description>
+            <pubDate>Wed, 17 Jan 2024 18:01:05 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1747680454864695610</guid>
+            <link>https://twitter.com/GoogleAI/status/1747680454864695610</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re AMIE is one way we are safely exploring a vision of the future, where AI systems might be better aligned with attributes of a skilled clinician. Fu...]]></title>
+            <description><![CDATA[Re AMIE is one way we are safely exploring a vision of the future, where AI systems might be better aligned with attributes of a skilled clinician. Further research is needed in this domain to ensure that we are building safe, equitable, helpful, and transparent #HealthAI systems.]]></description>
+            <pubDate>Fri, 12 Jan 2024 16:22:40 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843750318838189</guid>
+            <link>https://twitter.com/GoogleAI/status/1745843750318838189</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re In our latest work, AMIE and PCPs performed consultations with patient actors in a virtual OSCE-style study. AMIE showed it could acquire diagnosti...]]></title>
+            <description><![CDATA[Re In our latest work, AMIE and PCPs performed consultations with patient actors in a virtual OSCE-style study. AMIE showed it could acquire diagnostic information conversationally, while also displaying alignment with attributes of clinicians, like communicating with empathy.<br><img style="" src="https://pbs.twimg.com/media/GDp6Gx2XwAACP9v?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Fri, 12 Jan 2024 16:22:40 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843748095856943</guid>
+            <link>https://twitter.com/GoogleAI/status/1745843748095856943</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re In an earlier randomized, double-blind vignette study to generate a differential diagnosis on 300+ @NEJM case challenges, AMIE showed the potential...]]></title>
+            <description><![CDATA[Re In an earlier randomized, double-blind vignette study to generate a differential diagnosis on 300+ @NEJM case challenges, AMIE showed the potential to outperform primary care practitioners in diagnostic accuracy AND showed it could be a helpful collaborator to clinicians.]]></description>
+            <pubDate>Fri, 12 Jan 2024 16:22:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843745847709902</guid>
+            <link>https://twitter.com/GoogleAI/status/1745843745847709902</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re AMIE uses a novel self-play based simulated environment with automated feedback mechanisms for scaling learning across diverse disease conditions, ...]]></title>
+            <description><![CDATA[Re AMIE uses a novel self-play based simulated environment with automated feedback mechanisms for scaling learning across diverse disease conditions, specialties, and contexts.]]></description>
+            <pubDate>Fri, 12 Jan 2024 16:22:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843744354537787</guid>
+            <link>https://twitter.com/GoogleAI/status/1745843744354537787</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Today, we shared our latest preprint introducing AMIE (Articulate Medical Intelligence Explorer), a large language model (LLM) based research AI syste...]]></title>
+            <description><![CDATA[Today, we shared our latest preprint introducing AMIE (Articulate Medical Intelligence Explorer), a large language model (LLM) based research AI system for diagnostic medical reasoning and conversations.🔗 https://goo.gle/3TZocp0<br><video src="https://video.twimg.com/tweet_video/GDp5eEoXoAYKV9t.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GDp5eEoXoAYKV9t.jpg"></video>]]></description>
+            <pubDate>Fri, 12 Jan 2024 16:22:38 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843740822933517</guid>
+            <link>https://twitter.com/GoogleAI/status/1745843740822933517</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Outside of the mathematical setting, large language models can be prone to making logical mistakes. Today we present an evaluation benchmark for mista...]]></title>
+            <description><![CDATA[Outside of the mathematical setting, large language models can be prone to making logical mistakes. Today we present an evaluation benchmark for mistake identification across settings and examine how LLMs might learn to correct their own logical errors. →https://goo.gle/48Ox58T<br><img style="" src="https://pbs.twimg.com/media/GDmKh0YXoAEcFLw?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Thu, 11 Jan 2024 22:49:37 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745578738933190771</guid>
+            <link>https://twitter.com/GoogleAI/status/1745578738933190771</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Can AI decode the music you’re listening to? Learn how Google Research reconstructed music from brain scans using deep neural networks in partnership...]]></title>
+            <description><![CDATA[Can AI decode the music you’re listening to? Learn how Google Research reconstructed music from brain scans using deep neural networks in partnership with Osaka University → https://goo.gle/3NMonQE<br><video src="https://video.twimg.com/amplify_video/1745505150486372353/vid/avc1/1280x720/jcKgXQUrOW88OJSu.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GDlH2tcacAAf8zv?format=jpg&amp;name=orig"></video>]]></description>
+            <pubDate>Thu, 11 Jan 2024 18:08:18 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745507944194871581</guid>
+            <link>https://twitter.com/GoogleAI/status/1745507944194871581</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Watch @Salkhanacademy, the founder of Khan Academy, and James Manyika, Google’s SVP of Research, Technology & Society, in a conversation about AI and...]]></title>
+            <description><![CDATA[Watch @Salkhanacademy, the founder of Khan Academy, and James Manyika, Google’s SVP of Research, Technology &amp; Society, in a conversation about AI and education. Learn more about the challenges and opportunities of AI in the classroom →https://goo.gle/4aPiYSr<br><video src="https://video.twimg.com/amplify_video/1745184182551375872/vid/avc1/1280x720/5PcyPjhNu-DKuBO_.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/GDg4OCFbcAArhE-?format=jpg&amp;name=orig"></video>]]></description>
+            <pubDate>Wed, 10 Jan 2024 22:14:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745207614768849064</guid>
+            <link>https://twitter.com/GoogleAI/status/1745207614768849064</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
