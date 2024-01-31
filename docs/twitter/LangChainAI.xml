@@ -21,104 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 31 Jan 2024 17:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 14:51:38 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[While the space is still new, we're starting to see a few common patterns and trends emerge, especially around RAG We've teamed up with our friends at...]]></title>
-            <description><![CDATA[While the space is still new, we're starting to see a few common patterns and trends emerge, especially around RAG<br><br>We've teamed up with our friends at @DataStax to try to codify some of them!<div class="rsshub-quote"><br><br>DataStax: Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide:<br><br>◆ Common Gen AI design patterns and use cases<br>◆ In-depth architectural examples <br>◆ Important considerations to keep in mind <br><br>Grab your copy ➡️https://dtsx.io/3vP8hiP<br><br><img style="" src="https://pbs.twimg.com/media/GFLTgR6W4AA3RjB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 31 Jan 2024 17:11:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752741354244079901</guid>
-            <link>https://twitter.com/LangChainAI/status/1752741354244079901</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Harrison Chase: Some fun updates to OpenGPTs! Add 3 different "cognitive architectures": - Assistant - RAG - Chatbot We have a simple hosted versio...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>Some fun updates to OpenGPTs!<br><br>Add 3 different "cognitive architectures":<br><br>- Assistant<br>- RAG<br>- Chatbot<br><br>We have a simple hosted version ("research preview") to play around with here: https://opengpts-example-vz4y4ooboq-uc.a.run.app/<div class="rsshub-quote"><br><br>LangChain: 🦜🤖OpenGPTs Updates<br><br>Some big updates to OpenGPTs!<br><br>⭐️Reminder: OpenGPTs is an open source version of the GPT store where you can fully control the model used, the tools used, the retrieval strategy<br><br>Blog + YouTube to dive into more detail!<br><br>❓What are the updates?<br><br>🕸️LangGraph:…<br><br><img style="" src="https://pbs.twimg.com/media/GFL4-BTbAAEoPQ-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 31 Jan 2024 17:01:25 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752741106352291842</guid>
-            <link>https://twitter.com/LangChainAI/status/1752741106352291842</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🦜🤖OpenGPTs Updates Some big updates to OpenGPTs! ⭐️Reminder: OpenGPTs is an open source version of the GPT store where you can fully control t...]]></title>
-            <description><![CDATA[🦜🤖OpenGPTs Updates<br><br>Some big updates to OpenGPTs!<br><br>⭐️Reminder: OpenGPTs is an open source version of the GPT store where you can fully control the model used, the tools used, the retrieval strategy<br><br>Blog + YouTube to dive into more detail!<br><br>❓What are the updates?<br><br>🕸️LangGraph:…<br><img style="" src="https://pbs.twimg.com/media/GFL4-BTbAAEoPQ-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 16:54:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752737053262152162</guid>
-            <link>https://twitter.com/LangChainAI/status/1752737053262152162</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Brace: 📊 Revamped SQL Use Cases We've just released revamped SQL use case docs for @LangChainAI JS/TS 🦜🔗 The updated docs contain sections...]]></title>
-            <description><![CDATA[RT Brace<br>📊 Revamped SQL Use Cases<br><br>We've just released revamped SQL use case docs for @LangChainAI JS/TS 🦜🔗<br>The updated docs contain sections on building SQL agents, prompting strategies, dealing with large production databases, and more!<br><br>We're putting a lot more effort into our more…<br><img style="" src="https://pbs.twimg.com/media/GFLu7VJaQAAgXCs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 16:09:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752726183903736005</guid>
-            <link>https://twitter.com/LangChainAI/status/1752726183903736005</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ricky: If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI,...]]></title>
-            <description><![CDATA[RT Ricky<br>If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI, Vectorize and D1! 🎉🎉🎉<br><br>(Thanks to @Hacubu and the @LangChainAI team for being so rad!)<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/]]></description>
-            <pubDate>Wed, 31 Jan 2024 15:06:14 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752722454362063329</guid>
-            <link>https://twitter.com/LangChainAI/status/1752722454362063329</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT DataStax: Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide: ◆ Common Gen AI design patte...]]></title>
-            <description><![CDATA[RT DataStax<br>Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide:<br><br>◆ Common Gen AI design patterns and use cases<br>◆ In-depth architectural examples <br>◆ Important considerations to keep in mind <br><br>Grab your copy ➡️https://dtsx.io/3vP8hiP<br><img style="" src="https://pbs.twimg.com/media/GFLTgR6W4AA3RjB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 14:10:06 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752741094448890060</guid>
-            <link>https://twitter.com/LangChainAI/status/1752741094448890060</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT tavily: Excited to introduce our latest project GPT-Newspaper together with the @LangChainAI team! An innovative autonomous agent designed to creat...]]></title>
@@ -281,6 +185,54 @@
         </item>
         
         <item>
+            <title><![CDATA[RT Aniket Maurya ⚡️: Retrieval is one of the most important component of your RAG application. 💪 After evaluating multiple tools here is how I bu...]]></title>
+            <description><![CDATA[RT Aniket Maurya ⚡️<br>Retrieval is one of the most important component of your RAG application. 💪<br><br>After evaluating multiple tools here is how I built a Studio for search and retrieval from PDF documents. 🔽<br><br>A minimal reproducible pipeline to retrieve semantically similar documents based on the…<br><img style="" src="https://pbs.twimg.com/media/GFGxPHyXgAAg62L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 30 Jan 2024 17:10:37 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752382267182510095</guid>
+            <link>https://twitter.com/LangChainAI/status/1752382267182510095</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: The biggest use case for LLMs is still chatbots Revamped our use case docs to focus on: 💬Chat Completions 🧠Memory 📰Retriev...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>The biggest use case for LLMs is still chatbots<br><br>Revamped our use case docs to focus on:<br><br>💬Chat Completions<br>🧠Memory<br>📰Retrieval<div class="rsshub-quote"><br><br>LangChain: 💬 Chatbot use cases 💬<br><br>Chatbots are one of the most popular use cases for LLMs.<br><br>We've just overhauled our docs on how to build them!<br><br>Learn about conversational retrieval, tool usage, memory/chat history management, and more. The examples are composed with LCEL and have full…<br><br><img style="" src="https://pbs.twimg.com/media/GFGxNS4aoAAFYot?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Tue, 30 Jan 2024 17:05:36 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752382113461268973</guid>
+            <link>https://twitter.com/LangChainAI/status/1752382113461268973</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[💬 Chatbot use cases 💬 Chatbots are one of the most popular use cases for LLMs. We've just overhauled our docs on how to build them! Learn about ...]]></title>
+            <description><![CDATA[💬 Chatbot use cases 💬<br><br>Chatbots are one of the most popular use cases for LLMs.<br><br>We've just overhauled our docs on how to build them!<br><br>Learn about conversational retrieval, tool usage, memory/chat history management, and more. The examples are composed with LCEL and have full…<br><img style="" src="https://pbs.twimg.com/media/GFGxNS4aoAAFYot?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 30 Jan 2024 17:01:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752376586001875438</guid>
+            <link>https://twitter.com/LangChainAI/status/1752376586001875438</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Hard Kothari: Do you want to add few alternatives to existing llms being used in your code with chains from @LangChainAI ? There is a feature calle...]]></title>
             <description><![CDATA[RT Hard Kothari<br>Do you want to add few alternatives to existing llms being used in your code with chains from @LangChainAI ?<br><br>There is a feature called "Configurable Alternatives". It a hidden 💎<br><br>You can easily configure alternatives which can be called dynamically in the API call with specific…<br><img style="" src="https://pbs.twimg.com/media/GFGd3UoWcAAlSyU?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Tue, 30 Jan 2024 15:37:35 GMT</pubDate>
@@ -302,6 +254,54 @@
             <pubDate>Tue, 30 Jan 2024 08:06:07 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752451267434271149</guid>
             <link>https://twitter.com/LangChainAI/status/1752451267434271149</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[✒️Question Answering with Citations When building a chatbot over documents, it's often useful to ask it to cite it's sources. This can help build tr...]]></title>
+            <description><![CDATA[✒️Question Answering with Citations<br><br>When building a chatbot over documents, it's often useful to ask it to cite it's sources. This can help build trust and check responses<br><br>We've recently added a detailed guide on how to do this!<br><br>Guide: https://python.langchain.com/docs/use_cases/question_answering/citations<br><img style="" src="https://pbs.twimg.com/media/GEuuMowbsAAXfJ2?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 30 Jan 2024 04:54:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752193420120952854</guid>
+            <link>https://twitter.com/LangChainAI/status/1752193420120952854</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Austin Vance: 🚨 New Tutorial Alert 🚨 Part 2 of Chat With Your PDF Use @typescript @LangChainAI @tailwindcss and @reactjs to build a full fron...]]></title>
+            <description><![CDATA[RT Austin Vance<br>🚨 New Tutorial Alert 🚨 Part 2 of Chat With Your PDF<br><br>Use @typescript @LangChainAI @tailwindcss and @reactjs to build a full frontend for LangServe<br><br>- Send retrieved documents to the frontend<br>- Handle streaming output like ChatGPT<br>- Download source files<br><br>https://youtu.be/xFWllDS6ZRw]]></description>
+            <pubDate>Mon, 29 Jan 2024 23:26:29 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752130106796146865</guid>
+            <link>https://twitter.com/LangChainAI/status/1752130106796146865</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT James Pog: guys.. its kind of working finally?! The idea: the ultimate autonomous web scraper, that can scrape any information from any website usi...]]></title>
+            <description><![CDATA[RT James Pog<br>guys.. its kind of working finally?!<br><br>The idea: the ultimate autonomous web scraper, that can scrape any information from any website using a combination of Playwright, GPT-4, and GPT-4 Vision.<br><br>Here's how it works<br><br>I'm using a @LangChainAI agent as the decision maker, and as an…<br><img style="" src="https://pbs.twimg.com/media/GE8rddUbYAAjASj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 28 Jan 2024 18:06:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752195647749648569</guid>
+            <link>https://twitter.com/LangChainAI/status/1752195647749648569</link>
             
             
             
