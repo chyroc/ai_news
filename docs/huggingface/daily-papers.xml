@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 31 Jan 2024 03:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 00:59:11 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[H2O-Danube-1.8B Technical Report]]></title>
-            <description><![CDATA[We present H2O-Danube-1.8B, a 1.8B language model trained on 1T tokens following the core principles of LLama 2 and Mistral. We leverage and refine various techniques for pre-training large language models. Although our model is trained on significantly fewer total tokens compared to reference models of similar size, it exhibits highly competitive metrics across a multitude of benchmarks. We additionally release a chat model trained with supervised fine-tuning followed by direct preference optimization. We make H2O-Danube-1.8B openly available under Apache 2.0 license further democratizing LLMs to a wider audience economically.]]></description>
-            <pubDate>Wed, 31 Jan 2024 02:47:44 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.16818</guid>
-            <link>https://arxiv.org/abs/2401.16818</link>
+            <title><![CDATA[SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning]]></title>
+            <description><![CDATA[In recent years, significant progress has been made in the field of robotic reinforcement learning (RL), enabling methods that handle complex image observations, train in the real world, and incorporate auxiliary data, such as demonstrations and prior experience. However, despite these advances, robotic RL remains hard to use. It is acknowledged among practitioners that the particular implementation details of these algorithms are often just as important (if not more so) for performance as the choice of algorithm. We posit that a significant challenge to widespread adoption of robotic RL, as well as further development of robotic RL methods, is the comparative inaccessibility of such methods. To address this challenge, we developed a carefully implemented library containing a sample efficient off-policy deep RL method, together with methods for computing rewards and resetting the environment, a high-quality controller for a widely-adopted robot, and a number of challenging example tasks. We provide this library as a resource for the community, describe its design choices, and present experimental results. Perhaps surprisingly, we find that our implementation can achieve very efficient learning, acquiring policies for PCB board assembly, cable routing, and object relocation between 25 to 50 minutes of training per policy on average, improving over state-of-the-art results reported for similar tasks in the literature. These policies achieve perfect or near-perfect success rates, extreme robustness even under perturbations, and exhibit emergent recovery and correction behaviors. We hope that these promising results and our high-quality open-source implementation will provide a tool for the robotics community to facilitate further developments in robotic RL. Our code, documentation, and videos can be found at https://serl-robot.github.io/]]></description>
+            <pubDate>Tue, 30 Jan 2024 05:37:31 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.16013</guid>
+            <link>https://arxiv.org/abs/2401.16013</link>
             
             
             
-            <author><![CDATA[Philipp Singer, Pascal Pfeiffer, Yauhen Babakhin, Maximilian Jeblick, Nischay Dhankhar, Gabor Fodor, Sri Satish Ambati]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[T3: Transparent Tracking & Triggering for Fine-grained Overlap of Compute & Collectives]]></title>
-            <description><![CDATA[Large Language Models increasingly rely on distributed techniques for their training and inference. These techniques require communication across devices which can reduce scaling efficiency as the number of devices increases. While some distributed techniques can overlap, and thus, hide this communication with independent computations, techniques such as Tensor Parallelism (TP) inherently serialize communication with model execution. One approach to hide this serialized communication is to interleave it with the producer operation (of the communicated data) in a fine-grained manner. However, this fine-grained interleaving of communication and computation in software can be difficult. Furthermore, as with any concurrent execution, it requires compute and memory resources to be shared between computation and communication, causing resource contention that reduces overlapping efficacy.   To overcome these challenges, we propose T3 which applies hardware-software co-design to transparently overlap serialized communication while minimizing resource contention with compute. T3 transparently fuses producer operations with the subsequent communication via a simple configuration of the producer's output address space and requires minor software changes. At the hardware level, T3 adds a lightweight track and trigger mechanism to orchestrate the producer's compute, and communication. It further uses compute-enhanced memories for communication's attendant compute. As a result, T3 reduces resource contention, and efficiently overlaps serialized communication with computation. For important Transformer models like T-NLG, T3 speeds up communication-heavy sublayers by 30% geomean (max 47%) and reduces data movement by 22% geomean (max 36%). Furthermore, T3's benefits persist as models scale: geomean 29% for sublayers in sim500-billion parameter models, PALM and MT-NLG.]]></description>
-            <pubDate>Wed, 31 Jan 2024 02:40:29 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.16677</guid>
-            <link>https://arxiv.org/abs/2401.16677</link>
-            
-            
-            
-            <author><![CDATA[Suchita Pati, Shaizeen Aga, Mahzabeen Islam, Nuwan Jayasena, Matthew D. Sinclair]]></author>
+            <author><![CDATA[Jianlan Luo, Zheyuan Hu, Charles Xu, You Liang Tan, Jacob Berg, Archit Sharma, Stefan Schaal, Chelsea Finn, Abhishek Gupta, Sergey Levine]]></author>
             
                 
             
@@ -51,15 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[ReGAL: Refactoring Programs to Discover Generalizable Abstractions]]></title>
-            <description><![CDATA[While large language models (LLMs) are increasingly being used for program synthesis, they lack the global view needed to develop useful abstractions; they generally predict programs one at a time, often repeating the same functionality. Generating redundant code from scratch is both inefficient and error-prone. To address this, we propose Refactoring for Generalizable Abstraction Learning (ReGAL), a gradient-free method for learning a library of reusable functions via code refactorization, i.e. restructuring code without changing its execution output. ReGAL learns from a small set of existing programs, iteratively verifying and refining its abstractions via execution. We find that the shared function libraries discovered by ReGAL make programs easier to predict across diverse domains. On three datasets (LOGO graphics generation, Date reasoning, and TextCraft, a Minecraft-based text game), both open-source and proprietary LLMs improve in accuracy when predicting programs with ReGAL functions. For CodeLlama-13B, ReGAL results in absolute accuracy increases of 11.5% on graphics, 26.1% on date understanding, and 8.1% on TextCraft, outperforming GPT-3.5 in two of three domains. Our analysis reveals ReGAL's abstractions encapsulate frequently-used subroutines as well as environment dynamics.]]></description>
-            <pubDate>Wed, 31 Jan 2024 02:36:48 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.16467</guid>
-            <link>https://arxiv.org/abs/2401.16467</link>
+            <title><![CDATA[Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance]]></title>
+            <description><![CDATA[The synthesis of 3D facial animations from speech has garnered considerable attention. Due to the scarcity of high-quality 4D facial data and well-annotated abundant multi-modality labels, previous methods often suffer from limited realism and a lack of lexible conditioning. We address this challenge through a trilogy. We first introduce Generalized Neural Parametric Facial Asset (GNPFA), an efficient variational auto-encoder mapping facial geometry and images to a highly generalized expression latent space, decoupling expressions and identities. Then, we utilize GNPFA to extract high-quality expressions and accurate head poses from a large array of videos. This presents the M2F-D dataset, a large, diverse, and scan-level co-speech 3D facial animation dataset with well-annotated emotional and style labels. Finally, we propose Media2Face, a diffusion model in GNPFA latent space for co-speech facial animation generation, accepting rich multi-modality guidances from audio, text, and image. Extensive experiments demonstrate that our model not only achieves high fidelity in facial animation synthesis but also broadens the scope of expressiveness and style adaptability in 3D facial animation.]]></description>
+            <pubDate>Tue, 30 Jan 2024 05:18:47 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.15687</guid>
+            <link>https://arxiv.org/abs/2401.15687</link>
             
             
             
-            <author><![CDATA[Elias Stengel-Eskin, Archiki Prasad, Mohit Bansal]]></author>
+            <author><![CDATA[Qingcheng Zhao, Pengyu Long, Qixuan Zhang, Dafei Qin, Han Liang, Longwen Zhang, Yingliang Zhang, Jingyi Yu, Lan Xu]]></author>
             
                 
             
@@ -67,15 +51,143 @@
         </item>
         
         <item>
-            <title><![CDATA[Weaver: Foundation Models for Creative Writing]]></title>
-            <description><![CDATA[This work introduces Weaver, our first family of large language models (LLMs) dedicated to content creation. Weaver is pre-trained on a carefully selected corpus that focuses on improving the writing capabilities of large language models. We then fine-tune Weaver for creative and professional writing purposes and align it to the preference of professional writers using a suit of novel methods for instruction data synthesis and LLM alignment, making it able to produce more human-like texts and follow more diverse instructions for content creation. The Weaver family consists of models of Weaver Mini (1.8B), Weaver Base (6B), Weaver Pro (14B), and Weaver Ultra (34B) sizes, suitable for different applications and can be dynamically dispatched by a routing agent according to query complexity to balance response quality and computation cost. Evaluation on a carefully curated benchmark for assessing the writing capabilities of LLMs shows Weaver models of all sizes outperform generalist LLMs several times larger than them. Notably, our most-capable Weaver Ultra model surpasses GPT-4, a state-of-the-art generalist LLM, on various writing scenarios, demonstrating the advantage of training specialized LLMs for writing purposes. Moreover, Weaver natively supports retrieval-augmented generation (RAG) and function calling (tool usage). We present various use cases of these abilities for improving AI-assisted writing systems, including integration of external knowledge bases, tools, or APIs, and providing personalized writing assistance. Furthermore, we discuss and summarize a guideline and best practices for pre-training and fine-tuning domain-specific LLMs.]]></description>
-            <pubDate>Wed, 31 Jan 2024 02:31:38 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17268</guid>
-            <link>https://arxiv.org/abs/2401.17268</link>
+            <title><![CDATA[StableIdentity: Inserting Anybody into Anywhere at First Sight]]></title>
+            <description><![CDATA[Recent advances in large pretrained text-to-image models have shown unprecedented capabilities for high-quality human-centric generation, however, customizing face identity is still an intractable problem. Existing methods cannot ensure stable identity preservation and flexible editability, even with several images for each subject during training. In this work, we propose StableIdentity, which allows identity-consistent recontextualization with just one face image. More specifically, we employ a face encoder with an identity prior to encode the input face, and then land the face representation into a space with an editable prior, which is constructed from celeb names. By incorporating identity prior and editability prior, the learned identity can be injected anywhere with various contexts. In addition, we design a masked two-phase diffusion loss to boost the pixel-level perception of the input face and maintain the diversity of generation. Extensive experiments demonstrate our method outperforms previous customization methods. In addition, the learned identity can be flexibly combined with the off-the-shelf modules such as ControlNet. Notably, to the best knowledge, we are the first to directly inject the identity learned from a single image into video/3D generation without finetuning. We believe that the proposed StableIdentity is an important step to unify image, video, and 3D customized generation models.]]></description>
+            <pubDate>Tue, 30 Jan 2024 05:03:50 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.15975</guid>
+            <link>https://arxiv.org/abs/2401.15975</link>
             
             
             
-            <author><![CDATA[Tiannan Wang, Jiamin Chen, Qingrui Jia, Shuai Wang, Ruoyu Fang, Huilin Wang, Zhaowei Gao, Chunzhao Xie, Chuou Xu, Jihong Dai, Yibin Liu, Jialong Wu, Shengwei Ding, Long Li, Zhiwei Huang, Xinle Deng, Teng Yu, Gangan Ma, Han Xiao, Zixin Chen, Danjun Xiang, Yunxia Wang, Yuanyuan Zhu, Yi Xiao, Jing Wang, Yiru Wang, Siran Ding, Jiayang Huang, Jiayi Xu, Yilihamu Tayier, Zhenyu Hu, Yuan Gao, Chengfeng Zheng, Yueshu Ye, Yihang Li, Lei Wan, Xinyue Jiang, Yujie Wang, Siyu Cheng, Zhule Song, Xiangru Tang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang, Wangchunshu Zhou]]></author>
+            <author><![CDATA[Qinghe Wang, Xu Jia, Xiaomin Li, Taiqing Li, Liqian Ma, Yunzhi Zhuge, Huchuan Lu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding]]></title>
+            <description><![CDATA[As large-scale text-to-image generation models have made remarkable progress in the field of text-to-image generation, many fine-tuning methods have been proposed. However, these models often struggle with novel objects, especially with one-shot scenarios. Our proposed method aims to address the challenges of generalizability and fidelity in an object-driven way, using only a single input image and the object-specific regions of interest. To improve generalizability and mitigate overfitting, in our paradigm, a prototypical embedding is initialized based on the object's appearance and its class, before fine-tuning the diffusion model. And during fine-tuning, we propose a class-characterizing regularization to preserve prior knowledge of object classes. To further improve fidelity, we introduce object-specific loss, which can also use to implant multiple objects. Overall, our proposed object-driven method for implanting new objects can integrate seamlessly with existing concepts as well as with high fidelity and generalization. Our method outperforms several existing works. The code will be released.]]></description>
+            <pubDate>Tue, 30 Jan 2024 04:22:47 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.15708</guid>
+            <link>https://arxiv.org/abs/2401.15708</link>
+            
+            
+            
+            <author><![CDATA[Jianxiang Lu, Cong Xie, Hui Guo]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation]]></title>
+            <description><![CDATA[Despite significant advancements in text-to-image models for generating high-quality images, these methods still struggle to ensure the controllability of text prompts over images in the context of complex text prompts, especially when it comes to retaining object attributes and relationships. In this paper, we propose CompAgent, a training-free approach for compositional text-to-image generation, with a large language model (LLM) agent as its core. The fundamental idea underlying CompAgent is premised on a divide-and-conquer methodology. Given a complex text prompt containing multiple concepts including objects, attributes, and relationships, the LLM agent initially decomposes it, which entails the extraction of individual objects, their associated attributes, and the prediction of a coherent scene layout. These individual objects can then be independently conquered. Subsequently, the agent performs reasoning by analyzing the text, plans and employs the tools to compose these isolated objects. The verification and human feedback mechanism is finally incorporated into our agent to further correct the potential attribute errors and refine the generated images. Guided by the LLM agent, we propose a tuning-free multi-concept customization model and a layout-to-image generation model as the tools for concept composition, and a local image editing method as the tool to interact with the agent for verification. The scene layout controls the image generation process among these tools to prevent confusion among multiple objects. Extensive experiments demonstrate the superiority of our approach for compositional text-to-image generation: CompAgent achieves more than 10\% improvement on T2I-CompBench, a comprehensive benchmark for open-world compositional T2I generation. The extension to various related tasks also illustrates the flexibility of our CompAgent for potential applications.]]></description>
+            <pubDate>Tue, 30 Jan 2024 04:18:51 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.15688</guid>
+            <link>https://arxiv.org/abs/2401.15688</link>
+            
+            
+            
+            <author><![CDATA[Zhenyu Wang, Enze Xie, Aoxue Li, Zhongdao Wang, Xihui Liu, Zhenguo Li]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling]]></title>
+            <description><![CDATA[Large language models are trained on massive scrapes of the web, which are often unstructured, noisy, and poorly phrased. Current scaling laws show that learning from such data requires an abundance of both compute and data, which grows with the size of the model being trained. This is infeasible both because of the large compute costs and duration associated with pre-training, and the impending scarcity of high-quality data on the web. In this work, we propose Web Rephrase Augmented Pre-training (WRAP) that uses an off-the-shelf instruction-tuned model prompted to paraphrase documents on the web in specific styles such as "like Wikipedia" or in "question-answer format" to jointly pre-train LLMs on real and synthetic rephrases. First, we show that using WRAP on the C4 dataset, which is naturally noisy, speeds up pre-training by sim3x. At the same pre-training compute budget, it improves perplexity by more than 10% on average across different subsets of the Pile, and improves zero-shot question answer accuracy across 13 tasks by more than 2%. Second, we investigate the impact of the re-phrasing style on the performance of the model, offering insights into how the composition of the training data can impact the performance of LLMs in OOD settings. Our gains are attributed to the fact that re-phrased synthetic data has higher utility than just real data because it (i) incorporates style diversity that closely reflects downstream evaluation style, and (ii) has higher 'quality' than web-scraped data.]]></description>
+            <pubDate>Tue, 30 Jan 2024 03:48:49 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.16380</guid>
+            <link>https://arxiv.org/abs/2401.16380</link>
+            
+            
+            
+            <author><![CDATA[Pratyush Maini, Skyler Seto, He Bai, David Grangier, Yizhe Zhang, Navdeep Jaitly]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception]]></title>
+            <description><![CDATA[Mobile device agent based on Multimodal Large Language Models (MLLM) is becoming a popular application. In this paper, we introduce Mobile-Agent, an autonomous multi-modal mobile device agent. Mobile-Agent first leverages visual perception tools to accurately identify and locate both the visual and textual elements within the app's front-end interface. Based on the perceived vision context, it then autonomously plans and decomposes the complex operation task, and navigates the mobile Apps through operations step by step. Different from previous solutions that rely on XML files of Apps or mobile system metadata, Mobile-Agent allows for greater adaptability across diverse mobile operating environments in a vision-centric way, thereby eliminating the necessity for system-specific customizations. To assess the performance of Mobile-Agent, we introduced Mobile-Eval, a benchmark for evaluating mobile device operations. Based on Mobile-Eval, we conducted a comprehensive evaluation of Mobile-Agent. The experimental results indicate that Mobile-Agent achieved remarkable accuracy and completion rates. Even with challenging instructions, such as multi-app operations, Mobile-Agent can still complete the requirements. Code and model will be open-sourced at https://github.com/X-PLUG/MobileAgent.]]></description>
+            <pubDate>Tue, 30 Jan 2024 03:34:56 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.16158</guid>
+            <link>https://arxiv.org/abs/2401.16158</link>
+            
+            
+            
+            <author><![CDATA[Junyang Wang, Haiyang Xu, Jiabo Ye, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MoE-LLaVA: Mixture of Experts for Large Vision-Language Models]]></title>
+            <description><![CDATA[For Large Vision-Language Models (LVLMs), scaling the model can effectively improve performance. However, expanding model parameters significantly increases the training and inferring costs, as all model parameters are activated for each token in the calculation. In this work, we propose a novel training strategy MoE-tuning for LVLMs, which can constructing a sparse model with an outrageous number of parameter but a constant computational cost, and effectively addresses the performance degradation typically associated with multi-modal learning and model sparsity. Furthermore, we present the MoE-LLaVA framework, a MoE-based sparse LVLM architecture. This framework uniquely activates only the top-k experts through routers during deployment, keeping the remaining experts inactive. Our extensive experiments highlight the excellent capabilities of MoE-LLaVA in visual understanding and its potential to reduce hallucinations in model outputs. Remarkably, with just 3 billion sparsely activated parameters, MoE-LLaVA demonstrates performance comparable to the LLaVA-1.5-7B on various visual understanding datasets and even surpasses the LLaVA-1.5-13B in object hallucination benchmarks. Through MoE-LLaVA, we aim to establish a baseline for sparse LVLMs and provide valuable insights for future research in developing more efficient and effective multi-modal learning systems. Code is released at https://github.com/PKU-YuanGroup/MoE-LLaVA.]]></description>
+            <pubDate>Tue, 30 Jan 2024 03:21:37 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.15947</guid>
+            <link>https://arxiv.org/abs/2401.15947</link>
+            
+            
+            
+            <author><![CDATA[Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Junwu Zhang, Munan Ning, Li Yuan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization]]></title>
+            <description><![CDATA[Existing vision-language models exhibit strong generalization on a variety of visual domains and tasks. However, such models mainly perform zero-shot recognition in a closed-set manner, and thus struggle to handle open-domain visual concepts by design. There are recent finetuning methods, such as prompt learning, that not only study the discrimination between in-distribution (ID) and out-of-distribution (OOD) samples, but also show some improvements in both ID and OOD accuracies. In this paper, we first demonstrate that vision-language models, after long enough finetuning but without proper regularization, tend to overfit the known classes in the given dataset, with degraded performance on unknown classes. Then we propose a novel approach OGEN to address this pitfall, with the main focus on improving the OOD GENeralization of finetuned models. Specifically, a class-conditional feature generator is introduced to synthesize OOD features using just the class name of any unknown class. Such synthesized features will provide useful knowledge about unknowns and help regularize the decision boundary between ID and OOD data when optimized jointly. Equally important is our adaptive self-distillation mechanism to regularize our feature generation model during joint optimization, i.e., adaptively transferring knowledge between model states to further prevent overfitting. Experiments validate that our method yields convincing gains in OOD generalization performance in different settings.]]></description>
+            <pubDate>Tue, 30 Jan 2024 03:11:42 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.15914</guid>
+            <link>https://arxiv.org/abs/2401.15914</link>
+            
+            
+            
+            <author><![CDATA[Yuhang Zang, Hanlin Goh, Josh Susskind, Chen Huang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model]]></title>
+            <description><![CDATA[We introduce InternLM-XComposer2, a cutting-edge vision-language model excelling in free-form text-image composition and comprehension. This model goes beyond conventional vision-language understanding, adeptly crafting interleaved text-image content from diverse inputs like outlines, detailed textual specifications, and reference images, enabling highly customizable content creation. InternLM-XComposer2 proposes a Partial LoRA (PLoRA) approach that applies additional LoRA parameters exclusively to image tokens to preserve the integrity of pre-trained language knowledge, striking a balance between precise vision understanding and text composition with literary talent. Experimental results demonstrate the superiority of InternLM-XComposer2 based on InternLM2-7B in producing high-quality long-text multi-modal content and its exceptional vision-language understanding performance across various benchmarks, where it not only significantly outperforms existing multimodal models but also matches or even surpasses GPT-4V and Gemini Pro in certain assessments. This highlights its remarkable proficiency in the realm of multimodal understanding. The InternLM-XComposer2 model series with 7B parameters are publicly available at https://github.com/InternLM/InternLM-XComposer.]]></description>
+            <pubDate>Tue, 30 Jan 2024 02:46:32 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.16420</guid>
+            <link>https://arxiv.org/abs/2401.16420</link>
+            
+            
+            
+            <author><![CDATA[Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Bin Wang, Linke Ouyang, Xilin Wei, Songyang Zhang, Haodong Duan, Maosong Cao, Wenwei Zhang, Yining Li, Hang Yan, Yang Gao, Xinyue Zhang, Wei Li, Jingwen Li, Kai Chen, Conghui He, Xingcheng Zhang, Yu Qiao, Dahua Lin, Jiaqi Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling]]></title>
+            <description><![CDATA[We introduce Motion-I2V, a novel framework for consistent and controllable image-to-video generation (I2V). In contrast to previous methods that directly learn the complicated image-to-video mapping, Motion-I2V factorizes I2V into two stages with explicit motion modeling. For the first stage, we propose a diffusion-based motion field predictor, which focuses on deducing the trajectories of the reference image's pixels. For the second stage, we propose motion-augmented temporal attention to enhance the limited 1-D temporal attention in video latent diffusion models. This module can effectively propagate reference image's feature to synthesized frames with the guidance of predicted trajectories from the first stage. Compared with existing methods, Motion-I2V can generate more consistent videos even at the presence of large motion and viewpoint variation. By training a sparse trajectory ControlNet for the first stage, Motion-I2V can support users to precisely control motion trajectories and motion regions with sparse trajectory and region annotations. This offers more controllability of the I2V process than solely relying on textual instructions. Additionally, Motion-I2V's second stage naturally supports zero-shot video-to-video translation. Both qualitative and quantitative comparisons demonstrate the advantages of Motion-I2V over prior approaches in consistent and controllable image-to-video generation.]]></description>
+            <pubDate>Tue, 30 Jan 2024 02:38:25 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.15977</guid>
+            <link>https://arxiv.org/abs/2401.15977</link>
+            
+            
+            
+            <author><![CDATA[Xiaoyu Shi, Zhaoyang Huang, Fu-Yun Wang, Weikang Bian, Dasong Li, Yi Zhang, Manyuan Zhang, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Da, Hongsheng Li]]></author>
             
                 
             
