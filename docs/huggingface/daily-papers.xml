@@ -15,8 +15,168 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 31 Jan 2024 03:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 05:00:18 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis]]></title>
+            <description><![CDATA[To leverage LLMs for visual synthesis, traditional methods convert raster image information into discrete grid tokens through specialized visual modules, while disrupting the model's ability to capture the true semantic representation of visual scenes. This paper posits that an alternative representation of images, vector graphics, can effectively surmount this limitation by enabling a more natural and semantically coherent segmentation of the image information. Thus, we introduce StrokeNUWA, a pioneering work exploring a better visual representation ''stroke tokens'' on vector graphics, which is inherently visual semantics rich, naturally compatible with LLMs, and highly compressed. Equipped with stroke tokens, StrokeNUWA can significantly surpass traditional LLM-based and optimization-based methods across various metrics in the vector graphic generation task. Besides, StrokeNUWA achieves up to a 94x speedup in inference over the speed of prior methods with an exceptional SVG code compression ratio of 6.9%.]]></description>
+            <pubDate>Wed, 31 Jan 2024 04:45:00 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.17093</guid>
+            <link>https://arxiv.org/abs/2401.17093</link>
+            
+            
+            
+            <author><![CDATA[Zecheng Tang, Chenfei Wu, Zekai Zhang, Mingheng Ni, Shengming Yin, Yu Liu, Zhengyuan Yang, Lijuan Wang, Zicheng Liu, Juntao Li, Nan Duan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Proactive Detection of Voice Cloning with Localized Watermarking]]></title>
+            <description><![CDATA[In the rapidly evolving field of speech generative models, there is a pressing need to ensure audio authenticity against the risks of voice cloning. We present AudioSeal, the first audio watermarking technique designed specifically for localized detection of AI-generated speech. AudioSeal employs a generator/detector architecture trained jointly with a localization loss to enable localized watermark detection up to the sample level, and a novel perceptual loss inspired by auditory masking, that enables AudioSeal to achieve better imperceptibility. AudioSeal achieves state-of-the-art performance in terms of robustness to real life audio manipulations and imperceptibility based on automatic and human evaluation metrics. Additionally, AudioSeal is designed with a fast, single-pass detector, that significantly surpasses existing models in speed - achieving detection up to two orders of magnitude faster, making it ideal for large-scale and real-time applications.]]></description>
+            <pubDate>Wed, 31 Jan 2024 04:41:17 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.17264</guid>
+            <link>https://arxiv.org/abs/2401.17264</link>
+            
+            
+            
+            <author><![CDATA[Robin San Roman, Pierre Fernandez, Alexandre Défossez, Teddy Furon, Tuan Tran, Hady Elsahar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[High-Quality Image Restoration Following Human Instructions]]></title>
+            <description><![CDATA[Image restoration is a fundamental problem that involves recovering a high-quality clean image from its degraded observation. All-In-One image restoration models can effectively restore images from various types and levels of degradation using degradation-specific information as prompts to guide the restoration model. In this work, we present the first approach that uses human-written instructions to guide the image restoration model. Given natural language prompts, our model can recover high-quality images from their degraded counterparts, considering multiple degradation types. Our method, InstructIR, achieves state-of-the-art results on several restoration tasks including image denoising, deraining, deblurring, dehazing, and (low-light) image enhancement. InstructIR improves +1dB over previous all-in-one restoration methods. Moreover, our dataset and results represent a novel benchmark for new research on text-guided image restoration and enhancement. Our code, datasets and models are available at: https://github.com/mv-lab/InstructIR]]></description>
+            <pubDate>Wed, 31 Jan 2024 04:35:33 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.16468</guid>
+            <link>https://arxiv.org/abs/2401.16468</link>
+            
+            
+            
+            <author><![CDATA[Marcos V. Conde, Gregor Geigle, Radu Timofte]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation]]></title>
+            <description><![CDATA[We present BlockFusion, a diffusion-based model that generates 3D scenes as unit blocks and seamlessly incorporates new blocks to extend the scene. BlockFusion is trained using datasets of 3D blocks that are randomly cropped from complete 3D scene meshes. Through per-block fitting, all training blocks are converted into the hybrid neural fields: with a tri-plane containing the geometry features, followed by a Multi-layer Perceptron (MLP) for decoding the signed distance values. A variational auto-encoder is employed to compress the tri-planes into the latent tri-plane space, on which the denoising diffusion process is performed. Diffusion applied to the latent representations allows for high-quality and diverse 3D scene generation. To expand a scene during generation, one needs only to append empty blocks to overlap with the current scene and extrapolate existing latent tri-planes to populate new blocks. The extrapolation is done by conditioning the generation process with the feature samples from the overlapping tri-planes during the denoising iterations. Latent tri-plane extrapolation produces semantically and geometrically meaningful transitions that harmoniously blend with the existing scene. A 2D layout conditioning mechanism is used to control the placement and arrangement of scene elements. Experimental results indicate that BlockFusion is capable of generating diverse, geometrically consistent and unbounded large 3D scenes with unprecedented high-quality shapes in both indoor and outdoor scenarios.]]></description>
+            <pubDate>Wed, 31 Jan 2024 04:28:14 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.17053</guid>
+            <link>https://arxiv.org/abs/2401.17053</link>
+            
+            
+            
+            <author><![CDATA[Zhennan Wu, Yang Li, Han Yan, Taizhang Shang, Weixuan Sun, Senbo Wang, Ruikai Cui, Weizhe Liu, Hiroyuki Sato, Hongdong Li, Pan Ji]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer]]></title>
+            <description><![CDATA[Recent studies have advocated for fully open foundation models to promote transparency and open science. As an initial step, the Open Whisper-style Speech Model (OWSM) reproduced OpenAI's Whisper using publicly available data and open-source toolkits. With the aim of reproducing Whisper, the previous OWSM v1 through v3 models were still based on Transformer, which might lead to inferior performance compared to other state-of-the-art speech encoders. In this work, we aim to improve the performance and efficiency of OWSM without extra training data. We present E-Branchformer based OWSM v3.1 models at two scales, i.e., 100M and 1B. The 1B model is the largest E-Branchformer based speech model that has been made publicly available. It outperforms the previous OWSM v3 in a vast majority of evaluation benchmarks, while demonstrating up to 25% faster inference speed. We publicly release the data preparation scripts, pre-trained models and training logs.]]></description>
+            <pubDate>Wed, 31 Jan 2024 04:16:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.16658</guid>
+            <link>https://arxiv.org/abs/2401.16658</link>
+            
+            
+            
+            <author><![CDATA[Yifan Peng, Jinchuan Tian, William Chen, Siddhant Arora, Brian Yan, Yui Sudo, Muhammad Shakeel, Kwanghee Choi, Jiatong Shi, Xuankai Chang, Jee-weon Jung, Shinji Watanabe]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Repositioning the Subject within Image]]></title>
+            <description><![CDATA[Current image manipulation primarily centers on static manipulation, such as replacing specific regions within an image or altering its overall style. In this paper, we introduce an innovative dynamic manipulation task, subject repositioning. This task involves relocating a user-specified subject to a desired position while preserving the image's fidelity. Our research reveals that the fundamental sub-tasks of subject repositioning, which include filling the void left by the repositioned subject, reconstructing obscured portions of the subject and blending the subject to be consistent with surrounding areas, can be effectively reformulated as a unified, prompt-guided inpainting task. Consequently, we can employ a single diffusion generative model to address these sub-tasks using various task prompts learned through our proposed task inversion technique. Additionally, we integrate pre-processing and post-processing techniques to further enhance the quality of subject repositioning. These elements together form our SEgment-gEnerate-and-bLEnd (SEELE) framework. To assess SEELE's effectiveness in subject repositioning, we assemble a real-world subject repositioning dataset called ReS. Our results on ReS demonstrate the quality of repositioned image generation.]]></description>
+            <pubDate>Wed, 31 Jan 2024 03:36:19 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.16861</guid>
+            <link>https://arxiv.org/abs/2401.16861</link>
+            
+            
+            
+            <author><![CDATA[Yikai Wang, Chenjie Cao, Qiaole Dong, Yifan Li, Yanwei Fu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[YOLO-World: Real-Time Open-Vocabulary Object Detection]]></title>
+            <description><![CDATA[The You Only Look Once (YOLO) series of detectors have established themselves as efficient and practical tools. However, their reliance on predefined and trained object categories limits their applicability in open scenarios. Addressing this limitation, we introduce YOLO-World, an innovative approach that enhances YOLO with open-vocabulary detection capabilities through vision-language modeling and pre-training on large-scale datasets. Specifically, we propose a new Re-parameterizable Vision-Language Path Aggregation Network (RepVL-PAN) and region-text contrastive loss to facilitate the interaction between visual and linguistic information. Our method excels in detecting a wide range of objects in a zero-shot manner with high efficiency. On the challenging LVIS dataset, YOLO-World achieves 35.4 AP with 52.0 FPS on V100, which outperforms many state-of-the-art methods in terms of both accuracy and speed. Furthermore, the fine-tuned YOLO-World achieves remarkable performance on several downstream tasks, including object detection and open-vocabulary instance segmentation.]]></description>
+            <pubDate>Wed, 31 Jan 2024 03:29:03 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.17270</guid>
+            <link>https://arxiv.org/abs/2401.17270</link>
+            
+            
+            
+            <author><![CDATA[Tianheng Cheng, Lin Song, Yixiao Ge, Wenyu Liu, Xinggang Wang, Ying Shan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Weak-to-Strong Jailbreaking on Large Language Models]]></title>
+            <description><![CDATA[Although significant efforts have been dedicated to aligning large language models (LLMs), red-teaming reports suggest that these carefully aligned LLMs could still be jailbroken through adversarial prompts, tuning, or decoding. Upon examining the jailbreaking vulnerability of aligned LLMs, we observe that the decoding distributions of jailbroken and aligned models differ only in the initial generations. This observation motivates us to propose the weak-to-strong jailbreaking attack, where adversaries can utilize smaller unsafe/aligned LLMs (e.g., 7B) to guide jailbreaking against significantly larger aligned LLMs (e.g., 70B). To jailbreak, one only needs to additionally decode two smaller LLMs once, which involves minimal computation and latency compared to decoding the larger LLMs. The efficacy of this attack is demonstrated through experiments conducted on five models from three different organizations. Our study reveals a previously unnoticed yet efficient way of jailbreaking, exposing an urgent safety issue that needs to be considered when aligning LLMs. As an initial attempt, we propose a defense strategy to protect against such attacks, but creating more advanced defenses remains challenging. The code for replicating the method is available at https://github.com/XuandongZhao/weak-to-strong]]></description>
+            <pubDate>Wed, 31 Jan 2024 03:17:13 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.17256</guid>
+            <link>https://arxiv.org/abs/2401.17256</link>
+            
+            
+            
+            <author><![CDATA[Xuandong Zhao, Xianjun Yang, Tianyu Pang, Chao Du, Lei Li, Yu-Xiang Wang, William Yang Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MouSi: Poly-Visual-Expert Vision-Language Models]]></title>
+            <description><![CDATA[Current large vision-language models (VLMs) often encounter challenges such as insufficient capabilities of a single visual component and excessively long visual tokens. These issues can limit the model's effectiveness in accurately interpreting complex visual information and over-lengthy contextual information. Addressing these challenges is crucial for enhancing the performance and applicability of VLMs. This paper proposes the use of ensemble experts technique to synergizes the capabilities of individual visual encoders, including those skilled in image-text matching, OCR, image segmentation, etc. This technique introduces a fusion network to unify the processing of outputs from different visual experts, while bridging the gap between image encoders and pre-trained LLMs. In addition, we explore different positional encoding schemes to alleviate the waste of positional encoding caused by lengthy image feature sequences, effectively addressing the issue of position overflow and length limitations. For instance, in our implementation, this technique significantly reduces the positional occupancy in models like SAM, from a substantial 4096 to a more efficient and manageable 64 or even down to 1. Experimental results demonstrate that VLMs with multiple experts exhibit consistently superior performance over isolated visual encoders and mark a significant performance boost as more experts are integrated. We have open-sourced the training code used in this report. All of these resources can be found on our project website.]]></description>
+            <pubDate>Wed, 31 Jan 2024 03:14:24 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.17221</guid>
+            <link>https://arxiv.org/abs/2401.17221</link>
+            
+            
+            
+            <author><![CDATA[Xiaoran Fan, Tao Ji, Changhao Jiang, Shuo Li, Senjie Jin, Sirui Song, Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng, Ming Zhang, Caishuang Huang, Rui Zheng, Zhiheng Xi, Yuhao Zhou, Shihan Dou, Junjie Ye, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Transfer Learning for Text Diffusion Models]]></title>
+            <description><![CDATA[In this report, we explore the potential for text diffusion to replace autoregressive (AR) decoding for the training and deployment of large language models (LLMs). We are particularly interested to see whether pretrained AR models can be transformed into text diffusion models through a lightweight adaptation procedure we call ``AR2Diff''. We begin by establishing a strong baseline setup for training text diffusion models. Comparing across multiple architectures and pretraining objectives, we find that training a decoder-only model with a prefix LM objective is best or near-best across several tasks. Building on this finding, we test various transfer learning setups for text diffusion models. On machine translation, we find that text diffusion underperforms the standard AR approach. However, on code synthesis and extractive QA, we find diffusion models trained from scratch outperform AR models in many cases. We also observe quality gains from AR2Diff -- adapting AR models to use diffusion decoding. These results are promising given that text diffusion is relatively underexplored and can be significantly faster than AR decoding for long text generation.]]></description>
+            <pubDate>Wed, 31 Jan 2024 03:03:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2401.17181</guid>
+            <link>https://arxiv.org/abs/2401.17181</link>
+            
+            
+            
+            <author><![CDATA[Kehang Han, Kathleen Kenealy, Aditya Barua, Noah Fiedel, Noah Constant]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[H2O-Danube-1.8B Technical Report]]></title>
