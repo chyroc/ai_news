@@ -21,8 +21,72 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 31 Jan 2024 17:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 19:53:24 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[OpenAI recently released a new embedding model Check out @mesudarshan's awesome new video on how to use them as part of LangChain!]]></title>
+            <description><![CDATA[OpenAI recently released a new embedding model<br><br>Check out @mesudarshan's awesome new video on how to use them as part of LangChain!<div class="rsshub-quote"><br><br>Sudarshan Koirala: ✨&nbsp;OpenAI V3 Embeddings with LangChain ✨<br><br>Just uploaded a video about new @OpenAI  embeddings model and how to easily implement it with  @LangChainAI<br><br>Youtube: https://youtu.be/ssgvViL0fao<br><br>#langchain #openai #llm #embeddingsmodel #ai<br><br><img style="" src="https://pbs.twimg.com/media/GFMeyp1WMAAfMep?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 31 Jan 2024 19:44:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752779920923836866</guid>
+            <link>https://twitter.com/LangChainAI/status/1752779920923836866</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Sudarshan Koirala: ✨ OpenAI V3 Embeddings with LangChain ✨ Just uploaded a video about new @OpenAI embeddings model and how to easily implement i...]]></title>
+            <description><![CDATA[RT Sudarshan Koirala<br>✨&nbsp;OpenAI V3 Embeddings with LangChain ✨<br><br>Just uploaded a video about new @OpenAI  embeddings model and how to easily implement it with  @LangChainAI<br><br>Youtube: https://youtu.be/ssgvViL0fao<br><br>#langchain #openai #llm #embeddingsmodel #ai<br><img style="" src="https://pbs.twimg.com/media/GFMeyp1WMAAfMep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 Jan 2024 19:40:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752779771631837625</guid>
+            <link>https://twitter.com/LangChainAI/status/1752779771631837625</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[📹OpenGPTs YouTube walkthrough A proper deep dive into OpenGPTs! Covers two main things: 🖼️How to use the hosted version 🖥️Walkthrough of th...]]></title>
+            <description><![CDATA[📹OpenGPTs YouTube walkthrough<br><br>A proper deep dive into OpenGPTs! Covers two main things:<br><br>🖼️How to use the hosted version<br>🖥️Walkthrough of the code that powers the backend<br><br>https://www.youtube.com/watch?v=HAn9vnJy6S4<br><img style="" src="https://pbs.twimg.com/media/GFL5qJubAAAXoDf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 Jan 2024 18:57:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752767955879002403</guid>
+            <link>https://twitter.com/LangChainAI/status/1752767955879002403</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Brendan Burke: Good reference architecture for a banking agent app by @McKinsey / @iguazio for: Multiple databases: @milvusio for multi-cloud vecto...]]></title>
+            <description><![CDATA[RT Brendan Burke<br>Good reference architecture for a banking agent app by @McKinsey / @iguazio for:<br><br>Multiple databases: @milvusio for multi-cloud vector DB and @Redisinc for structured data<br><br>@LangChainAI for orchestration of @OpenAI models<br><br>@nuclioio for serving<br><br>@EvidentlyAI for monitoring<br><img style="" src="https://pbs.twimg.com/media/GFMKshXbAAIL5Ws?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 Jan 2024 18:23:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752777502609834300</guid>
+            <link>https://twitter.com/LangChainAI/status/1752777502609834300</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[While the space is still new, we're starting to see a few common patterns and trends emerge, especially around RAG We've teamed up with our friends at...]]></title>
@@ -238,38 +302,6 @@
             <pubDate>Tue, 30 Jan 2024 18:00:38 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752391383279927397</guid>
             <link>https://twitter.com/LangChainAI/status/1752391383279927397</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤔 How do you gain confidence in your LLM-powered applications? For example, a novel use for generative AI is codegen for UIs (famously, @vercel's V...]]></title>
-            <description><![CDATA[🤔 How do you gain confidence in your LLM-powered applications?<br><br>For example, a novel use for generative AI is codegen for UIs (famously, @vercel's V0), but such apps can be tricky to evaluate.<br><br>One solution: a custom LangSmith evaluator that uses a vision model instead of…<br><img style="" src="https://pbs.twimg.com/media/GFG5gsgbcAAfMu6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFG5h3rbkAAApD6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 30 Jan 2024 17:40:50 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752386400052519122</guid>
-            <link>https://twitter.com/LangChainAI/status/1752386400052519122</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re @santhonydo dmd!]]></title>
-            <description><![CDATA[Re @santhonydo dmd!]]></description>
-            <pubDate>Tue, 30 Jan 2024 17:40:39 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752386355194404962</guid>
-            <link>https://twitter.com/LangChainAI/status/1752386355194404962</link>
             
             
             
