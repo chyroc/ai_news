@@ -21,8 +21,72 @@
             <link>https://twitter.com/OpenAI</link>
         </image>
         
-        <lastBuildDate>Wed, 31 Jan 2024 18:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 20:23:35 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Re Our results indicate a clear need for more work in this domain. If you are excited to help push our models to their limits and measure their risks,...]]></title>
+            <description><![CDATA[Re Our results indicate a clear need for more work in this domain. If you are excited to help push our models to their limits and measure their risks, we are hiring for several roles on the Preparedness team! https://openai.com/careers/search?c=preparedness]]></description>
+            <pubDate>Wed, 31 Jan 2024 18:20:14 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1752758703147909139</guid>
+            <link>https://twitter.com/OpenAI/status/1752758703147909139</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re In the largest-of-its-kind evaluation, we found that GPT-4 provides, at most, a mild uplift in biological threat creation accuracy (see dark blue b...]]></title>
+            <description><![CDATA[Re In the largest-of-its-kind evaluation, we found that GPT-4 provides, at most, a mild uplift in biological threat creation accuracy (see dark blue below.)<br><br>While not a large enough uplift to be conclusive, this finding is a starting point for continued research and deliberation.<br><img style="" src="https://pbs.twimg.com/media/GFMJeNpbAAEsduY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 Jan 2024 18:20:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1752758701247889589</guid>
+            <link>https://twitter.com/OpenAI/status/1752758701247889589</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re A widely discussed potential risk from LLMs is increased access to biothreat creation information. Building on our Preparedness Framework, we wante...]]></title>
+            <description><![CDATA[Re A widely discussed potential risk from LLMs is increased access to biothreat creation information.<br><br>Building on our Preparedness Framework, we wanted to design evaluations of how real this information access risk is today and how we could monitor it going forward.]]></description>
+            <pubDate>Wed, 31 Jan 2024 18:20:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1752758700199313536</guid>
+            <link>https://twitter.com/OpenAI/status/1752758700199313536</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[We are building an early warning system for LLMs being capable of assisting in biological threat creation. Current models turn out to be, at most, mil...]]></title>
+            <description><![CDATA[We are building an early warning system for LLMs being capable of assisting in biological threat creation. Current models turn out to be, at most, mildly useful for this kind of misuse, and we will continue evolving our evaluation blueprint for the future. https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation]]></description>
+            <pubDate>Wed, 31 Jan 2024 18:20:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1752758698991354317</guid>
+            <link>https://twitter.com/OpenAI/status/1752758698991354317</link>
+            
+            
+            
+            <author><![CDATA[OpenAI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[You can now bring GPTs into any conversation in ChatGPT - simply type @ and select the GPT. This allows you to add relevant GPTs with the full context...]]></title>
@@ -254,70 +318,6 @@
             <pubDate>Mon, 18 Dec 2023 18:04:13 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/OpenAI/status/1736809608994599326</guid>
             <link>https://twitter.com/OpenAI/status/1736809608994599326</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re Our Preparedness Team will drive technical work, pushing the limits of our cutting edge models to run evaluations and closely monitor risks, includ...]]></title>
-            <description><![CDATA[Re Our Preparedness Team will drive technical work, pushing the limits of our cutting edge models to run evaluations and closely monitor risks, including during training runs. Results will be synthesized in scorecards that track model risk.<br><img style="" src="https://pbs.twimg.com/media/GBpihuqbcAANk9N?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 18 Dec 2023 18:04:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1736809604892569861</guid>
-            <link>https://twitter.com/OpenAI/status/1736809604892569861</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[We are systemizing our safety thinking with our Preparedness Framework, a living document (currently in beta) which details the technical and operatio...]]></title>
-            <description><![CDATA[We are systemizing our safety thinking with our Preparedness Framework, a living document (currently in beta) which details the technical and operational investments we are adopting to guide the safety of our frontier model development.<br>https://openai.com/safety/preparedness]]></description>
-            <pubDate>Mon, 18 Dec 2023 18:04:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1736809603311280489</guid>
-            <link>https://twitter.com/OpenAI/status/1736809603311280489</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Our new research white paper identifies seven practices for keeping increasingly agentic AI systems safe and accountable as they become more common an...]]></title>
-            <description><![CDATA[Our new research white paper identifies seven practices for keeping increasingly agentic AI systems safe and accountable as they become more common and more capable.<br><br>We are providing research grants for work on a range of open questions. https://openai.com/research/practices-for-governing-agentic-ai-systems]]></description>
-            <pubDate>Thu, 14 Dec 2023 20:03:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735390088929202673</guid>
-            <link>https://twitter.com/OpenAI/status/1735390088929202673</link>
-            
-            
-            
-            <author><![CDATA[OpenAI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re There is lots of low-hanging fruit and many promising directions for future work. We think this is an exciting opportunity for the ML research comm...]]></title>
-            <description><![CDATA[Re There is lots of low-hanging fruit and many promising directions for future work. We think this is an exciting opportunity for the ML research community.<br><br>To kickstart more research, we're launching $10M in grants: https://x.com/OpenAI/status/1735347884718211562?s=20<div class="rsshub-quote"><br><br>OpenAI: We're announcing, together with @ericschmidt: Superalignment Fast Grants.<br><br>$10M in grants for technical research on aligning superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more.<br><br>Apply by Feb 18! https://openai.com/blog/superalignment-fast-grants<br></div>]]></description>
-            <pubDate>Thu, 14 Dec 2023 17:23:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/OpenAI/status/1735349723295564020</guid>
-            <link>https://twitter.com/OpenAI/status/1735349723295564020</link>
             
             
             
