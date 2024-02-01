@@ -21,7 +21,7 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Wed, 31 Jan 2024 21:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 00:25:26 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -142,6 +142,22 @@
             <pubDate>Wed, 31 Jan 2024 16:09:56 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752726183903736005</guid>
             <link>https://twitter.com/LangChainAI/status/1752726183903736005</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗! There's even a full example RAG app that s...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗!<br><br>There's even a full example RAG app that serves a @nuxt_js + @vuejs app entirely from a Cloudflare Worker.<br><br>Ingest into Vectorize included! See the blog for more:<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<div class="rsshub-quote"><br><br>Ricky: If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI, Vectorize and D1! 🎉🎉🎉<br><br>(Thanks to @Hacubu and the @LangChainAI team for being so rad!)<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<br></div>]]></description>
+            <pubDate>Wed, 31 Jan 2024 16:04:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752812916527755553</guid>
+            <link>https://twitter.com/LangChainAI/status/1752812916527755553</link>
             
             
             
@@ -286,22 +302,6 @@
             <pubDate>Tue, 30 Jan 2024 18:05:39 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752451189688709454</guid>
             <link>https://twitter.com/LangChainAI/status/1752451189688709454</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[📈Grouped Monitoring Charts in LangSmith 📈 Our latest set of monitoring features make it possible to A/B test and compare different versions of y...]]></title>
-            <description><![CDATA[📈Grouped Monitoring Charts in LangSmith 📈<br><br>Our latest set of monitoring features make it possible to A/B test and compare different versions of your LLM application.<br><br>Simply send up metadata or tags along with your runs, then head to the monitoring section in any project…<br><img style="" src="https://pbs.twimg.com/media/GFG-d8rakAA49nA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFG-iuvasAAUJ1i?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 30 Jan 2024 18:00:38 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752391383279927397</guid>
-            <link>https://twitter.com/LangChainAI/status/1752391383279927397</link>
             
             
             
