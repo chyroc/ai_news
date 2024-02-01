@@ -21,8 +21,40 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Feb 2024 20:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 22:55:41 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: New "Build With LangChain" YouTube Video: 🌟Open Source RAG with @nomic_ai New Embedding Model (and @trychroma and @ollama)🌟 A...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>New "Build With LangChain" YouTube Video:<br><br>🌟Open Source RAG with @nomic_ai  New Embedding Model (and @trychroma and @ollama)🌟<br><br>A great resource from @RLanceMartin on how to build a RAG system using all open source components<br><br>https://youtu.be/2nLDe_igVnE]]></description>
+            <pubDate>Thu, 01 Feb 2024 21:18:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169103227936978</guid>
+            <link>https://twitter.com/LangChainAI/status/1753169103227936978</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Lance Martin: Great to see @nomic_ai new long context (8k token), oss, embeddings! Just used them to build a long context RAG app from scratch (in ...]]></title>
+            <description><![CDATA[RT Lance Martin<br>Great to see @nomic_ai new long context (8k token), oss, embeddings! <br><br>Just used them to build a long context RAG app from scratch (in ~10 min) w/: <br>+ @nomic_ai embeddings <br>+ @trychroma <br>+ @MistralAI-instruct 32k (locally via @ollama)<br>+ LangServe <br><br>Video:<br>https://www.youtube.com/watch?v=2nLDe_igVnE]]></description>
+            <pubDate>Thu, 01 Feb 2024 20:40:09 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169202381516828</guid>
+            <link>https://twitter.com/LangChainAI/status/1753169202381516828</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Build Long-context RAG from scratch: Nomic Embeddings + Mistral The context window of open source LLMs and embedding models has been relatively small ...]]></title>
@@ -30,6 +62,22 @@
             <pubDate>Thu, 01 Feb 2024 20:14:05 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753149741599428926</guid>
             <link>https://twitter.com/LangChainAI/status/1753149741599428926</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Ankush Gola: LangSmith now makes it very easy to understand how test runs are performing over time]]></title>
+            <description><![CDATA[RT Ankush Gola<br>LangSmith now makes it very easy to understand how test runs are performing over time<div class="rsshub-quote"><br><br>LangChain: 📈Track Eval Performance Across Revisions in LangSmith📈<br><br>Want to make sure that performance on a benchmark dataset isn't degrading as you try new models, tweak the prompt, or change your retrieval strategy?<br><br>This is now very easy to do with the introduction of test run charts in…<br><br><img style="" src="https://pbs.twimg.com/media/GFRcQx2bwAAA0Xw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Thu, 01 Feb 2024 18:51:40 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169246908297490</guid>
+            <link>https://twitter.com/LangChainAI/status/1753169246908297490</link>
             
             
             
@@ -270,54 +318,6 @@
             <pubDate>Wed, 31 Jan 2024 19:40:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752779771631837625</guid>
             <link>https://twitter.com/LangChainAI/status/1752779771631837625</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[📹OpenGPTs YouTube walkthrough A proper deep dive into OpenGPTs! Covers two main things: 🖼️How to use the hosted version 🖥️Walkthrough of th...]]></title>
-            <description><![CDATA[📹OpenGPTs YouTube walkthrough<br><br>A proper deep dive into OpenGPTs! Covers two main things:<br><br>🖼️How to use the hosted version<br>🖥️Walkthrough of the code that powers the backend<br><br>https://www.youtube.com/watch?v=HAn9vnJy6S4<br><img style="" src="https://pbs.twimg.com/media/GFL5qJubAAAXoDf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 18:57:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752767955879002403</guid>
-            <link>https://twitter.com/LangChainAI/status/1752767955879002403</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Brendan Burke: Good reference architecture for a banking agent app by @McKinsey / @iguazio for: Multiple databases: @milvusio for multi-cloud vecto...]]></title>
-            <description><![CDATA[RT Brendan Burke<br>Good reference architecture for a banking agent app by @McKinsey / @iguazio for:<br><br>Multiple databases: @milvusio for multi-cloud vector DB and @Redisinc for structured data<br><br>@LangChainAI for orchestration of @OpenAI models<br><br>@nuclioio for serving<br><br>@EvidentlyAI for monitoring<br><img style="" src="https://pbs.twimg.com/media/GFMKshXbAAIL5Ws?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 18:23:26 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752777502609834300</guid>
-            <link>https://twitter.com/LangChainAI/status/1752777502609834300</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[While the space is still new, we're starting to see a few common patterns and trends emerge, especially around RAG We've teamed up with our friends at...]]></title>
-            <description><![CDATA[While the space is still new, we're starting to see a few common patterns and trends emerge, especially around RAG<br><br>We've teamed up with our friends at @DataStax to try to codify some of them!<div class="rsshub-quote"><br><br>DataStax: Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide:<br><br>◆ Common Gen AI design patterns and use cases<br>◆ In-depth architectural examples <br>◆ Important considerations to keep in mind <br><br>Grab your copy ➡️https://dtsx.io/3vP8hiP<br><br><img style="" src="https://pbs.twimg.com/media/GFLTgR6W4AA3RjB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Wed, 31 Jan 2024 17:11:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752741354244079901</guid>
-            <link>https://twitter.com/LangChainAI/status/1752741354244079901</link>
             
             
             
