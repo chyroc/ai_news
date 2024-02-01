@@ -21,40 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Feb 2024 20:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 18:35:43 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Build Long-context RAG from scratch: Nomic Embeddings + Mistral The context window of open source LLMs and embedding models has been relatively small ...]]></title>
-            <description><![CDATA[Build Long-context RAG from scratch: Nomic Embeddings + Mistral<br><br>The context window of open source LLMs and embedding models has been relatively small vs proprietary models. But, methods to expand context window (RoPE, self-extend) are quickly changing this.<br><br>Today, @nomic_ai has…<br><img style="" src="https://pbs.twimg.com/media/GFRvbYDakAAuo9g?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 20:14:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753149741599428926</guid>
-            <link>https://twitter.com/LangChainAI/status/1753149741599428926</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[📈Track Eval Performance Across Revisions in LangSmith📈 Want to make sure that performance on a benchmark dataset isn't degrading as you try new ...]]></title>
-            <description><![CDATA[📈Track Eval Performance Across Revisions in LangSmith📈<br><br>Want to make sure that performance on a benchmark dataset isn't degrading as you try new models, tweak the prompt, or change your retrieval strategy?<br><br>This is now very easy to do with the introduction of test run charts in…<br><img style="" src="https://pbs.twimg.com/media/GFRcQx2bwAAA0Xw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 18:47:36 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753127979901939804</guid>
-            <link>https://twitter.com/LangChainAI/status/1753127979901939804</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[📰Chat With Your PDF Pt 2 of this series by @austinbv focuses on how to hook LangServe up to a full frontend Utilizes @tailwindcss and @reactjs Hand...]]></title>
@@ -329,11 +297,43 @@
         </item>
         
         <item>
+            <title><![CDATA[RT Harrison Chase: Some fun updates to OpenGPTs! Add 3 different "cognitive architectures": - Assistant - RAG - Chatbot We have a simple hosted versio...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>Some fun updates to OpenGPTs!<br><br>Add 3 different "cognitive architectures":<br><br>- Assistant<br>- RAG<br>- Chatbot<br><br>We have a simple hosted version ("research preview") to play around with here: https://opengpts-example-vz4y4ooboq-uc.a.run.app/<div class="rsshub-quote"><br><br>LangChain: 🦜🤖OpenGPTs Updates<br><br>Some big updates to OpenGPTs!<br><br>⭐️Reminder: OpenGPTs is an open source version of the GPT store where you can fully control the model used, the tools used, the retrieval strategy<br><br>Blog + YouTube to dive into more detail!<br><br>❓What are the updates?<br><br>🕸️LangGraph:…<br><br><img style="" src="https://pbs.twimg.com/media/GFL4-BTbAAEoPQ-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 31 Jan 2024 17:01:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752741106352291842</guid>
+            <link>https://twitter.com/LangChainAI/status/1752741106352291842</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Jacob Lee: Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗! There's even a full example RAG app that s...]]></title>
             <description><![CDATA[RT Jacob Lee<br>Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗!<br><br>There's even a full example RAG app that serves a @nuxt_js + @vuejs app entirely from a Cloudflare Worker.<br><br>Ingest into Vectorize included! See the blog for more:<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<div class="rsshub-quote"><br><br>Ricky: If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI, Vectorize and D1! 🎉🎉🎉<br><br>(Thanks to @Hacubu and the @LangChainAI team for being so rad!)<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<br></div>]]></description>
             <pubDate>Wed, 31 Jan 2024 16:04:35 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752812916527755553</guid>
             <link>https://twitter.com/LangChainAI/status/1752812916527755553</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT DataStax: Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide: ◆ Common Gen AI design patte...]]></title>
+            <description><![CDATA[RT DataStax<br>Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide:<br><br>◆ Common Gen AI design patterns and use cases<br>◆ In-depth architectural examples <br>◆ Important considerations to keep in mind <br><br>Grab your copy ➡️https://dtsx.io/3vP8hiP<br><img style="" src="https://pbs.twimg.com/media/GFLTgR6W4AA3RjB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 Jan 2024 14:10:06 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752741094448890060</guid>
+            <link>https://twitter.com/LangChainAI/status/1752741094448890060</link>
             
             
             
