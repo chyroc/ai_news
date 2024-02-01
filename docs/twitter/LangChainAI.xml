@@ -21,8 +21,88 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Feb 2024 15:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 18:35:43 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[📰Chat With Your PDF Pt 2 of this series by @austinbv focuses on how to hook LangServe up to a full frontend Utilizes @tailwindcss and @reactjs Hand...]]></title>
+            <description><![CDATA[📰Chat With Your PDF<br><br>Pt 2 of this series by @austinbv focuses on how to hook LangServe up to a full frontend<br><br>Utilizes @tailwindcss and @reactjs <br><br>Handles streaming of tokens &amp; showing the retrieved documents<br><br>https://www.youtube.com/watch?v=xFWllDS6ZRw]]></description>
+            <pubDate>Thu, 01 Feb 2024 17:44:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753111972755939599</guid>
+            <link>https://twitter.com/LangChainAI/status/1753111972755939599</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re Discover how to harness this advanced technology here: https://python.langchain.com/docs/integrations/text_embedding/nomic]]></title>
+            <description><![CDATA[Re Discover how to harness this advanced technology here: https://python.langchain.com/docs/integrations/text_embedding/nomic]]></description>
+            <pubDate>Thu, 01 Feb 2024 17:17:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753105177836732804</guid>
+            <link>https://twitter.com/LangChainAI/status/1753105177836732804</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @nomic_ai Embeddings ↗️ Today we're thrilled to unveil the new langchain-nomic Python package, which integrtes with Nomic's Embedding API. Experi...]]></title>
+            <description><![CDATA[Re @nomic_ai Embeddings ↗️<br><br>Today we're thrilled to unveil the new langchain-nomic Python package, which integrtes with Nomic's Embedding API. <br><br>Experience the power of embedding models that deliver results competitive with OpenAI's new text-embedding-3 models.<br><img style="" src="https://pbs.twimg.com/media/GFRHifmbsAAWqf7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Nomic AI: Introducing Nomic Embed - the first fully open long context text embedder to beat OpenAI<br><br>- Open source, open weights, open data<br>- Beats OpenAI text-embeding-3-small and Ada on short and long context benchmarks<br>- Day 1 integrations with @langchain, @llama-index, @MongoDB<br><br><video src="https://video.twimg.com/ext_tw_video/1753072911013879808/pu/vid/avc1/1338x720/sNrSZf52oz3s3dWS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1753072911013879808/pu/img/1jZIVHziJ5ohWa6J.jpg"></video></div>]]></description>
+            <pubDate>Thu, 01 Feb 2024 17:16:59 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753105175949263337</guid>
+            <link>https://twitter.com/LangChainAI/status/1753105175949263337</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Harrison Chase: Huge milestone We’ve been investing a lot more in the JS/TS ecosystem. Feature parity with langchain-core and Langgraph If you’re...]]></title>
+            <description><![CDATA[RT Harrison Chase<br>Huge milestone<br><br>We’ve been investing a lot more in the JS/TS ecosystem. Feature parity with langchain-core and Langgraph <br><br>If you’re interested in working with @Hacubu and the team on this, reach out to me/him - we’re hiring!<div class="rsshub-quote"><br><br>Jacob Lee: 🎉📈 @LangChainAI JS/TS hit 1M downloads in January!<br><br>Incredible to see enterprises + hackers alike in the #JavaScript community leverage their unique skillsets to ship with LangChain - including many new to AI.<br><br>Thank you to all our contributors who make this possible 🚀🚀!<br><br><img style="" src="https://pbs.twimg.com/media/GFRBcXua8AA5TOa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Thu, 01 Feb 2024 17:00:03 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753111723723391246</guid>
+            <link>https://twitter.com/LangChainAI/status/1753111723723391246</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA["LCEL provides a fresh perspective on LLM-based application development. I highly recommended using it for your next LLM project." 🏅Community membe...]]></title>
+            <description><![CDATA["LCEL provides a fresh perspective on LLM-based application development. I highly recommended using it for your next LLM project."<br><br>🏅Community member Tom Darmon wrote a great deep-dive on LangChain Expression Language (already 1.5k likes on Medium)<br><br>https://medium.com/artefact-engineering-and-data-science/unleashing-the-power-of-langchain-expression-language-lcel-from-proof-of-concept-to-production-8ad8eebdcb1d]]></description>
+            <pubDate>Thu, 01 Feb 2024 15:52:48 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753083988938530990</guid>
+            <link>https://twitter.com/LangChainAI/status/1753083988938530990</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Prashant Dixit: Talk with Wikipedia Pages You can talk to Wikipedia Pages by giving a topic I used 📖@Wikipedia library to get information about ...]]></title>
@@ -233,38 +313,6 @@
         </item>
         
         <item>
-            <title><![CDATA[🦜🤖OpenGPTs Updates Some big updates to OpenGPTs! ⭐️Reminder: OpenGPTs is an open source version of the GPT store where you can fully control t...]]></title>
-            <description><![CDATA[🦜🤖OpenGPTs Updates<br><br>Some big updates to OpenGPTs!<br><br>⭐️Reminder: OpenGPTs is an open source version of the GPT store where you can fully control the model used, the tools used, the retrieval strategy<br><br>Blog + YouTube to dive into more detail!<br><br>❓What are the updates?<br><br>🕸️LangGraph:…<br><img style="" src="https://pbs.twimg.com/media/GFL4-BTbAAEoPQ-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 16:54:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752737053262152162</guid>
-            <link>https://twitter.com/LangChainAI/status/1752737053262152162</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Brace: 📊 Revamped SQL Use Cases We've just released revamped SQL use case docs for @LangChainAI JS/TS 🦜🔗 The updated docs contain sections...]]></title>
-            <description><![CDATA[RT Brace<br>📊 Revamped SQL Use Cases<br><br>We've just released revamped SQL use case docs for @LangChainAI JS/TS 🦜🔗<br>The updated docs contain sections on building SQL agents, prompting strategies, dealing with large production databases, and more!<br><br>We're putting a lot more effort into our more…<br><img style="" src="https://pbs.twimg.com/media/GFLu7VJaQAAgXCs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 31 Jan 2024 16:09:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752726183903736005</guid>
-            <link>https://twitter.com/LangChainAI/status/1752726183903736005</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Jacob Lee: Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗! There's even a full example RAG app that s...]]></title>
             <description><![CDATA[RT Jacob Lee<br>Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗!<br><br>There's even a full example RAG app that serves a @nuxt_js + @vuejs app entirely from a Cloudflare Worker.<br><br>Ingest into Vectorize included! See the blog for more:<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<div class="rsshub-quote"><br><br>Ricky: If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI, Vectorize and D1! 🎉🎉🎉<br><br>(Thanks to @Hacubu and the @LangChainAI team for being so rad!)<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<br></div>]]></description>
             <pubDate>Wed, 31 Jan 2024 16:04:35 GMT</pubDate>
@@ -281,59 +329,11 @@
         </item>
         
         <item>
-            <title><![CDATA[RT Ricky: If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI,...]]></title>
-            <description><![CDATA[RT Ricky<br>If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI, Vectorize and D1! 🎉🎉🎉<br><br>(Thanks to @Hacubu and the @LangChainAI team for being so rad!)<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/]]></description>
-            <pubDate>Wed, 31 Jan 2024 15:06:14 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752722454362063329</guid>
-            <link>https://twitter.com/LangChainAI/status/1752722454362063329</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT DataStax: Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide: ◆ Common Gen AI design patte...]]></title>
             <description><![CDATA[RT DataStax<br>Your guide to LLM agent reference architecture is here! 📍🗺 We teamed up with @LangChainAI to provide:<br><br>◆ Common Gen AI design patterns and use cases<br>◆ In-depth architectural examples <br>◆ Important considerations to keep in mind <br><br>Grab your copy ➡️https://dtsx.io/3vP8hiP<br><img style="" src="https://pbs.twimg.com/media/GFLTgR6W4AA3RjB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 31 Jan 2024 14:10:06 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752741094448890060</guid>
             <link>https://twitter.com/LangChainAI/status/1752741094448890060</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Robert Nishihara: This is the first hands-on, intensive, two-day bootcamp for learning to build RAG applications. Cohosted by @pinecone and @anysca...]]></title>
-            <description><![CDATA[RT Robert Nishihara<br>This is the first hands-on, intensive, two-day bootcamp for learning to build RAG applications.<br><br>Cohosted by @pinecone and @anyscalecompute (also featuring lessons from experts at @LangChainAI, @vercel, and others).<br><br>Nearly every AI application will be a RAG application, and…<div class="rsshub-quote"><br><br>Anyscale: Ready to hear from #RAG experts at @LangChainAI @vercel @pinecone @anyscalecompute and get hands-on with intensive guided trainings? The 2-day RAG Developer Bootcamp is for you! Learn more &amp; register now 👉https://hubs.ly/Q02j9QmW0<br><br>#llm #ml #rag #ai #vectordatabase #ray #pinecone<br><br><img style="" src="https://pbs.twimg.com/media/GFG3qlHXkAA45o_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Tue, 30 Jan 2024 18:05:39 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752451189688709454</guid>
-            <link>https://twitter.com/LangChainAI/status/1752451189688709454</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Mo Gharabat 🦇: OpenCopilot is at 4.6K GitHub stars! (bye bye BETA)⭐⭐ https://www.producthunt.com/posts/opencopilot-2 And we are live on Produc...]]></title>
-            <description><![CDATA[RT Mo Gharabat 🦇<br>OpenCopilot is at 4.6K GitHub stars! (bye bye BETA)⭐⭐<br><br>https://www.producthunt.com/posts/opencopilot-2<br><br>And we are live on ProductHunt!🐱<br><br>➡️ It's like Siri but for your product.<br><br>Integrate a Text/Voice AI User Assistant, and Workflow Automation into your product, all in one powerful tool.✨<br><br>We…]]></description>
-            <pubDate>Tue, 30 Jan 2024 08:06:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752451267434271149</guid>
-            <link>https://twitter.com/LangChainAI/status/1752451267434271149</link>
             
             
             
