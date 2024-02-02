@@ -21,40 +21,8 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Fri, 02 Feb 2024 19:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 17:28:00 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[TimesFM is a forecasting model, pre-trained on a large time-series corpus of 100 billion real world time-points, that displays impressive zero-shot pe...]]></title>
-            <description><![CDATA[TimesFM is a forecasting model, pre-trained on a large time-series corpus of 100 billion real world time-points, that displays impressive zero-shot performance on a variety of public benchmarks from different domains and granularities. Learn more → https://goo.gle/480VRlm<br><img style="" src="https://pbs.twimg.com/media/GFWsUkqbkAA7bM5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 19:17:08 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1753497800447594603</guid>
-            <link>https://twitter.com/GoogleAI/status/1753497800447594603</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Today on the blog, learn how we developed simple and effective fixes to the dual challenges of spurious features and simplicity bias by applying early...]]></title>
-            <description><![CDATA[Today on the blog, learn how we developed simple and effective fixes to the dual challenges of spurious features and simplicity bias by applying early readouts and feature forgetting, resulting in substantially improved generalization to unseen domains. ↓ https://goo.gle/3Shf5gE]]></description>
-            <pubDate>Fri, 02 Feb 2024 18:48:17 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1753490539461447810</guid>
-            <link>https://twitter.com/GoogleAI/status/1753490539461447810</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[Re Check out MobileDiffusion’s potential for rapid text-to-image on-device in testing, shown below:]]></title>
@@ -318,6 +286,38 @@
             <pubDate>Fri, 12 Jan 2024 16:22:40 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843748095856943</guid>
             <link>https://twitter.com/GoogleAI/status/1745843748095856943</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re In an earlier randomized, double-blind vignette study to generate a differential diagnosis on 300+ @NEJM case challenges, AMIE showed the potential...]]></title>
+            <description><![CDATA[Re In an earlier randomized, double-blind vignette study to generate a differential diagnosis on 300+ @NEJM case challenges, AMIE showed the potential to outperform primary care practitioners in diagnostic accuracy AND showed it could be a helpful collaborator to clinicians.]]></description>
+            <pubDate>Fri, 12 Jan 2024 16:22:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843745847709902</guid>
+            <link>https://twitter.com/GoogleAI/status/1745843745847709902</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re AMIE uses a novel self-play based simulated environment with automated feedback mechanisms for scaling learning across diverse disease conditions, ...]]></title>
+            <description><![CDATA[Re AMIE uses a novel self-play based simulated environment with automated feedback mechanisms for scaling learning across diverse disease conditions, specialties, and contexts.]]></description>
+            <pubDate>Fri, 12 Jan 2024 16:22:39 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843744354537787</guid>
+            <link>https://twitter.com/GoogleAI/status/1745843744354537787</link>
             
             
             
