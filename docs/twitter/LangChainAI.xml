@@ -21,40 +21,8 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 02 Feb 2024 15:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 13:35:39 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[RT Dr. Tristan Behrens: Running a function call chain with a local Language Model! Sitting in the hotel lobby, I decided to do a quick experiment in f...]]></title>
-            <description><![CDATA[RT Dr. Tristan Behrens<br>Running a function call chain with a local  Language Model! Sitting in the hotel lobby, I decided to do a quick experiment in feature extraction on my MacBook Pro. Running @StabilityAI 's model StableLM2 using @LangChainAI  and @ollama. This opens a lot of doors. 🤗<br><img style="" src="https://pbs.twimg.com/media/GFU7Y5mWoAAwEz4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 11:01:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443188931707010</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443188931707010</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Cody: 🫡 Reporting for duty @LangChainAI]]></title>
-            <description><![CDATA[RT Cody<br>🫡 Reporting for duty @LangChainAI<br><img style="" src="https://pbs.twimg.com/media/GFSsxXhWYAACMX-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 00:37:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443312055554505</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443312055554505</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[RT Harrison Chase: New "Build With LangChain" YouTube Video: 🌟Open Source RAG with @nomic_ai New Embedding Model (and @trychroma and @ollama)🌟 A...]]></title>
@@ -62,22 +30,6 @@
             <pubDate>Thu, 01 Feb 2024 21:18:50 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169103227936978</guid>
             <link>https://twitter.com/LangChainAI/status/1753169103227936978</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Miguel Otero Pedrido: A couple of months ago, my colleague @aalvaroir and I went into Ex Machina mode and set out to create the most realistic expe...]]></title>
-            <description><![CDATA[RT Miguel Otero Pedrido<br>A couple of months ago, my colleague @aalvaroir  and I went into Ex Machina mode and set out to create the most realistic experience of interacting with a bot.<br><br>After a lot of @LangChainAI and @runpod_io , things are starting to get interesting ...<br><img style="" src="https://pbs.twimg.com/media/GFQeLTqW4AAyu_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 21:02:03 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443404724506895</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443404724506895</link>
             
             
             
@@ -281,6 +233,22 @@
         </item>
         
         <item>
+            <title><![CDATA[RT Sopandev Tewari: Extract posts on interested topics from your X feed 😎 ✍️ Specify topics of interest 🕑 Run the automation 📔 Get post sum...]]></title>
+            <description><![CDATA[RT Sopandev Tewari<br>Extract posts on interested topics from your X feed 😎<br><br>✍️ Specify topics of interest<br>🕑 Run the automation<br>📔 Get post summary and URLs<br><br>Built in just a few hours using LangGraph 🦜🕸️ by @LangChainAI! 👏<br><br>Really excited to explore and build many more tools using LangGraph 🏗️<br><video src="https://video.twimg.com/ext_tw_video/1753053966445805568/pu/vid/avc1/1280x720/2bMcFypMfy-zIIyz.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1753053966445805568/pu/img/G_rjjVnSO_VUknAQ.jpg"></video><div class="rsshub-quote"><br><br>LangChain: 🦜🕸️LangGraph<br><br>We introduced LangGraph last week, but are excited to launch it more officially today (blog and YouTube series). It includes:<br><br>🤖Example of replicating the LangChain AgentExecutor<br>💬A chat agent executor (aimed specifically at chat models)<br><br>LangGraph makes it easy…<br><br><img style="" src="https://pbs.twimg.com/media/GEEAkosacAEqYHT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Thu, 01 Feb 2024 14:03:41 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753056903373185432</guid>
+            <link>https://twitter.com/LangChainAI/status/1753056903373185432</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[RT Nat Guy: From @LangChainAI: an open source, Python-based project where developers can create their own OpenAI CustomGPTs-esque “hey users, build y...]]></title>
             <description><![CDATA[RT Nat Guy<br>From @LangChainAI: an open source, Python-based project where developers can create their own OpenAI CustomGPTs-esque “hey users, build your own AI gpts via a user interface.”<br><br>https://github.com/langchain-ai/opengpts<br><br>Your users can build…]]></description>
             <pubDate>Thu, 01 Feb 2024 13:15:36 GMT</pubDate>
@@ -329,11 +297,43 @@
         </item>
         
         <item>
-            <title><![CDATA[RT Plotly: Did you catch our webinar yesterday? 📽 @CharmingData , Plotly Community Manager, and @eyfriis, Founding Engineer @LangChainAI, discussed...]]></title>
-            <description><![CDATA[RT Plotly<br>Did you catch our webinar yesterday? 📽<br><br>@CharmingData , Plotly Community Manager, and @eyfriis, Founding Engineer @LangChainAI, discussed how Dash and LangChain work together. We showcased three outstanding examples of data apps across finance, biotechnology, and economics.…<br><video src="https://video.twimg.com/ext_tw_video/1752779565125292032/pu/vid/avc1/1280x720/0gC9kEAaogOpgkPA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1752779565125292032/pu/img/t_G8b2aChs7MG12k.jpg"></video>]]></description>
-            <pubDate>Wed, 31 Jan 2024 20:26:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443331231879300</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443331231879300</link>
+            <title><![CDATA[OpenAI recently released a new embedding model Check out @mesudarshan's awesome new video on how to use them as part of LangChain!]]></title>
+            <description><![CDATA[OpenAI recently released a new embedding model<br><br>Check out @mesudarshan's awesome new video on how to use them as part of LangChain!<div class="rsshub-quote"><br><br>Sudarshan Koirala: ✨&nbsp;OpenAI V3 Embeddings with LangChain ✨<br><br>Just uploaded a video about new @OpenAI  embeddings model and how to easily implement it with  @LangChainAI<br><br>Youtube: https://youtu.be/ssgvViL0fao<br><br>#langchain #openai #llm #embeddingsmodel #ai<br><br><img style="" src="https://pbs.twimg.com/media/GFMeyp1WMAAfMep?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Wed, 31 Jan 2024 19:44:32 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752779920923836866</guid>
+            <link>https://twitter.com/LangChainAI/status/1752779920923836866</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Sudarshan Koirala: ✨ OpenAI V3 Embeddings with LangChain ✨ Just uploaded a video about new @OpenAI embeddings model and how to easily implement i...]]></title>
+            <description><![CDATA[RT Sudarshan Koirala<br>✨&nbsp;OpenAI V3 Embeddings with LangChain ✨<br><br>Just uploaded a video about new @OpenAI  embeddings model and how to easily implement it with  @LangChainAI<br><br>Youtube: https://youtu.be/ssgvViL0fao<br><br>#langchain #openai #llm #embeddingsmodel #ai<br><img style="" src="https://pbs.twimg.com/media/GFMeyp1WMAAfMep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 31 Jan 2024 19:40:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752779771631837625</guid>
+            <link>https://twitter.com/LangChainAI/status/1752779771631837625</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗! There's even a full example RAG app that s...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>Excited to get more devs building with the @CloudflareDev ⛅️ + @LangChainAI JS/TS 🦜🔗!<br><br>There's even a full example RAG app that serves a @nuxt_js + @vuejs app entirely from a Cloudflare Worker.<br><br>Ingest into Vectorize included! See the blog for more:<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<div class="rsshub-quote"><br><br>Ricky: If you're building AI applications with @LangChainAI (and you should be!), it's now even easier to integrate with @CloudflareDev Workers AI, Vectorize and D1! 🎉🎉🎉<br><br>(Thanks to @Hacubu and the @LangChainAI team for being so rad!)<br><br>https://blog.cloudflare.com/langchain-support-for-workers-ai-vectorize-and-d1/<br></div>]]></description>
+            <pubDate>Wed, 31 Jan 2024 16:04:35 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1752812916527755553</guid>
+            <link>https://twitter.com/LangChainAI/status/1752812916527755553</link>
             
             
             
