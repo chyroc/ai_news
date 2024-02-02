@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 02 Feb 2024 01:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 03:50:51 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[Advances in 3D Generation: A Survey]]></title>
-            <description><![CDATA[Generating 3D models lies at the core of computer graphics and has been the focus of decades of research. With the emergence of advanced neural representations and generative models, the field of 3D content generation is developing rapidly, enabling the creation of increasingly high-quality and diverse 3D models. The rapid growth of this field makes it difficult to stay abreast of all recent developments. In this survey, we aim to introduce the fundamental methodologies of 3D generation methods and establish a structured roadmap, encompassing 3D representation, generation methods, datasets, and corresponding applications. Specifically, we introduce the 3D representations that serve as the backbone for 3D generation. Furthermore, we provide a comprehensive overview of the rapidly growing literature on generation methods, categorized by the type of algorithmic paradigms, including feedforward generation, optimization-based generation, procedural generation, and generative novel view synthesis. Lastly, we discuss available datasets, applications, and open challenges. We hope this survey will help readers explore this exciting topic and foster further advancements in the field of 3D content generation.]]></description>
-            <pubDate>Thu, 01 Feb 2024 04:29:52 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17807</guid>
-            <link>https://arxiv.org/abs/2401.17807</link>
+            <title><![CDATA[EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models]]></title>
+            <description><![CDATA[This work introduces EE-Tuning, a lightweight and economical solution to training/tuning early-exit large language models (LLMs). In contrast to the common approach of full-parameter pre-training, EE-Tuning augments any pre-trained (and possibly fine-tuned) standard LLM with additional early-exit layers that are tuned in a parameter-efficient manner, which requires significantly less computational resources and training data. Our implementation of EE-Tuning achieves outstanding training efficiency via extensive performance optimizations, as well as scalability due to its full compatibility with 3D parallelism. Results of systematic experiments validate the efficacy of EE-Tuning, confirming that effective early-exit LLM inference can be achieved with a limited training budget. In hope of making early-exit LLMs accessible to the community, we release the source code of our implementation of EE-Tuning at https://github.com/pan-x-c/EE-LLM.]]></description>
+            <pubDate>Fri, 02 Feb 2024 03:50:29 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.00518</guid>
+            <link>https://arxiv.org/abs/2402.00518</link>
             
             
             
-            <author><![CDATA[Xiaoyu Li, Qi Zhang, Di Kang, Weihao Cheng, Yiming Gao, Jingbo Zhang, Zhihao Liang, Jing Liao, Yan-Pei Cao, Ying Shan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields]]></title>
-            <description><![CDATA[We introduce ReplaceAnything3D model (RAM3D), a novel text-guided 3D scene editing method that enables the replacement of specific objects within a scene. Given multi-view images of a scene, a text prompt describing the object to replace, and a text prompt describing the new object, our Erase-and-Replace approach can effectively swap objects in the scene with newly generated content while maintaining 3D consistency across multiple viewpoints. We demonstrate the versatility of ReplaceAnything3D by applying it to various realistic 3D scenes, showcasing results of modified foreground objects that are well-integrated with the rest of the scene without affecting its overall integrity.]]></description>
-            <pubDate>Thu, 01 Feb 2024 04:23:44 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17895</guid>
-            <link>https://arxiv.org/abs/2401.17895</link>
-            
-            
-            
-            <author><![CDATA[Edward Bartrum, Thu Nguyen-Phuoc, Chris Xie, Zhengqin Li, Numair Khan, Armen Avetisyan, Douglas Lanman, Lei Xiao]]></author>
+            <author><![CDATA[Xuchen Pan, Yanxi Chen, Yaliang Li, Bolin Ding, Jingren Zhou]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Anything in Any Scene: Photorealistic Video Object Insertion]]></title>
-            <description><![CDATA[Realistic video simulation has shown significant potential across diverse applications, from virtual reality to film production. This is particularly true for scenarios where capturing videos in real-world settings is either impractical or expensive. Existing approaches in video simulation often fail to accurately model the lighting environment, represent the object geometry, or achieve high levels of photorealism. In this paper, we propose Anything in Any Scene, a novel and generic framework for realistic video simulation that seamlessly inserts any object into an existing dynamic video with a strong emphasis on physical realism. Our proposed general framework encompasses three key processes: 1) integrating a realistic object into a given scene video with proper placement to ensure geometric realism; 2) estimating the sky and environmental lighting distribution and simulating realistic shadows to enhance the light realism; 3) employing a style transfer network that refines the final video output to maximize photorealism. We experimentally demonstrate that Anything in Any Scene framework produces simulated videos of great geometric realism, lighting realism, and photorealism. By significantly mitigating the challenges associated with video data generation, our framework offers an efficient and cost-effective solution for acquiring high-quality videos. Furthermore, its applications extend well beyond video data augmentation, showing promising potential in virtual reality, video editing, and various other video-centric applications. Please check our project website https://anythinginanyscene.github.io for access to our project code and more high-resolution video results.]]></description>
-            <pubDate>Thu, 01 Feb 2024 04:14:46 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17509</guid>
-            <link>https://arxiv.org/abs/2401.17509</link>
+            <title><![CDATA[Efficient Exploration for LLMs]]></title>
+            <description><![CDATA[We present evidence of substantial benefit from efficient exploration in gathering human feedback to improve large language models. In our experiments, an agent sequentially generates queries while fitting a reward model to the feedback received. Our best-performing agent generates queries using double Thompson sampling, with uncertainty represented by an epistemic neural network. Our results demonstrate that efficient exploration enables high levels of performance with far fewer queries. Further, both uncertainty estimation and the choice of exploration scheme play critical roles.]]></description>
+            <pubDate>Fri, 02 Feb 2024 03:47:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.00396</guid>
+            <link>https://arxiv.org/abs/2402.00396</link>
             
             
             
-            <author><![CDATA[Chen Bai, Zeman Shao, Guoxiang Zhang, Di Liang, Jie Yang, Zhuorui Zhang, Yujian Guo, Chengzhang Zhong, Yiqiao Qiu, Zhendong Wang, Yichen Guan, Xiaoyin Zheng, Tao Wang, Cheng Lu]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting]]></title>
-            <description><![CDATA[We propose CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting, a method for predicting future 3D scenes given past observations, such as 2D ego-centric images. Our method maps an image to a distribution over plausible 3D latent scene configurations using a probabilistic encoder, and predicts the evolution of the hypothesized scenes through time. Our latent scene representation conditions a global Neural Radiance Field (NeRF) to represent a 3D scene model, which enables explainable predictions and straightforward downstream applications. This approach extends beyond previous neural rendering work by considering complex scenarios of uncertainty in environmental states and dynamics. We employ a two-stage training of Pose-Conditional-VAE and NeRF to learn 3D representations. Additionally, we auto-regressively predict latent scene representations as a partially observable Markov decision process, utilizing a mixture density network. We demonstrate the utility of our method in realistic scenarios using the CARLA driving simulator, where CARFF can be used to enable efficient trajectory and contingency planning in complex multi-agent autonomous driving scenarios involving visual occlusions.]]></description>
-            <pubDate>Thu, 01 Feb 2024 03:59:49 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.18075</guid>
-            <link>https://arxiv.org/abs/2401.18075</link>
-            
-            
-            
-            <author><![CDATA[Jiezhi Yang, Khushi Desai, Charles Packer, Harshil Bhatia, Nicholas Rhinehart, Rowan McAllister, Joseph Gonzalez]]></author>
+            <author><![CDATA[Vikranth Dwaracherla, Seyed Mohammad Asghari, Botao Hao, Benjamin Van Roy]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[LongAlign: A Recipe for Long Context Alignment of Large Language Models]]></title>
-            <description><![CDATA[Extending large language models to effectively handle long contexts requires instruction fine-tuning on input sequences of similar length. To address this, we present LongAlign -- a recipe of the instruction data, training, and evaluation for long context alignment. First, we construct a long instruction-following dataset using Self-Instruct. To ensure the data diversity, it covers a broad range of tasks from various long context sources. Second, we adopt the packing and sorted batching strategies to speed up supervised fine-tuning on data with varied length distributions. Additionally, we develop a loss weighting method to balance the contribution to the loss across different sequences during packing training. Third, we introduce the LongBench-Chat benchmark for evaluating instruction-following capabilities on queries of 10k-100k in length. Experiments show that LongAlign outperforms existing recipes for LLMs in long context tasks by up to 30\%, while also maintaining their proficiency in handling short, generic tasks. The code, data, and long-aligned models are open-sourced at https://github.com/THUDM/LongAlign.]]></description>
-            <pubDate>Thu, 01 Feb 2024 03:49:31 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.18058</guid>
-            <link>https://arxiv.org/abs/2401.18058</link>
+            <title><![CDATA[Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research]]></title>
+            <description><![CDATA[Language models have become a critical technology to tackling a wide range of natural language processing tasks, yet many details about how the best-performing language models were developed are not reported. In particular, information about their pretraining corpora is seldom discussed: commercial language models rarely provide any information about their data; even open models rarely release datasets they are trained on, or an exact recipe to reproduce them. As a result, it is challenging to conduct certain threads of language modeling research, such as understanding how training data impacts model capabilities and shapes their limitations. To facilitate open research on language model pretraining, we release Dolma, a three trillion tokens English corpus, built from a diverse mixture of web content, scientific papers, code, public-domain books, social media, and encyclopedic materials. In addition, we open source our data curation toolkit to enable further experimentation and reproduction of our work. In this report, we document Dolma, including its design principles, details about its construction, and a summary of its contents. We interleave this report with analyses and experimental results from training language models on intermediate states of Dolma to share what we have learned about important data curation practices, including the role of content or quality filters, deduplication, and multi-source mixing. Dolma has been used to train OLMo, a state-of-the-art, open language model and framework designed to build and study the science of language modeling.]]></description>
+            <pubDate>Fri, 02 Feb 2024 03:12:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.00159</guid>
+            <link>https://arxiv.org/abs/2402.00159</link>
             
             
             
-            <author><![CDATA[Yushi Bai, Xin Lv, Jiajie Zhang, Yuze He, Ji Qi, Lei Hou, Jie Tang, Yuxiao Dong, Juanzi Li]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion]]></title>
-            <description><![CDATA[Legged robots navigating cluttered environments must be jointly agile for efficient task execution and safe to avoid collisions with obstacles or humans. Existing studies either develop conservative controllers (&lt; 1.0 m/s) to ensure safety, or focus on agility without considering potentially fatal collisions. This paper introduces Agile But Safe (ABS), a learning-based control framework that enables agile and collision-free locomotion for quadrupedal robots. ABS involves an agile policy to execute agile motor skills amidst obstacles and a recovery policy to prevent failures, collaboratively achieving high-speed and collision-free navigation. The policy switch in ABS is governed by a learned control-theoretic reach-avoid value network, which also guides the recovery policy as an objective function, thereby safeguarding the robot in a closed loop. The training process involves the learning of the agile policy, the reach-avoid value network, the recovery policy, and an exteroception representation network, all in simulation. These trained modules can be directly deployed in the real world with onboard sensing and computation, leading to high-speed and collision-free navigation in confined indoor and outdoor spaces with both static and dynamic obstacles.]]></description>
-            <pubDate>Thu, 01 Feb 2024 03:14:01 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17583</guid>
-            <link>https://arxiv.org/abs/2401.17583</link>
-            
-            
-            
-            <author><![CDATA[Tairan He, Chong Zhang, Wenli Xiao, Guanqi He, Changliu Liu, Guanya Shi]]></author>
+            <author><![CDATA[Luca Soldaini, Rodney Kinney, Akshita Bhagia, Dustin Schwenk, David Atkinson, Russell Authur, Ben Bogin, Khyathi Chandu, Jennifer Dumas, Yanai Elazar, Valentin Hofmann, Ananya Harsh Jha, Sachin Kumar, Li Lucy, Xinxi Lyu, Nathan Lambert, Ian Magnusson, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E. Peters, Abhilasha Ravichander, Kyle Richardson, Zejiang Shen, Emma Strubell, Nishant Subramani, Oyvind Tafjord, Pete Walsh, Luke Zettlemoyer, Noah A. Smith, Hannaneh Hajishirzi, Iz Beltagy, Dirk Groeneveld, Jesse Dodge, Kyle Lo]]></author>
             
                 
             
@@ -115,63 +67,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Efficient Tool Use with Chain-of-Abstraction Reasoning]]></title>
-            <description><![CDATA[To achieve faithful reasoning that aligns with human expectations, large language models (LLMs) need to ground their reasoning to real-world knowledge (e.g., web facts, math and physical rules). Tools help LLMs access this external knowledge, but there remains challenges for fine-tuning LLM agents (e.g., Toolformer) to invoke tools in multi-step reasoning problems, where inter-connected tool calls require holistic and efficient tool usage planning.   In this work, we propose a new method for LLMs to better leverage tools in multi-step reasoning. Our method, Chain-of-Abstraction (CoA), trains LLMs to first decode reasoning chains with abstract placeholders, and then call domain tools to reify each reasoning chain by filling in specific knowledge. This planning with abstract chains enables LLMs to learn more general reasoning strategies, which are robust to shifts of domain knowledge (e.g., math results) relevant to different reasoning questions. It also allows LLMs to perform decoding and calling of external tools in parallel, which avoids the inference delay caused by waiting for tool responses. In mathematical reasoning and Wiki QA domains, we show that our method consistently outperforms previous chain-of-thought and tool-augmented baselines on both in-distribution and out-of-distribution test sets, with an average ~6% absolute QA accuracy improvement. LLM agents trained with our method also show more efficient tool use, with inference speed being on average ~1.4x faster than baseline tool-augmented LLMs.]]></description>
-            <pubDate>Thu, 01 Feb 2024 03:09:49 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17464</guid>
-            <link>https://arxiv.org/abs/2401.17464</link>
+            <title><![CDATA[AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning]]></title>
+            <description><![CDATA[Video diffusion models has been gaining increasing attention for its ability to produce videos that are both coherent and of high fidelity. However, the iterative denoising process makes it computationally intensive and time-consuming, thus limiting its applications. Inspired by the Consistency Model (CM) that distills pretrained image diffusion models to accelerate the sampling with minimal steps and its successful extension Latent Consistency Model (LCM) on conditional image generation, we propose AnimateLCM, allowing for high-fidelity video generation within minimal steps. Instead of directly conducting consistency learning on the raw video dataset, we propose a decoupled consistency learning strategy that decouples the distillation of image generation priors and motion generation priors, which improves the training efficiency and enhance the generation visual quality. Additionally, to enable the combination of plug-and-play adapters in stable diffusion community to achieve various functions (e.g., ControlNet for controllable generation). we propose an efficient strategy to adapt existing adapters to our distilled text-conditioned video consistency model or train adapters from scratch without harming the sampling speed. We validate the proposed strategy in image-conditioned video generation and layout-conditioned video generation, all achieving top-performing results. Experimental results validate the effectiveness of our proposed method. Code and weights will be made public. More details are available at https://github.com/G-U-N/AnimateLCM.]]></description>
+            <pubDate>Fri, 02 Feb 2024 02:14:21 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.00769</guid>
+            <link>https://arxiv.org/abs/2402.00769</link>
             
             
             
-            <author><![CDATA[Silin Gao, Jane Dwivedi-Yu, Ping Yu, Xiaoqing Ellen Tan, Ramakanth Pasunuru, Olga Golovneva, Koustuv Sinha, Asli Celikyilmaz, Antoine Bosselut, Tianlu Wang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens]]></title>
-            <description><![CDATA[Are n-gram language models still relevant in this era of neural large language models (LLMs)? Our answer is yes, and we show their values in both text analysis and improving neural LLMs. Yet this necessitates modernizing n-gram models in two aspects. First, we train them at the same data scale as neural LLMs -- 1.4 trillion tokens. This is the largest n-gram model ever built. Second, existing n-gram models use small n which hinders their performance; we instead allow n to be arbitrarily large, by introducing a new infty-gram LM with backoff. Instead of pre-computing n-gram count tables (which would be very expensive), we develop an engine named infini-gram -- powered by suffix arrays -- that can compute infty-gram (as well as n-gram with arbitrary n) probabilities with millisecond-level latency. The infty-gram framework and infini-gram engine enable us to conduct many novel and interesting analyses of human-written and machine-generated text: we find that the infty-gram LM has fairly high accuracy for next-token prediction (47%), and can complement neural LLMs to greatly reduce their language modeling perplexities. When analyzing machine-generated text, we also observe irregularities in the machine--infty-gram agreement level with respect to the suffix length, which indicates deficiencies in neural LLM pretraining and the positional embeddings of Transformers. We open-source our infini-gram engine in the hopes of enabling more study on how to best use verbatim information retrieved from large text corpora.]]></description>
-            <pubDate>Thu, 01 Feb 2024 03:02:03 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17377</guid>
-            <link>https://arxiv.org/abs/2401.17377</link>
-            
-            
-            
-            <author><![CDATA[Jiacheng Liu, Sewon Min, Luke Zettlemoyer, Yejin Choi, Hannaneh Hajishirzi]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval]]></title>
-            <description><![CDATA[Retrieval-augmented language models can better adapt to changes in world state and incorporate long-tail knowledge. However, most existing methods retrieve only short contiguous chunks from a retrieval corpus, limiting holistic understanding of the overall document context. We introduce the novel approach of recursively embedding, clustering, and summarizing chunks of text, constructing a tree with differing levels of summarization from the bottom up. At inference time, our RAPTOR model retrieves from this tree, integrating information across lengthy documents at different levels of abstraction. Controlled experiments show that retrieval with recursive summaries offers significant improvements over traditional retrieval-augmented LMs on several tasks. On question-answering tasks that involve complex, multi-step reasoning, we show state-of-the-art results; for example, by coupling RAPTOR retrieval with the use of GPT-4, we can improve the best performance on the QuALITY benchmark by 20% in absolute accuracy.]]></description>
-            <pubDate>Thu, 01 Feb 2024 02:55:56 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.18059</guid>
-            <link>https://arxiv.org/abs/2401.18059</link>
-            
-            
-            
-            <author><![CDATA[Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, Christopher D. Manning]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Scavenging Hyena: Distilling Transformers into Long Convolution Models]]></title>
-            <description><![CDATA[The rapid evolution of Large Language Models (LLMs), epitomized by architectures like GPT-4, has reshaped the landscape of natural language processing. This paper introduces a pioneering approach to address the efficiency concerns associated with LLM pre-training, proposing the use of knowledge distillation for cross-architecture transfer. Leveraging insights from the efficient Hyena mechanism, our method replaces attention heads in transformer models by Hyena, offering a cost-effective alternative to traditional pre-training while confronting the challenge of processing long contextual information, inherent in quadratic attention mechanisms. Unlike conventional compression-focused methods, our technique not only enhances inference speed but also surpasses pre-training in terms of both accuracy and efficiency. In the era of evolving LLMs, our work contributes to the pursuit of sustainable AI solutions, striking a balance between computational power and environmental impact.]]></description>
-            <pubDate>Thu, 01 Feb 2024 02:40:03 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2401.17574</guid>
-            <link>https://arxiv.org/abs/2401.17574</link>
-            
-            
-            
-            <author><![CDATA[Tokiniaina Raharison Ralambomihanta, Shahrad Mohammadzadeh, Mohammad Sami Nur Islam, Wassim Jabbour, Laurence Liang]]></author>
+            <author><![CDATA[Fu-Yun Wang, Zhaoyang Huang, Xiaoyu Shi, Weikang Bian, Guanglu Song, Yu Liu, Hongsheng Li]]></author>
             
                 
             
