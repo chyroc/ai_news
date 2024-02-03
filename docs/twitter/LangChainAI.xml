@@ -21,8 +21,56 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sat, 03 Feb 2024 14:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 18:22:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[🚀Build a Chat PDF app in Python with LangChain, OpenAI, and Streamlit In this tutorial, you'll learn how to build a project by using Langchain and ...]]></title>
+            <description><![CDATA[🚀Build a Chat PDF app in Python with LangChain, OpenAI, and Streamlit<br><br>In this tutorial, you'll learn how to build a project by using Langchain and Streamlit to develop GUI-based ChatGPT for your PDF documents.<br><br>Code: https://github.com/strongSoda/chat-with-pdf-tutorial<br><br>YouTube: https://www.youtube.com/watch?v=WYzFzZg4YZI]]></description>
+            <pubDate>Sat, 03 Feb 2024 17:45:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753837000107651489</guid>
+            <link>https://twitter.com/LangChainAI/status/1753837000107651489</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🦜🕸️ LangGraph.js Tracing 🦜🕸️ LangGraph allows you to construct long-running, agentic @LangChainAI workflows to solve a wid...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🦜🕸️ LangGraph.js Tracing 🦜🕸️<br><br>LangGraph allows you to construct long-running, agentic @LangChainAI workflows to solve a wide range of tasks.<br><br>This means tracing and debugging via LangSmith is more important than ever. LangGraph.js 0.0.3 includes better support for tracking…<br><img style="" src="https://pbs.twimg.com/media/GFbcfodaAAEdEqv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 03 Feb 2024 17:23:40 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753832198166475210</guid>
+            <link>https://twitter.com/LangChainAI/status/1753832198166475210</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🤔"Is my LLM application getting better or worse over time?" This is one of the biggest questions that AI engineers struggle with. Evaluation of LLM...]]></title>
+            <description><![CDATA[🤔"Is my LLM application getting better or worse over time?" <br><br>This is one of the biggest questions that AI engineers struggle with. Evaluation of LLM application is still quite difficult.<br><br>We've recently released two features in LangSmith to make this easier<br><br>📈First, to help…<br><img style="" src="https://pbs.twimg.com/media/GFbMzC3a4AA_Ycz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFbNoZqa4AA4m3m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sat, 03 Feb 2024 16:19:07 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753815386846552196</guid>
+            <link>https://twitter.com/LangChainAI/status/1753815386846552196</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[⚡️Document Search and Retrieval using RAG Great guide by @LightningAI and @aniketmaurya on building a retrieval pipeline Uses open source embedding ...]]></title>
@@ -254,54 +302,6 @@
             <pubDate>Thu, 01 Feb 2024 15:52:48 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753083988938530990</guid>
             <link>https://twitter.com/LangChainAI/status/1753083988938530990</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ajay Krupal K.: Wrote a few articles on @LangChainAI, along with code a few days ago, if you still haven't read it: Basics of LangChain: https://de...]]></title>
-            <description><![CDATA[RT Ajay Krupal K.<br>Wrote a few articles on @LangChainAI, along with code a few days ago, if you still haven't read it:<br><br>Basics of LangChain: https://dev.to/ajaykrupalk/langchain-framework-for-llms-5hjf<br>Chatting with a PDF (Part-1): https://dev.to/ajaykrupalk/langchainjs-chatting-with-a-pdf-h51<br>Chatting with a PDF (Part-2): https://dev.to/ajaykrupalk/cont-langchainjs-chatting-with-a-pdf-42gk<br><br>#learning #LLMs #Reading<br><img style="" src="https://pbs.twimg.com/media/GFQXMppWUAA8_pK?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 14:14:44 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753067255737565506</guid>
-            <link>https://twitter.com/LangChainAI/status/1753067255737565506</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Nat Guy: From @LangChainAI: an open source, Python-based project where developers can create their own OpenAI CustomGPTs-esque “hey users, build y...]]></title>
-            <description><![CDATA[RT Nat Guy<br>From @LangChainAI: an open source, Python-based project where developers can create their own OpenAI CustomGPTs-esque “hey users, build your own AI gpts via a user interface.”<br><br>https://github.com/langchain-ai/opengpts<br><br>Your users can build…]]></description>
-            <pubDate>Thu, 01 Feb 2024 13:15:36 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753067282404942215</guid>
-            <link>https://twitter.com/LangChainAI/status/1753067282404942215</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Prince Canuma: Super pumped to share some cool news! 🌟🚀 This Tuesday, I gave a talk about RAGOps (Advanced Retrieval Strategies with @OpenAI,...]]></title>
-            <description><![CDATA[RT Prince Canuma<br>Super pumped to share some cool news! 🌟🚀<br><br>This Tuesday, I gave a talk about RAGOps (Advanced Retrieval Strategies with @OpenAI, @LangChainAI and @supabase) at the OpenAI Devs meetup at none other than @Microsoft's HQ in Warsaw!<br><img style="" src="https://pbs.twimg.com/media/GFQEZBfW0AAIuPl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFQEB3IWQAAAN2O?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFQED1qXoAACW6h?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 12:27:12 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753067341427216720</guid>
-            <link>https://twitter.com/LangChainAI/status/1753067341427216720</link>
             
             
             
