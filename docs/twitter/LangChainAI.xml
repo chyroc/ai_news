@@ -21,7 +21,7 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Fri, 02 Feb 2024 21:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 01:15:41 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Fri, 02 Feb 2024 17:12:00 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753466307696046484</guid>
             <link>https://twitter.com/LangChainAI/status/1753466307696046484</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Andrew Nguonly: I feel like there are more use cases for online, in-memory RAG implementations that aren't being highlighted enough. @LangChainAI M...]]></title>
+            <description><![CDATA[RT Andrew Nguonly<br>I feel like there are more use cases for online, in-memory RAG implementations that aren't being highlighted enough.<br><br>@LangChainAI MemoryVectorStore is trivial to implement with @ollama for completely client-side RAG. No database operations!<br><br>Example: https://medium.com/@andrewnguonly/lets-normalize-online-in-memory-rag-88e8169e9806]]></description>
+            <pubDate>Fri, 02 Feb 2024 16:12:56 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753567102643192177</guid>
+            <link>https://twitter.com/LangChainAI/status/1753567102643192177</link>
             
             
             
@@ -238,22 +254,6 @@
             <pubDate>Thu, 01 Feb 2024 15:52:48 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753083988938530990</guid>
             <link>https://twitter.com/LangChainAI/status/1753083988938530990</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Prashant Dixit: Talk with Wikipedia Pages You can talk to Wikipedia Pages by giving a topic I used 📖@Wikipedia library to get information about ...]]></title>
-            <description><![CDATA[RT Prashant Dixit<br>Talk with Wikipedia Pages<br>You can talk to Wikipedia Pages by giving a topic<br><br>I used <br>📖@Wikipedia  library to get information about a topic<br>💽 Embedded Pages using @OpenAI and stored in @lancedb <br><br>Other Technologies used 👇<br><video src="https://video.twimg.com/ext_tw_video/1753065783364919296/pu/vid/avc1/1390x720/S5EE4immLW0pO9KG.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1753065783364919296/pu/img/o-rfX4x02PndUkTz.jpg"></video>]]></description>
-            <pubDate>Thu, 01 Feb 2024 14:40:40 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753067230668206084</guid>
-            <link>https://twitter.com/LangChainAI/status/1753067230668206084</link>
             
             
             
