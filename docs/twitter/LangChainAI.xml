@@ -21,8 +21,72 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Sun, 04 Feb 2024 15:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 19:05:35 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: Time for a massive thank you to everyone who's contributed to @LangChainAI 🦜🔗 JS/TS the past weeks! 📇 MJDeligan for an indexing...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>Time for a massive thank you to everyone who's contributed to @LangChainAI 🦜🔗 JS/TS the past weeks!<br><br>📇 MJDeligan for an indexing API for deduping + managing ingested documents for RAG<br><br>♊ @afirstenberg for some awesome groundwork for @GoogleAI Gemini models via Vertex<br><br>(1/10)<br><video src="https://video.twimg.com/tweet_video/GFg8DFea0AAyJ-n.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GFg8DFea0AAyJ-n.jpg"></video>]]></description>
+            <pubDate>Sun, 04 Feb 2024 18:59:17 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754218478121427048</guid>
+            <link>https://twitter.com/LangChainAI/status/1754218478121427048</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[📹YouTube Recap We released two awesome YouTube videos this week. Great videos to watch and catch up on this weekend if you've got the time! 🤖How...]]></title>
+            <description><![CDATA[📹YouTube Recap<br><br>We released two awesome YouTube videos this week. Great videos to watch and catch up on this weekend if you've got the time!<br><br>🤖How to Use and Build OpenGPTs: https://www.youtube.com/watch?v=HAn9vnJy6S4<br><br>🪘Build Local RAG with @nomic_ai embeddings: https://www.youtube.com/watch?v=2nLDe_igVnE<br><img style="" src="https://pbs.twimg.com/media/GFbw7VSbIAATCmV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Feb 2024 18:53:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754216500746195225</guid>
+            <link>https://twitter.com/LangChainAI/status/1754216500746195225</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[📈 Looking to upgrade from LangChain 0.0.x to 0.1.x? Our friends @neo4j just did while updating their Python Graphacademy + LLMs course. The changes...]]></title>
+            <description><![CDATA[📈 Looking to upgrade from LangChain 0.0.x to 0.1.x?<br><br>Our friends @neo4j just did while updating their Python Graphacademy + LLMs course.<br><br>The changes are backwards compatible, but there are a few new recommended patterns Martin goes over - worth a read!<br><br>https://medium.com/neo4j/langchain-v0-1-updating-graphacademy-neo4j-llm-courses-689e7c4eff3e]]></description>
+            <pubDate>Sun, 04 Feb 2024 18:12:57 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754206424161538528</guid>
+            <link>https://twitter.com/LangChainAI/status/1754206424161538528</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔦Lumos: A RAG LLM co-pilot for browsing the web, powered by local LLMs Use Cases 🧵Summarize long threads 📰Summarize news articles ❓Ask quest...]]></title>
+            <description><![CDATA[🔦Lumos: A RAG LLM co-pilot for browsing the web, powered by local LLMs<br><br>Use Cases<br>🧵Summarize long threads<br>📰Summarize news articles<br>❓Ask questions about pages<br><br>Awesome stuff by @andrewnguonly <br><br>Repo: https://github.com/andrewnguonly/Lumos<br><img style="" src="https://pbs.twimg.com/media/GFbwAX3aIAAMH64?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Sun, 04 Feb 2024 17:12:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754191083477844016</guid>
+            <link>https://twitter.com/LangChainAI/status/1754191083477844016</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🚀Build a Chat PDF app in Python with LangChain, OpenAI, and Streamlit In this tutorial, you'll learn how to build a project by using Langchain and ...]]></title>
@@ -249,75 +313,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Re Discover how to harness this advanced technology here: https://python.langchain.com/docs/integrations/text_embedding/nomic]]></title>
-            <description><![CDATA[Re Discover how to harness this advanced technology here: https://python.langchain.com/docs/integrations/text_embedding/nomic]]></description>
-            <pubDate>Thu, 01 Feb 2024 17:17:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753105177836732804</guid>
-            <link>https://twitter.com/LangChainAI/status/1753105177836732804</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re @nomic_ai Embeddings ↗️ Today we're thrilled to unveil the new langchain-nomic Python package, which integrtes with Nomic's Embedding API. Experi...]]></title>
-            <description><![CDATA[Re @nomic_ai Embeddings ↗️<br><br>Today we're thrilled to unveil the new langchain-nomic Python package, which integrtes with Nomic's Embedding API. <br><br>Experience the power of embedding models that deliver results competitive with OpenAI's new text-embedding-3 models.<br><img style="" src="https://pbs.twimg.com/media/GFRHifmbsAAWqf7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><div class="rsshub-quote"><br><br>Nomic AI: Introducing Nomic Embed - the first fully open long context text embedder to beat OpenAI<br><br>- Open source, open weights, open data<br>- Beats OpenAI text-embeding-3-small and Ada on short and long context benchmarks<br>- Day 1 integrations with @langchain, @llama-index, @MongoDB<br><br><video src="https://video.twimg.com/ext_tw_video/1753072911013879808/pu/vid/avc1/1338x720/sNrSZf52oz3s3dWS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1753072911013879808/pu/img/1jZIVHziJ5ohWa6J.jpg"></video></div>]]></description>
-            <pubDate>Thu, 01 Feb 2024 17:16:59 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753105175949263337</guid>
-            <link>https://twitter.com/LangChainAI/status/1753105175949263337</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Harrison Chase: Huge milestone We’ve been investing a lot more in the JS/TS ecosystem. Feature parity with langchain-core and Langgraph If you’re...]]></title>
             <description><![CDATA[RT Harrison Chase<br>Huge milestone<br><br>We’ve been investing a lot more in the JS/TS ecosystem. Feature parity with langchain-core and Langgraph <br><br>If you’re interested in working with @Hacubu and the team on this, reach out to me/him - we’re hiring!<div class="rsshub-quote"><br><br>Jacob Lee: 🎉📈 @LangChainAI JS/TS hit 1M downloads in January!<br><br>Incredible to see enterprises + hackers alike in the #JavaScript community leverage their unique skillsets to ship with LangChain - including many new to AI.<br><br>Thank you to all our contributors who make this possible 🚀🚀!<br><br><img style="" src="https://pbs.twimg.com/media/GFRBcXua8AA5TOa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
             <pubDate>Thu, 01 Feb 2024 17:00:03 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753111723723391246</guid>
             <link>https://twitter.com/LangChainAI/status/1753111723723391246</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA["LCEL provides a fresh perspective on LLM-based application development. I highly recommended using it for your next LLM project." 🏅Community membe...]]></title>
-            <description><![CDATA["LCEL provides a fresh perspective on LLM-based application development. I highly recommended using it for your next LLM project."<br><br>🏅Community member Tom Darmon wrote a great deep-dive on LangChain Expression Language (already 1.5k likes on Medium)<br><br>https://medium.com/artefact-engineering-and-data-science/unleashing-the-power-of-langchain-expression-language-lcel-from-proof-of-concept-to-production-8ad8eebdcb1d]]></description>
-            <pubDate>Thu, 01 Feb 2024 15:52:48 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753083988938530990</guid>
-            <link>https://twitter.com/LangChainAI/status/1753083988938530990</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jordan Gilliam: Launching the first cult template today 🤌 http://cult-vector.com Built with ✅ @supabase db, auth, vec ✅ @LangChainAI vec docs ...]]></title>
-            <description><![CDATA[RT Jordan Gilliam<br>Launching the first cult template today 🤌<br>http://cult-vector.com<br><br>Built with <br>✅ @supabase db, auth, vec <br>✅ @LangChainAI vec docs<br>✅ @shadcn ui <br>✅ @nextjs 14 framework<br><br>Manifest is perplexity but for your own files.<br><br>The preview is “trained” on supabase, langchain and and…<br><img style="" src="https://pbs.twimg.com/media/GFQBmrvW8AAmTFG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFQD9w7XoAAN8OD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFQD9w7WAAA5UYz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 12:22:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753067357927539106</guid>
-            <link>https://twitter.com/LangChainAI/status/1753067357927539106</link>
             
             
             
