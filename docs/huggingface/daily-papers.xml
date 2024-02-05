@@ -15,40 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 05 Feb 2024 07:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 05:06:18 GMT</lastBuildDate>
         <ttl>120</ttl>
-        
-        <item>
-            <title><![CDATA[Nomic Embed: Training a Reproducible Long Context Text Embedder]]></title>
-            <description><![CDATA[This technical report describes the training of nomic-embed-text-v1, the first fully reproducible, open-source, open-weights, open-data, 8192 context length English text embedding model that outperforms both OpenAI Ada-002 and OpenAI text-embedding-3-small on short and long-context tasks. We release the training code and model weights under an Apache 2 license. In contrast with other open-source models, we release a training data loader with 235 million curated text pairs that allows for the full replication of nomic-embed-text-v1. You can find code and data to replicate the model at https://github.com/nomic-ai/contrastors]]></description>
-            <pubDate>Mon, 05 Feb 2024 05:26:59 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01613</guid>
-            <link>https://arxiv.org/abs/2402.01613</link>
-            
-            
-            
-            <author><![CDATA[Zach Nussbaum, John X. Morris, Brandon Duderstadt, Andriy Mulyar]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Boximator: Generating Rich and Controllable Motions for Video Synthesis]]></title>
-            <description><![CDATA[Generating rich and controllable motion is a pivotal challenge in video synthesis. We propose Boximator, a new approach for fine-grained motion control. Boximator introduces two constraint types: hard box and soft box. Users select objects in the conditional frame using hard boxes and then use either type of boxes to roughly or rigorously define the object's position, shape, or motion path in future frames. Boximator functions as a plug-in for existing video diffusion models. Its training process preserves the base model's knowledge by freezing the original weights and training only the control module. To address training challenges, we introduce a novel self-tracking technique that greatly simplifies the learning of box-object correlations. Empirically, Boximator achieves state-of-the-art video quality (FVD) scores, improving on two base models, and further enhanced after incorporating box constraints. Its robust motion controllability is validated by drastic increases in the bounding box alignment metric. Human evaluation also shows that users favor Boximator generation results over the base model.]]></description>
-            <pubDate>Mon, 05 Feb 2024 05:12:56 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01566</guid>
-            <link>https://arxiv.org/abs/2402.01566</link>
-            
-            
-            
-            <author><![CDATA[Jiawei Wang, Yuchen Zhang, Jiaxin Zou, Yan Zeng, Guoqiang Wei, Liping Yuan, Hang Li]]></author>
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[TravelPlanner: A Benchmark for Real-World Planning with Language Agents]]></title>
