@@ -21,8 +21,72 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Feb 2024 13:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 18:55:42 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[OpenGPTs: the open-source alternative to OpenAI's GPTs Good video by @MervinPraison]]></title>
+            <description><![CDATA[OpenGPTs: the open-source alternative to OpenAI's GPTs<br><br>Good video by @MervinPraison<div class="rsshub-quote"><br><br>Mervin Praison: OpenGPTs: the open-source alternative to OpenAI's GPTs. <br><br>Subscribe to YouTube: https://www.youtube.com/@MervinPraison<br><br>Choose from 60+ LLMs, 100+ tools, and control your app's cognitive architecture with Free Assistant, RAG, Chatbot. <br><br>#opengpts #gptstore @LangChainAI @tavilyai @RobocorpInc…<br><br><video src="https://video.twimg.com/ext_tw_video/1753693549185388545/pu/vid/avc1/1920x1080/gngepqBoU6ag1Bkx.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1753693549185388545/pu/img/bpbvuvau6IyMknVc.jpg"></video></div>]]></description>
+            <pubDate>Mon, 05 Feb 2024 18:18:05 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754570104472559731</guid>
+            <link>https://twitter.com/LangChainAI/status/1754570104472559731</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Wayde Gilliam: This is a really good series folks…]]></title>
+            <description><![CDATA[RT Wayde Gilliam<br>This is a really good series folks…<div class="rsshub-quote"><br><br>LangChain: 🏬LangGraph: Persistence<br><br>LangGraph comes with built in persistence. This means you can easily add "memory" to any LangGraph agents<br><br>This is done by passing in a checkpointer to a LangGraph object. Then, the state of all runs are saved via that checkpointer<br><br>We added an example…<br><br><img style="" src="https://pbs.twimg.com/media/GFl0p2IacAAOubI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 05 Feb 2024 17:58:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754570152598024537</guid>
+            <link>https://twitter.com/LangChainAI/status/1754570152598024537</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🏬LangGraph: Persistence LangGraph comes with built in persistence. This means you can easily add "memory" to any LangGraph agents This is done by p...]]></title>
+            <description><![CDATA[🏬LangGraph: Persistence<br><br>LangGraph comes with built in persistence. This means you can easily add "memory" to any LangGraph agents<br><br>This is done by passing in a checkpointer to a LangGraph object. Then, the state of all runs are saved via that checkpointer<br><br>We added an example…<br><img style="" src="https://pbs.twimg.com/media/GFl0p2IacAAOubI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 05 Feb 2024 17:48:31 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754562662766375255</guid>
+            <link>https://twitter.com/LangChainAI/status/1754562662766375255</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🎤GenAI solutions with LangChain: Lance Martin on LLMs, agents, evals, and more! Thanks to @neo4j for having our very own @RLanceMartin on their htt...]]></title>
+            <description><![CDATA[🎤GenAI solutions with LangChain: Lance Martin on LLMs, agents, evals, and more!<br><br>Thanks to @neo4j for having our very own @RLanceMartin on their http://GraphStuff.FM podcast!<br><br>A great deep and technical dive into a lot of advanced topics! <br><br>https://graphstuff.fm/episodes/genai-solutions-with-langchain-lance-martin-on-llms-agents-evals-and-more<br><img style="" src="https://pbs.twimg.com/media/GFhZrGjbIAASmue?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 05 Feb 2024 17:08:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754552464500551806</guid>
+            <link>https://twitter.com/LangChainAI/status/1754552464500551806</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[RT Jacob Lee: Time for a massive thank you to everyone who's contributed to @LangChainAI 🦜🔗 JS/TS the past weeks! 📇 MJDeligan for an indexing...]]></title>
@@ -137,6 +201,22 @@
         </item>
         
         <item>
+            <title><![CDATA[RT Mervin Praison: OpenGPTs: the open-source alternative to OpenAI's GPTs. Subscribe to YouTube: https://www.youtube.com/@MervinPraison Choose from 60...]]></title>
+            <description><![CDATA[RT Mervin Praison<br>OpenGPTs: the open-source alternative to OpenAI's GPTs. <br><br>Subscribe to YouTube: https://www.youtube.com/@MervinPraison<br><br>Choose from 60+ LLMs, 100+ tools, and control your app's cognitive architecture with Free Assistant, RAG, Chatbot. <br><br>#opengpts #gptstore @LangChainAI @tavilyai @RobocorpInc…<br><video src="https://video.twimg.com/ext_tw_video/1753693549185388545/pu/vid/avc1/1920x1080/gngepqBoU6ag1Bkx.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1753693549185388545/pu/img/bpbvuvau6IyMknVc.jpg"></video>]]></description>
+            <pubDate>Sat, 03 Feb 2024 08:33:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754569904890716611</guid>
+            <link>https://twitter.com/LangChainAI/status/1754569904890716611</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[⚡️Document Search and Retrieval using RAG Great guide by @LightningAI and @aniketmaurya on building a retrieval pipeline Uses open source embedding ...]]></title>
             <description><![CDATA[⚡️Document Search and Retrieval using RAG<br><br>Great guide by @LightningAI and @aniketmaurya on building a retrieval pipeline<br><br>Uses open source embedding and reranking models!<br><br>https://lightning.ai/lightning-ai/studios/document-search-and-retrieval-using-rag?view=public§ion=recent<br><img style="" src="https://pbs.twimg.com/media/GFRGze5bEAAXEY0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 02 Feb 2024 17:12:00 GMT</pubDate>
@@ -201,22 +281,6 @@
         </item>
         
         <item>
-            <title><![CDATA[RT Harrison Chase: New "Build With LangChain" YouTube Video: 🌟Open Source RAG with @nomic_ai New Embedding Model (and @trychroma and @ollama)🌟 A...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>New "Build With LangChain" YouTube Video:<br><br>🌟Open Source RAG with @nomic_ai  New Embedding Model (and @trychroma and @ollama)🌟<br><br>A great resource from @RLanceMartin on how to build a RAG system using all open source components<br><br>https://youtu.be/2nLDe_igVnE]]></description>
-            <pubDate>Thu, 01 Feb 2024 21:18:50 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169103227936978</guid>
-            <link>https://twitter.com/LangChainAI/status/1753169103227936978</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Miguel Otero Pedrido: A couple of months ago, my colleague @aalvaroir and I went into Ex Machina mode and set out to create the most realistic expe...]]></title>
             <description><![CDATA[RT Miguel Otero Pedrido<br>A couple of months ago, my colleague @aalvaroir  and I went into Ex Machina mode and set out to create the most realistic experience of interacting with a bot.<br><br>After a lot of @LangChainAI and @runpod_io , things are starting to get interesting ...<br><img style="" src="https://pbs.twimg.com/media/GFQeLTqW4AAyu_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 01 Feb 2024 21:02:03 GMT</pubDate>
@@ -249,75 +313,11 @@
         </item>
         
         <item>
-            <title><![CDATA[Build Long-context RAG from scratch: Nomic Embeddings + Mistral The context window of open source LLMs and embedding models has been relatively small ...]]></title>
-            <description><![CDATA[Build Long-context RAG from scratch: Nomic Embeddings + Mistral<br><br>The context window of open source LLMs and embedding models has been relatively small vs proprietary models. But, methods to expand context window (RoPE, self-extend) are quickly changing this.<br><br>Today, @nomic_ai has…<br><img style="" src="https://pbs.twimg.com/media/GFRvbYDakAAuo9g?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 20:14:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753149741599428926</guid>
-            <link>https://twitter.com/LangChainAI/status/1753149741599428926</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Ankush Gola: LangSmith now makes it very easy to understand how test runs are performing over time]]></title>
             <description><![CDATA[RT Ankush Gola<br>LangSmith now makes it very easy to understand how test runs are performing over time<div class="rsshub-quote"><br><br>LangChain: 📈Track Eval Performance Across Revisions in LangSmith📈<br><br>Want to make sure that performance on a benchmark dataset isn't degrading as you try new models, tweak the prompt, or change your retrieval strategy?<br><br>This is now very easy to do with the introduction of test run charts in…<br><br><img style="" src="https://pbs.twimg.com/media/GFRcQx2bwAAA0Xw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
             <pubDate>Thu, 01 Feb 2024 18:51:40 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169246908297490</guid>
             <link>https://twitter.com/LangChainAI/status/1753169246908297490</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[📈Track Eval Performance Across Revisions in LangSmith📈 Want to make sure that performance on a benchmark dataset isn't degrading as you try new ...]]></title>
-            <description><![CDATA[📈Track Eval Performance Across Revisions in LangSmith📈<br><br>Want to make sure that performance on a benchmark dataset isn't degrading as you try new models, tweak the prompt, or change your retrieval strategy?<br><br>This is now very easy to do with the introduction of test run charts in…<br><img style="" src="https://pbs.twimg.com/media/GFRcQx2bwAAA0Xw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 18:47:36 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753127979901939804</guid>
-            <link>https://twitter.com/LangChainAI/status/1753127979901939804</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[📰Chat With Your PDF Pt 2 of this series by @austinbv focuses on how to hook LangServe up to a full frontend Utilizes @tailwindcss and @reactjs Hand...]]></title>
-            <description><![CDATA[📰Chat With Your PDF<br><br>Pt 2 of this series by @austinbv focuses on how to hook LangServe up to a full frontend<br><br>Utilizes @tailwindcss and @reactjs <br><br>Handles streaming of tokens &amp; showing the retrieved documents<br><br>https://www.youtube.com/watch?v=xFWllDS6ZRw]]></description>
-            <pubDate>Thu, 01 Feb 2024 17:44:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753111972755939599</guid>
-            <link>https://twitter.com/LangChainAI/status/1753111972755939599</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Harrison Chase: Huge milestone We’ve been investing a lot more in the JS/TS ecosystem. Feature parity with langchain-core and Langgraph If you’re...]]></title>
-            <description><![CDATA[RT Harrison Chase<br>Huge milestone<br><br>We’ve been investing a lot more in the JS/TS ecosystem. Feature parity with langchain-core and Langgraph <br><br>If you’re interested in working with @Hacubu and the team on this, reach out to me/him - we’re hiring!<div class="rsshub-quote"><br><br>Jacob Lee: 🎉📈 @LangChainAI JS/TS hit 1M downloads in January!<br><br>Incredible to see enterprises + hackers alike in the #JavaScript community leverage their unique skillsets to ship with LangChain - including many new to AI.<br><br>Thank you to all our contributors who make this possible 🚀🚀!<br><br><img style="" src="https://pbs.twimg.com/media/GFRBcXua8AA5TOa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Thu, 01 Feb 2024 17:00:03 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753111723723391246</guid>
-            <link>https://twitter.com/LangChainAI/status/1753111723723391246</link>
             
             
             
