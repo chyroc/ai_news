@@ -21,8 +21,56 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Mon, 05 Feb 2024 18:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 03:35:36 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[💿WikiData Tool WikiData allows you to easily connect to a free and open knowledge base Now available as a tool in LangChain! https://python.langcha...]]></title>
+            <description><![CDATA[💿WikiData Tool<br><br>WikiData allows you to easily connect to a free and open knowledge base<br><br>Now available as a tool in LangChain!<br><br>https://python.langchain.com/docs/integrations/tools/wikidata<br><img style="" src="https://pbs.twimg.com/media/GFnaGhqb0AARQ3O?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 01:08:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754673371135308147</guid>
+            <link>https://twitter.com/LangChainAI/status/1754673371135308147</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[👨‍💻Chandler Nguyen details his novice coder journey from failure to building his own AI chatbot agent using LangChain! 🌟 “I could envision ...]]></title>
+            <description><![CDATA[👨‍💻Chandler Nguyen details his novice coder journey from failure to building his own AI chatbot agent using LangChain! 🌟<br><br>“I could envision adapting LangChain’s robust capabilities to my passion project. Finally, a way forward revealed itself! One step at a time, I oriented…<br><img style="" src="https://pbs.twimg.com/media/GFmrThJboAAXNsQ?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 05 Feb 2024 21:47:28 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754622795034792092</guid>
+            <link>https://twitter.com/LangChainAI/status/1754622795034792092</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🕸️Ontotext GraphDB QA Chain New GraphDB integration⏰ This notebook shows how to use LLMs to provide natural language querying (NLQ to SPARQL, als...]]></title>
+            <description><![CDATA[🕸️Ontotext GraphDB QA Chain<br><br>New GraphDB integration⏰<br><br>This notebook shows how to use LLMs to provide natural language querying (NLQ to SPARQL, also called text2sparql) for Ontotext GraphDB<br><br>https://python.langchain.com/docs/use_cases/graph/graph_ontotext_graphdb_qa<br><img style="" src="https://pbs.twimg.com/media/GFmpmSibgAAVlpi?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 05 Feb 2024 21:36:25 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754620016572702862</guid>
+            <link>https://twitter.com/LangChainAI/status/1754620016572702862</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[OpenGPTs: the open-source alternative to OpenAI's GPTs Good video by @MervinPraison]]></title>
@@ -62,6 +110,22 @@
             <pubDate>Mon, 05 Feb 2024 17:48:31 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754562662766375255</guid>
             <link>https://twitter.com/LangChainAI/status/1754562662766375255</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🤯 I was astonished that you could run @nomic_ai's new OSS embeddings *in your browser* with @xenovacom's Transformers.js! If you want...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🤯 I was astonished that you could run @nomic_ai's new OSS embeddings *in your browser* with @xenovacom's Transformers.js!<br><br>If you want to play with them, I updated my @ollama + @LangChainAI + @dawchihliou Voy fully-local chat with PDF app to use it:<br><br>https://github.com/jacoblee93/fully-local-pdf-chatbot<div class="rsshub-quote"><br><br>Xenova: Nomic Embed is out: a new 8K text embedding model by @nomic_ai! 🚀<br><br>It's also compatible with 🤗 Transformers.js, meaning you can generate embeddings directly in your browser (no server required)!<br><br><img style="" src="https://pbs.twimg.com/media/GFRPXR0a8AAjym8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 05 Feb 2024 17:46:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754635859335258462</guid>
+            <link>https://twitter.com/LangChainAI/status/1754635859335258462</link>
             
             
             
@@ -238,102 +302,6 @@
             <pubDate>Fri, 02 Feb 2024 16:12:56 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753567102643192177</guid>
             <link>https://twitter.com/LangChainAI/status/1753567102643192177</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Dr. Tristan Behrens: Running a function call chain with a local Language Model! Sitting in the hotel lobby, I decided to do a quick experiment in f...]]></title>
-            <description><![CDATA[RT Dr. Tristan Behrens<br>Running a function call chain with a local  Language Model! Sitting in the hotel lobby, I decided to do a quick experiment in feature extraction on my MacBook Pro. Running @StabilityAI 's model StableLM2 using @LangChainAI  and @ollama. This opens a lot of doors. 🤗<br><img style="" src="https://pbs.twimg.com/media/GFU7Y5mWoAAwEz4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 11:01:33 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443188931707010</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443188931707010</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Cody: 🫡 Reporting for duty @LangChainAI]]></title>
-            <description><![CDATA[RT Cody<br>🫡 Reporting for duty @LangChainAI<br><img style="" src="https://pbs.twimg.com/media/GFSsxXhWYAACMX-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 00:37:51 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443312055554505</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443312055554505</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Miguel Otero Pedrido: A couple of months ago, my colleague @aalvaroir and I went into Ex Machina mode and set out to create the most realistic expe...]]></title>
-            <description><![CDATA[RT Miguel Otero Pedrido<br>A couple of months ago, my colleague @aalvaroir  and I went into Ex Machina mode and set out to create the most realistic experience of interacting with a bot.<br><br>After a lot of @LangChainAI and @runpod_io , things are starting to get interesting ...<br><img style="" src="https://pbs.twimg.com/media/GFQeLTqW4AAyu_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Thu, 01 Feb 2024 21:02:03 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443404724506895</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443404724506895</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Lance Martin: Great to see @nomic_ai new long context (8k token), oss, embeddings! Just used them to build a long context RAG app from scratch (in ...]]></title>
-            <description><![CDATA[RT Lance Martin<br>Great to see @nomic_ai new long context (8k token), oss, embeddings! <br><br>Just used them to build a long context RAG app from scratch (in ~10 min) w/: <br>+ @nomic_ai embeddings <br>+ @trychroma <br>+ @MistralAI-instruct 32k (locally via @ollama)<br>+ LangServe <br><br>Video:<br>https://www.youtube.com/watch?v=2nLDe_igVnE]]></description>
-            <pubDate>Thu, 01 Feb 2024 20:40:09 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169202381516828</guid>
-            <link>https://twitter.com/LangChainAI/status/1753169202381516828</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Ankush Gola: LangSmith now makes it very easy to understand how test runs are performing over time]]></title>
-            <description><![CDATA[RT Ankush Gola<br>LangSmith now makes it very easy to understand how test runs are performing over time<div class="rsshub-quote"><br><br>LangChain: 📈Track Eval Performance Across Revisions in LangSmith📈<br><br>Want to make sure that performance on a benchmark dataset isn't degrading as you try new models, tweak the prompt, or change your retrieval strategy?<br><br>This is now very easy to do with the introduction of test run charts in…<br><br><img style="" src="https://pbs.twimg.com/media/GFRcQx2bwAAA0Xw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
-            <pubDate>Thu, 01 Feb 2024 18:51:40 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753169246908297490</guid>
-            <link>https://twitter.com/LangChainAI/status/1753169246908297490</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Plotly: Did you catch our webinar yesterday? 📽 @CharmingData , Plotly Community Manager, and @eyfriis, Founding Engineer @LangChainAI, discussed...]]></title>
-            <description><![CDATA[RT Plotly<br>Did you catch our webinar yesterday? 📽<br><br>@CharmingData , Plotly Community Manager, and @eyfriis, Founding Engineer @LangChainAI, discussed how Dash and LangChain work together. We showcased three outstanding examples of data apps across finance, biotechnology, and economics.…<br><video src="https://video.twimg.com/ext_tw_video/1752779565125292032/pu/vid/avc1/1280x720/0gC9kEAaogOpgkPA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1752779565125292032/pu/img/t_G8b2aChs7MG12k.jpg"></video>]]></description>
-            <pubDate>Wed, 31 Jan 2024 20:26:02 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753443331231879300</guid>
-            <link>https://twitter.com/LangChainAI/status/1753443331231879300</link>
             
             
             
