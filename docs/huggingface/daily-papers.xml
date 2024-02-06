@@ -15,8 +15,168 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 06 Feb 2024 03:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 13:33:19 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[V-IRL: Grounding Virtual Intelligence in Real Life]]></title>
+            <description><![CDATA[There is a sensory gulf between the Earth that humans inhabit and the digital realms in which modern AI agents are created. To develop AI agents that can sense, think, and act as flexibly as humans in real-world settings, it is imperative to bridge the realism gap between the digital and physical worlds. How can we embody agents in an environment as rich and diverse as the one we inhabit, without the constraints imposed by real hardware and control? Towards this end, we introduce V-IRL: a platform that enables agents to scalably interact with the real world in a virtual yet realistic environment. Our platform serves as a playground for developing agents that can accomplish various practical tasks and as a vast testbed for measuring progress in capabilities spanning perception, decision-making, and interaction with real-world data across the entire globe.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:59:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03310</guid>
+            <link>https://arxiv.org/abs/2402.03310</link>
+            
+            
+            
+            <author><![CDATA[Jihan Yang, Runyu Ding, Ellis Brown, Xiaojuan Qi, Saining Xie]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization]]></title>
+            <description><![CDATA[In light of recent advances in multimodal Large Language Models (LLMs), there is increasing attention to scaling them from image-text data to more informative real-world videos. Compared to static images, video poses unique challenges for effective large-scale pre-training due to the modeling of its spatiotemporal dynamics. In this paper, we address such limitations in video-language pre-training with an efficient video decomposition that represents each video as keyframes and temporal motions. These are then adapted to an LLM using well-designed tokenizers that discretize visual and temporal information as a few tokens, thus enabling unified generative pre-training of videos, images, and text. At inference, the generated tokens from the LLM are carefully recovered to the original continuous pixel space to create various video content. Our proposed framework is both capable of comprehending and generating image and video content, as demonstrated by its competitive performance across 13 multimodal benchmarks in image and video understanding and generation. Our code and models will be available at https://video-lavit.github.io.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:54:39 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03161</guid>
+            <link>https://arxiv.org/abs/2402.03161</link>
+            
+            
+            
+            <author><![CDATA[Yang Jin, Zhicheng Sun, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Quzhe Huang, Chengru Song, Yuliang Liu, Di Zhang, Yang Song, Kun Gai, Yadong Mu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Shortened LLaMA: A Simple Depth Pruning for Large Language Models]]></title>
+            <description><![CDATA[Structured pruning of modern large language models (LLMs) has emerged as a way of decreasing their high computational needs. Width pruning reduces the size of projection weight matrices (e.g., by removing attention heads) while maintaining the number of layers. Depth pruning, in contrast, removes entire layers or blocks, while keeping the size of the remaining weights unchanged. Most current research focuses on either width-only or a blend of width and depth pruning, with little comparative analysis between the two units (width vs. depth) concerning their impact on LLM inference efficiency. In this work, we show that a simple depth pruning approach can compete with recent width pruning methods in terms of zero-shot task performance. Our pruning method boosts inference speeds, especially under memory-constrained conditions that require limited batch sizes for running LLMs, where width pruning is ineffective. We hope this work can help deploy LLMs on local and edge devices.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:46:50 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.02834</guid>
+            <link>https://arxiv.org/abs/2402.02834</link>
+            
+            
+            
+            <author><![CDATA[Bo-Kyeong Kim, Geonmin Kim, Tae-Ho Kim, Thibault Castells, Shinkook Choi, Junho Shin, Hyoung-Kyu Song]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rethinking Optimization and Architecture for Tiny Language Models]]></title>
+            <description><![CDATA[The power of large language models (LLMs) has been demonstrated through numerous data and computing resources. However, the application of language models on mobile devices is facing huge challenge on the computation and memory costs, that is, tiny language models with high performance are urgently required. Limited by the highly complex training process, there are many details for optimizing language models that are seldom studied carefully. In this study, based on a tiny language model with 1B parameters, we carefully design a series of empirical study to analyze the effect of each component. Three perspectives are mainly discussed, i.e., neural architecture, parameter initialization, and optimization strategy. Several design formulas are empirically proved especially effective for tiny language models, including tokenizer compression, architecture tweaking, parameter inheritance and multiple-round training. Then we train PanGu-pi-1B Pro and PanGu-pi-1.5B Pro on 1.6T multilingual corpora, following the established formulas. Experimental results demonstrate the improved optimization and architecture yield a notable average improvement of 8.87 on benchmark evaluation sets for PanGu-pi-1B Pro. Besides, PanGu-pi-1.5B Pro surpasses a range of SOTA models with larger model sizes, validating its superior performance. The code will be released soon (https://github.com/YuchuanTian/RethinkTinyLM).]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:44:56 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.02791</guid>
+            <link>https://arxiv.org/abs/2402.02791</link>
+            
+            
+            
+            <author><![CDATA[Yehui Tang, Fangcheng Liu, Yunsheng Ni, Yuchuan Tian, Zheyuan Bai, Yi-Qi Hu, Sichao Liu, Shangling Jui, Kai Han, Yunhe Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Code Representation Learning At Scale]]></title>
+            <description><![CDATA[Recent studies have shown that code language models at scale demonstrate significant performance gains on downstream tasks, i.e., code generation. However, most of the existing works on code representation learning train models at a hundred million parameter scale using very limited pretraining corpora. In this work, we fuel code representation learning with a vast amount of code data via a two-stage pretraining scheme. We first train the encoders via a mix that leverages both randomness in masking language modeling and the structure aspect of programming language. We then enhance the representations via contrastive learning with hard negative and hard positive constructed in an unsupervised manner. We establish an off-the-shelf encoder model that persistently outperforms the existing models on a wide variety of downstream tasks by large margins. To comprehend the factors contributing to successful code representation learning, we conduct detailed ablations and share our findings on (i) a customized and effective token-level denoising scheme for source code; (ii) the importance of hard negatives and hard positives; (iii) how the proposed bimodal contrastive learning boost the cross-lingual semantic search performance; and (iv) how the pretraining schemes decide the downstream task performance scales with the model size.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:36:00 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01935</guid>
+            <link>https://arxiv.org/abs/2402.01935</link>
+            
+            
+            
+            <author><![CDATA[Dejiao Zhang, Wasi Ahmad, Ming Tan, Hantian Ding, Ramesh Nallapati, Dan Roth, Xiaofei Ma, Bing Xiang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LiPO: Listwise Preference Optimization through Learning-to-Rank]]></title>
+            <description><![CDATA[Aligning language models (LMs) with curated human feedback is critical to control their behaviors in real-world applications. Several recent policy optimization methods, such as DPO and SLiC, serve as promising alternatives to the traditional Reinforcement Learning from Human Feedback (RLHF) approach. In practice, human feedback often comes in a format of a ranked list over multiple responses to amortize the cost of reading prompt. Multiple responses can also be ranked by reward models or AI feedback. There lacks such a study on directly fitting upon a list of responses. In this work, we formulate the LM alignment as a listwise ranking problem and describe the Listwise Preference Optimization (LiPO) framework, where the policy can potentially learn more effectively from a ranked list of plausible responses given the prompt. This view draws an explicit connection to Learning-to-Rank (LTR), where most existing preference optimization work can be mapped to existing ranking objectives, especially pairwise ones. Following this connection, we provide an examination of ranking objectives that are not well studied for LM alignment withDPO and SLiC as special cases when list size is two. In particular, we highlight a specific method, LiPO-{\lambda}, which leverages a state-of-the-art listwise ranking objective and weights each preference pair in a more advanced manner. We show that LiPO-{\lambda} can outperform DPO and SLiC by a clear margin on two preference alignment tasks.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:32:59 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01878</guid>
+            <link>https://arxiv.org/abs/2402.01878</link>
+            
+            
+            
+            <author><![CDATA[Tianqi Liu, Zhen Qin, Junru Wu, Jiaming Shen, Misha Khalman, Rishabh Joshi, Yao Zhao, Mohammad Saleh, Simon Baumgartner, Jialu Liu, Peter J. Liu, Xuanhui Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities]]></title>
+            <description><![CDATA[Augmenting large language models (LLMs) to understand audio -- including non-speech sounds and non-verbal speech -- is critically important for diverse real-world applications of LLMs. In this paper, we propose Audio Flamingo, a novel audio language model with 1) strong audio understanding abilities, 2) the ability to quickly adapt to unseen tasks via in-context learning and retrieval, and 3) strong multi-turn dialogue abilities. We introduce a series of training techniques, architecture design, and data strategies to enhance our model with these abilities. Extensive evaluations across various audio understanding tasks confirm the efficacy of our method, setting new state-of-the-art benchmarks.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:29:51 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01831</guid>
+            <link>https://arxiv.org/abs/2402.01831</link>
+            
+            
+            
+            <author><![CDATA[Zhifeng Kong, Arushi Goel, Rohan Badlani, Wei Ping, Rafael Valle, Bryan Catanzaro]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[BlackMamba: Mixture of Experts for State-Space Models]]></title>
+            <description><![CDATA[State-space models (SSMs) have recently demonstrated competitive performance to transformers at large-scale language modeling benchmarks while achieving linear time and memory complexity as a function of sequence length. Mamba, a recently released SSM model, shows impressive performance in both language modeling and long sequence processing tasks. Simultaneously, mixture-of-expert (MoE) models have shown remarkable performance while significantly reducing the compute and latency costs of inference at the expense of a larger memory footprint. In this paper, we present BlackMamba, a novel architecture that combines the Mamba SSM with MoE to obtain the benefits of both. We demonstrate that BlackMamba performs competitively against both Mamba and transformer baselines, and outperforms in inference and training FLOPs. We fully train and open-source 340M/1.5B and 630M/2.8B BlackMamba models on 300B tokens of a custom dataset. We show that BlackMamba inherits and combines both of the benefits of SSM and MoE architectures, combining linear-complexity generation from SSM with cheap and fast inference from MoE. We release all weights, checkpoints, and inference code open-source. Inference code at: https://github.com/Zyphra/BlackMamba]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:25:06 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01771</guid>
+            <link>https://arxiv.org/abs/2402.01771</link>
+            
+            
+            
+            <author><![CDATA[Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Rethinking Interpretability in the Era of Large Language Models]]></title>
+            <description><![CDATA[Interpretable machine learning has exploded as an area of interest over the last decade, sparked by the rise of increasingly large datasets and deep neural networks. Simultaneously, large language models (LLMs) have demonstrated remarkable capabilities across a wide array of tasks, offering a chance to rethink opportunities in interpretable machine learning. Notably, the capability to explain in natural language allows LLMs to expand the scale and complexity of patterns that can be given to a human. However, these new capabilities raise new challenges, such as hallucinated explanations and immense computational costs.   In this position paper, we start by reviewing existing methods to evaluate the emerging field of LLM interpretation (both interpreting LLMs and using LLMs for explanation). We contend that, despite their limitations, LLMs hold the opportunity to redefine interpretability with a more ambitious scope across many applications, including in auditing LLMs themselves. We highlight two emerging research priorities for LLM interpretation: using LLMs to directly analyze new datasets and to generate interactive explanations.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:20:31 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01761</guid>
+            <link>https://arxiv.org/abs/2402.01761</link>
+            
+            
+            
+            <author><![CDATA[Chandan Singh, Jeevana Priya Inala, Michel Galley, Rich Caruana, Jianfeng Gao]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models]]></title>
+            <description><![CDATA[To help the open-source community have a better understanding of Mixture-of-Experts (MoE) based large language models (LLMs), we train and release OpenMoE, a series of fully open-sourced and reproducible decoder-only MoE LLMs, ranging from 650M to 34B parameters and trained on up to over 1T tokens. Our investigation confirms that MoE-based LLMs can offer a more favorable cost-effectiveness trade-off than dense LLMs, highlighting the potential effectiveness for future LLM development.   One more important contribution of this study is an in-depth analysis of the routing mechanisms within our OpenMoE models, leading to three significant findings: Context-Independent Specialization, Early Routing Learning, and Drop-towards-the-End. We discovered that routing decisions in MoE models are predominantly based on token IDs, with minimal context relevance. The token-to-expert assignments are determined early in the pre-training phase and remain largely unchanged. This imperfect routing can result in performance degradation, particularly in sequential tasks like multi-turn conversations, where tokens appearing later in a sequence are more likely to be dropped. Finally, we rethink our design based on the above-mentioned observations and analysis. To facilitate future MoE LLM development, we propose potential strategies for mitigating the issues we found and further improving off-the-shelf MoE LLM designs.]]></description>
+            <pubDate>Tue, 06 Feb 2024 04:16:58 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01739</guid>
+            <link>https://arxiv.org/abs/2402.01739</link>
+            
+            
+            
+            <author><![CDATA[Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models]]></title>
