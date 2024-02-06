@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 06 Feb 2024 03:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 01:25:48 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models]]></title>
-            <description><![CDATA[Mathematical reasoning poses a significant challenge for language models due to its complex and structured nature. In this paper, we introduce DeepSeekMath 7B, which continues pre-training DeepSeek-Coder-Base-v1.5 7B with 120B math-related tokens sourced from Common Crawl, together with natural language and code data. DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4. Self-consistency over 64 samples from DeepSeekMath 7B achieves 60.9% on MATH. The mathematical reasoning capability of DeepSeekMath is attributed to two key factors: First, we harness the significant potential of publicly available web data through a meticulously engineered data selection pipeline. Second, we introduce Group Relative Policy Optimization (GRPO), a variant of Proximal Policy Optimization (PPO), that enhances mathematical reasoning abilities while concurrently optimizing the memory usage of PPO.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:27:34 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03300</guid>
-            <link>https://arxiv.org/abs/2402.03300</link>
+            <title><![CDATA[Nomic Embed: Training a Reproducible Long Context Text Embedder]]></title>
+            <description><![CDATA[This technical report describes the training of nomic-embed-text-v1, the first fully reproducible, open-source, open-weights, open-data, 8192 context length English text embedding model that outperforms both OpenAI Ada-002 and OpenAI text-embedding-3-small on short and long-context tasks. We release the training code and model weights under an Apache 2 license. In contrast with other open-source models, we release a training data loader with 235 million curated text pairs that allows for the full replication of nomic-embed-text-v1. You can find code and data to replicate the model at https://github.com/nomic-ai/contrastors]]></description>
+            <pubDate>Mon, 05 Feb 2024 05:26:59 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01613</guid>
+            <link>https://arxiv.org/abs/2402.01613</link>
             
             
             
-            <author><![CDATA[Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y. K. Li, Y. Wu, Daya Guo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Training-Free Consistent Text-to-Image Generation]]></title>
-            <description><![CDATA[Text-to-image models offer a new level of creative flexibility by allowing users to guide the image generation process through natural language. However, using these models to consistently portray the same subject across diverse prompts remains challenging. Existing approaches fine-tune the model to teach it new words that describe specific user-provided subjects or add image conditioning to the model. These methods require lengthy per-subject optimization or large-scale pre-training. Moreover, they struggle to align generated images with text prompts and face difficulties in portraying multiple subjects. Here, we present ConsiStory, a training-free approach that enables consistent subject generation by sharing the internal activations of the pretrained model. We introduce a subject-driven shared attention block and correspondence-based feature injection to promote subject consistency between images. Additionally, we develop strategies to encourage layout diversity while maintaining subject consistency. We compare ConsiStory to a range of baselines, and demonstrate state-of-the-art performance on subject consistency and text alignment, without requiring a single optimization step. Finally, ConsiStory can naturally extend to multi-subject scenarios, and even enable training-free personalization for common objects.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:16:19 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03286</guid>
-            <link>https://arxiv.org/abs/2402.03286</link>
-            
-            
-            
-            <author><![CDATA[Yoad Tewel, Omri Kaduri, Rinon Gal, Yoni Kasten, Lior Wolf, Gal Chechik, Yuval Atzmon]]></author>
+            <author><![CDATA[Zach Nussbaum, John X. Morris, Brandon Duderstadt, Andriy Mulyar]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing]]></title>
-            <description><![CDATA[Large-scale Text-to-Image (T2I) diffusion models have revolutionized image generation over the last few years. Although owning diverse and high-quality generation capabilities, translating these abilities to fine-grained image editing remains challenging. In this paper, we propose DiffEditor to rectify two weaknesses in existing diffusion-based image editing: (1) in complex scenarios, editing results often lack editing accuracy and exhibit unexpected artifacts; (2) lack of flexibility to harmonize editing operations, e.g., imagine new content. In our solution, we introduce image prompts in fine-grained image editing, cooperating with the text prompt to better describe the editing content. To increase the flexibility while maintaining content consistency, we locally combine stochastic differential equation (SDE) into the ordinary differential equation (ODE) sampling. In addition, we incorporate regional score-based gradient guidance and a time travel strategy into the diffusion sampling, further improving the editing quality. Extensive experiments demonstrate that our method can efficiently achieve state-of-the-art performance on various fine-grained image editing tasks, including editing within a single image (e.g., object moving, resizing, and content dragging) and across images (e.g., appearance replacing and object pasting). Our source code is released at https://github.com/MC-E/DragonDiffusion.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:11:33 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.02583</guid>
-            <link>https://arxiv.org/abs/2402.02583</link>
+            <title><![CDATA[Boximator: Generating Rich and Controllable Motions for Video Synthesis]]></title>
+            <description><![CDATA[Generating rich and controllable motion is a pivotal challenge in video synthesis. We propose Boximator, a new approach for fine-grained motion control. Boximator introduces two constraint types: hard box and soft box. Users select objects in the conditional frame using hard boxes and then use either type of boxes to roughly or rigorously define the object's position, shape, or motion path in future frames. Boximator functions as a plug-in for existing video diffusion models. Its training process preserves the base model's knowledge by freezing the original weights and training only the control module. To address training challenges, we introduce a novel self-tracking technique that greatly simplifies the learning of box-object correlations. Empirically, Boximator achieves state-of-the-art video quality (FVD) scores, improving on two base models, and further enhanced after incorporating box constraints. Its robust motion controllability is validated by drastic increases in the bounding box alignment metric. Human evaluation also shows that users favor Boximator generation results over the base model.]]></description>
+            <pubDate>Mon, 05 Feb 2024 05:12:56 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01566</guid>
+            <link>https://arxiv.org/abs/2402.01566</link>
             
             
             
-            <author><![CDATA[Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion]]></title>
-            <description><![CDATA[Recent text-to-video diffusion models have achieved impressive progress. In practice, users often desire the ability to control object motion and camera movement independently for customized video creation. However, current methods lack the focus on separately controlling object motion and camera movement in a decoupled manner, which limits the controllability and flexibility of text-to-video models. In this paper, we introduce Direct-a-Video, a system that allows users to independently specify motions for one or multiple objects and/or camera movements, as if directing a video. We propose a simple yet effective strategy for the decoupled control of object motion and camera movement. Object motion is controlled through spatial cross-attention modulation using the model's inherent priors, requiring no additional optimization. For camera movement, we introduce new temporal cross-attention layers to interpret quantitative camera movement parameters. We further employ an augmentation-based approach to train these layers in a self-supervised manner on a small-scale dataset, eliminating the need for explicit motion annotation. Both components operate independently, allowing individual or combined control, and can generalize to open-domain scenarios. Extensive experiments demonstrate the superiority and effectiveness of our method. Project page: https://direct-a-video.github.io/.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:08:08 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03162</guid>
-            <link>https://arxiv.org/abs/2402.03162</link>
-            
-            
-            
-            <author><![CDATA[Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, Di Zhang, Xiaodong Chen, Jing Liao]]></author>
+            <author><![CDATA[Jiawei Wang, Yuchen Zhang, Jiaxin Zou, Yan Zeng, Guoqiang Wei, Liping Yuan, Hang Li]]></author>
             
                 
             
@@ -83,15 +51,111 @@
         </item>
         
         <item>
-            <title><![CDATA[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions]]></title>
-            <description><![CDATA[We introduce InteractiveVideo, a user-centric framework for video generation. Different from traditional generative approaches that operate based on user-provided images or text, our framework is designed for dynamic interaction, allowing users to instruct the generative model through various intuitive mechanisms during the whole generation process, e.g. text and image prompts, painting, drag-and-drop, etc. We propose a Synergistic Multimodal Instruction mechanism, designed to seamlessly integrate users' multimodal instructions into generative models, thus facilitating a cooperative and responsive interaction between user inputs and the generative process. This approach enables iterative and fine-grained refinement of the generation result through precise and effective user instructions. With InteractiveVideo, users are given the flexibility to meticulously tailor key aspects of a video. They can paint the reference image, edit semantics, and adjust video motions until their requirements are fully met. Code, models, and demo are available at https://github.com/invictus717/InteractiveVideo]]></description>
-            <pubDate>Tue, 06 Feb 2024 02:51:01 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03040</guid>
-            <link>https://arxiv.org/abs/2402.03040</link>
+            <title><![CDATA[TravelPlanner: A Benchmark for Real-World Planning with Language Agents]]></title>
+            <description><![CDATA[Planning has been part of the core pursuit for artificial intelligence since its conception, but earlier AI agents mostly focused on constrained settings because many of the cognitive substrates necessary for human-level planning have been lacking. Recently, language agents powered by large language models (LLMs) have shown interesting capabilities such as tool use and reasoning. Are these language agents capable of planning in more complex settings that are out of the reach of prior AI agents? To advance this investigation, we propose TravelPlanner, a new planning benchmark that focuses on travel planning, a common real-world planning scenario. It provides a rich sandbox environment, various tools for accessing nearly four million data records, and 1,225 meticulously curated planning intents and reference plans. Comprehensive evaluations show that the current language agents are not yet capable of handling such complex planning tasks-even GPT-4 only achieves a success rate of 0.6%. Language agents struggle to stay on task, use the right tools to collect information, or keep track of multiple constraints. However, we note that the mere possibility for language agents to tackle such a complex problem is in itself non-trivial progress. TravelPlanner provides a challenging yet meaningful testbed for future language agents.]]></description>
+            <pubDate>Mon, 05 Feb 2024 03:57:28 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01622</guid>
+            <link>https://arxiv.org/abs/2402.01622</link>
             
             
             
-            <author><![CDATA[Yiyuan Zhang, Yuhao Kang, Zhixin Zhang, Xiaohan Ding, Sanyuan Zhao, Xiangyu Yue]]></author>
+            <author><![CDATA[Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yanghua Xiao, Yu Su]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[K-Level Reasoning with Large Language Models]]></title>
+            <description><![CDATA[While Large Language Models (LLMs) have demonstrated their proficiency in complex reasoning tasks, their performance in dynamic, interactive, and competitive scenarios - such as business strategy and stock market analysis - remains underexplored. To bridge this gap, we formally explore the dynamic reasoning capabilities of LLMs for decision-making in rapidly evolving environments. We introduce two game theory-based pilot challenges that mirror the complexities of real-world dynamic decision-making. These challenges are well-defined, enabling clear, controllable, and precise evaluation of LLMs' dynamic reasoning abilities. Through extensive experiments, we find that existing reasoning methods tend to falter in dynamic settings that require k-level thinking - a key concept not tackled by previous works. To address this, we propose a novel reasoning approach for LLMs, named "K-Level Reasoning". This approach adopts the perspective of rivals to recursively employ k-level thinking based on available historical information, which significantly improves the prediction accuracy of rivals' subsequent moves and informs more strategic decision-making. This research not only sets a robust quantitative benchmark for the assessment of dynamic reasoning but also markedly enhances the proficiency of LLMs in dynamic contexts.]]></description>
+            <pubDate>Mon, 05 Feb 2024 03:27:48 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01521</guid>
+            <link>https://arxiv.org/abs/2402.01521</link>
+            
+            
+            
+            <author><![CDATA[Yadong Zhang, Shaoguang Mao, Tao Ge, Xun Wang, Yan Xia, Man Lan, Furu Wei]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback]]></title>
+            <description><![CDATA[The advancement of large language models (LLMs) has significantly propelled the field of code generation. Previous work integrated reinforcement learning (RL) with compiler feedback for exploring the output space of LLMs to enhance code generation quality. However, the lengthy code generated by LLMs in response to complex human requirements makes RL exploration a challenge. Also, since the unit tests may not cover the complicated code, optimizing LLMs by using these unexecuted code snippets is ineffective. To tackle these challenges, we introduce StepCoder, a novel RL framework for code generation, consisting of two main components: CCCS addresses the exploration challenge by breaking the long sequences code generation task into a Curriculum of Code Completion Subtasks, while FGO only optimizes the model by masking the unexecuted code segments to provide Fine-Grained Optimization. In addition, we furthermore construct the APPS+ dataset for RL training, which is manually verified to ensure the correctness of unit tests. Experimental results show that our method improves the ability to explore the output space and outperforms state-of-the-art approaches in corresponding benchmarks.]]></description>
+            <pubDate>Mon, 05 Feb 2024 03:03:18 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01391</guid>
+            <link>https://arxiv.org/abs/2402.01391</link>
+            
+            
+            
+            <author><![CDATA[Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, Enyu Zhou, Junjie Shan, Caishuang Huang, Wei Shen, Xiaoran Fan, Zhiheng Xi, Yuhao Zhou, Tao Ji, Rui Zheng, Qi Zhang, Xuanjing Huang, Tao Gui]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models]]></title>
+            <description><![CDATA[We introduce Pok\'eLLMon, the first LLM-embodied agent that achieves human-parity performance in tactical battle games, as demonstrated in Pok\'emon battles. The design of Pok\'eLLMon incorporates three key strategies: (i) In-context reinforcement learning that instantly consumes text-based feedback derived from battles to iteratively refine the policy; (ii) Knowledge-augmented generation that retrieves external knowledge to counteract hallucination and enables the agent to act timely and properly; (iii) Consistent action generation to mitigate the panic switching phenomenon when the agent faces a powerful opponent and wants to elude the battle. We show that online battles against human demonstrates Pok\'eLLMon's human-like battle strategies and just-in-time decision making, achieving 49\% of win rate in the Ladder competitions and 56\% of win rate in the invited battles. Our implementation and playable battle logs are available at: https://github.com/git-disl/PokeLLMon.]]></description>
+            <pubDate>Mon, 05 Feb 2024 02:49:37 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01118</guid>
+            <link>https://arxiv.org/abs/2402.01118</link>
+            
+            
+            
+            <author><![CDATA[Sihao Hu, Tiansheng Huang, Ling Liu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Specialized Language Models with Cheap Inference from Limited Domain Data]]></title>
+            <description><![CDATA[Large language models have emerged as a versatile tool but are challenging to apply to tasks lacking large inference budgets and large in-domain training sets. This work formalizes these constraints and distinguishes four important variables: the pretraining budget (for training before the target domain is known), the specialization budget (for training after the target domain is known), the inference budget, and the in-domain training set size. Across these settings, we compare different approaches from the machine learning literature. Limited by inference cost, we find better alternatives to the standard practice of training very large vanilla transformer models. In particular, we show that hyper-networks and mixture of experts have better perplexity for large pretraining budgets, while small models trained on importance sampled datasets are attractive for large specialization budgets.]]></description>
+            <pubDate>Mon, 05 Feb 2024 02:43:43 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01093</guid>
+            <link>https://arxiv.org/abs/2402.01093</link>
+            
+            
+            
+            <author><![CDATA[David Grangier, Angelos Katharopoulos, Pierre Ablin, Awni Hannun]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Repeat After Me: Transformers are Better than State Space Models at Copying]]></title>
+            <description><![CDATA[Transformers are the dominant architecture for sequence modeling, but there is growing interest in models that use a fixed-size latent state that does not depend on the sequence length, which we refer to as "generalized state space models" (GSSMs). In this paper we show that while GSSMs are promising in terms of inference-time efficiency, they are limited compared to transformer models on tasks that require copying from the input context. We start with a theoretical analysis of the simple task of string copying and prove that a two layer transformer can copy strings of exponential length while GSSMs are fundamentally limited by their fixed-size latent state. Empirically, we find that transformers outperform GSSMs in terms of efficiency and generalization on synthetic tasks that require copying the context. Finally, we evaluate pretrained large language models and find that transformer models dramatically outperform state space models at copying and retrieving information from context. Taken together, these results suggest a fundamental gap between transformers and GSSMs on tasks of practical interest.]]></description>
+            <pubDate>Mon, 05 Feb 2024 02:42:02 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.01032</guid>
+            <link>https://arxiv.org/abs/2402.01032</link>
+            
+            
+            
+            <author><![CDATA[Samy Jelassi, David Brandfonbrener, Sham M. Kakade, Eran Malach]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[EVA-GAN: Enhanced Various Audio Generation via Scalable Generative Adversarial Networks]]></title>
+            <description><![CDATA[The advent of Large Models marks a new era in machine learning, significantly outperforming smaller models by leveraging vast datasets to capture and synthesize complex patterns. Despite these advancements, the exploration into scaling, especially in the audio generation domain, remains limited, with previous efforts didn't extend into the high-fidelity (HiFi) 44.1kHz domain and suffering from both spectral discontinuities and blurriness in the high-frequency domain, alongside a lack of robustness against out-of-domain data. These limitations restrict the applicability of models to diverse use cases, including music and singing generation. Our work introduces Enhanced Various Audio Generation via Scalable Generative Adversarial Networks (EVA-GAN), yields significant improvements over previous state-of-the-art in spectral and high-frequency reconstruction and robustness in out-of-domain data performance, enabling the generation of HiFi audios by employing an extensive dataset of 36,000 hours of 44.1kHz audio, a context-aware module, a Human-In-The-Loop artifact measurement toolkit, and expands the model to approximately 200 million parameters. Demonstrations of our work are available at https://double-blind-eva-gan.cc.]]></description>
+            <pubDate>Mon, 05 Feb 2024 02:36:42 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.00892</guid>
+            <link>https://arxiv.org/abs/2402.00892</link>
+            
+            
+            
+            <author><![CDATA[Shijia Liao, Shiyi Lan, Arun George Zachariah]]></author>
             
                 
             
