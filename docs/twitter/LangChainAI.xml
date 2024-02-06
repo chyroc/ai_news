@@ -21,8 +21,24 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Feb 2024 17:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 20:30:48 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[RT Brace: ⁉️ RAG with Q&A Retrieval augmented generation has proven itself as one of the best ways to provide relevant & up to date context to LLMs....]]></title>
+            <description><![CDATA[RT Brace<br>⁉️ RAG with Q&amp;A<br><br>Retrieval augmented generation has proven itself as one of the best ways to provide relevant &amp; up to date context to LLMs. We just added a new in-depth use case section outlining different RAG techniques in @LangChainAI 🦜🔗!<br><br>Looking to perform RAG with agents,…<br><img style="" src="https://pbs.twimg.com/media/GFq4-RlbAAMAN5x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:22:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754936353211502782</guid>
+            <link>https://twitter.com/LangChainAI/status/1754936353211502782</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re 4/ New to LangGraph? Check out the intro video: https://www.youtube.com/watch?v=5h-JBkySK34]]></title>
@@ -270,22 +286,6 @@
             <pubDate>Sun, 04 Feb 2024 18:12:57 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754206424161538528</guid>
             <link>https://twitter.com/LangChainAI/status/1754206424161538528</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🔦Lumos: A RAG LLM co-pilot for browsing the web, powered by local LLMs Use Cases 🧵Summarize long threads 📰Summarize news articles ❓Ask quest...]]></title>
-            <description><![CDATA[🔦Lumos: A RAG LLM co-pilot for browsing the web, powered by local LLMs<br><br>Use Cases<br>🧵Summarize long threads<br>📰Summarize news articles<br>❓Ask questions about pages<br><br>Awesome stuff by @andrewnguonly <br><br>Repo: https://github.com/andrewnguonly/Lumos<br><img style="" src="https://pbs.twimg.com/media/GFbwAX3aIAAMH64?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 04 Feb 2024 17:12:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754191083477844016</guid>
-            <link>https://twitter.com/LangChainAI/status/1754191083477844016</link>
             
             
             

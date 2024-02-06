@@ -21,8 +21,40 @@
             <link>https://twitter.com/GoogleAI</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Feb 2024 16:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 21:03:01 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Graph neural networks (GNNs) have emerged as a powerful technique to leverage the uniquely heterogenous data from graphs. So, we are excited to announ...]]></title>
+            <description><![CDATA[Graph neural networks (GNNs) have emerged as a powerful technique to leverage the uniquely heterogenous data from graphs. So, we are excited to announce the release of TensorFlow GNN 1.0 (TF-GNN), a production-tested library for building GNNs at scale → https://goo.gle/3w8ogZC<br><video src="https://video.twimg.com/tweet_video/GFrlzxRbAAAKwZs.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GFrlzxRbAAAKwZs.jpg"></video>]]></description>
+            <pubDate>Tue, 06 Feb 2024 20:38:45 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1754967889839538278</guid>
+            <link>https://twitter.com/GoogleAI/status/1754967889839538278</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Lumiere is a space-time diffusion research model that demonstrates state-of-the-art text-to-video generation, by deploying both spatial & (importantly...]]></title>
+            <description><![CDATA[Lumiere is a space-time diffusion research model that demonstrates state-of-the-art text-to-video generation, by deploying both spatial &amp; (importantly) temporal down- and up-sampling and leveraging a pre-trained text-to-image diffusion model. Learn more→ https://goo.gle/47WX6C2<br><video src="https://video.twimg.com/tweet_video/GFq4VBfbAAEESoH.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GFq4VBfbAAEESoH.jpg"></video>]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:19:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1754917804078465235</guid>
+            <link>https://twitter.com/GoogleAI/status/1754917804078465235</link>
+            
+            
+            
+            <author><![CDATA[Google AI]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[We’re inspired by the incredible lightning talks and demos shared at Research@ Bangalore. A special shoutout to all of our speakers and attendees fro...]]></title>
@@ -286,38 +318,6 @@
             <pubDate>Wed, 17 Jan 2024 18:02:01 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1747680688420380814</guid>
             <link>https://twitter.com/GoogleAI/status/1747680688420380814</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[The Google Quantum AI team embraces the intersection between art & science, as seen in their quantum computing labs in Santa Barbara, CA. Check out @N...]]></title>
-            <description><![CDATA[The Google Quantum AI team embraces the intersection between art &amp; science, as seen in their quantum computing labs in Santa Barbara, CA. Check out @NewsHour’s walk-through of this space, where art brings the lab to life and inspires innovation →https://goo.gle/47CNhZS<br><video src="https://video.twimg.com/tweet_video/GEEB7-EbYAENOlx.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/GEEB7-EbYAENOlx.jpg"></video>]]></description>
-            <pubDate>Wed, 17 Jan 2024 18:01:05 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1747680454864695610</guid>
-            <link>https://twitter.com/GoogleAI/status/1747680454864695610</link>
-            
-            
-            
-            <author><![CDATA[Google AI]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re AMIE is one way we are safely exploring a vision of the future, where AI systems might be better aligned with attributes of a skilled clinician. Fu...]]></title>
-            <description><![CDATA[Re AMIE is one way we are safely exploring a vision of the future, where AI systems might be better aligned with attributes of a skilled clinician. Further research is needed in this domain to ensure that we are building safe, equitable, helpful, and transparent #HealthAI systems.]]></description>
-            <pubDate>Fri, 12 Jan 2024 16:22:40 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/GoogleAI/status/1745843750318838189</guid>
-            <link>https://twitter.com/GoogleAI/status/1745843750318838189</link>
             
             
             
