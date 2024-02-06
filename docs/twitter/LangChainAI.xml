@@ -21,8 +21,88 @@
             <link>https://twitter.com/LangChainAI</link>
         </image>
         
-        <lastBuildDate>Tue, 06 Feb 2024 12:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 17:57:28 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[Re 4/ New to LangGraph? Check out the intro video: https://www.youtube.com/watch?v=5h-JBkySK34]]></title>
+            <description><![CDATA[Re 4/ New to LangGraph?<br><br>Check out the intro video:&nbsp;https://www.youtube.com/watch?v=5h-JBkySK34]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918058945348080</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918058945348080</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re 3/ Developing agents like WebVoyager is easier with easier with LangSmith. Sign up at https://smith.langchain.com/ to get started.]]></title>
+            <description><![CDATA[Re 3/ Developing agents like WebVoyager is easier with easier with LangSmith.<br><br>Sign up at&nbsp;https://smith.langchain.com/ to get started.]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918057477341349</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918057477341349</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re 2/ To jump straight to the code, check out the links below. Python Code: https://github.com/langchain-ai/langgraph/blob/main/examples/web-navigatio...]]></title>
+            <description><![CDATA[Re 2/ To jump straight to the code, check out the links below.<br><br>Python Code:&nbsp;https://github.com/langchain-ai/langgraph/blob/main/examples/web-navigation/web_voyager.ipynb<br>WebVoyager Paper:&nbsp;https://arxiv.org/abs/2401.13919<br>Set-of-Mark Paper:&nbsp;https://arxiv.org/abs/2310.11441]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918056273576340</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918056273576340</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[⛴️ WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models WebVoyager is a new kind of web-browsing agent, developed by Hongliang ...]]></title>
+            <description><![CDATA[⛴️&nbsp;WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models<br><br>WebVoyager is a new kind of web-browsing agent, developed by Hongliang He, @wyu_nd, et. al.<br><br>Powered by large multi-modal models, like GPT-4V, it uses browser screenshots to conduct research, analyze…<br><img style="" src="https://pbs.twimg.com/media/GFq4KYNaAAI2V1g?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918053891183090</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918053891183090</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RAG From Scratch: Video series focused on understanding the RAG landscape RAG is central for LLM application development, connecting LLMs to external ...]]></title>
+            <description><![CDATA[RAG From Scratch: Video series focused on understanding the RAG landscape<br><br>RAG is central for LLM application development, connecting LLMs to external data sources.<br><br>But, the pace of innovation and new approaches makes it challenging to keep up.<br><br>We're launching a new video…<br><img style="" src="https://pbs.twimg.com/media/GFqzmgVbAAEUnb-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:12:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754915914796216654</guid>
+            <link>https://twitter.com/LangChainAI/status/1754915914796216654</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[💿WikiData Tool WikiData allows you to easily connect to a free and open knowledge base Now available as a tool in LangChain! https://python.langcha...]]></title>
@@ -217,91 +297,11 @@
         </item>
         
         <item>
-            <title><![CDATA[🚀Build a Chat PDF app in Python with LangChain, OpenAI, and Streamlit In this tutorial, you'll learn how to build a project by using Langchain and ...]]></title>
-            <description><![CDATA[🚀Build a Chat PDF app in Python with LangChain, OpenAI, and Streamlit<br><br>In this tutorial, you'll learn how to build a project by using Langchain and Streamlit to develop GUI-based ChatGPT for your PDF documents.<br><br>Code: https://github.com/strongSoda/chat-with-pdf-tutorial<br><br>YouTube: https://www.youtube.com/watch?v=WYzFzZg4YZI]]></description>
-            <pubDate>Sat, 03 Feb 2024 17:45:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753837000107651489</guid>
-            <link>https://twitter.com/LangChainAI/status/1753837000107651489</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Jacob Lee: 🦜🕸️ LangGraph.js Tracing 🦜🕸️ LangGraph allows you to construct long-running, agentic @LangChainAI workflows to solve a wid...]]></title>
-            <description><![CDATA[RT Jacob Lee<br>🦜🕸️ LangGraph.js Tracing 🦜🕸️<br><br>LangGraph allows you to construct long-running, agentic @LangChainAI workflows to solve a wide range of tasks.<br><br>This means tracing and debugging via LangSmith is more important than ever. LangGraph.js 0.0.3 includes better support for tracking…<br><img style="" src="https://pbs.twimg.com/media/GFbcfodaAAEdEqv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 03 Feb 2024 17:23:40 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753832198166475210</guid>
-            <link>https://twitter.com/LangChainAI/status/1753832198166475210</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[🤔"Is my LLM application getting better or worse over time?" This is one of the biggest questions that AI engineers struggle with. Evaluation of LLM...]]></title>
-            <description><![CDATA[🤔"Is my LLM application getting better or worse over time?" <br><br>This is one of the biggest questions that AI engineers struggle with. Evaluation of LLM application is still quite difficult.<br><br>We've recently released two features in LangSmith to make this easier<br><br>📈First, to help…<br><img style="" src="https://pbs.twimg.com/media/GFbMzC3a4AA_Ycz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFbNoZqa4AA4m3m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 03 Feb 2024 16:19:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753815386846552196</guid>
-            <link>https://twitter.com/LangChainAI/status/1753815386846552196</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[RT Mervin Praison: OpenGPTs: the open-source alternative to OpenAI's GPTs. Subscribe to YouTube: https://www.youtube.com/@MervinPraison Choose from 60...]]></title>
             <description><![CDATA[RT Mervin Praison<br>OpenGPTs: the open-source alternative to OpenAI's GPTs. <br><br>Subscribe to YouTube: https://www.youtube.com/@MervinPraison<br><br>Choose from 60+ LLMs, 100+ tools, and control your app's cognitive architecture with Free Assistant, RAG, Chatbot. <br><br>#opengpts #gptstore @LangChainAI @tavilyai @RobocorpInc…<br><video src="https://video.twimg.com/ext_tw_video/1753693549185388545/pu/vid/avc1/1920x1080/gngepqBoU6ag1Bkx.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1753693549185388545/pu/img/bpbvuvau6IyMknVc.jpg"></video>]]></description>
             <pubDate>Sat, 03 Feb 2024 08:33:01 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754569904890716611</guid>
             <link>https://twitter.com/LangChainAI/status/1754569904890716611</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[⚡️Document Search and Retrieval using RAG Great guide by @LightningAI and @aniketmaurya on building a retrieval pipeline Uses open source embedding ...]]></title>
-            <description><![CDATA[⚡️Document Search and Retrieval using RAG<br><br>Great guide by @LightningAI and @aniketmaurya on building a retrieval pipeline<br><br>Uses open source embedding and reranking models!<br><br>https://lightning.ai/lightning-ai/studios/document-search-and-retrieval-using-rag?view=public§ion=recent<br><img style="" src="https://pbs.twimg.com/media/GFRGze5bEAAXEY0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 02 Feb 2024 17:12:00 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753466307696046484</guid>
-            <link>https://twitter.com/LangChainAI/status/1753466307696046484</link>
-            
-            
-            
-            <author><![CDATA[LangChain]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[RT Andrew Nguonly: I feel like there are more use cases for online, in-memory RAG implementations that aren't being highlighted enough. @LangChainAI M...]]></title>
-            <description><![CDATA[RT Andrew Nguonly<br>I feel like there are more use cases for online, in-memory RAG implementations that aren't being highlighted enough.<br><br>@LangChainAI MemoryVectorStore is trivial to implement with @ollama for completely client-side RAG. No database operations!<br><br>Example: https://medium.com/@andrewnguonly/lets-normalize-online-in-memory-rag-88e8169e9806]]></description>
-            <pubDate>Fri, 02 Feb 2024 16:12:56 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1753567102643192177</guid>
-            <link>https://twitter.com/LangChainAI/status/1753567102643192177</link>
             
             
             
