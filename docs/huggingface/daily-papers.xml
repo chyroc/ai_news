@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 07 Feb 2024 01:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 03:55:03 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[V-IRL: Grounding Virtual Intelligence in Real Life]]></title>
-            <description><![CDATA[There is a sensory gulf between the Earth that humans inhabit and the digital realms in which modern AI agents are created. To develop AI agents that can sense, think, and act as flexibly as humans in real-world settings, it is imperative to bridge the realism gap between the digital and physical worlds. How can we embody agents in an environment as rich and diverse as the one we inhabit, without the constraints imposed by real hardware and control? Towards this end, we introduce V-IRL: a platform that enables agents to scalably interact with the real world in a virtual yet realistic environment. Our platform serves as a playground for developing agents that can accomplish various practical tasks and as a vast testbed for measuring progress in capabilities spanning perception, decision-making, and interaction with real-world data across the entire globe.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:59:36 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03310</guid>
-            <link>https://arxiv.org/abs/2402.03310</link>
+            <title><![CDATA[Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks]]></title>
+            <description><![CDATA[State-space models (SSMs), such as Mamba Gu &amp; Dao (2034), have been proposed as alternatives to Transformer networks in language modeling, by incorporating gating, convolutions, and input-dependent token selection to mitigate the quadratic cost of multi-head attention. Although SSMs exhibit competitive performance, their in-context learning (ICL) capabilities, a remarkable emergent property of modern language models that enables task execution without parameter optimization, remain underexplored compared to Transformers. In this study, we evaluate the ICL performance of SSMs, focusing on Mamba, against Transformer models across various tasks. Our results show that SSMs perform comparably to Transformers in standard regression ICL tasks, while outperforming them in tasks like sparse parity learning. However, SSMs fall short in tasks involving non-standard retrieval functionality. To address these limitations, we introduce a hybrid model, \variant, that combines Mamba with attention blocks, surpassing individual models in tasks where they struggle independently. Our findings suggest that hybrid architectures offer promising avenues for enhancing ICL in language models.]]></description>
+            <pubDate>Wed, 07 Feb 2024 03:29:15 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.04248</guid>
+            <link>https://arxiv.org/abs/2402.04248</link>
             
             
             
-            <author><![CDATA[Jihan Yang, Runyu Ding, Ellis Brown, Xiaojuan Qi, Saining Xie]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization]]></title>
-            <description><![CDATA[In light of recent advances in multimodal Large Language Models (LLMs), there is increasing attention to scaling them from image-text data to more informative real-world videos. Compared to static images, video poses unique challenges for effective large-scale pre-training due to the modeling of its spatiotemporal dynamics. In this paper, we address such limitations in video-language pre-training with an efficient video decomposition that represents each video as keyframes and temporal motions. These are then adapted to an LLM using well-designed tokenizers that discretize visual and temporal information as a few tokens, thus enabling unified generative pre-training of videos, images, and text. At inference, the generated tokens from the LLM are carefully recovered to the original continuous pixel space to create various video content. Our proposed framework is both capable of comprehending and generating image and video content, as demonstrated by its competitive performance across 13 multimodal benchmarks in image and video understanding and generation. Our code and models will be available at https://video-lavit.github.io.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:54:39 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03161</guid>
-            <link>https://arxiv.org/abs/2402.03161</link>
-            
-            
-            
-            <author><![CDATA[Yang Jin, Zhicheng Sun, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Quzhe Huang, Chengru Song, Yuliang Liu, Di Zhang, Yang Song, Kun Gai, Yadong Mu]]></author>
+            <author><![CDATA[Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Shortened LLaMA: A Simple Depth Pruning for Large Language Models]]></title>
-            <description><![CDATA[Structured pruning of modern large language models (LLMs) has emerged as a way of decreasing their high computational needs. Width pruning reduces the size of projection weight matrices (e.g., by removing attention heads) while maintaining the number of layers. Depth pruning, in contrast, removes entire layers or blocks, while keeping the size of the remaining weights unchanged. Most current research focuses on either width-only or a blend of width and depth pruning, with little comparative analysis between the two units (width vs. depth) concerning their impact on LLM inference efficiency. In this work, we show that a simple depth pruning approach can compete with recent width pruning methods in terms of zero-shot task performance. Our pruning method boosts inference speeds, especially under memory-constrained conditions that require limited batch sizes for running LLMs, where width pruning is ineffective. We hope this work can help deploy LLMs on local and edge devices.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:46:50 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.02834</guid>
-            <link>https://arxiv.org/abs/2402.02834</link>
+            <title><![CDATA[CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations]]></title>
+            <description><![CDATA[Vision-Language Models (VLMs) have demonstrated their widespread viability thanks to extensive training in aligning visual instructions to answers. However, this conclusive alignment leads models to ignore critical visual reasoning, and further result in failures on meticulous visual problems and unfaithful responses. In this paper, we propose Chain of Manipulations, a mechanism that enables VLMs to solve problems with a series of manipulations, where each manipulation refers to an operation on the visual input, either from intrinsic abilities (e.g., grounding) acquired through prior training or from imitating human-like behaviors (e.g., zoom in). This mechanism encourages VLMs to generate faithful responses with evidential visual reasoning, and permits users to trace error causes in the interpretable paths. We thus train CogCoM, a general 17B VLM with a memory-based compatible architecture endowed this reasoning mechanism. Experiments show that our model achieves the state-of-the-art performance across 8 benchmarks from 3 categories, and a limited number of training steps with the data swiftly gains a competitive performance. The code and data are publicly available at https://github.com/THUDM/CogCoM.]]></description>
+            <pubDate>Wed, 07 Feb 2024 03:26:56 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.04236</guid>
+            <link>https://arxiv.org/abs/2402.04236</link>
             
             
             
-            <author><![CDATA[Bo-Kyeong Kim, Geonmin Kim, Tae-Ho Kim, Thibault Castells, Shinkook Choi, Junho Shin, Hyoung-Kyu Song]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Rethinking Optimization and Architecture for Tiny Language Models]]></title>
-            <description><![CDATA[The power of large language models (LLMs) has been demonstrated through numerous data and computing resources. However, the application of language models on mobile devices is facing huge challenge on the computation and memory costs, that is, tiny language models with high performance are urgently required. Limited by the highly complex training process, there are many details for optimizing language models that are seldom studied carefully. In this study, based on a tiny language model with 1B parameters, we carefully design a series of empirical study to analyze the effect of each component. Three perspectives are mainly discussed, i.e., neural architecture, parameter initialization, and optimization strategy. Several design formulas are empirically proved especially effective for tiny language models, including tokenizer compression, architecture tweaking, parameter inheritance and multiple-round training. Then we train PanGu-pi-1B Pro and PanGu-pi-1.5B Pro on 1.6T multilingual corpora, following the established formulas. Experimental results demonstrate the improved optimization and architecture yield a notable average improvement of 8.87 on benchmark evaluation sets for PanGu-pi-1B Pro. Besides, PanGu-pi-1.5B Pro surpasses a range of SOTA models with larger model sizes, validating its superior performance. The code will be released soon (https://github.com/YuchuanTian/RethinkTinyLM).]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:44:56 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.02791</guid>
-            <link>https://arxiv.org/abs/2402.02791</link>
-            
-            
-            
-            <author><![CDATA[Yehui Tang, Fangcheng Liu, Yunsheng Ni, Yuchuan Tian, Zheyuan Bai, Yi-Qi Hu, Sichao Liu, Shangling Jui, Kai Han, Yunhe Wang]]></author>
+            <author><![CDATA[Ji Qi, Ming Ding, Weihan Wang, Yushi Bai, Qingsong Lv, Wenyi Hong, Bin Xu, Lei Hou, Juanzi Li, Yuxiao Dong, Jie Tang]]></author>
             
                 
             
@@ -83,31 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Code Representation Learning At Scale]]></title>
-            <description><![CDATA[Recent studies have shown that code language models at scale demonstrate significant performance gains on downstream tasks, i.e., code generation. However, most of the existing works on code representation learning train models at a hundred million parameter scale using very limited pretraining corpora. In this work, we fuel code representation learning with a vast amount of code data via a two-stage pretraining scheme. We first train the encoders via a mix that leverages both randomness in masking language modeling and the structure aspect of programming language. We then enhance the representations via contrastive learning with hard negative and hard positive constructed in an unsupervised manner. We establish an off-the-shelf encoder model that persistently outperforms the existing models on a wide variety of downstream tasks by large margins. To comprehend the factors contributing to successful code representation learning, we conduct detailed ablations and share our findings on (i) a customized and effective token-level denoising scheme for source code; (ii) the importance of hard negatives and hard positives; (iii) how the proposed bimodal contrastive learning boost the cross-lingual semantic search performance; and (iv) how the pretraining schemes decide the downstream task performance scales with the model size.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:36:00 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01935</guid>
-            <link>https://arxiv.org/abs/2402.01935</link>
+            <title><![CDATA[Scaling Laws for Downstream Task Performance of Large Language Models]]></title>
+            <description><![CDATA[Scaling laws provide important insights that can guide the design of large language models (LLMs). Existing work has primarily focused on studying scaling laws for pretraining (upstream) loss. However, in transfer learning settings, in which LLMs are pretrained on an unsupervised dataset and then finetuned on a downstream task, we often also care about the downstream performance. In this work, we study the scaling behavior in a transfer learning setting, where LLMs are finetuned for machine translation tasks. Specifically, we investigate how the choice of the pretraining data and its size affect downstream performance (translation quality) as judged by two metrics: downstream cross-entropy and BLEU score. Our experiments indicate that the size of the finetuning dataset and the distribution alignment between the pretraining and downstream data significantly influence the scaling behavior. With sufficient alignment, both downstream cross-entropy and BLEU score improve monotonically with more pretraining data. In such cases, we show that it is possible to predict the downstream BLEU score with good accuracy using a log-law. However, there are also cases where moderate misalignment causes the BLEU score to fluctuate or get worse with more pretraining, whereas downstream cross-entropy monotonically improves. By analyzing these observations, we provide new practical insights for choosing appropriate pretraining data.]]></description>
+            <pubDate>Wed, 07 Feb 2024 03:16:26 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.04177</guid>
+            <link>https://arxiv.org/abs/2402.04177</link>
             
             
             
-            <author><![CDATA[Dejiao Zhang, Wasi Ahmad, Ming Tan, Hantian Ding, Ramesh Nallapati, Dan Roth, Xiaofei Ma, Bing Xiang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LiPO: Listwise Preference Optimization through Learning-to-Rank]]></title>
-            <description><![CDATA[Aligning language models (LMs) with curated human feedback is critical to control their behaviors in real-world applications. Several recent policy optimization methods, such as DPO and SLiC, serve as promising alternatives to the traditional Reinforcement Learning from Human Feedback (RLHF) approach. In practice, human feedback often comes in a format of a ranked list over multiple responses to amortize the cost of reading prompt. Multiple responses can also be ranked by reward models or AI feedback. There lacks such a study on directly fitting upon a list of responses. In this work, we formulate the LM alignment as a listwise ranking problem and describe the Listwise Preference Optimization (LiPO) framework, where the policy can potentially learn more effectively from a ranked list of plausible responses given the prompt. This view draws an explicit connection to Learning-to-Rank (LTR), where most existing preference optimization work can be mapped to existing ranking objectives, especially pairwise ones. Following this connection, we provide an examination of ranking objectives that are not well studied for LM alignment withDPO and SLiC as special cases when list size is two. In particular, we highlight a specific method, LiPO-{\lambda}, which leverages a state-of-the-art listwise ranking objective and weights each preference pair in a more advanced manner. We show that LiPO-{\lambda} can outperform DPO and SLiC by a clear margin on two preference alignment tasks.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:32:59 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01878</guid>
-            <link>https://arxiv.org/abs/2402.01878</link>
-            
-            
-            
-            <author><![CDATA[Tianqi Liu, Zhen Qin, Junru Wu, Jiaming Shen, Misha Khalman, Rishabh Joshi, Yao Zhao, Mohammad Saleh, Simon Baumgartner, Jialu Liu, Peter J. Liu, Xuanhui Wang]]></author>
+            <author><![CDATA[Berivan Isik, Natalia Ponomareva, Hussein Hazimeh, Dimitris Paparas, Sergei Vassilvitskii, Sanmi Koyejo]]></author>
             
                 
             
@@ -115,31 +67,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities]]></title>
-            <description><![CDATA[Augmenting large language models (LLMs) to understand audio -- including non-speech sounds and non-verbal speech -- is critically important for diverse real-world applications of LLMs. In this paper, we propose Audio Flamingo, a novel audio language model with 1) strong audio understanding abilities, 2) the ability to quickly adapt to unseen tasks via in-context learning and retrieval, and 3) strong multi-turn dialogue abilities. We introduce a series of training techniques, architecture design, and data strategies to enhance our model with these abilities. Extensive evaluations across various audio understanding tasks confirm the efficacy of our method, setting new state-of-the-art benchmarks.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:29:51 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01831</guid>
-            <link>https://arxiv.org/abs/2402.01831</link>
+            <title><![CDATA[Multi-line AI-assisted Code Authoring]]></title>
+            <description><![CDATA[CodeCompose is an AI-assisted code authoring tool powered by large language models (LLMs) that provides inline suggestions to 10's of thousands of developers at Meta. In this paper, we present how we scaled the product from displaying single-line suggestions to multi-line suggestions. This evolution required us to overcome several unique challenges in improving the usability of these suggestions for developers.   First, we discuss how multi-line suggestions can have a 'jarring' effect, as the LLM's suggestions constantly move around the developer's existing code, which would otherwise result in decreased productivity and satisfaction.   Second, multi-line suggestions take significantly longer to generate; hence we present several innovative investments we made to reduce the perceived latency for users. These model-hosting optimizations sped up multi-line suggestion latency by 2.5x.   Finally, we conduct experiments on 10's of thousands of engineers to understand how multi-line suggestions impact the user experience and contrast this with single-line suggestions. Our experiments reveal that (i) multi-line suggestions account for 42% of total characters accepted (despite only accounting for 16% for displayed suggestions) (ii) multi-line suggestions almost doubled the percentage of keystrokes saved for users from 9% to 17%. Multi-line CodeCompose has been rolled out to all engineers at Meta, and less than 1% of engineers have opted out of multi-line suggestions.]]></description>
+            <pubDate>Wed, 07 Feb 2024 03:10:13 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.04141</guid>
+            <link>https://arxiv.org/abs/2402.04141</link>
             
             
             
-            <author><![CDATA[Zhifeng Kong, Arushi Goel, Rohan Badlani, Wei Ping, Rafael Valle, Bryan Catanzaro]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[BlackMamba: Mixture of Experts for State-Space Models]]></title>
-            <description><![CDATA[State-space models (SSMs) have recently demonstrated competitive performance to transformers at large-scale language modeling benchmarks while achieving linear time and memory complexity as a function of sequence length. Mamba, a recently released SSM model, shows impressive performance in both language modeling and long sequence processing tasks. Simultaneously, mixture-of-expert (MoE) models have shown remarkable performance while significantly reducing the compute and latency costs of inference at the expense of a larger memory footprint. In this paper, we present BlackMamba, a novel architecture that combines the Mamba SSM with MoE to obtain the benefits of both. We demonstrate that BlackMamba performs competitively against both Mamba and transformer baselines, and outperforms in inference and training FLOPs. We fully train and open-source 340M/1.5B and 630M/2.8B BlackMamba models on 300B tokens of a custom dataset. We show that BlackMamba inherits and combines both of the benefits of SSM and MoE architectures, combining linear-complexity generation from SSM with cheap and fast inference from MoE. We release all weights, checkpoints, and inference code open-source. Inference code at: https://github.com/Zyphra/BlackMamba]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:25:06 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01771</guid>
-            <link>https://arxiv.org/abs/2402.01771</link>
-            
-            
-            
-            <author><![CDATA[Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge]]></author>
+            <author><![CDATA[Omer Dunay, Daniel Cheng, Adam Tait, Parth Thakkar, Peter C Rigby, Andy Chiu, Imad Ahmad, Arun Ganesan, Chandra Maddila, Vijayaraghavan Murali, Ali Tayyebi, Nachiappan Nagappan]]></author>
             
                 
             
@@ -147,31 +83,15 @@
         </item>
         
         <item>
-            <title><![CDATA[Rethinking Interpretability in the Era of Large Language Models]]></title>
-            <description><![CDATA[Interpretable machine learning has exploded as an area of interest over the last decade, sparked by the rise of increasingly large datasets and deep neural networks. Simultaneously, large language models (LLMs) have demonstrated remarkable capabilities across a wide array of tasks, offering a chance to rethink opportunities in interpretable machine learning. Notably, the capability to explain in natural language allows LLMs to expand the scale and complexity of patterns that can be given to a human. However, these new capabilities raise new challenges, such as hallucinated explanations and immense computational costs.   In this position paper, we start by reviewing existing methods to evaluate the emerging field of LLM interpretation (both interpreting LLMs and using LLMs for explanation). We contend that, despite their limitations, LLMs hold the opportunity to redefine interpretability with a more ambitious scope across many applications, including in auditing LLMs themselves. We highlight two emerging research priorities for LLM interpretation: using LLMs to directly analyze new datasets and to generate interactive explanations.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:20:31 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01761</guid>
-            <link>https://arxiv.org/abs/2402.01761</link>
+            <title><![CDATA[MobileVLM V2: Faster and Stronger Baseline for Vision Language Model]]></title>
+            <description><![CDATA[We introduce MobileVLM V2, a family of significantly improved vision language models upon MobileVLM, which proves that a delicate orchestration of novel architectural design, an improved training scheme tailored for mobile VLMs, and rich high-quality dataset curation can substantially benefit VLMs' performance. Specifically, MobileVLM V2 1.7B achieves better or on-par performance on standard VLM benchmarks compared with much larger VLMs at the 3B scale. Notably, our 3B model outperforms a large variety of VLMs at the 7B+ scale. Our models will be released at https://github.com/Meituan-AutoML/MobileVLM .]]></description>
+            <pubDate>Wed, 07 Feb 2024 03:04:07 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03766</guid>
+            <link>https://arxiv.org/abs/2402.03766</link>
             
             
             
-            <author><![CDATA[Chandan Singh, Jeevana Priya Inala, Michel Galley, Rich Caruana, Jianfeng Gao]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models]]></title>
-            <description><![CDATA[To help the open-source community have a better understanding of Mixture-of-Experts (MoE) based large language models (LLMs), we train and release OpenMoE, a series of fully open-sourced and reproducible decoder-only MoE LLMs, ranging from 650M to 34B parameters and trained on up to over 1T tokens. Our investigation confirms that MoE-based LLMs can offer a more favorable cost-effectiveness trade-off than dense LLMs, highlighting the potential effectiveness for future LLM development.   One more important contribution of this study is an in-depth analysis of the routing mechanisms within our OpenMoE models, leading to three significant findings: Context-Independent Specialization, Early Routing Learning, and Drop-towards-the-End. We discovered that routing decisions in MoE models are predominantly based on token IDs, with minimal context relevance. The token-to-expert assignments are determined early in the pre-training phase and remain largely unchanged. This imperfect routing can result in performance degradation, particularly in sequential tasks like multi-turn conversations, where tokens appearing later in a sequence are more likely to be dropped. Finally, we rethink our design based on the above-mentioned observations and analysis. To facilitate future MoE LLM development, we propose potential strategies for mitigating the issues we found and further improving off-the-shelf MoE LLM designs.]]></description>
-            <pubDate>Tue, 06 Feb 2024 04:16:58 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.01739</guid>
-            <link>https://arxiv.org/abs/2402.01739</link>
-            
-            
-            
-            <author><![CDATA[Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You]]></author>
+            <author><![CDATA[Xiangxiang Chu, Limeng Qiao, Xinyu Zhang, Shuang Xu, Fei Wei, Yang Yang, Xiaofei Sun, Yiming Hu, Xinyang Lin, Bo Zhang, Chunhua Shen]]></author>
             
                 
             
@@ -179,31 +99,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models]]></title>
-            <description><![CDATA[Mathematical reasoning poses a significant challenge for language models due to its complex and structured nature. In this paper, we introduce DeepSeekMath 7B, which continues pre-training DeepSeek-Coder-Base-v1.5 7B with 120B math-related tokens sourced from Common Crawl, together with natural language and code data. DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4. Self-consistency over 64 samples from DeepSeekMath 7B achieves 60.9% on MATH. The mathematical reasoning capability of DeepSeekMath is attributed to two key factors: First, we harness the significant potential of publicly available web data through a meticulously engineered data selection pipeline. Second, we introduce Group Relative Policy Optimization (GRPO), a variant of Proximal Policy Optimization (PPO), that enhances mathematical reasoning abilities while concurrently optimizing the memory usage of PPO.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:27:34 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03300</guid>
-            <link>https://arxiv.org/abs/2402.03300</link>
+            <title><![CDATA[Vision Superalignment: Weak-to-Strong Generalization for Vision Foundation Models]]></title>
+            <description><![CDATA[Recent advancements in large language models have sparked interest in their extraordinary and near-superhuman capabilities, leading researchers to explore methods for evaluating and optimizing these abilities, which is called superalignment. In this context, our paper delves into the realm of vision foundation models, focusing on the concept of weak-to-strong generalization, which involves using a weaker model to supervise a stronger one, aiming to enhance the latter's capabilities beyond the former's limits. We introduce a novel and adaptively adjustable loss function for weak-to-strong supervision. Our comprehensive experiments span various scenarios, including few-shot learning, transfer learning, noisy label learning, and common knowledge distillation settings. The results are striking: our approach not only exceeds the performance benchmarks set by strong-to-strong generalization but also surpasses the outcomes of fine-tuning strong models with whole datasets. This compelling evidence underscores the significant potential of weak-to-strong generalization, showcasing its capability to substantially elevate the performance of vision foundation models. The code is available at https://github.com/ggjy/vision_weak_to_strong.]]></description>
+            <pubDate>Wed, 07 Feb 2024 02:58:05 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03749</guid>
+            <link>https://arxiv.org/abs/2402.03749</link>
             
             
             
-            <author><![CDATA[Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Mingchuan Zhang, Y. K. Li, Y. Wu, Daya Guo]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Training-Free Consistent Text-to-Image Generation]]></title>
-            <description><![CDATA[Text-to-image models offer a new level of creative flexibility by allowing users to guide the image generation process through natural language. However, using these models to consistently portray the same subject across diverse prompts remains challenging. Existing approaches fine-tune the model to teach it new words that describe specific user-provided subjects or add image conditioning to the model. These methods require lengthy per-subject optimization or large-scale pre-training. Moreover, they struggle to align generated images with text prompts and face difficulties in portraying multiple subjects. Here, we present ConsiStory, a training-free approach that enables consistent subject generation by sharing the internal activations of the pretrained model. We introduce a subject-driven shared attention block and correspondence-based feature injection to promote subject consistency between images. Additionally, we develop strategies to encourage layout diversity while maintaining subject consistency. We compare ConsiStory to a range of baselines, and demonstrate state-of-the-art performance on subject consistency and text alignment, without requiring a single optimization step. Finally, ConsiStory can naturally extend to multi-subject scenarios, and even enable training-free personalization for common objects.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:16:19 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03286</guid>
-            <link>https://arxiv.org/abs/2402.03286</link>
-            
-            
-            
-            <author><![CDATA[Yoad Tewel, Omri Kaduri, Rinon Gal, Yoni Kasten, Lior Wolf, Gal Chechik, Yuval Atzmon]]></author>
+            <author><![CDATA[Jianyuan Guo, Hanting Chen, Chengcheng Wang, Kai Han, Chang Xu, Yunhe Wang]]></author>
             
                 
             
@@ -211,47 +115,15 @@
         </item>
         
         <item>
-            <title><![CDATA[DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing]]></title>
-            <description><![CDATA[Large-scale Text-to-Image (T2I) diffusion models have revolutionized image generation over the last few years. Although owning diverse and high-quality generation capabilities, translating these abilities to fine-grained image editing remains challenging. In this paper, we propose DiffEditor to rectify two weaknesses in existing diffusion-based image editing: (1) in complex scenarios, editing results often lack editing accuracy and exhibit unexpected artifacts; (2) lack of flexibility to harmonize editing operations, e.g., imagine new content. In our solution, we introduce image prompts in fine-grained image editing, cooperating with the text prompt to better describe the editing content. To increase the flexibility while maintaining content consistency, we locally combine stochastic differential equation (SDE) into the ordinary differential equation (ODE) sampling. In addition, we incorporate regional score-based gradient guidance and a time travel strategy into the diffusion sampling, further improving the editing quality. Extensive experiments demonstrate that our method can efficiently achieve state-of-the-art performance on various fine-grained image editing tasks, including editing within a single image (e.g., object moving, resizing, and content dragging) and across images (e.g., appearance replacing and object pasting). Our source code is released at https://github.com/MC-E/DragonDiffusion.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:11:33 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.02583</guid>
-            <link>https://arxiv.org/abs/2402.02583</link>
+            <title><![CDATA[Self-Discover: Large Language Models Self-Compose Reasoning Structures]]></title>
+            <description><![CDATA[We introduce SELF-DISCOVER, a general framework for LLMs to self-discover the task-intrinsic reasoning structures to tackle complex reasoning problems that are challenging for typical prompting methods. Core to the framework is a self-discovery process where LLMs select multiple atomic reasoning modules such as critical thinking and step-by-step thinking, and compose them into an explicit reasoning structure for LLMs to follow during decoding. SELF-DISCOVER substantially improves GPT-4 and PaLM 2's performance on challenging reasoning benchmarks such as BigBench-Hard, grounded agent reasoning, and MATH, by as much as 32% compared to Chain of Thought (CoT). Furthermore, SELF-DISCOVER outperforms inference-intensive methods such as CoT-Self-Consistency by more than 20%, while requiring 10-40x fewer inference compute. Finally, we show that the self-discovered reasoning structures are universally applicable across model families: from PaLM 2-L to GPT-4, and from GPT-4 to Llama2, and share commonalities with human reasoning patterns.]]></description>
+            <pubDate>Wed, 07 Feb 2024 02:48:33 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03620</guid>
+            <link>https://arxiv.org/abs/2402.03620</link>
             
             
             
-            <author><![CDATA[Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion]]></title>
-            <description><![CDATA[Recent text-to-video diffusion models have achieved impressive progress. In practice, users often desire the ability to control object motion and camera movement independently for customized video creation. However, current methods lack the focus on separately controlling object motion and camera movement in a decoupled manner, which limits the controllability and flexibility of text-to-video models. In this paper, we introduce Direct-a-Video, a system that allows users to independently specify motions for one or multiple objects and/or camera movements, as if directing a video. We propose a simple yet effective strategy for the decoupled control of object motion and camera movement. Object motion is controlled through spatial cross-attention modulation using the model's inherent priors, requiring no additional optimization. For camera movement, we introduce new temporal cross-attention layers to interpret quantitative camera movement parameters. We further employ an augmentation-based approach to train these layers in a self-supervised manner on a small-scale dataset, eliminating the need for explicit motion annotation. Both components operate independently, allowing individual or combined control, and can generalize to open-domain scenarios. Extensive experiments demonstrate the superiority and effectiveness of our method. Project page: https://direct-a-video.github.io/.]]></description>
-            <pubDate>Tue, 06 Feb 2024 03:08:08 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03162</guid>
-            <link>https://arxiv.org/abs/2402.03162</link>
-            
-            
-            
-            <author><![CDATA[Shiyuan Yang, Liang Hou, Haibin Huang, Chongyang Ma, Pengfei Wan, Di Zhang, Xiaodong Chen, Jing Liao]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions]]></title>
-            <description><![CDATA[We introduce InteractiveVideo, a user-centric framework for video generation. Different from traditional generative approaches that operate based on user-provided images or text, our framework is designed for dynamic interaction, allowing users to instruct the generative model through various intuitive mechanisms during the whole generation process, e.g. text and image prompts, painting, drag-and-drop, etc. We propose a Synergistic Multimodal Instruction mechanism, designed to seamlessly integrate users' multimodal instructions into generative models, thus facilitating a cooperative and responsive interaction between user inputs and the generative process. This approach enables iterative and fine-grained refinement of the generation result through precise and effective user instructions. With InteractiveVideo, users are given the flexibility to meticulously tailor key aspects of a video. They can paint the reference image, edit semantics, and adjust video motions until their requirements are fully met. Code, models, and demo are available at https://github.com/invictus717/InteractiveVideo]]></description>
-            <pubDate>Tue, 06 Feb 2024 02:51:01 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.03040</guid>
-            <link>https://arxiv.org/abs/2402.03040</link>
-            
-            
-            
-            <author><![CDATA[Yiyuan Zhang, Yuhao Kang, Zhixin Zhang, Xiaohan Ding, Sanyuan Zhao, Xiangyu Yue]]></author>
+            <author><![CDATA[Pei Zhou, Jay Pujara, Xiang Ren, Xinyun Chen, Heng-Tze Cheng, Quoc V. Le, Ed H. Chi, Denny Zhou, Swaroop Mishra, Huaixiu Steven Zheng]]></author>
             
                 
             
