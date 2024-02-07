@@ -15,8 +15,88 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 07 Feb 2024 03:55:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 12:02:28 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters]]></title>
+            <description><![CDATA[Scaling up contrastive language-image pretraining (CLIP) is critical for empowering both vision and multimodal models. We present EVA-CLIP-18B, the largest and most powerful open-source CLIP model to date, with 18-billion parameters. With only 6-billion training samples seen, EVA-CLIP-18B achieves an exceptional 80.7% zero-shot top-1 accuracy averaged across 27 widely recognized image classification benchmarks, outperforming its forerunner EVA-CLIP (5-billion parameters) and other open-source CLIP models by a large margin. Remarkably, we observe a consistent performance improvement with the model size scaling of EVA-CLIP, despite maintaining a constant training dataset of 2-billion image-text pairs from LAION-2B and COYO-700M. This dataset is openly available and much smaller than the in-house datasets (e.g., DFN-5B, WebLI-10B) employed in other state-of-the-art CLIP models. EVA-CLIP-18B demonstrates the potential of EVA-style weak-to-strong visual model scaling. With our model weights made publicly available, we hope to facilitate future research in vision and multimodal foundation models.]]></description>
+            <pubDate>Wed, 07 Feb 2024 04:41:38 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.04252</guid>
+            <link>https://arxiv.org/abs/2402.04252</link>
+            
+            
+            
+            <author><![CDATA[Quan Sun, Jinsheng Wang, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[IMUSIC: IMU-based Facial Expression Capture]]></title>
+            <description><![CDATA[For facial motion capture and analysis, the dominated solutions are generally based on visual cues, which cannot protect privacy and are vulnerable to occlusions. Inertial measurement units (IMUs) serve as potential rescues yet are mainly adopted for full-body motion capture. In this paper, we propose IMUSIC to fill the gap, a novel path for facial expression capture using purely IMU signals, significantly distant from previous visual solutions.The key design in our IMUSIC is a trilogy. We first design micro-IMUs to suit facial capture, companion with an anatomy-driven IMU placement scheme. Then, we contribute a novel IMU-ARKit dataset, which provides rich paired IMU/visual signals for diverse facial expressions and performances. Such unique multi-modality brings huge potential for future directions like IMU-based facial behavior analysis. Moreover, utilizing IMU-ARKit, we introduce a strong baseline approach to accurately predict facial blendshape parameters from purely IMU signals. Specifically, we tailor a Transformer diffusion model with a two-stage training strategy for this novel tracking task. The IMUSIC framework empowers us to perform accurate facial capture in scenarios where visual methods falter and simultaneously safeguard user privacy. We conduct extensive experiments about both the IMU configuration and technical components to validate the effectiveness of our IMUSIC approach. Notably, IMUSIC enables various potential and novel applications, i.e., privacy-protecting facial capture, hybrid capture against occlusions, or detecting minute facial movements that are often invisible through visual cues. We will release our dataset and implementations to enrich more possibilities of facial capture and analysis in our community.]]></description>
+            <pubDate>Wed, 07 Feb 2024 04:32:57 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03944</guid>
+            <link>https://arxiv.org/abs/2402.03944</link>
+            
+            
+            
+            <author><![CDATA[Youjia Wang, Yiwen Wu, Ruiqian Li, Hengan Zhou, Hongyang Lin, Yingwenqi Jiang, Yingsheng Zhu, Guanpeng Long, Jingya Wang, Lan Xu, Jingyi Yu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[EscherNet: A Generative Model for Scalable View Synthesis]]></title>
+            <description><![CDATA[We introduce EscherNet, a multi-view conditioned diffusion model for view synthesis. EscherNet learns implicit and generative 3D representations coupled with a specialised camera positional encoding, allowing precise and continuous relative control of the camera transformation between an arbitrary number of reference and target views. EscherNet offers exceptional generality, flexibility, and scalability in view synthesis -- it can generate more than 100 consistent target views simultaneously on a single consumer-grade GPU, despite being trained with a fixed number of 3 reference views to 3 target views. As a result, EscherNet not only addresses zero-shot novel view synthesis, but also naturally unifies single- and multi-image 3D reconstruction, combining these diverse tasks into a single, cohesive framework. Our extensive experiments demonstrate that EscherNet achieves state-of-the-art performance in multiple benchmarks, even when compared to methods specifically tailored for each individual problem. This remarkable versatility opens up new directions for designing scalable neural architectures for 3D vision. Project page: https://kxhit.github.io/EscherNet.]]></description>
+            <pubDate>Wed, 07 Feb 2024 04:28:51 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03908</guid>
+            <link>https://arxiv.org/abs/2402.03908</link>
+            
+            
+            
+            <author><![CDATA[Xin Kong, Shikun Liu, Xiaoyang Lyu, Marwan Taher, Xiaojuan Qi, Andrew J. Davison]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Diffusion World Model]]></title>
+            <description><![CDATA[We introduce Diffusion World Model (DWM), a conditional diffusion model capable of predicting multistep future states and rewards concurrently. As opposed to traditional one-step dynamics models, DWM offers long-horizon predictions in a single forward pass, eliminating the need for recursive quires. We integrate DWM into model-based value estimation, where the short-term return is simulated by future trajectories sampled from DWM. In the context of offline reinforcement learning, DWM can be viewed as a conservative value regularization through generative modeling. Alternatively, it can be seen as a data source that enables offline Q-learning with synthetic data. Our experiments on the D4RL dataset confirm the robustness of DWM to long-horizon simulation. In terms of absolute performance, DWM significantly surpasses one-step dynamics models with a 44% performance gain, and achieves state-of-the-art performance.]]></description>
+            <pubDate>Wed, 07 Feb 2024 04:25:07 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.03570</guid>
+            <link>https://arxiv.org/abs/2402.03570</link>
+            
+            
+            
+            <author><![CDATA[Zihan Ding, Amy Zhang, Yuandong Tian, Qinqing Zheng]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MusicRL: Aligning Music Generation to Human Preferences]]></title>
+            <description><![CDATA[We propose MusicRL, the first music generation system finetuned from human feedback. Appreciation of text-to-music models is particularly subjective since the concept of musicality as well as the specific intention behind a caption are user-dependent (e.g. a caption such as "upbeat work-out music" can map to a retro guitar solo or a techno pop beat). Not only this makes supervised training of such models challenging, but it also calls for integrating continuous human feedback in their post-deployment finetuning. MusicRL is a pretrained autoregressive MusicLM (Agostinelli et al., 2023) model of discrete audio tokens finetuned with reinforcement learning to maximise sequence-level rewards. We design reward functions related specifically to text-adherence and audio quality with the help from selected raters, and use those to finetune MusicLM into MusicRL-R. We deploy MusicLM to users and collect a substantial dataset comprising 300,000 pairwise preferences. Using Reinforcement Learning from Human Feedback (RLHF), we train MusicRL-U, the first text-to-music model that incorporates human feedback at scale. Human evaluations show that both MusicRL-R and MusicRL-U are preferred to the baseline. Ultimately, MusicRL-RU combines the two approaches and results in the best model according to human raters. Ablation studies shed light on the musical attributes influencing human preferences, indicating that text adherence and quality only account for a part of it. This underscores the prevalence of subjectivity in musical appreciation and calls for further involvement of human listeners in the finetuning of music generation models.]]></description>
+            <pubDate>Wed, 07 Feb 2024 04:21:27 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.04229</guid>
+            <link>https://arxiv.org/abs/2402.04229</link>
+            
+            
+            
+            <author><![CDATA[Geoffrey Cideron, Sertan Girgin, Mauro Verzetti, Damien Vincent, Matej Kastelic, Zalán Borsos, Brian McWilliams, Victor Ungureanu, Olivier Bachem, Olivier Pietquin, Matthieu Geist, Léonard Hussenot, Neil Zeghidour, Andrea Agostinelli]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks]]></title>
