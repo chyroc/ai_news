@@ -1,9 +1,284 @@
-<!DOCTYPE html><html><head><title>Error in RSSHub!</title><style>body{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:16px;color:#2c3e50}.content{width:800px;margin:100px auto 0;text-align:center}.message{white-space:pre-wrap;text-align:left}a{color:#f5712c}img{filter:grayscale(1)}</style></head><body><div class="content"><p><img src="/logo.png" alt="RSSHub" width="120" loading="lazy"></p><h1>Looks like something went wrong</h1><pre class="message">Route requested: /twitter/user/LangChainAI</pre><pre class="message">Error message: Response code 401 (Unauthorized): target website might be blocking our access, you can <a href="https://docs.rsshub.app/install/">host your own RSSHub instance</a> for a better usability.</pre><pre class="message">
-Helpful Information to provide when opening issue:
-Path: /twitter/user/LangChainAI
-Node version: v20.11.0
-Git Hash: 9d8fc0e
-        </pre><pre class="message">
-If you believe this is an error caused by RSSHub, please <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_en.yml" target="_blank">report on github</a>
-如果您认为 RSSHub 导致了该错误，请在 GitHub 按照模版，复制本页面信息进行 <a href="https://github.com/DIYgod/RSSHub/issues/new?assignees=&labels=RSS+bug&template=bug_report_zh.yml" target="_blank">汇报</a>
-        </pre><div style="margin:50px 0"><p>For online documentation and support please refer to <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>.</p><p>在线文档与支持，请访问 <a href="https://docs.rsshub.app/" target="_blank">docs.rsshub.app</a>。</p></div></div></body></html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Twitter @LangChain]]></title>
+        <link>https://twitter.com/LangChainAI</link>
+        <atom:link href="https://rsshub.app/twitter/user/LangChainAI" rel="self" type="application/rss+xml" />
+        <description><![CDATA[⚡ Build context-aware, reasoning applications ⚡ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://pbs.twimg.com/profile_images/1750187002157481984/pL2AibsQ.jpg</url>
+            <title><![CDATA[Twitter @LangChain]]></title>
+            <link>https://twitter.com/LangChainAI</link>
+        </image>
+        
+        <lastBuildDate>Thu, 08 Feb 2024 15:34:01 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[💸 Cost Tracking in LangSmith 💸 Looking for deeper insights into your spending patterns for your LLM application to avoid costly surprises? This ...]]></title>
+            <description><![CDATA[💸 Cost Tracking in LangSmith 💸<br><br>Looking for deeper insights into your spending patterns for your LLM application to avoid costly surprises?  <br><br>This is now doable in LangSmith with the addition of token-based cost tracking! <br><br>You can drill down to view costs by project,…<br><img style="" src="https://pbs.twimg.com/media/GFwr66YbYAErK9l?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/GFwr66XbYAEb9mK?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Feb 2024 20:23:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1755326365711425707</guid>
+            <link>https://twitter.com/LangChainAI/status/1755326365711425707</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[📹Summarize a webpage and send it by email from OpenGPTs using @connery_io actions Cool tutorial from the Connery team on how to use their platform ...]]></title>
+            <description><![CDATA[📹Summarize a webpage and send it by email from OpenGPTs using @connery_io actions<br><br>Cool tutorial from the Connery team on how to use their platform to add arbitrary actions to OpenGPTs!<br><br>https://www.youtube.com/watch?v=ok4z-Ox-1_o]]></description>
+            <pubDate>Wed, 07 Feb 2024 19:55:00 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1755319267321667723</guid>
+            <link>https://twitter.com/LangChainAI/status/1755319267321667723</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Hard Kothari: If you are still new to @LangChainAI and RAG and want a quick overview on how RAG works Amazing short videos are created by @RLanceMa...]]></title>
+            <description><![CDATA[RT Hard Kothari<br>If you are still new to @LangChainAI  and RAG and want a quick overview on how RAG works<br><br>Amazing short videos are created by @RLanceMartin for explaining the concepts and moving parts of RAG mechanism.<br><br>Its definitely worth watch and no video is over 10mins.…<br><img style="" src="https://pbs.twimg.com/media/GFwT5VtXgAAr7cz?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Feb 2024 18:37:50 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1755334317843320894</guid>
+            <link>https://twitter.com/LangChainAI/status/1755334317843320894</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT James Pog: guys woah 👀 LangGraph is fantastic.. best multi-agent tool I've tried so far! I made 2 agents help me research food for a trip to Sea...]]></title>
+            <description><![CDATA[RT James Pog<br>guys woah 👀 LangGraph is fantastic..<br><br>best multi-agent tool I've tried so far!<br><br>I made 2 agents help me research food for a trip to Seattle using @ExaAILabs and @LangChainAI 🤖 <br><br>(code + results below ⬇️ )<br><img style="" src="https://pbs.twimg.com/media/GFwLqHwWEAAlSOR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Feb 2024 18:01:48 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1755334242853413190</guid>
+            <link>https://twitter.com/LangChainAI/status/1755334242853413190</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Self-Reflective RAG using LangGraph Self-reflection can enhance RAG, enabling correction of poor quality retrieval or generations. Several recent pape...]]></title>
+            <description><![CDATA[Self-Reflective RAG using LangGraph<br><br>Self-reflection can enhance RAG, enabling correction of poor quality retrieval or generations.<br><br>Several recent papers focus on this theme, but implementing the ideas can be tricky.<br><br>Here is a video and two cookbooks that show how to engineer…<br><img style="" src="https://pbs.twimg.com/media/GFwCTnLakAEhz8p?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Feb 2024 17:26:09 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1755281809880027623</guid>
+            <link>https://twitter.com/LangChainAI/status/1755281809880027623</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[🔌 Connery Plugins + OpenGPTs 🦜🤖 👇 Blog + video links at the end! Some of the coolest LLM-powered apps involve granting the model agentic a...]]></title>
+            <description><![CDATA[🔌 Connery Plugins + OpenGPTs 🦜🤖<br><br>👇 Blog + video links at the end!<br><br>Some of the coolest LLM-powered apps involve granting the model agentic access to third-party systems, but there are a few things to think about when shipping:<br><br>👥 Personalization: How do you manage linked…<br><img style="" src="https://pbs.twimg.com/media/GFv6k4NakAA_YFY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Feb 2024 17:00:15 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1755275291960971761</guid>
+            <link>https://twitter.com/LangChainAI/status/1755275291960971761</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Tomaz Bratanic: Got the first version of using Mixtral via @ollama to power a @LangChainAI agent that interacts with @neo4j via a semantic layer. I...]]></title>
+            <description><![CDATA[RT Tomaz Bratanic<br>Got the first version of using Mixtral via @ollama  to power a @LangChainAI  agent that interacts with @neo4j  via a semantic layer. I'll make it into a LangChain template and write a blog about it. You can take a sneak peek here: https://github.com/tomasonjo/blogs/blob/master/llm/ollama_semantic_layer.ipynb<br><img style="" src="https://pbs.twimg.com/media/GFvVKpwWoAA3XID?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 07 Feb 2024 14:03:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1755271418340909224</guid>
+            <link>https://twitter.com/LangChainAI/status/1755271418340909224</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Brace: ⁉️ RAG with Q&A Retrieval augmented generation has proven itself as one of the best ways to provide relevant & up to date context to LLMs....]]></title>
+            <description><![CDATA[RT Brace<br>⁉️ RAG with Q&amp;A<br><br>Retrieval augmented generation has proven itself as one of the best ways to provide relevant &amp; up to date context to LLMs. We just added a new in-depth use case section outlining different RAG techniques in @LangChainAI 🦜🔗!<br><br>Looking to perform RAG with agents,…<br><img style="" src="https://pbs.twimg.com/media/GFq4-RlbAAMAN5x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:22:12 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754936353211502782</guid>
+            <link>https://twitter.com/LangChainAI/status/1754936353211502782</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re 4/ New to LangGraph? Check out the intro video: https://www.youtube.com/watch?v=5h-JBkySK34]]></title>
+            <description><![CDATA[Re 4/ New to LangGraph?<br><br>Check out the intro video:&nbsp;https://www.youtube.com/watch?v=5h-JBkySK34]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918058945348080</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918058945348080</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re 3/ Developing agents like WebVoyager is easier with easier with LangSmith. Sign up at https://smith.langchain.com/ to get started.]]></title>
+            <description><![CDATA[Re 3/ Developing agents like WebVoyager is easier with easier with LangSmith.<br><br>Sign up at&nbsp;https://smith.langchain.com/ to get started.]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918057477341349</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918057477341349</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re 2/ To jump straight to the code, check out the links below. Python Code: https://github.com/langchain-ai/langgraph/blob/main/examples/web-navigatio...]]></title>
+            <description><![CDATA[Re 2/ To jump straight to the code, check out the links below.<br><br>Python Code:&nbsp;https://github.com/langchain-ai/langgraph/blob/main/examples/web-navigation/web_voyager.ipynb<br>WebVoyager Paper:&nbsp;https://arxiv.org/abs/2401.13919<br>Set-of-Mark Paper:&nbsp;https://arxiv.org/abs/2310.11441]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:44 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918056273576340</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918056273576340</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[⛴️ WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models WebVoyager is a new kind of web-browsing agent, developed by Hongliang ...]]></title>
+            <description><![CDATA[⛴️&nbsp;WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models<br><br>WebVoyager is a new kind of web-browsing agent, developed by Hongliang He, @wyu_nd, et. al.<br><br>Powered by large multi-modal models, like GPT-4V, it uses browser screenshots to conduct research, analyze…<br><img style="" src="https://pbs.twimg.com/media/GFq4KYNaAAI2V1g?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:20:43 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754918053891183090</guid>
+            <link>https://twitter.com/LangChainAI/status/1754918053891183090</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RAG From Scratch: Video series focused on understanding the RAG landscape RAG is central for LLM application development, connecting LLMs to external ...]]></title>
+            <description><![CDATA[RAG From Scratch: Video series focused on understanding the RAG landscape<br><br>RAG is central for LLM application development, connecting LLMs to external data sources.<br><br>But, the pace of innovation and new approaches makes it challenging to keep up.<br><br>We're launching a new video…<br><img style="" src="https://pbs.twimg.com/media/GFqzmgVbAAEUnb-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 17:12:13 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754915914796216654</guid>
+            <link>https://twitter.com/LangChainAI/status/1754915914796216654</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[💿WikiData Tool WikiData allows you to easily connect to a free and open knowledge base Now available as a tool in LangChain! https://python.langcha...]]></title>
+            <description><![CDATA[💿WikiData Tool<br><br>WikiData allows you to easily connect to a free and open knowledge base<br><br>Now available as a tool in LangChain!<br><br>https://python.langchain.com/docs/integrations/tools/wikidata<br><img style="" src="https://pbs.twimg.com/media/GFnaGhqb0AARQ3O?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 06 Feb 2024 01:08:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754673371135308147</guid>
+            <link>https://twitter.com/LangChainAI/status/1754673371135308147</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[👨‍💻Chandler Nguyen details his novice coder journey from failure to building his own AI chatbot agent using LangChain! 🌟 “I could envision ...]]></title>
+            <description><![CDATA[👨‍💻Chandler Nguyen details his novice coder journey from failure to building his own AI chatbot agent using LangChain! 🌟<br><br>“I could envision adapting LangChain’s robust capabilities to my passion project. Finally, a way forward revealed itself! One step at a time, I oriented…<br><img style="" src="https://pbs.twimg.com/media/GFmrThJboAAXNsQ?format=png&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Mon, 05 Feb 2024 21:47:28 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754622795034792092</guid>
+            <link>https://twitter.com/LangChainAI/status/1754622795034792092</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT Jacob Lee: 🤯 I was astonished that you could run @nomic_ai's new OSS embeddings *in your browser* with @xenovacom's Transformers.js! If you want...]]></title>
+            <description><![CDATA[RT Jacob Lee<br>🤯 I was astonished that you could run @nomic_ai's new OSS embeddings *in your browser* with @xenovacom's Transformers.js!<br><br>If you want to play with them, I updated my @ollama + @LangChainAI + @dawchihliou Voy fully-local chat with PDF app to use it:<br><br>https://github.com/jacoblee93/fully-local-pdf-chatbot<div class="rsshub-quote"><br><br>Xenova: Nomic Embed is out: a new 8K text embedding model by @nomic_ai! 🚀<br><br>It's also compatible with 🤗 Transformers.js, meaning you can generate embeddings directly in your browser (no server required)!<br><br><img style="" src="https://pbs.twimg.com/media/GFRPXR0a8AAjym8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <pubDate>Mon, 05 Feb 2024 17:46:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/LangChainAI/status/1754635859335258462</guid>
+            <link>https://twitter.com/LangChainAI/status/1754635859335258462</link>
+            
+            
+            
+            <author><![CDATA[LangChain]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
