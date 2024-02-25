@@ -15,19 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 09 Feb 2024 02:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Feb 2024 15:00:01 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[WebLINX: Real-World Website Navigation with Multi-Turn Dialogue]]></title>
-            <description><![CDATA[We propose the problem of conversational web navigation, where a digital agent controls a web browser and follows user instructions to solve real-world tasks in a multi-turn dialogue fashion. To support this problem, we introduce WEBLINX - a large-scale benchmark of 100K interactions across 2300 expert demonstrations of conversational web navigation. Our benchmark covers a broad range of patterns on over 150 real-world websites and can be used to train and evaluate agents in diverse scenarios. Due to the magnitude of information present, Large Language Models (LLMs) cannot process entire web pages in real-time. To solve this bottleneck, we design a retrieval-inspired model that efficiently prunes HTML pages by ranking relevant elements. We use the selected elements, along with screenshots and action history, to assess a variety of models for their ability to replicate human behavior when navigating the web. Our experiments span from small text-only to proprietary multimodal LLMs. We find that smaller finetuned decoders surpass the best zero-shot LLMs (including GPT-4V), but also larger finetuned multimodal models which were explicitly pretrained on screenshots. However, all finetuned models struggle to generalize to unseen websites. Our findings highlight the need for large multimodal models that can generalize to novel settings. Our code, data and models are available for research: https://mcgill-nlp.github.io/weblinx]]></description>
-            <pubDate>Fri, 09 Feb 2024 02:47:30 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.05930</guid>
-            <link>https://arxiv.org/abs/2402.05930</link>
+            <title><![CDATA[GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion]]></title>
+            <description><![CDATA[In this work, we tackle the challenging problem of denoising hand-object interactions (HOI). Given an erroneous interaction sequence, the objective is to refine the incorrect hand trajectory to remove interaction artifacts for a perceptually realistic sequence. This challenge involves intricate interaction noise, including unnatural hand poses and incorrect hand-object relations, alongside the necessity for robust generalization to new interactions and diverse noise patterns. We tackle those challenges through a novel approach, GeneOH Diffusion, incorporating two key designs: an innovative contact-centric HOI representation named GeneOH and a new domain-generalizable denoising scheme. The contact-centric representation GeneOH informatively parameterizes the HOI process, facilitating enhanced generalization across various HOI scenarios. The new denoising scheme consists of a canonical denoising model trained to project noisy data samples from a whitened noise space to a clean data manifold and a "denoising via diffusion" strategy which can handle input trajectories with various noise patterns by first diffusing them to align with the whitened noise space and cleaning via the canonical denoiser. Extensive experiments on four benchmarks with significant domain variations demonstrate the superior effectiveness of our method. GeneOH Diffusion also shows promise for various downstream applications. Project website: https://meowuu7.github.io/GeneOH-Diffusion/.]]></description>
+            <pubDate>Fri, 23 Feb 2024 05:00:10 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14810</guid>
+            <link>https://arxiv.org/abs/2402.14810</link>
             
             
             
-            <author><![CDATA[Xing Han Lù, Zdeněk Kasner, Siva Reddy]]></author>
+            <author><![CDATA[Xueyi Liu, Li Yi]]></author>
             
                 
             
@@ -35,15 +35,287 @@
         </item>
         
         <item>
-            <title><![CDATA[In-Context Principle Learning from Mistakes]]></title>
-            <description><![CDATA[In-context learning (ICL, also known as few-shot prompting) has been the standard method of adapting LLMs to downstream tasks, by learning from a few input-output examples. Nonetheless, all ICL-based approaches only learn from correct input-output pairs. In this paper, we revisit this paradigm, by learning more from the few given input-output examples. We introduce Learning Principles (LEAP): First, we intentionally induce the model to make mistakes on these few examples; then we reflect on these mistakes, and learn explicit task-specific "principles" from them, which help solve similar problems and avoid common mistakes; finally, we prompt the model to answer unseen test questions using the original few-shot examples and these learned general principles. We evaluate LEAP on a wide range of benchmarks, including multi-hop question answering (Hotpot QA), textual QA (DROP), Big-Bench Hard reasoning, and math problems (GSM8K and MATH); in all these benchmarks, LEAP improves the strongest available LLMs such as GPT-3.5-turbo, GPT-4, GPT-4 turbo and Claude-2.1. For example, LEAP improves over the standard few-shot prompting using GPT-4 by 7.5% in DROP, and by 3.3% in HotpotQA. Importantly, LEAP does not require any more input or examples than the standard few-shot prompting settings.]]></description>
-            <pubDate>Fri, 09 Feb 2024 02:43:30 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2402.05403</guid>
-            <link>https://arxiv.org/abs/2402.05403</link>
+            <title><![CDATA[CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation]]></title>
+            <description><![CDATA[We introduce CyberDemo, a novel approach to robotic imitation learning that leverages simulated human demonstrations for real-world tasks. By incorporating extensive data augmentation in a simulated environment, CyberDemo outperforms traditional in-domain real-world demonstrations when transferred to the real world, handling diverse physical and visual conditions. Regardless of its affordability and convenience in data collection, CyberDemo outperforms baseline methods in terms of success rates across various tasks and exhibits generalizability with previously unseen objects. For example, it can rotate novel tetra-valve and penta-valve, despite human demonstrations only involving tri-valves. Our research demonstrates the significant potential of simulated human demonstrations for real-world dexterous manipulation tasks. More details can be found at https://cyber-demo.github.io]]></description>
+            <pubDate>Fri, 23 Feb 2024 04:56:50 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14795</guid>
+            <link>https://arxiv.org/abs/2402.14795</link>
             
             
             
-            <author><![CDATA[Tianjun Zhang, Aman Madaan, Luyu Gao, Steven Zheng, Swaroop Mishra, Yiming Yang, Niket Tandon, Uri Alon]]></author>
+            <author><![CDATA[Jun Wang, Yuzhe Qin, Kaiming Kuang, Yigit Korkmaz, Akhilan Gurumoorthy, Hao Su, Xiaolong Wang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay]]></title>
+            <description><![CDATA[Imitation learning learns a policy from demonstrations without requiring hand-designed reward functions. In many robotic tasks, such as autonomous racing, imitated policies must model complex environment dynamics and human decision-making. Sequence modeling is highly effective in capturing intricate patterns of motion sequences but struggles to adapt to new environments or distribution shifts that are common in real-world robotics tasks. In contrast, Adversarial Imitation Learning (AIL) can mitigate this effect, but struggles with sample inefficiency and handling complex motion patterns. Thus, we propose BeTAIL: Behavior Transformer Adversarial Imitation Learning, which combines a Behavior Transformer (BeT) policy from human demonstrations with online AIL. BeTAIL adds an AIL residual policy to the BeT policy to model the sequential decision-making process of human experts and correct for out-of-distribution states or shifts in environment dynamics. We test BeTAIL on three challenges with expert-level demonstrations of real human gameplay in Gran Turismo Sport. Our proposed residual BeTAIL reduces environment interactions and improves racing performance and stability, even when the BeT is pretrained on different tracks than downstream learning. Videos and code available at: https://sites.google.com/berkeley.edu/BeTAIL/home.]]></description>
+            <pubDate>Fri, 23 Feb 2024 04:42:53 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14194</guid>
+            <link>https://arxiv.org/abs/2402.14194</link>
+            
+            
+            
+            <author><![CDATA[Catherine Weaver, Chen Tang, Ce Hao, Kenta Kawamoto, Masayoshi Tomizuka, Wei Zhan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Linear Transformers are Versatile In-Context Learners]]></title>
+            <description><![CDATA[Recent research has demonstrated that transformers, particularly linear attention models, implicitly execute gradient-descent-like algorithms on data provided in-context during their forward inference step. However, their capability in handling more complex problems remains unexplored. In this paper, we prove that any linear transformer maintains an implicit linear model and can be interpreted as performing a variant of preconditioned gradient descent. We also investigate the use of linear transformers in a challenging scenario where the training data is corrupted with different levels of noise. Remarkably, we demonstrate that for this problem linear transformers discover an intricate and highly effective optimization algorithm, surpassing or matching in performance many reasonable baselines. We reverse-engineer this algorithm and show that it is a novel approach incorporating momentum and adaptive rescaling based on noise levels. Our findings show that even linear transformers possess the surprising ability to discover sophisticated optimization strategies.]]></description>
+            <pubDate>Fri, 23 Feb 2024 04:38:26 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14180</guid>
+            <link>https://arxiv.org/abs/2402.14180</link>
+            
+            
+            
+            <author><![CDATA[Max Vladymyrov, Johannes von Oswald, Mark Sandler, Rong Ge]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping]]></title>
+            <description><![CDATA[While Transformers have enabled tremendous progress in various application settings, such architectures still lag behind traditional symbolic planners for solving complex decision making tasks. In this work, we demonstrate how to train Transformers to solve complex planning tasks and present Searchformer, a Transformer model that optimally solves previously unseen Sokoban puzzles 93.7% of the time, while using up to 26.8% fewer search steps than standard A^* search. Searchformer is an encoder-decoder Transformer model trained to predict the search dynamics of A^*. This model is then fine-tuned via expert iterations to perform fewer search steps than A^* search while still generating an optimal plan. In our training method, A^*'s search dynamics are expressed as a token sequence outlining when task states are added and removed into the search tree during symbolic planning. In our ablation studies on maze navigation, we find that Searchformer significantly outperforms baselines that predict the optimal plan directly with a 5-10times smaller model size and a 10times smaller training dataset. We also demonstrate how Searchformer scales to larger and more complex decision making tasks like Sokoban with improved percentage of solved tasks and shortened search dynamics.]]></description>
+            <pubDate>Fri, 23 Feb 2024 04:34:05 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14083</guid>
+            <link>https://arxiv.org/abs/2402.14083</link>
+            
+            
+            
+            <author><![CDATA[Lucas Lehnert, Sainbayar Sukhbaatar, Paul Mcvay, Michael Rabbat, Yuandong Tian]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[GaussianPro: 3D Gaussian Splatting with Progressive Propagation]]></title>
+            <description><![CDATA[The advent of 3D Gaussian Splatting (3DGS) has recently brought about a revolution in the field of neural rendering, facilitating high-quality renderings at real-time speed. However, 3DGS heavily depends on the initialized point cloud produced by Structure-from-Motion (SfM) techniques. When tackling with large-scale scenes that unavoidably contain texture-less surfaces, the SfM techniques always fail to produce enough points in these surfaces and cannot provide good initialization for 3DGS. As a result, 3DGS suffers from difficult optimization and low-quality renderings. In this paper, inspired by classical multi-view stereo (MVS) techniques, we propose GaussianPro, a novel method that applies a progressive propagation strategy to guide the densification of the 3D Gaussians. Compared to the simple split and clone strategies used in 3DGS, our method leverages the priors of the existing reconstructed geometries of the scene and patch matching techniques to produce new Gaussians with accurate positions and orientations. Experiments on both large-scale and small-scale scenes validate the effectiveness of our method, where our method significantly surpasses 3DGS on the Waymo dataset, exhibiting an improvement of 1.15dB in terms of PSNR.]]></description>
+            <pubDate>Fri, 23 Feb 2024 04:25:38 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14650</guid>
+            <link>https://arxiv.org/abs/2402.14650</link>
+            
+            
+            
+            <author><![CDATA[Kai Cheng, Xiaoxiao Long, Kaizhi Yang, Yao Yao, Wei Yin, Yuexin Ma, Wenping Wang, Xuejin Chen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Consolidating Attention Features for Multi-view Image Editing]]></title>
+            <description><![CDATA[Large-scale text-to-image models enable a wide range of image editing techniques, using text prompts or even spatial controls. However, applying these editing methods to multi-view images depicting a single scene leads to 3D-inconsistent results. In this work, we focus on spatial control-based geometric manipulations and introduce a method to consolidate the editing process across various views. We build on two insights: (1) maintaining consistent features throughout the generative process helps attain consistency in multi-view editing, and (2) the queries in self-attention layers significantly influence the image structure. Hence, we propose to improve the geometric consistency of the edited images by enforcing the consistency of the queries. To do so, we introduce QNeRF, a neural radiance field trained on the internal query features of the edited images. Once trained, QNeRF can render 3D-consistent queries, which are then softly injected back into the self-attention layers during generation, greatly improving multi-view consistency. We refine the process through a progressive, iterative method that better consolidates queries across the diffusion timesteps. We compare our method to a range of existing techniques and demonstrate that it can achieve better multi-view consistency and higher fidelity to the input scene. These advantages allow us to train NeRFs with fewer visual artifacts, that are better aligned with the target geometry.]]></description>
+            <pubDate>Fri, 23 Feb 2024 04:20:02 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14792</guid>
+            <link>https://arxiv.org/abs/2402.14792</link>
+            
+            
+            
+            <author><![CDATA[Or Patashnik, Rinon Gal, Daniel Cohen-Or, Jun-Yan Zhu, Fernando De la Torre]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PALO: A Polyglot Large Multimodal Model for 5B People]]></title>
+            <description><![CDATA[In pursuit of more inclusive Vision-Language Models (VLMs), this study introduces a Large Multilingual Multimodal Model called Palo. Palo offers visual reasoning capabilities in 10 major languages, including English, Chinese, Hindi, Spanish, French, Arabic, Bengali, Russian, Urdu, and Japanese, that span a total of sim5B people (65\% of the world population). Our approach involves a semi-automated translation approach to adapt the multimodal instruction dataset from English to the target languages using a fine-tuned Large Language Model, thereby ensuring high linguistic fidelity while allowing scalability due to minimal manual effort. The incorporation of diverse instruction sets helps us boost overall performance across multiple languages especially those that are underrepresented like Hindi, Arabic, Bengali, and Urdu. The resulting models are trained across three scales (1.7B, 7B and 13B parameters) to show the generalization and scalability where we observe substantial improvements compared to strong baselines. We also propose the first multilingual multimodal benchmark for the forthcoming approaches to evaluate their vision-language reasoning capabilities across languages. Code: https://github.com/mbzuai-oryx/PALO.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:41:49 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14818</guid>
+            <link>https://arxiv.org/abs/2402.14818</link>
+            
+            
+            
+            <author><![CDATA[Muhammad Maaz, Hanoona Rasheed, Abdelrahman Shaker, Salman Khan, Hisham Cholakal, Rao M. Anwer, Tim Baldwin, Michael Felsberg, Fahad S. Khan]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Scaling Up LLM Reviews for Google Ads Content Moderation]]></title>
+            <description><![CDATA[Large language models (LLMs) are powerful tools for content moderation, but their inference costs and latency make them prohibitive for casual use on large datasets, such as the Google Ads repository. This study proposes a method for scaling up LLM reviews for content moderation in Google Ads. First, we use heuristics to select candidates via filtering and duplicate removal, and create clusters of ads for which we select one representative ad per cluster. We then use LLMs to review only the representative ads. Finally, we propagate the LLM decisions for the representative ads back to their clusters. This method reduces the number of reviews by more than 3 orders of magnitude while achieving a 2x recall compared to a baseline non-LLM model. The success of this approach is a strong function of the representations used in clustering and label propagation; we found that cross-modal similarity representations yield better results than uni-modal representations.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:33:36 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14590</guid>
+            <link>https://arxiv.org/abs/2402.14590</link>
+            
+            
+            
+            <author><![CDATA[Wei Qiao, Tushar Dogra, Otilia Stretcu, Yu-Han Lyu, Tiantian Fang, Dongjin Kwon, Chun-Ta Lu, Enming Luo, Yuan Wang, Chih-Chun Chia, Ariel Fuxman, Fangzhou Wang, Ranjay Krishna, Mehmet Tek]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OmniPred: Language Models as Universal Regressors]]></title>
+            <description><![CDATA[Over the broad landscape of experimental design, regression has been a powerful tool to accurately predict the outcome metrics of a system or model given a set of parameters, but has been traditionally restricted to methods which are only applicable to a specific task. In this paper, we propose OmniPred, a framework for training language models as universal end-to-end regressors over (x,y) evaluation data from diverse real world experiments. Using data sourced from Google Vizier, one of the largest blackbox optimization databases in the world, our extensive experiments demonstrate that through only textual representations of mathematical parameters and values, language models are capable of very precise numerical regression, and if given the opportunity to train over multiple tasks, can significantly outperform traditional regression models.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:30:50 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14547</guid>
+            <link>https://arxiv.org/abs/2402.14547</link>
+            
+            
+            
+            <author><![CDATA[Xingyou Song, Oscar Li, Chansoo Lee, Bangding, Yang, Daiyi Peng, Sagi Perel, Yutian Chen]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Subobject-level Image Tokenization]]></title>
+            <description><![CDATA[Transformer-based vision models typically tokenize images into fixed-size square patches as input units, which lacks the adaptability to image content and overlooks the inherent pixel grouping structure. Inspired by the subword tokenization widely adopted in language models, we propose an image tokenizer at a subobject level, where the subobjects are represented by semantically meaningful image segments obtained by segmentation models (e.g., segment anything models). To implement a learning system based on subobject tokenization, we first introduced a Sequence-to-sequence AutoEncoder (SeqAE) to compress subobject segments of varying sizes and shapes into compact embedding vectors, then fed the subobject embeddings into a large language model for vision language learning. Empirical results demonstrated that our subobject-level tokenization significantly facilitates efficient learning of translating images into object and attribute descriptions compared to the traditional patch-level tokenization. Codes and models will be open-sourced at https://github.com/ChenDelong1999/subobjects.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:29:11 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14327</guid>
+            <link>https://arxiv.org/abs/2402.14327</link>
+            
+            
+            
+            <author><![CDATA[Delong Chen, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[TinyLLaVA: A Framework of Small-scale Large Multimodal Models]]></title>
+            <description><![CDATA[We present the TinyLLaVA framework that provides a unified perspective in designing and analyzing the small-scale Large Multimodal Models (LMMs). We empirically study the effects of different vision encoders, connection modules, language models, training data and training recipes. Our extensive experiments showed that better quality of data combined with better training recipes, smaller LMMs can consistently achieve on-par performances compared to bigger LMMs. Under our framework, we train a family of small-scale LMMs. Our best model, TinyLLaVA-3.1B, achieves better overall performance against existing 7B models such as LLaVA-1.5 and Qwen-VL. We hope our findings can serve as baselines for future research in terms of data scaling, training setups and model selections. Our model weights and codes will be made public.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:26:14 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14289</guid>
+            <link>https://arxiv.org/abs/2402.14289</link>
+            
+            
+            
+            <author><![CDATA[Baichuan Zhou, Ying Hu, Xi Weng, Junlong Jia, Jie Luo, Xien Liu, Ji Wu, Lei Huang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming]]></title>
+            <description><![CDATA[The integration of Large Language Models (LLMs) into Development Environments (IDEs) has become a focal point in modern software development. LLMs such as OpenAI GPT-3.5/4 and Code Llama offer the potential to significantly augment developer productivity by serving as intelligent, chat-driven programming assistants. However, utilizing LLMs out of the box is unlikely to be optimal for any given scenario. Rather, each system requires the LLM to be honed to its set of heuristics to ensure the best performance. In this paper, we introduce the Copilot evaluation harness: a set of data and tools for evaluating LLM-guided IDE interactions, covering various programming scenarios and languages. We propose our metrics as a more robust and information-dense evaluation than previous state of the art evaluation systems. We design and compute both static and execution based success metrics for scenarios encompassing a wide range of developer tasks, including code generation from natural language (generate), documentation generation from code (doc), test case generation (test), bug-fixing (fix), and workspace understanding and query resolution (workspace). These success metrics are designed to evaluate the performance of LLMs within a given IDE and its respective parameter space. Our learnings from evaluating three common LLMs using these metrics can inform the development and validation of future scenarios in LLM guided IDEs.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:23:55 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14261</guid>
+            <link>https://arxiv.org/abs/2402.14261</link>
+            
+            
+            
+            <author><![CDATA[Anisha Agarwal, Aaron Chan, Shubham Chandel, Jinu Jang, Shaun Miller, Roshanak Zilouchian Moghaddam, Yevhen Mohylevskyy, Neel Sundaresan, Michele Tufano]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[AgentScope: A Flexible yet Robust Multi-Agent Platform]]></title>
+            <description><![CDATA[With the rapid advancement of Large Language Models (LLMs), significant progress has been made in multi-agent applications. However, the complexities in coordinating agents' cooperation and LLMs' erratic performance pose notable challenges in developing robust and efficient multi-agent applications. To tackle these challenges, we propose AgentScope, a developer-centric multi-agent platform with message exchange as its core communication mechanism. Together with abundant syntactic tools, built-in resources, and user-friendly interactions, our communication mechanism significantly reduces the barriers to both development and understanding. Towards robust and flexible multi-agent application, AgentScope provides both built-in and customizable fault tolerance mechanisms while it is also armed with system-level supports for multi-modal data generation, storage and transmission. Additionally, we design an actor-based distribution framework, enabling easy conversion between local and distributed deployments and automatic parallel optimization without extra effort. With these features, AgentScope empowers developers to build applications that fully realize the potential of intelligent agents. We have released AgentScope at https://github.com/modelscope/agentscope, and hope AgentScope invites wider participation and innovation in this fast-moving field.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:20:07 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14034</guid>
+            <link>https://arxiv.org/abs/2402.14034</link>
+            
+            
+            
+            <author><![CDATA[Dawei Gao, Zitao Li, Weirui Kuang, Xuchen Pan, Daoyuan Chen, Zhijian Ma, Bingchen Qian, Liuyi Yao, Lin Zhu, Chen Cheng, Hongzhu Shi, Yaliang Li, Bolin Ding, Jingren Zhou]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement]]></title>
+            <description><![CDATA[The introduction of large language models has significantly advanced code generation. However, open-source models often lack the execution capabilities and iterative refinement of advanced systems like the GPT-4 Code Interpreter. To address this, we introduce OpenCodeInterpreter, a family of open-source code systems designed for generating, executing, and iteratively refining code. Supported by Code-Feedback, a dataset featuring 68K multi-turn interactions, OpenCodeInterpreter integrates execution and human feedback for dynamic code refinement. Our comprehensive evaluation of OpenCodeInterpreter across key benchmarks such as HumanEval, MBPP, and their enhanced versions from EvalPlus reveals its exceptional performance. Notably, OpenCodeInterpreter-33B achieves an accuracy of 83.2 (76.4) on the average (and plus versions) of HumanEval and MBPP, closely rivaling GPT-4's 84.2 (76.2) and further elevates to 91.6 (84.6) with synthesized human feedback from GPT-4. OpenCodeInterpreter brings the gap between open-source code generation models and proprietary systems like GPT-4 Code Interpreter.]]></description>
+            <pubDate>Fri, 23 Feb 2024 03:03:58 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14658</guid>
+            <link>https://arxiv.org/abs/2402.14658</link>
+            
+            
+            
+            <author><![CDATA[Tianyu Zheng, Ge Zhang, Tianhao Shen, Xueling Liu, Bill Yuchen Lin, Jie Fu, Wenhu Chen, Xiang Yue]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[MVD$^2$: Efficient Multiview 3D Reconstruction for Multiview Diffusion]]></title>
+            <description><![CDATA[As a promising 3D generation technique, multiview diffusion (MVD) has received a lot of attention due to its advantages in terms of generalizability, quality, and efficiency. By finetuning pretrained large image diffusion models with 3D data, the MVD methods first generate multiple views of a 3D object based on an image or text prompt and then reconstruct 3D shapes with multiview 3D reconstruction. However, the sparse views and inconsistent details in the generated images make 3D reconstruction challenging. We present MVD^2, an efficient 3D reconstruction method for multiview diffusion (MVD) images. MVD^2 aggregates image features into a 3D feature volume by projection and convolution and then decodes volumetric features into a 3D mesh. We train MVD^2 with 3D shape collections and MVD images prompted by rendered views of 3D shapes. To address the discrepancy between the generated multiview images and ground-truth views of the 3D shapes, we design a simple-yet-efficient view-dependent training scheme. MVD^2 improves the 3D generation quality of MVD and is fast and robust to various MVD methods. After training, it can efficiently decode 3D meshes from multiview images within one second. We train MVD^2 with Zero-123++ and ObjectVerse-LVIS 3D dataset and demonstrate its superior performance in generating 3D models from multiview images generated by different MVD methods, using both synthetic and real images as prompts.]]></description>
+            <pubDate>Fri, 23 Feb 2024 02:58:11 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14253</guid>
+            <link>https://arxiv.org/abs/2402.14253</link>
+            
+            
+            
+            <author><![CDATA[Xin-Yang Zheng, Hao Pan, Yu-Xiao Guo, Xin Tong, Yang Liu]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching]]></title>
+            <description><![CDATA[Sampling from diffusion probabilistic models (DPMs) is often expensive for high-quality image generation and typically requires many steps with a large model. In this paper, we introduce sampling Trajectory Stitching T-Stitch, a simple yet efficient technique to improve the sampling efficiency with little or no generation degradation. Instead of solely using a large DPM for the entire sampling trajectory, T-Stitch first leverages a smaller DPM in the initial steps as a cheap drop-in replacement of the larger DPM and switches to the larger DPM at a later stage. Our key insight is that different diffusion models learn similar encodings under the same training data distribution and smaller models are capable of generating good global structures in the early steps. Extensive experiments demonstrate that T-Stitch is training-free, generally applicable for different architectures, and complements most existing fast sampling techniques with flexible speed and quality trade-offs. On DiT-XL, for example, 40% of the early timesteps can be safely replaced with a 10x faster DiT-S without performance drop on class-conditional ImageNet generation. We further show that our method can also be used as a drop-in technique to not only accelerate the popular pretrained stable diffusion (SD) models but also improve the prompt alignment of stylized SD models from the public model zoo. Code is released at https://github.com/NVlabs/T-Stitch]]></description>
+            <pubDate>Fri, 23 Feb 2024 02:47:31 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14167</guid>
+            <link>https://arxiv.org/abs/2402.14167</link>
+            
+            
+            
+            <author><![CDATA[Zizheng Pan, Bohan Zhuang, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LexC-Gen: Generating Data for Extremely Low-Resource Languages with Large Language Models and Bilingual Lexicons]]></title>
+            <description><![CDATA[Data scarcity in low-resource languages can be addressed with word-to-word translations from labeled task data in high-resource languages using bilingual lexicons. However, bilingual lexicons often have limited lexical overlap with task data, which results in poor translation coverage and lexicon utilization. We propose lexicon-conditioned data generation (LexC-Gen), a method that generates low-resource-language classification task data at scale. Specifically, LexC-Gen first uses high-resource-language words from bilingual lexicons to generate lexicon-compatible task data, and then it translates them into low-resource languages with bilingual lexicons via word translation. Across 17 extremely low-resource languages, LexC-Gen generated data is competitive with expert-translated gold data, and yields on average 5.6 and 8.9 points improvement over existing lexicon-based word translation methods on sentiment analysis and topic classification tasks respectively. We show that conditioning on bilingual lexicons is the key component of LexC-Gen. LexC-Gen is also practical -- it only needs a single GPU to generate data at scale. It works well with open-access LLMs, and its cost is one-fifth of the cost of GPT4-based multilingual data generation.]]></description>
+            <pubDate>Fri, 23 Feb 2024 02:42:58 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14086</guid>
+            <link>https://arxiv.org/abs/2402.14086</link>
+            
+            
+            
+            <author><![CDATA[Zheng-Xin Yong, Cristina Menghini, Stephen H. Bach]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis]]></title>
+            <description><![CDATA[Contemporary models for generating images show remarkable quality and versatility. Swayed by these advantages, the research community repurposes them to generate videos. Since video content is highly redundant, we argue that naively bringing advances of image models to the video generation domain reduces motion fidelity, visual quality and impairs scalability. In this work, we build Snap Video, a video-first model that systematically addresses these challenges. To do that, we first extend the EDM framework to take into account spatially and temporally redundant pixels and naturally support video generation. Second, we show that a U-Net - a workhorse behind image generation - scales poorly when generating videos, requiring significant computational overhead. Hence, we propose a new transformer-based architecture that trains 3.31 times faster than U-Nets (and is ~4.5 faster at inference). This allows us to efficiently train a text-to-video model with billions of parameters for the first time, reach state-of-the-art results on a number of benchmarks, and generate videos with substantially higher quality, temporal consistency, and motion complexity. The user studies showed that our model was favored by a large margin over the most recent methods. See our website at https://snap-research.github.io/snapvideo/.]]></description>
+            <pubDate>Fri, 23 Feb 2024 02:29:44 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2402.14797</guid>
+            <link>https://arxiv.org/abs/2402.14797</link>
+            
+            
+            
+            <author><![CDATA[Willi Menapace, Aliaksandr Siarohin, Ivan Skorokhodov, Ekaterina Deyneka, Tsai-Shien Chen, Anil Kag, Yuwei Fang, Aleksei Stoliar, Elisa Ricci, Jian Ren, Sergey Tulyakov]]></author>
             
                 
             
