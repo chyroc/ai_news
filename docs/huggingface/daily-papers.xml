@@ -15,8 +15,40 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 20 Mar 2024 05:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 07:56:10 GMT</lastBuildDate>
         <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation]]></title>
+            <description><![CDATA[Texturing 3D humans with semantic UV maps remains a challenge due to the difficulty of acquiring reasonably unfolded UV. Despite recent text-to-3D advancements in supervising multi-view renderings using large text-to-image (T2I) models, issues persist with generation speed, text consistency, and texture quality, resulting in data scarcity among existing datasets. We present TexDreamer, the first zero-shot multimodal high-fidelity 3D human texture generation model. Utilizing an efficient texture adaptation finetuning strategy, we adapt large T2I model to a semantic UV structure while preserving its original generalization capability. Leveraging a novel feature translator module, the trained model is capable of generating high-fidelity 3D human textures from either text or image within seconds. Furthermore, we introduce ArTicuLated humAn textureS (ATLAS), the largest high-resolution (1024 X 1024) 3D human texture dataset which contains 50k high-fidelity textures with text descriptions.]]></description>
+            <pubDate>Wed, 20 Mar 2024 04:43:26 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2403.12906</guid>
+            <link>https://arxiv.org/abs/2403.12906</link>
+            
+            
+            
+            <author><![CDATA[Yufei Liu, Junwei Zhu, Junshu Tang, Shijie Zhang, Jiangning Zhang, Weijian Cao, Chengjie Wang, Yunsheng Wu, Dongjin Huang]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation]]></title>
+            <description><![CDATA[The remarkable efficacy of text-to-image diffusion models has motivated extensive exploration of their potential application in video domains. Zero-shot methods seek to extend image diffusion models to videos without necessitating model training. Recent methods mainly focus on incorporating inter-frame correspondence into attention mechanisms. However, the soft constraint imposed on determining where to attend to valid features can sometimes be insufficient, resulting in temporal inconsistency. In this paper, we introduce FRESCO, intra-frame correspondence alongside inter-frame correspondence to establish a more robust spatial-temporal constraint. This enhancement ensures a more consistent transformation of semantically similar content across frames. Beyond mere attention guidance, our approach involves an explicit update of features to achieve high spatial-temporal consistency with the input video, significantly improving the visual coherence of the resulting translated videos. Extensive experiments demonstrate the effectiveness of our proposed framework in producing high-quality, coherent videos, marking a notable improvement over existing zero-shot methods.]]></description>
+            <pubDate>Wed, 20 Mar 2024 04:35:40 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2403.12962</guid>
+            <link>https://arxiv.org/abs/2403.12962</link>
+            
+            
+            
+            <author><![CDATA[Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation]]></title>
