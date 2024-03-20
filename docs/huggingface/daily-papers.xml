@@ -15,35 +15,19 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 20 Mar 2024 00:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 02:55:19 GMT</lastBuildDate>
         <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[PERL: Parameter Efficient Reinforcement Learning from Human Feedback]]></title>
-            <description><![CDATA[Reinforcement Learning from Human Feedback (RLHF) has proven to be a strong method to align Pretrained Large Language Models (LLMs) with human preferences. But training models with RLHF is computationally expensive, and an overall complex process. In this work, we study RLHF where the underlying models are trained using the parameter efficient method of Low-Rank Adaptation (LoRA) introduced by Hu et al. [2021]. We investigate the setup of "Parameter Efficient Reinforcement Learning" (PERL), in which we perform reward model training and reinforcement learning using LoRA. We compare PERL to conventional fine-tuning (full-tuning) across various configurations for 7 benchmarks, including 2 novel datasets, of reward modeling and reinforcement learning. We find that PERL performs on par with the conventional RLHF setting, while training faster, and with less memory. This enables the high performance of RLHF, while reducing the computational burden that limits its adoption as an alignment technique for Large Language Models. We also release 2 novel thumbs up/down preference datasets: "Taskmaster Coffee", and "Taskmaster Ticketing" to promote research around RLHF.]]></description>
-            <pubDate>Tue, 19 Mar 2024 05:05:26 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.10704</guid>
-            <link>https://arxiv.org/abs/2403.10704</link>
+            <title><![CDATA[ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance]]></title>
+            <description><![CDATA[Generating high-quality 3D assets from a given image is highly desirable in various applications such as AR/VR. Recent advances in single-image 3D generation explore feed-forward models that learn to infer the 3D model of an object without optimization. Though promising results have been achieved in single object generation, these methods often struggle to model complex 3D assets that inherently contain multiple objects. In this work, we present ComboVerse, a 3D generation framework that produces high-quality 3D assets with complex compositions by learning to combine multiple models. 1) We first perform an in-depth analysis of this ``multi-object gap'' from both model and data perspectives. 2) Next, with reconstructed 3D models of different objects, we seek to adjust their sizes, rotation angles, and locations to create a 3D asset that matches the given image. 3) To automate this process, we apply spatially-aware score distillation sampling (SSDS) from pretrained diffusion models to guide the positioning of objects. Our proposed framework emphasizes spatial alignment of objects, compared with standard score distillation sampling, and thus achieves more accurate results. Extensive experiments validate ComboVerse achieves clear improvements over existing methods in generating compositional 3D assets.]]></description>
+            <pubDate>Wed, 20 Mar 2024 02:09:57 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2403.12409</guid>
+            <link>https://arxiv.org/abs/2403.12409</link>
             
             
             
-            <author><![CDATA[Hakim Sidahmed, Samrat Phatale, Alex Hutcheson, Zhuonan Lin, Zhang Chen, Zac Yu, Jarvis Jin, Roman Komarytsia, Christiane Ahlheim, Yonghao Zhu, Simral Chaudhary, Bowen Li, Saravanan Ganesh, Bill Byrne, Jessica Hoffmann, Hassan Mansoor, Wei Li, Abhinav Rastogi, Lucas Dixon]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[DiPaCo: Distributed Path Composition]]></title>
-            <description><![CDATA[Progress in machine learning (ML) has been fueled by scaling neural network models. This scaling has been enabled by ever more heroic feats of engineering, necessary for accommodating ML approaches that require high bandwidth communication between devices working in parallel. In this work, we propose a co-designed modular architecture and training approach for ML models, dubbed DIstributed PAth COmposition (DiPaCo). During training, DiPaCo distributes computation by paths through a set of shared modules. Together with a Local-SGD inspired optimization (DiLoCo) that keeps modules in sync with drastically reduced communication, Our approach facilitates training across poorly connected and heterogeneous workers, with a design that ensures robustness to worker failures and preemptions. At inference time, only a single path needs to be executed for each input, without the need for any model compression. We consider this approach as a first prototype towards a new paradigm of large-scale learning, one that is less synchronous and more modular. Our experiments on the widely used C4 benchmark show that, for the same amount of training steps but less wall-clock time, DiPaCo exceeds the performance of a 1 billion-parameter dense transformer language model by choosing one of 256 possible paths, each with a size of 150 million parameters.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:57:02 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.10616</guid>
-            <link>https://arxiv.org/abs/2403.10616</link>
-            
-            
-            
-            <author><![CDATA[Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Adhiguna Kuncoro, Yani Donchev, Rachita Chhaparia, Ionel Gog, Marc&#39;Aurelio Ranzato, Jiajun Shen, Arthur Szlam]]></author>
+            <author><![CDATA[Yongwei Chen, Tengfei Wang, Tong Wu, Xingang Pan, Kui Jia, Ziwei Liu]]></author>
             
                 
             
@@ -51,31 +35,15 @@
         </item>
         
         <item>
-            <title><![CDATA[VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models]]></title>
-            <description><![CDATA[This paper presents a novel paradigm for building scalable 3D generative models utilizing pre-trained video diffusion models. The primary obstacle in developing foundation 3D generative models is the limited availability of 3D data. Unlike images, texts, or videos, 3D data are not readily accessible and are difficult to acquire. This results in a significant disparity in scale compared to the vast quantities of other types of data. To address this issue, we propose using a video diffusion model, trained with extensive volumes of text, images, and videos, as a knowledge source for 3D data. By unlocking its multi-view generative capabilities through fine-tuning, we generate a large-scale synthetic multi-view dataset to train a feed-forward 3D generative model. The proposed model, VFusion3D, trained on nearly 3M synthetic multi-view data, can generate a 3D asset from a single image in seconds and achieves superior performance when compared to current SOTA feed-forward 3D generative models, with users preferring our results over 70% of the time.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:51:53 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.12034</guid>
-            <link>https://arxiv.org/abs/2403.12034</link>
+            <title><![CDATA[FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis]]></title>
+            <description><![CDATA[In this study, we delve into the generation of high-resolution images from pre-trained diffusion models, addressing persistent challenges, such as repetitive patterns and structural distortions, that emerge when models are applied beyond their trained resolutions. To address this issue, we introduce an innovative, training-free approach FouriScale from the perspective of frequency domain analysis. We replace the original convolutional layers in pre-trained diffusion models by incorporating a dilation technique along with a low-pass operation, intending to achieve structural consistency and scale consistency across resolutions, respectively. Further enhanced by a padding-then-crop strategy, our method can flexibly handle text-to-image generation of various aspect ratios. By using the FouriScale as guidance, our method successfully balances the structural integrity and fidelity of generated images, achieving an astonishing capacity of arbitrary-size, high-resolution, and high-quality generation. With its simplicity and compatibility, our method can provide valuable insights for future explorations into the synthesis of ultra-high-resolution images. The code will be released at https://github.com/LeonHLJ/FouriScale.]]></description>
+            <pubDate>Wed, 20 Mar 2024 02:04:23 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2403.12963</guid>
+            <link>https://arxiv.org/abs/2403.12963</link>
             
             
             
-            <author><![CDATA[Junlin Han, Filippos Kokkinos, Philip Torr]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Larimar: Large Language Models with Episodic Memory Control]]></title>
-            <description><![CDATA[Efficient and accurate updating of knowledge stored in Large Language Models (LLMs) is one of the most pressing research challenges today. This paper presents Larimar - a novel, brain-inspired architecture for enhancing LLMs with a distributed episodic memory. Larimar's memory allows for dynamic, one-shot updates of knowledge without the need for computationally expensive re-training or fine-tuning. Experimental results on multiple fact editing benchmarks demonstrate that Larimar attains accuracy comparable to most competitive baselines, even in the challenging sequential editing setup, but also excels in speed - yielding speed-ups of 4-10x depending on the base LLM - as well as flexibility due to the proposed architecture being simple, LLM-agnostic, and hence general. We further provide mechanisms for selective fact forgetting and input context length generalization with Larimar and show their effectiveness.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:49:16 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.11901</guid>
-            <link>https://arxiv.org/abs/2403.11901</link>
-            
-            
-            
-            <author><![CDATA[Payel Das, Subhajit Chaudhury, Elliot Nelson, Igor Melnyk, Sarath Swaminathan, Sihui Dai, Aurélie Lozano, Georgios Kollias, Vijil Chenthamarakshan, Jiří, Navrátil, Soham Dan, Pin-Yu Chen]]></author>
+            <author><![CDATA[Linjiang Huang, Rongyao Fang, Aiping Zhang, Guanglu Song, Si Liu, Yu Liu, Hongsheng Li]]></author>
             
                 
             
@@ -83,143 +51,15 @@
         </item>
         
         <item>
-            <title><![CDATA[LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images]]></title>
-            <description><![CDATA[Visual encoding constitutes the basis of large multimodal models (LMMs) in understanding the visual world. Conventional LMMs process images in fixed sizes and limited resolutions, while recent explorations in this direction are limited in adaptivity, efficiency, and even correctness. In this work, we first take GPT-4V and LLaVA-1.5 as representative examples and expose systematic flaws rooted in their visual encoding strategy. To address the challenges, we present LLaVA-UHD, a large multimodal model that can efficiently perceive images in any aspect ratio and high resolution. LLaVA-UHD includes three key components: (1) An image modularization strategy that divides native-resolution images into smaller variable-sized slices for efficient and extensible encoding, (2) a compression module that further condenses image tokens from visual encoders, and (3) a spatial schema to organize slice tokens for LLMs. Comprehensive experiments show that LLaVA-UHD outperforms established LMMs trained with 2-3 orders of magnitude more data on 9 benchmarks. Notably, our model built on LLaVA-1.5 336x336 supports 6 times larger (i.e., 672x1088) resolution images using only 94% inference computation, and achieves 6.4 accuracy improvement on TextVQA. Moreover, the model can be efficiently trained in academic settings, within 23 hours on 8 A100 GPUs (vs. 26 hours of LLaVA-1.5). We make the data and code publicly available at https://github.com/thunlp/LLaVA-UHD.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:46:49 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.11703</guid>
-            <link>https://arxiv.org/abs/2403.11703</link>
+            <title><![CDATA[AnimateDiff-Lightning: Cross-Model Diffusion Distillation]]></title>
+            <description><![CDATA[We present AnimateDiff-Lightning for lightning-fast video generation. Our model uses progressive adversarial diffusion distillation to achieve new state-of-the-art in few-step video generation. We discuss our modifications to adapt it for the video modality. Furthermore, we propose to simultaneously distill the probability flow of multiple base diffusion models, resulting in a single distilled motion module with broader style compatibility. We are pleased to release our distilled AnimateDiff-Lightning model for the community's use.]]></description>
+            <pubDate>Wed, 20 Mar 2024 01:52:01 GMT</pubDate>
+            <guid isPermaLink="false">https://arxiv.org/abs/2403.12706</guid>
+            <link>https://arxiv.org/abs/2403.12706</link>
             
             
             
-            <author><![CDATA[Ruyi Xu, Yuan Yao, Zonghao Guo, Junbo Cui, Zanlin Ni, Chunjiang Ge, Tat-Seng Chua, Zhiyuan Liu, Maosong Sun, Gao Huang]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data]]></title>
-            <description><![CDATA[Reconstructions of visual perception from brain activity have improved tremendously, but the practical utility of such methods has been limited. This is because such models are trained independently per subject where each subject requires dozens of hours of expensive fMRI training data to attain high-quality results. The present work showcases high-quality reconstructions using only 1 hour of fMRI training data. We pretrain our model across 7 subjects and then fine-tune on minimal data from a new subject. Our novel functional alignment procedure linearly maps all brain data to a shared-subject latent space, followed by a shared non-linear mapping to CLIP image space. We then map from CLIP space to pixel space by fine-tuning Stable Diffusion XL to accept CLIP latents as inputs instead of text. This approach improves out-of-subject generalization with limited training data and also attains state-of-the-art image retrieval and reconstruction metrics compared to single-subject approaches. MindEye2 demonstrates how accurate reconstructions of perception are possible from a single visit to the MRI facility. All code is available on GitHub.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:28:15 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.11207</guid>
-            <link>https://arxiv.org/abs/2403.11207</link>
-            
-            
-            
-            <author><![CDATA[Paul S. Scotti, Mihir Tripathy, Cesar Kadir Torrico Villanueva, Reese Kneeland, Tong Chen, Ashutosh Narang, Charan Santhirasegaran, Jonathan Xu, Thomas Naselaris, Kenneth A. Norman, Tanishq Mathew Abraham]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding]]></title>
-            <description><![CDATA[We explore how reconciling several foundation models (large language models and vision-language models) with a novel unified memory mechanism could tackle the challenging video understanding problem, especially capturing the long-term temporal relations in lengthy videos. In particular, the proposed multimodal agent VideoAgent: 1) constructs a structured memory to store both the generic temporal event descriptions and object-centric tracking states of the video; 2) given an input task query, it employs tools including video segment localization and object memory querying along with other visual foundation models to interactively solve the task, utilizing the zero-shot tool-use ability of LLMs. VideoAgent demonstrates impressive performances on several long-horizon video understanding benchmarks, an average increase of 6.6% on NExT-QA and 26.0% on EgoSchema over baselines, closing the gap between open-sourced models and private counterparts including Gemini 1.5 Pro.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:23:39 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.11481</guid>
-            <link>https://arxiv.org/abs/2403.11481</link>
-            
-            
-            
-            <author><![CDATA[Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Generic 3D Diffusion Adapter Using Controlled Multi-View Editing]]></title>
-            <description><![CDATA[Open-domain 3D object synthesis has been lagging behind image synthesis due to limited data and higher computational complexity. To bridge this gap, recent works have investigated multi-view diffusion but often fall short in either 3D consistency, visual quality, or efficiency. This paper proposes MVEdit, which functions as a 3D counterpart of SDEdit, employing ancestral sampling to jointly denoise multi-view images and output high-quality textured meshes. Built on off-the-shelf 2D diffusion models, MVEdit achieves 3D consistency through a training-free 3D Adapter, which lifts the 2D views of the last timestep into a coherent 3D representation, then conditions the 2D views of the next timestep using rendered views, without uncompromising visual quality. With an inference time of only 2-5 minutes, this framework achieves better trade-off between quality and speed than score distillation. MVEdit is highly versatile and extendable, with a wide range of applications including text/image-to-3D generation, 3D-to-3D editing, and high-quality texture synthesis. In particular, evaluations demonstrate state-of-the-art performance in both image-to-3D and text-guided texture generation tasks. Additionally, we introduce a method for fine-tuning 2D latent diffusion models on small 3D datasets with limited resources, enabling fast low-resolution text-to-3D initialization.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:06:14 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.12032</guid>
-            <link>https://arxiv.org/abs/2403.12032</link>
-            
-            
-            
-            <author><![CDATA[Hansheng Chen, Ruoxi Shi, Yulin Liu, Bokui Shen, Jiayuan Gu, Gordon Wetzstein, Hao Su, Leonidas Guibas]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation]]></title>
-            <description><![CDATA[The field of neural rendering has witnessed significant progress with advancements in generative models and differentiable rendering techniques. Though 2D diffusion has achieved success, a unified 3D diffusion pipeline remains unsettled. This paper introduces a novel framework called LN3Diff to address this gap and enable fast, high-quality, and generic conditional 3D generation. Our approach harnesses a 3D-aware architecture and variational autoencoder (VAE) to encode the input image into a structured, compact, and 3D latent space. The latent is decoded by a transformer-based decoder into a high-capacity 3D neural field. Through training a diffusion model on this 3D-aware latent space, our method achieves state-of-the-art performance on ShapeNet for 3D generation and demonstrates superior performance in monocular 3D reconstruction and conditional 3D generation across various datasets. Moreover, it surpasses existing 3D diffusion methods in terms of inference speed, requiring no per-instance optimization. Our proposed LN3Diff presents a significant advancement in 3D generative modeling and holds promise for various applications in 3D vision and graphics tasks.]]></description>
-            <pubDate>Tue, 19 Mar 2024 04:00:37 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.12019</guid>
-            <link>https://arxiv.org/abs/2403.12019</link>
-            
-            
-            
-            <author><![CDATA[Yushi Lan, Fangzhou Hong, Shuai Yang, Shangchen Zhou, Xuyi Meng, Bo Dai, Xingang Pan, Chen Change Loy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion]]></title>
-            <description><![CDATA[We present Stable Video 3D (SV3D) -- a latent video diffusion model for high-resolution, image-to-multi-view generation of orbital videos around a 3D object. Recent work on 3D generation propose techniques to adapt 2D generative models for novel view synthesis (NVS) and 3D optimization. However, these methods have several disadvantages due to either limited views or inconsistent NVS, thereby affecting the performance of 3D object generation. In this work, we propose SV3D that adapts image-to-video diffusion model for novel multi-view synthesis and 3D generation, thereby leveraging the generalization and multi-view consistency of the video models, while further adding explicit camera control for NVS. We also propose improved 3D optimization techniques to use SV3D and its NVS outputs for image-to-3D generation. Extensive experimental results on multiple datasets with 2D and 3D metrics as well as user study demonstrate SV3D's state-of-the-art performance on NVS as well as 3D reconstruction compared to prior works.]]></description>
-            <pubDate>Tue, 19 Mar 2024 03:46:47 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.12008</guid>
-            <link>https://arxiv.org/abs/2403.12008</link>
-            
-            
-            
-            <author><![CDATA[Vikram Voleti, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitry Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm]]></title>
-            <description><![CDATA[Drawing on recent advancements in diffusion models for text-to-image generation, identity-preserved personalization has made significant progress in accurately capturing specific identities with just a single reference image. However, existing methods primarily integrate reference images within the text embedding space, leading to a complex entanglement of image and text information, which poses challenges for preserving both identity fidelity and semantic consistency. To tackle this challenge, we propose Infinite-ID, an ID-semantics decoupling paradigm for identity-preserved personalization. Specifically, we introduce identity-enhanced training, incorporating an additional image cross-attention module to capture sufficient ID information while deactivating the original text cross-attention module of the diffusion model. This ensures that the image stream faithfully represents the identity provided by the reference image while mitigating interference from textual input. Additionally, we introduce a feature interaction mechanism that combines a mixed attention module with an AdaIN-mean operation to seamlessly merge the two streams. This mechanism not only enhances the fidelity of identity and semantic consistency but also enables convenient control over the styles of the generated images. Extensive experimental results on both raw photo generation and style image generation demonstrate the superior performance of our proposed method.]]></description>
-            <pubDate>Tue, 19 Mar 2024 03:35:04 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.11781</guid>
-            <link>https://arxiv.org/abs/2403.11781</link>
-            
-            
-            
-            <author><![CDATA[Yi Wu, Ziqiang Li, Heliang Zheng, Chaoyue Wang, Bin Li]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LightIt: Illumination Modeling and Control for Diffusion Models]]></title>
-            <description><![CDATA[We introduce LightIt, a method for explicit illumination control for image generation. Recent generative methods lack lighting control, which is crucial to numerous artistic aspects of image generation such as setting the overall mood or cinematic appearance. To overcome these limitations, we propose to condition the generation on shading and normal maps. We model the lighting with single bounce shading, which includes cast shadows. We first train a shading estimation module to generate a dataset of real-world images and shading pairs. Then, we train a control network using the estimated shading and normals as input. Our method demonstrates high-quality image generation and lighting control in numerous scenes. Additionally, we use our generated dataset to train an identity-preserving relighting model, conditioned on an image and a target shading. Our method is the first that enables the generation of images with controllable, consistent lighting and performs on par with specialized relighting state-of-the-art methods.]]></description>
-            <pubDate>Tue, 19 Mar 2024 03:21:57 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.10615</guid>
-            <link>https://arxiv.org/abs/2403.10615</link>
-            
-            
-            
-            <author><![CDATA[Peter Kocsis, Julien Philip, Kalyan Sunkavalli, Matthias Nießner, Yannick Hold-Geoffroy]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation]]></title>
-            <description><![CDATA[Diffusion models are the main driver of progress in image and video synthesis, but suffer from slow inference speed. Distillation methods, like the recently introduced adversarial diffusion distillation (ADD) aim to shift the model from many-shot to single-step inference, albeit at the cost of expensive and difficult optimization due to its reliance on a fixed pretrained DINOv2 discriminator. We introduce Latent Adversarial Diffusion Distillation (LADD), a novel distillation approach overcoming the limitations of ADD. In contrast to pixel-based ADD, LADD utilizes generative features from pretrained latent diffusion models. This approach simplifies training and enhances performance, enabling high-resolution multi-aspect ratio image synthesis. We apply LADD to Stable Diffusion 3 (8B) to obtain SD3-Turbo, a fast model that matches the performance of state-of-the-art text-to-image generators using only four unguided sampling steps. Moreover, we systematically investigate its scaling behavior and demonstrate LADD's effectiveness in various applications such as image editing and inpainting.]]></description>
-            <pubDate>Tue, 19 Mar 2024 03:16:09 GMT</pubDate>
-            <guid isPermaLink="false">https://arxiv.org/abs/2403.12015</guid>
-            <link>https://arxiv.org/abs/2403.12015</link>
-            
-            
-            
-            <author><![CDATA[Axel Sauer, Frederic Boesel, Tim Dockhorn, Andreas Blattmann, Patrick Esser, Robin Rombach]]></author>
+            <author><![CDATA[Shanchuan Lin, Xiao Yang]]></author>
             
                 
             
